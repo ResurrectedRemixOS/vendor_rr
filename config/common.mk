@@ -87,6 +87,11 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SYSTEM_EXT_PROPERTIES += \
     persist.device_config.runtime_native.usap_pool_enabled=true
 
+# Blur
+ifneq ($(TARGET_SUPPORTS_BLUR),false)
+PRODUCT_PRODUCT_PROPERTIES += ro.surface_flinger.supports_background_blur=1
+endif
+
 # Enable SIP+VoIP on all targets
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.software.sip.voip.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/android.software.sip.voip.xml
