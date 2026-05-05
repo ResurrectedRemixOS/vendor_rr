@@ -291,9 +291,10 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.rr.duck_rkp=true
 endif
 
-# SystemUI, and Settings with Remixer inside it
+# SystemUI, Game Space, and Settings with Remixer inside it
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     CarSystemUI \
+    GameSpace \
     Settings \
     SystemUI
 
