@@ -31,15 +31,20 @@ endif
 
 LINEAGE_VERSION_SUFFIX := $(LINEAGE_BUILD_DATE)-$(LINEAGE_BUILDTYPE)$(LINEAGE_EXTRAVERSION)-$(LINEAGE_BUILD)
 
-# Internal version
+# Platform version. Lineage's build still keys off 24.0.
 LINEAGE_VERSION := $(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR)-$(LINEAGE_VERSION_SUFFIX)
 
-# Display version
-LINEAGE_DISPLAY_VERSION := $(PRODUCT_VERSION_MAJOR)-$(LINEAGE_VERSION_SUFFIX)
+# User-facing Resurrection Remix version. 8.x was Android 10; 9.0 is this tree.
+# About phone reads ro.lineage.version, so that property carries this string.
+RR_VERSION := 9.0
+RR_DISPLAY_VERSION := ResurrectionRemix-$(RR_VERSION)-$(LINEAGE_VERSION_SUFFIX)
+LINEAGE_DISPLAY_VERSION := $(RR_DISPLAY_VERSION)
 
-# LineageOS version properties
 PRODUCT_PRODUCT_PROPERTIES += \
-    ro.lineage.version=$(LINEAGE_VERSION) \
-    ro.lineage.display.version=$(LINEAGE_DISPLAY_VERSION) \
+    ro.lineage.version=$(RR_DISPLAY_VERSION) \
+    ro.lineage.display.version=$(RR_DISPLAY_VERSION) \
     ro.lineage.build.version=$(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR) \
-    ro.lineage.releasetype=$(LINEAGE_BUILDTYPE)
+    ro.lineage.releasetype=$(LINEAGE_BUILDTYPE) \
+    ro.rr.version=$(RR_VERSION) \
+    ro.rr.display.version=$(RR_DISPLAY_VERSION) \
+    ro.rr.device=$(LINEAGE_BUILD)

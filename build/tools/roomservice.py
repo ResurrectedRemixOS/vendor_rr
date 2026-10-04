@@ -43,7 +43,19 @@ try:
 except IndexError:
     device = product
 
+def existing_device_tree(devicename):
+    """A device tree already copied into this ROM. Do not repo-sync over it."""
+    for path in sorted(glob.glob(f'device/*/{devicename}')):
+        if os.path.isfile(os.path.join(path, 'AndroidProducts.mk')):
+            return path
+    return None
+
+
 if not depsonly:
+    local_tree = existing_device_tree(device)
+    if local_tree:
+        print(f'{local_tree} is already in this tree. Not syncing.')
+        sys.exit(0)
     print(
         f'Device {device} not found. Attempting to retrieve device repository from LineageOS Github (http://github.com/LineageOS).'
     )
@@ -358,6 +370,10 @@ def get_default_or_fallback_revision(repo_name):
 
 
 if depsonly:
+    local_tree = existing_device_tree(device)
+    if local_tree:
+        print(f'{local_tree} is already in this tree. Not syncing.')
+        sys.exit(0)
     repo_path = get_from_manifest(device)
     if repo_path:
         fetch_dependencies(repo_path)

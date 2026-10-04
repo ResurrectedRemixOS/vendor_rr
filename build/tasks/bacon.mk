@@ -16,7 +16,12 @@
 # -----------------------------------------------------------------
 # Lineage OTA update package
 
+# Resurrection Remix zip. Falls back to the Lineage name if version.mk did not run.
+ifeq ($(RR_DISPLAY_VERSION),)
 LINEAGE_TARGET_PACKAGE := $(PRODUCT_OUT)/lineage-$(LINEAGE_VERSION).zip
+else
+LINEAGE_TARGET_PACKAGE := $(PRODUCT_OUT)/$(RR_DISPLAY_VERSION).zip
+endif
 
 SHA256 := prebuilts/build-tools/path/$(HOST_PREBUILT_TAG)/sha256sum
 

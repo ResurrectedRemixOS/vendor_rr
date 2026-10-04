@@ -1,4 +1,4 @@
-CLANG_VERSION=$(${ANDROID_BUILD_TOP}/vendor/lineage/tools/get_clang_version.py)
+CLANG_VERSION=$(${ANDROID_BUILD_TOP}/vendor/rr/tools/get_clang_version.py)
 export LLVM_AOSP_PREBUILTS_VERSION="${CLANG_VERSION}"
 
 RUST_VERSION=$(grep 'RustDefaultVersion =' ${ANDROID_BUILD_TOP}/build/soong/rust/config/global.go | awk '{print $3}' | awk -F '"' '{print $2}')
@@ -12,8 +12,8 @@ function check_product()
         echo "Couldn't locate the top of the tree. Try setting TOP." >&2
         return
     fi
-    if (echo -n $1 | grep -q -e "^lineage_") ; then
-        LINEAGE_BUILD=$(echo -n $1 | sed -e 's/^lineage_//g')
+    if (echo -n $1 | grep -q -e "^lineage_" -e "^rr_") ; then
+        LINEAGE_BUILD=$(echo -n $1 | sed -e 's/^lineage_//g' -e 's/^rr_//g')
     else
         LINEAGE_BUILD=
     fi
@@ -44,7 +44,7 @@ function breakfast()
 {
     target=$1
     local variant=$2
-    source ${ANDROID_BUILD_TOP}/vendor/lineage/vars/aosp_target_release
+    source ${ANDROID_BUILD_TOP}/vendor/rr/vars/aosp_target_release
 
     if [ $# -eq 0 ]; then
         # No arguments, so let's have the full menu
@@ -70,8 +70,11 @@ alias bib=breakfast
 function eat()
 {
     if [ "$OUT" ] ; then
-        ZIPPATH=`ls -tr "$OUT"/lineage-*.zip | tail -1`
-        if [ ! -f $ZIPPATH ] ; then
+        ZIPPATH=`ls -tr "$OUT"/ResurrectionRemix-*.zip 2>/dev/null | tail -1`
+        if [ ! -f "$ZIPPATH" ] ; then
+            ZIPPATH=`ls -tr "$OUT"/lineage-*.zip 2>/dev/null | tail -1`
+        fi
+        if [ ! -f "$ZIPPATH" ] ; then
             echo "Nothing to eat"
             return 1
         fi
