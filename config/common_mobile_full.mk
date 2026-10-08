@@ -12,8 +12,9 @@ PRODUCT_PACKAGES += \
     Etar \
     Profiles \
     Recorder \
+    RRWallpapers \
     Seedvault \
-    Twelve
+    ViviMusic
 
 ifneq ($(PRODUCT_NO_CAMERA),true)
 PRODUCT_PACKAGES += \
