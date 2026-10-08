@@ -10,3 +10,9 @@ PRODUCT_PRODUCT_PROPERTIES += \
 $(call inherit-product, vendor/rr/config/telephony.mk)
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/rr/overlay/foldable_book
+
+# GMS
+WITH_GMS ?= true
+ifeq ($(WITH_GMS),true)
+$(call inherit-product, vendor/gms/gms_full.mk)
+endif

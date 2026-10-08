@@ -6,3 +6,9 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.support_one_handed_mode?=true
 
 $(call inherit-product, vendor/rr/config/telephony.mk)
+
+# GMS
+WITH_GMS ?= true
+ifeq ($(WITH_GMS),true)
+$(call inherit-product, vendor/gms/gms_full.mk)
+endif
