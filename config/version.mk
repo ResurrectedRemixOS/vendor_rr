@@ -37,10 +37,10 @@ LINEAGE_VERSION_SUFFIX := $(LINEAGE_BUILD_DATE)-$(LINEAGE_BUILDTYPE)$(LINEAGE_EX
 # Platform version. Lineage's build still keys off 24.0.
 LINEAGE_VERSION := $(PRODUCT_VERSION_MAJOR).$(PRODUCT_VERSION_MINOR)-$(LINEAGE_VERSION_SUFFIX)
 
-# User-facing Resurrected Remix version. 8.x was Android 10; 9.0 is this tree.
+# RR_VERSION only feeds Updater's version check; nothing user-facing shows it.
 # About phone reads ro.lineage.version, so that property carries this string.
 RR_VERSION := 9.0
-RR_DISPLAY_VERSION := ResurrectedRemix-$(RR_VERSION)-$(LINEAGE_VERSION_SUFFIX)
+RR_DISPLAY_VERSION := ResurrectedRemix-$(LINEAGE_VERSION_SUFFIX)
 LINEAGE_DISPLAY_VERSION := $(RR_DISPLAY_VERSION)
 
 PRODUCT_PRODUCT_PROPERTIES += \
