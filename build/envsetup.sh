@@ -70,7 +70,7 @@ alias bib=breakfast
 function eat()
 {
     if [ "$OUT" ] ; then
-        ZIPPATH=`ls -tr "$OUT"/ResurrectionRemix-*.zip 2>/dev/null | tail -1`
+        ZIPPATH=`ls -tr "$OUT"/ResurrectedRemix-*.zip 2>/dev/null | tail -1`
         if [ ! -f "$ZIPPATH" ] ; then
             ZIPPATH=`ls -tr "$OUT"/lineage-*.zip 2>/dev/null | tail -1`
         fi
