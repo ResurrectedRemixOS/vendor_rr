@@ -14,11 +14,14 @@ ifndef LINEAGE_BUILDTYPE
         # Starting with "LINEAGE_" is optional
         RELEASE_TYPE := $(shell echo $(RELEASE_TYPE) | sed -e 's|^LINEAGE_||g')
         LINEAGE_BUILDTYPE := $(RELEASE_TYPE)
+    else
+        # Resurrected Remix builds are official unless RELEASE_TYPE says otherwise.
+        LINEAGE_BUILDTYPE := OFFICIAL
     endif
 endif
 
 # Filter out random types, so it'll reset to UNOFFICIAL
-ifeq ($(filter RELEASE NIGHTLY SNAPSHOT EXPERIMENTAL,$(LINEAGE_BUILDTYPE)),)
+ifeq ($(filter OFFICIAL RELEASE NIGHTLY SNAPSHOT EXPERIMENTAL,$(LINEAGE_BUILDTYPE)),)
     LINEAGE_BUILDTYPE := UNOFFICIAL
     LINEAGE_EXTRAVERSION :=
 endif
