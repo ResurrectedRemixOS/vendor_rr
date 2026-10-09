@@ -2,5 +2,5 @@ flag_value {
   package: "com.android.systemui"
   name: "media_controls_in_compose"
   state: ENABLED
-  permission: READ_WRITE
+  permission: READ_ONLY
 }
