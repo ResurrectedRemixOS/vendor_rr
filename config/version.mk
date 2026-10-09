@@ -50,4 +50,13 @@ PRODUCT_PRODUCT_PROPERTIES += \
     ro.lineage.releasetype=$(LINEAGE_BUILDTYPE) \
     ro.rr.version=$(RR_VERSION) \
     ro.rr.display.version=$(RR_DISPLAY_VERSION) \
-    ro.rr.device=$(LINEAGE_BUILD)
+    ro.rr.device=$(LINEAGE_BUILD) \
+    ro.rr.build.variant=$(if $(filter true,$(WITH_GMS)),gapps,vanilla)
+
+# Shown in About phone > Android version and in the OTA json. Set it in the
+# device's rr_<device>.mk before the vendor/rr inherit. No spaces.
+RR_MAINTAINER ?=
+ifneq ($(RR_MAINTAINER),)
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.rr.maintainer=$(RR_MAINTAINER)
+endif
