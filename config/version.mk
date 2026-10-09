@@ -56,6 +56,9 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # Shown in About phone > Android version and in the OTA json. Set it in the
 # device's rr_<device>.mk before the vendor/rr inherit. No spaces.
 RR_MAINTAINER ?=
+
+# OTA json download link once builds are hosted. {device} and {filename} expand.
+RR_OTA_DOWNLOAD_URL ?=
 ifneq ($(RR_MAINTAINER),)
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.rr.maintainer=$(RR_MAINTAINER)
