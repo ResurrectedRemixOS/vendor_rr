@@ -43,6 +43,11 @@ PRODUCT_PACKAGES += \
     OmniJaws \
     OmniStyle
 
+# Floating windows and sidebar, started from the launcher and recents
+PRODUCT_PACKAGES += \
+    LMOFreeform \
+    LMOFreeformSidebar
+
 # UDFPS icons and animations, read by SystemUI
 ifeq ($(TARGET_HAS_UDFPS),true)
 PRODUCT_PACKAGES += \
