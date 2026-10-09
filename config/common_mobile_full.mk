@@ -36,6 +36,13 @@ PRODUCT_PACKAGES += \
     fonts_customization.xml \
     FontGoogleSansFlexOverlay
 
+# Resurrected Remix fonts, themes and weather
+$(call inherit-product, packages/overlays/Resurrection/fonts/fonts.mk)
+
+PRODUCT_PACKAGES += \
+    OmniJaws \
+    OmniStyle
+
 # Include Lineage LatinIME dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/rr/overlay/dictionaries
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/rr/overlay/dictionaries
