@@ -43,6 +43,13 @@ PRODUCT_PACKAGES += \
     OmniJaws \
     OmniStyle
 
+# UDFPS icons and animations, read by SystemUI
+ifeq ($(TARGET_HAS_UDFPS),true)
+PRODUCT_PACKAGES += \
+    UdfpsAnimations \
+    UdfpsIcons
+endif
+
 # Include Lineage LatinIME dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/rr/overlay/dictionaries
 PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/rr/overlay/dictionaries
