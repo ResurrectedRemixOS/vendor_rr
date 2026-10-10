@@ -41,7 +41,8 @@ $(call inherit-product, packages/overlays/Resurrection/fonts/fonts.mk)
 
 PRODUCT_PACKAGES += \
     OmniJaws \
-    OmniStyle
+    OmniStyle \
+    Stitch
 
 # Floating windows and sidebar, started from the launcher and recents
 PRODUCT_PACKAGES += \
