@@ -11,4 +11,5 @@ $(call inherit-product, vendor/rr/config/telephony.mk)
 WITH_GMS ?= true
 ifeq ($(WITH_GMS),true)
 $(call inherit-product, vendor/gms/gms_full.mk)
+$(call inherit-product, vendor/rr/config/gms_setup.mk)
 endif
