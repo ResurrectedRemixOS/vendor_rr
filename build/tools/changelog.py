@@ -3,8 +3,9 @@
 # SPDX-FileCopyrightText: The Resurrected Remix Project
 # SPDX-License-Identifier: Apache-2.0
 #
-# Lists the newest Resurrected Remix commits for the OTA json: commits a project carries on top
-# of the revision the manifest pins it to (refs/remotes/m/*), so upstream history is skipped.
+# Lists the newest Resurrected Remix commits for the OTA json. RR's repos are standalone checkouts
+# (a real .git directory; repo-managed ones use a symlink). Commits on top of refs/remotes/m/*
+# count when a repo still has that ref, so upstream history is skipped.
 
 import argparse
 import json
@@ -13,8 +14,28 @@ import subprocess
 import sys
 import time
 
-# RR repos that are not in the manifest yet. Every commit in them is RR's.
-EXTRA_PROJECTS = ['packages/apps/Remixer', 'vendor/extras']
+SKIP_TOP = {'.repo', 'out', 'prebuilts'}
+MAX_DEPTH = 6
+
+
+def standalone_projects(top='.', depth=0):
+    found = []
+    try:
+        entries = list(os.scandir(top))
+    except OSError:
+        return found
+    for entry in entries:
+        if entry.name == '.git' and entry.is_dir(follow_symlinks=False):
+            found.append(os.path.relpath(top))
+    if depth >= MAX_DEPTH:
+        return found
+    for entry in entries:
+        if not entry.is_dir(follow_symlinks=False) or entry.name == '.git':
+            continue
+        if depth == 0 and entry.name in SKIP_TOP:
+            continue
+        found += standalone_projects(entry.path, depth + 1)
+    return found
 
 
 def git(path, *args):
@@ -46,13 +67,7 @@ def main():
     p.add_argument('--days', type=int, default=30)
     args = p.parse_args()
 
-    try:
-        with open('.repo/project.list') as f:
-            projects = [line.strip() for line in f if line.strip()]
-    except OSError:
-        print('changelog: no .repo/project.list, skipping', file=sys.stderr)
-        projects = []
-    projects += [p for p in EXTRA_PROJECTS if p not in projects]
+    projects = sorted(standalone_projects())
 
     since = int(time.time()) - args.days * 86400
     entries = []
