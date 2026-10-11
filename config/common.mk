@@ -83,12 +83,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/rr/prebuilt/common/etc/init/init.lineage-system_ext.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/init.lineage-system_ext.rc
 
-# Boot I/O prefetch
-PRODUCT_COPY_FILES += \
-    vendor/rr/prebuilt/common/etc/init/init.rr-prefetch.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/init.rr-prefetch.rc
-PRODUCT_SYSTEM_EXT_PROPERTIES += \
-    ro.prefetch_boot.enabled=true
-
 # Pre-forked app processes for faster cold starts
 PRODUCT_SYSTEM_EXT_PROPERTIES += \
     persist.device_config.runtime_native.usap_pool_enabled=true
