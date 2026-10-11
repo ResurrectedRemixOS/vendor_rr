@@ -57,8 +57,8 @@ PRODUCT_PRODUCT_PROPERTIES += \
 # device's rr_<device>.mk before the vendor/rr inherit. No spaces.
 RR_MAINTAINER ?=
 
-# OTA json download link once builds are hosted. {device} and {filename} expand.
-RR_OTA_DOWNLOAD_URL ?=
+# OTA json download link. {device} and {filename} expand.
+RR_OTA_DOWNLOAD_URL ?= https://sourceforge.net/projects/resurrectedremix/files/{device}/{filename}/download
 ifneq ($(RR_MAINTAINER),)
 PRODUCT_PRODUCT_PROPERTIES += \
     ro.rr.maintainer=$(RR_MAINTAINER)
