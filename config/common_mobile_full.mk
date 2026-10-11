@@ -53,7 +53,7 @@ PRODUCT_PACKAGES += \
     FontGoogleSansFlexOverlay
 
 # Resurrected Remix fonts, themes and weather
-$(call inherit-product, packages/overlays/Resurrection/fonts/fonts.mk)
+$(call inherit-product, vendor/extras/themes/fonts/fonts.mk)
 
 PRODUCT_PACKAGES += \
     OmniJaws \
