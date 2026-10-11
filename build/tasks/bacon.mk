@@ -29,8 +29,8 @@ $(LINEAGE_TARGET_PACKAGE): $(INTERNAL_OTA_PACKAGE_TARGET)
 	$(hide) ln -f $(INTERNAL_OTA_PACKAGE_TARGET) $(LINEAGE_TARGET_PACKAGE)
 	$(hide) $(SHA256) $(LINEAGE_TARGET_PACKAGE) | sed "s|$(PRODUCT_OUT)/||" > $(LINEAGE_TARGET_PACKAGE).sha256sum
 	$(hide) python3 vendor/rr/build/tools/changelog.py \
-		--out "$(PRODUCT_OUT)/$(TARGET_DEVICE)_changelog.json" \
-		|| echo "changelog: failed, the OTA json gets no changelog" >&2
+		--out "$(PRODUCT_OUT)/$(TARGET_DEVICE)_changelog.txt" \
+		|| echo "changelog: failed, no changelog this build" >&2
 	$(hide) python3 vendor/rr/build/tools/createjson.py \
 		--zip "$(LINEAGE_TARGET_PACKAGE)" \
 		--device "$(TARGET_DEVICE)" \
@@ -40,7 +40,6 @@ $(LINEAGE_TARGET_PACKAGE): $(INTERNAL_OTA_PACKAGE_TARGET)
 		--variant "$(if $(filter true,$(WITH_GMS)),gapps,vanilla)" \
 		--maintainer "$(RR_MAINTAINER)" \
 		--url "$(RR_OTA_DOWNLOAD_URL)" \
-		--changelog "$(PRODUCT_OUT)/$(TARGET_DEVICE)_changelog.json" \
 		|| echo "createjson: failed, no OTA json" >&2
 	$(hide) python3 vendor/rr/build/tools/build_banner.py \
 		--zip "$(LINEAGE_TARGET_PACKAGE)" \

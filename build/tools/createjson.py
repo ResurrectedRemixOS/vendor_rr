@@ -57,21 +57,12 @@ def main():
     p.add_argument('--variant', default='')
     p.add_argument('--maintainer', default='')
     p.add_argument('--url', default='', help='download url, {device} and {filename} expand')
-    p.add_argument('--changelog', default='')
     p.add_argument('--ota-dir', default='vendor/OTA',
                    help='OTA repo checkout; its <device>.json supplies the device fields')
     args = p.parse_args()
 
     system = props(os.path.join(args.product_out, 'system', 'build.prop'))
     filename = os.path.basename(args.zip)
-
-    changelog = []
-    if args.changelog:
-        try:
-            with open(args.changelog) as f:
-                changelog = json.load(f)
-        except (OSError, ValueError):
-            print(f'createjson: could not read {args.changelog}', file=sys.stderr)
 
     out = os.path.join(args.product_out, f'{args.device}.json')
     official = os.path.join(args.ota_dir, f'{args.device}.json')
@@ -101,7 +92,6 @@ def main():
         'buildvariant': args.variant,
         'os_sdk_level': int(system.get('ro.build.version.sdk', '0') or 0),
         'os_patch_level': system.get('ro.build.version.security_patch', ''),
-        'changelog': changelog,
     }
     for key in DEVICE_FIELDS:
         item[key] = field(key)
