@@ -22,4 +22,9 @@
     <allow-implicit-broadcast action="lineageos.intent.action.INITIALIZE_LINEAGE_HARDWARE" />
     <allow-implicit-broadcast action="lineageos.intent.action.LID_STATE_CHANGED" />
 
+    <!-- Pixel Clear Calling needs a Tensor DSP. dcservice stays for Pixel Buds. -->
+    <component-override package="com.google.android.apps.pixel.dcservice">
+        <component class=".feature.audio.settings.CcaSettingsActivity" enabled="false" />
+    </component-override>
+
 </config>
