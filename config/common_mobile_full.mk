@@ -54,6 +54,7 @@ PRODUCT_PACKAGES += \
 
 # Resurrected Remix fonts, themes and weather
 $(call inherit-product, vendor/extras/themes/fonts/fonts.mk)
+$(call inherit-product, vendor/extras/themes/bootanimation/bootanimation.mk)
 
 PRODUCT_PACKAGES += \
     OmniJaws \
