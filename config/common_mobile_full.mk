@@ -28,7 +28,6 @@ PRODUCT_PACKAGES += \
     Etar \
     Profiles \
     Recorder \
-    RRWallpapers \
     Seedvault \
     ViviMusic
 
@@ -49,29 +48,19 @@ PRODUCT_PACKAGES += \
 
 # Fonts
 PRODUCT_PACKAGES += \
-    fonts_customization.xml \
     FontGoogleSansFlexOverlay
 
-# Resurrected Remix fonts, themes and weather
-$(call inherit-product, vendor/extras/themes/fonts/fonts.mk)
-$(call inherit-product, vendor/extras/themes/bootanimation/bootanimation.mk)
+# Resurrected Remix themes, weather and screenshots
+$(call inherit-product, vendor/extras/themes/themes.mk)
 
 PRODUCT_PACKAGES += \
     OmniJaws \
-    OmniStyle \
     Stitch
 
 # Floating windows and sidebar, started from the launcher and recents
 PRODUCT_PACKAGES += \
     LMOFreeform \
     LMOFreeformSidebar
-
-# UDFPS icons and animations, read by SystemUI
-ifeq ($(TARGET_HAS_UDFPS),true)
-PRODUCT_PACKAGES += \
-    UdfpsAnimations \
-    UdfpsIcons
-endif
 
 # Include Lineage LatinIME dictionaries
 PRODUCT_PACKAGE_OVERLAYS += vendor/rr/overlay/dictionaries
