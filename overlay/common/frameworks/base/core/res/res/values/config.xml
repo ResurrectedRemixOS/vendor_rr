@@ -188,4 +188,7 @@
     <string-array name="theming_defaults" translatable="false">
         <item>*|TONAL_SPOT|#63a3ad</item>
     </string-array>
+
+    <!-- Google's At a Glance data, read by the Now Bar for live scores. -->
+    <string name="config_defaultSmartspaceService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSmartspaceService</string>
 </resources>
