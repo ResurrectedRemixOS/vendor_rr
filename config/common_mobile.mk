@@ -17,7 +17,7 @@ PRODUCT_PRODUCT_PROPERTIES += \
 PRODUCT_PACKAGES += \
     AvatarPicker \
     Backgrounds \
-    Canvas \
+    Gallery2 \
     Glimpse \
     LatinIME
 
