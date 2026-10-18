@@ -306,7 +306,12 @@ PRODUCT_EXTRA_RECOVERY_KEYS += \
 
 include vendor/rr/config/version.mk
 
+# Private keys. Official builds fail closed if the key directory is missing.
+ifeq ($(LINEAGE_BUILDTYPE),OFFICIAL)
+include vendor/lineage-priv/keys/keys.mk
+else
 -include vendor/lineage-priv/keys/keys.mk
+endif
 
 -include $(WORKSPACE)/build_env/image-auto-bits.mk
 -include vendor/rr/config/partner_gms.mk
