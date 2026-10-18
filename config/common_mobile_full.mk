@@ -15,7 +15,7 @@ ifeq ($(filter $(LINEAGE_BUILD), \
     stallion yogi kodiak grizzly cubs \
     ),)
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    BuildFingerprint=google/bluejay_beta/bluejay:17/CP41.260831.016/16521119:user/release-keys
+    BuildFingerprint=google/bluejay_beta/bluejay:CANARY/ZP11.260918.007/16484274:user/release-keys
 endif
 endif
 
