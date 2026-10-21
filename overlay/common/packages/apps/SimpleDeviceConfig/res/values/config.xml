@@ -60,5 +60,49 @@
         <!-- For SeedVault Backup -->
         <item>backup_and_restore/backup_transport_future_timeout_millis=900000</item>
         <item>backup_and_restore/backup_transport_callback_timeout_millis=900000</item>
+
+        <!--
+            Now Playing. The Pixel app injects its Sound page. These flags
+            turn recognition, on-demand search, the lock screen and quick
+            settings on for a non-Pixel device.
+        -->
+        <item>device_personalization_services/NowPlaying__enable_now_playing_lock_screen_update=true</item>
+        <item>device_personalization_services/NowPlaying__enable_now_playing_quick_affordance=true</item>
+        <item>device_personalization_services/NowPlaying__enable_now_playing_quick_settings=true</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_apk_music_detector_min_score=0.45</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_download_album_art_via_astrea=true</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_enable_resource_download_logging=false</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_enhanced_metadata_shards_manifest=4082:https://storage.googleapis.com/music-iq-db/updatable_db_v4/20260929-000124/manifest.json</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_get_model_state_cooldown_seconds_cloud_search=9</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_index_manifest_17_09_02=3185:https://storage.googleapis.com/music-iq-db/updatable_db_v3/20260927-030057/manifest.json</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_matcher_match_threshold_17_09_02=1.0E-6</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_on_demand_enabled=true</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_on_demand_music_confidence=0.48</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_on_demand_search_use_new_opt_in_flow=true</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_on_demand_classic_enabled_by_default=true</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_show_album_art=true</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_use_enhanced_matches_database=true</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_use_metadata_shards_database=true</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_use_yt_domain_fife_urls=true</item>
+        <item>device_personalization_services/NowPlaying__ambient_music_update_album_art_old_recognitions=true</item>
+        <item>device_personalization_services/NowPlaying__capture_own_speaker_allowed=true</item>
+        <item>device_personalization_services/NowPlaying__cloud_api_allowed=true</item>
+        <item>device_personalization_services/NowPlaying__create_shortcut_on_np_enabled=true</item>
+        <item>device_personalization_services/NowPlaying__default_music_player_setting=true</item>
+        <item>device_personalization_services/NowPlaying__dsp_model_checksum_enabled=true</item>
+        <item>device_personalization_services/NowPlaying__enable_now_playing_ipc=true</item>
+        <item>device_personalization_services/NowPlaying__enable_now_playing_multiuser=true</item>
+        <item>device_personalization_services/NowPlaying__enable_usage_fa=false</item>
+        <item>device_personalization_services/NowPlaying__feature_users_count_enabled=true</item>
+        <item>device_personalization_services/NowPlaying__federated_analytics_allowed=false</item>
+        <item>device_personalization_services/NowPlaying__history_summary_enabled=true</item>
+        <item>device_personalization_services/NowPlaying__min_training_interval_millis=86400000</item>
+        <item>device_personalization_services/NowPlaying__now_playing_allowed=true</item>
+        <item>device_personalization_services/NowPlaying__on_demand_enable_eager_prompt=true</item>
+        <item>device_personalization_services/NowPlaying__on_demand_fingerprinter_being_setup_warning=false</item>
+        <item>device_personalization_services/NowPlaying__on_demand_hide_if_fingerprinter_install_not_confirmed=true</item>
+        <item>device_personalization_services/NowPlaying__on_demand_min_supported_aga_version=12.35.17</item>
+        <item>device_personalization_services/NowPlaying__shortcut_direct_create_enabled=false</item>
+        <item>device_personalization_services/NowPlaying__youtube_export_enabled=true</item>
     </string-array>
 </resources>
