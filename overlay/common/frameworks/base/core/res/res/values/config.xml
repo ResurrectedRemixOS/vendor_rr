@@ -186,9 +186,13 @@
          Color  - `home_wallpaper` (for color extraction) or a comma-separated list of
                   hexadecimal int (#FFcc99,#aabbcc). -->
     <string-array name="theming_defaults" translatable="false">
-        <item>*|TONAL_SPOT|#63a3ad</item>
+        <item>*|CONTENT|#E02437</item>
     </string-array>
 
     <!-- Google's At a Glance data, read by the Now Bar for live scores. -->
     <string name="config_defaultSmartspaceService" translatable="false">com.google.android.as/com.google.android.apps.miphone.aiai.app.AiAiSmartspaceService</string>
+
+    <!-- 0 = 3-button, 1 = 2-button, 2 = gesture. Gesture is the product default;
+         the 3-button overlay still wins when the user picks it. -->
+    <integer name="config_navBarInteractionMode">2</integer>
 </resources>
