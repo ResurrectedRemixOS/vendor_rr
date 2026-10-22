@@ -171,7 +171,11 @@ PRODUCT_COPY_FILES += \
 # Config
 PRODUCT_PACKAGES += \
     SimpleDeviceConfig \
-    SimpleSettingsConfig
+    SimpleSettingsConfig \
+    NowPlayingFlags
+
+PRODUCT_COPY_FILES += \
+    vendor/rr/nowplaying/flags/privapp-permissions-nowplaying-flags.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/privapp-permissions-nowplaying-flags.xml
 
 # Extra tools in Lineage
 PRODUCT_PACKAGES += \

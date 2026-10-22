@@ -195,4 +195,7 @@
     <!-- 0 = 3-button, 1 = 2-button, 2 = gesture. Gesture is the product default;
          the 3-button overlay still wins when the user picks it. -->
     <integer name="config_navBarInteractionMode">2</integer>
+
+    <!-- AOSP leaves this empty, so on-demand recognition binds no provider. -->
+    <string name="config_defaultMusicRecognitionService" translatable="false">com.google.android.googlequicksearchbox/com.google.android.apps.search.soundsearch.service.SoundSearchService</string>
 </resources>
