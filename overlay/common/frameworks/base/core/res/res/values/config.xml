@@ -198,4 +198,14 @@
 
     <!-- AOSP leaves this empty, so on-demand recognition binds no provider. -->
     <string name="config_defaultMusicRecognitionService" translatable="false">com.google.android.googlequicksearchbox/com.google.android.apps.search.soundsearch.service.SoundSearchService</string>
+
+    <!-- Play services and the Play Store live in the system image. Apps such as
+         Google Password Manager target a new SDK and otherwise cannot see them,
+         so the client reports Play services as missing. -->
+    <string-array name="config_forceQueryablePackages" translatable="false">
+        <item>com.android.settings</item>
+        <item>com.android.providers.settings</item>
+        <item>com.google.android.gms</item>
+        <item>com.android.vending</item>
+    </string-array>
 </resources>
