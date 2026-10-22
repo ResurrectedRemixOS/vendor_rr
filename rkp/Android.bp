@@ -1,0 +1,27 @@
+//
+// SPDX-FileCopyrightText: The LineageOS Project
+// SPDX-License-Identifier: Apache-2.0
+//
+
+cc_binary {
+    name: "rr-rkp-v1",
+    vendor: true,
+    compile_multilib: "64",
+    srcs: ["rr-rkp-v1.cpp"],
+    shared_libs: [
+        "libbase",
+        "libcrypto",
+        "liblog",
+    ],
+    cflags: [
+        "-Wall",
+        "-Werror",
+    ],
+}
+
+prebuilt_etc {
+    name: "init.rr-rkp-v1.rc",
+    src: "init.rr-rkp-v1.rc",
+    sub_dir: "init",
+    vendor: true,
+}

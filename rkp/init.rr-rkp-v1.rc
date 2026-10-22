@@ -1,0 +1,7 @@
+# Duck RKP legacy CSR. system_server cannot open the TEE, so this vendor
+# process owns command 0x311e and answers on /dev/socket/rr_rkp_v1.
+service vendor.rr-rkp-v1 /vendor/bin/rr-rkp-v1
+    class late_start
+    user root
+    group root drmrpc
+    socket rr_rkp_v1 stream 660 system system
