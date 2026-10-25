@@ -266,6 +266,12 @@ PRODUCT_ARTIFACT_PATH_REQUIREMENT_ALLOWED_LIST += \
 endif
 endif
 
+# Duck RKP
+ifeq ($(WITH_DUCK_RKP),true)
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.rr.duck_rkp=true
+endif
+
 # SystemUI
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     CarSystemUI \
