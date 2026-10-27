@@ -79,6 +79,10 @@ endif
 PRODUCT_COPY_FILES += \
     vendor/rr/config/permissions/lineage-sysconfig.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/lineage-sysconfig.xml
 
+# Clone profile
+PRODUCT_COPY_FILES += \
+    vendor/rr/prebuilt/common/etc/sysconfig/preinstalled-packages-platform-rr-product.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-platform-rr-product.xml
+
 # Lineage-specific init rc file
 PRODUCT_COPY_FILES += \
     vendor/rr/prebuilt/common/etc/init/init.lineage-system_ext.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/init.lineage-system_ext.rc
