@@ -56,7 +56,7 @@ def main():
     p.add_argument('--buildtype', default='')
     p.add_argument('--variant', default='')
     p.add_argument('--maintainer', default='')
-    p.add_argument('--url', default='', help='download url, {device} and {filename} expand')
+    p.add_argument('--url', default='', help='download url, {device}, {build} and {filename} expand')
     p.add_argument('--ota-dir', default='vendor/OTA',
                    help='OTA repo checkout; its <device>.json supplies the device fields')
     args = p.parse_args()
@@ -82,7 +82,8 @@ def main():
         'oem': field('oem'),
         'device': args.device,
         'filename': filename,
-        'download': args.url.replace('{device}', args.device).replace('{filename}', filename),
+        'download': args.url.replace('{device}', args.device).replace('{filename}', filename)
+                            .replace('{build}', os.path.splitext(filename)[0]),
         'timestamp': int(system.get('ro.system.build.date.utc', '0') or 0),
         'md5': md5,
         'sha256': sha256,
