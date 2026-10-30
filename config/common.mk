@@ -287,7 +287,7 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 
 PRODUCT_PRODUCT_PROPERTIES += \
     dalvik.vm.systemuicompilerfilter=speed \
-    dalvik.vm.background-dex2oat-threads=2
+    dalvik.vm.background-dex2oat-threads=4
 
 ifeq ($(TARGET_BUILD_VARIANT),userdebug)
 PRODUCT_PRODUCT_PROPERTIES += \
