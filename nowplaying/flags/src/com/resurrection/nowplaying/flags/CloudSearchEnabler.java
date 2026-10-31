@@ -18,7 +18,7 @@ public final class CloudSearchEnabler {
     private static final String[][] FLAGS = {
         {"NowPlaying__now_playing_allowed", "true"},
         {"NowPlaying__enable_now_playing_for_main_user", "true"},
-        {"NowPlaying__ambient_music_use_dsp_audio_source", "false"},
+        {"NowPlaying__ambient_music_use_dsp_audio_source", "true"},
         {"NowPlaying__ambient_music_on_demand_enabled", "true"},
         {"NowPlaying__ambient_music_on_demand_classic_enabled_by_default", "true"},
         {"NowPlaying__cloud_api_allowed", "true"},
@@ -32,7 +32,7 @@ public final class CloudSearchEnabler {
         {"NowPlaying__enable_now_playing_sysui_updates", "true"},
         {"NowPlaying__enable_now_playing_updates", "true"},
         {"NowPlaying__enable_now_playing_quick_affordance", "true"},
-        {"NowPlaying__enable_now_playing_quick_settings", "true"},
+        {"NowPlaying__enable_now_playing_quick_settings", "false"},
     };
 
     private CloudSearchEnabler() {}
