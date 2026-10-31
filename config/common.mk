@@ -173,6 +173,14 @@ PRODUCT_PACKAGES += \
     LineageSettingsProvider \
     Updater
 
+# Bug reports
+PRODUCT_PACKAGES += \
+    RRBugReport
+
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.error.receiver.default=com.resurrection.bugreport \
+    ro.error.receiver.system.apps=com.resurrection.bugreport
+
 PRODUCT_COPY_FILES += \
     vendor/rr/prebuilt/common/etc/init/init.lineage-updater.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/init.lineage-updater.rc
 
