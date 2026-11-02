@@ -28,7 +28,6 @@ PRODUCT_PACKAGES += \
     Etar \
     Profiles \
     Recorder \
-    Seedvault \
     ViviMusic
 
 ifneq ($(PRODUCT_NO_CAMERA),true)
