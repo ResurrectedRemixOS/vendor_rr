@@ -13,4 +13,11 @@
     <color name="materialColorSurfaceContainer">@*android:color/system_surface_container_light</color>
     <color name="materialColorSurfaceContainerHighest">@*android:color/system_surface_container_highest_light</color>
     <color name="materialColorTertiary">@*android:color/system_tertiary_light</color>
+    <color name="welcome_action_button_background_color">#1E0D12</color>
+    <color name="welcome_action_button_icon_color">#FFD9E2</color>
+    <color name="welcome_background_color">#080406</color>
+    <color name="welcome_expressive_button_background_color">#1E0D12</color>
+    <color name="welcome_expressive_button_icon_color">#FFD9E2</color>
+    <color name="welcome_expressive_start_button_background_color">#FF003F</color>
+    <color name="welcome_expressive_start_button_icon_color">#FFFFFF</color>
 </resources>

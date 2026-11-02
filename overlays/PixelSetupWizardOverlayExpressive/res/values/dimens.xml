@@ -26,4 +26,5 @@
     <dimen name="setup_design_land_middle_horizontal_spacing">24.0dip</dimen>
     <dimen name="setup_design_layout_margin_end">24.0dip</dimen>
     <dimen name="setup_design_layout_margin_start">24.0dip</dimen>
+    <dimen name="welcome_expressive_button_min_height">64.0dip</dimen>
 </resources>

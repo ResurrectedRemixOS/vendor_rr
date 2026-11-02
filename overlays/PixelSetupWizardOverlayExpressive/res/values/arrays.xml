@@ -112,4 +112,7 @@
         <item>.onSecondary:@sud_system_secondary_container_light</item>
         <item>.surfaceContainer:@sud_system_surface_container_light</item>
     </string-array>
+    <string-array name="welcome_text_animation_customization">
+        <item>.onSurface:@sud_system_on_surface_dark</item>
+    </string-array>
 </resources>
