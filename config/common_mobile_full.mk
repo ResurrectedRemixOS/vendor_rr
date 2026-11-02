@@ -41,6 +41,27 @@ PRODUCT_PACKAGES += \
     AudioFX
 endif
 
+# Face unlock
+TARGET_FACE_UNLOCK_SUPPORTED ?= $(TARGET_SUPPORTS_64_BIT_APPS)
+ifeq ($(TARGET_FACE_UNLOCK_SUPPORTED),true)
+ifeq ($(filter $(LINEAGE_BUILD), \
+    cheetah panther lynx \
+    husky shiba akita felix tangorpro \
+    tokay caiman komodo comet tegu \
+    mustang blazer frankel rango \
+    stallion yogi kodiak grizzly cubs \
+    ),)
+PRODUCT_PACKAGES += \
+    FaceUnlock
+
+PRODUCT_SYSTEM_EXT_PROPERTIES += \
+    ro.face.sense_service=true
+
+PRODUCT_COPY_FILES += \
+    frameworks/native/data/etc/android.hardware.biometrics.face.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/permissions/android.hardware.biometrics.face.xml
+endif
+endif
+
 # Extra cmdline tools
 PRODUCT_PACKAGES += \
     unrar \
