@@ -999,6 +999,12 @@ function build_kernel() {
             return 1
         fi
     fi
+    local kernel_setup="$(dirname "${target_kernel_dir}")/setup_kernel.sh"
+    if [ -f "${kernel_setup}" ] && ! bash "${kernel_setup}" "${ANDROID_BUILD_TOP}"; then
+        echo "Kernel source setup failed"
+        popd > /dev/null
+        return 1
+    fi
     if [ -d "${KERNEL_BUILD_TOP}/out/${target_kernel_device}/dist" ]; then
         rm -rf "${KERNEL_BUILD_TOP}/out/${target_kernel_device}/dist"
     fi
