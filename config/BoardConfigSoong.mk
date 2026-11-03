@@ -50,3 +50,6 @@ $(call soong_config_set,lineage_charger,density,$(lineage_charger_density))
 ifneq ($(TARGET_ADDITIONAL_GRALLOC_10_USAGE_BITS),)
     $(call soong_config_set,libui,additional_gralloc_10_usage_bits,$(TARGET_ADDITIONAL_GRALLOC_10_USAGE_BITS))
 endif
+
+# Clear Voice
+$(call soong_config_set,rr,clear_voice,$(TARGET_USES_OPLUS_CLEARVOICE))
