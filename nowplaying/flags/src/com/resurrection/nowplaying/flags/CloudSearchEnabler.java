@@ -46,6 +46,7 @@ public final class CloudSearchEnabler {
         {"NowPlaying__enable_now_playing_updates", "true"},
         {"NowPlaying__enable_now_playing_quick_affordance", "true"},
         {"NowPlaying__enable_now_playing_quick_settings", "false"},
+        {"PccNext__use_astrea_feature_setting_writer", "true"},
     };
 
     private CloudSearchEnabler() {}
