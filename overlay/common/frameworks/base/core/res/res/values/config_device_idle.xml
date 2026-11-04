@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The Resurrected Remix Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<!-- Deep Doze with the timings Android used until 2023. Since then a stationary phone reaches
+     deep idle about three minutes after the screen goes off, which cuts every app's own
+     connection and leaves notifications to Play services' push channel alone. Light Doze is
+     untouched: jobs and syncs still wait for a maintenance window. -->
+<resources>
+    <!-- Screen off to the first deep idle step, 15 minutes instead of 15 seconds. -->
+    <integer name="device_idle_inactive_to_ms">900000</integer>
+    <!-- Motion seen while idling restarts the wait with 10 minutes, not 30 seconds. -->
+    <integer name="device_idle_motion_inactive_to_ms">600000</integer>
+    <!-- Idle pending to sensing, 15 minutes instead of 15 seconds. -->
+    <integer name="device_idle_idle_after_inactive_to_ms">900000</integer>
+    <!-- Listening for motion before going idle, 4 minutes instead of 15 seconds. -->
+    <integer name="device_idle_sensing_to_ms">240000</integer>
+    <!-- Fetching a location before going idle, 30 seconds instead of 15. -->
+    <integer name="device_idle_locating_to_ms">30000</integer>
+</resources>
