@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_retry_face_auth" product="default">Volvi probar el desbloquéu facial</string>
+    <string name="face_re_enroll_notification_title" product="default">Volvi configurar el desbloquéu facial</string>
+    <string name="biometric_dialog_tap_confirm_with_face" product="default">Desbloquióse cola cámara</string>
+    <string name="biometric_dialog_tap_confirm_with_face_alt_1" product="default">Desbloquióse cola cara. Primi pa siguir.</string>
+    <string name="face_re_enroll_notification_name" product="default">Desbloquéu facial</string>
+    <string name="face_re_enroll_dialog_title" product="default">Configura\'l desbloquéu facial</string>
+    <string name="face_re_enroll_dialog_content" product="default">Pa volver configurar el desbloquéu facial, va desaniciase\'l modelu facial actual.\n\nVas tener de volver configurar esta función pa usar la cara y desbloquiar el preséu.</string>
+    <string name="face_reenroll_failure_dialog_content" product="default">Nun se pudo configurar el desbloquéu facial. Ve a Configuración y volvi tentalo.</string>
+    <string name="keyguard_face_unlock_unavailable" product="default">El desbloquéu facial nun ta disponible</string>
+    <string name="accesssibility_keyguard_retry" product="default">Esliza dende lo cimero pa volver probar el desbloquéu facial</string>
+    <string name="keyguard_face_successful_unlock_swipe" product="default">Desbloquióse cola cara. Esliza p\'arriba p\'abrir.</string>
+    <string name="keyguard_face_successful_unlock_press" product="default">Desbloquióse cola cara. Primi\'l botón de desbloquéu p\'abrir.</string>
+    <string name="keyguard_face_successful_unlock_press_alt_1" product="default">Desbloquióse cola cara. Primi p\'abrir.</string>
+    <string name="keyguard_face_successful_unlock" product="default">Desbloquióse cola cámara</string>
+</resources>

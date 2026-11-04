@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">ਕਲਾਸਿਕ</string>
+    <string name="bundle1_color_name">ਕਾਰਬਨ</string>
+    <string name="bundle2_color_name">ਪੇਪਰ</string>
+    <string name="bundle3_color_name">ਸੂਰਜ</string>
+    <string name="bue_color_name">ਲੈਵੇਂਡਰ</string>
+    <string name="red_color_name">ਬੇਰੀ</string>
+    <string name="wht_color_name">ਧੁੰਦ</string>
+    <string name="indigo_color_name">"ਲਾਜਵਰ"</string>
+    <string name="iris_color_name">ਆਇਰਿਸ</string>
+    <string name="jade_color_name">ਜੇਡ</string>
+    <string name="lemongrass_color_name">ਲੈਮਨਗ੍ਰਾਸ</string>
+    <string name="moonstone_color_name">ਮੂਨਸਟੋਨ</string>
+    <string name="obsidian_color_name">ਓਬਸੀਡੀਅਨ</string>
+    <string name="peony_color_name">ਪੀਓਨੀ</string>
+    <string name="porcelain_color_name">ਪੋਰਸਿਲੇਨ</string>
+    <string name="fruit1_color_name">ਪੀਲਾ ਅਤੇ ਲਾਲ ਦੋ-ਰੰਗੀ ਪੈਲੇਟ</string>
+    <string name="fruit2_color_name">ਹਰਾ ਅਤੇ ਸੰਤਰੀ ਦੋ-ਰੰਗੀ ਪੈਲੇਟ</string>
+    <string name="fruit3_color_name">ਨੀਲਾ ਅਤੇ ਹਰਾ ਦੋ-ਰੰਗੀ ਪੈਲੇਟ</string>
+    <string name="fruit4_color_name">ਹਲਕਾ ਜਾਮਨੀ ਅਤੇ ਨੀਲਾ ਦੋ-ਰੰਗੀ ਪੈਲੇਟ</string>
+    <string name="fruit5_color_name">ਗੁਲਾਬੀ ਅਤੇ ਇੰਡੀਗੋ ਦੋ-ਰੰਗੀ ਪੈਲੇਟ</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="reboot_to_update_reboot">Oc\'h Adlañsañ\u2026</string>
+    <string name="reboot_to_reset_message">Oc\'h Adlañsañ\u2026</string>
+    <string name="lockscreen_glogin_password_hint">Ger-tremen</string>
+    <string name="default_audio_route_category_name">Reizhiad</string>
+    <string name="kg_login_password_hint">Ger-tremen</string>
+    <string name="notification_app_name_system">Reizhiad</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF көрсеткіші</string>
+    <string name="find_in_page">Беттен іздеу</string>
+    <string name="share">"Бөлісу"</string>
+    <string name="open_with">Мынамен ашу…</string>
+    <string name="download">"Жүктеу"</string>
+    <string name="pdf_document">PDF құжаты</string>
+    <string name="print">"Басып шығару"</string>
+    <string name="download_successful">Жүктеу сәтті аяқталды</string>
+    <string name="download_error">Файлды жүктеу кезінде қате шықты</string>
+</resources>

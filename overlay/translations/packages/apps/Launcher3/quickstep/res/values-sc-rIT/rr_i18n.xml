@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="allset_hint_expressive">Iscurre in artu</string>
+    <string name="action_image_copy">Còpia</string>
+    <string name="action_image_save">Sarva</string>
+    <string name="taskbar_edu_stashing">Iscurre in artu a bellu pro mustrare s\'istanga de tareas</string>
+    <string name="taskbar_button_more_options">Àteras optziones</string>
+    <string name="quick_switch_task_with_position_in_parent"><xliff:g id="task_description" example="Chrome">%1$s</xliff:g>, elementu <xliff:g id="index_in_parent" example="1">%2$d</xliff:g> de <xliff:g id="total_tasks" example="5">%3$d</xliff:g></string>
+    <string name="bubble_bar_bubble_description"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> dae <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="ambientcue_first_time_edu_icon_description">Icona</string>
+</resources>

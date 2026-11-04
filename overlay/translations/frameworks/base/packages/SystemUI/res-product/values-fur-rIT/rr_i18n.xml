@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_retry_face_auth" product="default">Prove di gnûf il sbloc cu la muse</string>
+    <string name="face_re_enroll_notification_title" product="default">Torne configure il sbloc cu la muse</string>
+    <string name="biometric_dialog_tap_confirm_with_face" product="default">Sbocât cu la muse</string>
+    <string name="biometric_dialog_tap_confirm_with_face_alt_1" product="default">Sblocât cu la muse. Frache par continuâ.</string>
+    <string name="biometric_dialog_tap_confirm_with_face_sfps" product="default">Sblocât cu la muse. Tocje par continuâ.</string>
+    <string name="face_re_enroll_notification_name" product="default">Sbloc cu la muse</string>
+    <string name="face_re_enroll_dialog_title" product="default">Configure il sbloc cu la muse</string>
+    <string name="face_re_enroll_dialog_content" product="default">Par tornâ a configurâ il sbloc cu la muse, il model atuâl de muse al vignarà eliminât.\n\nTu varâs di configurâ di gnûf cheste funzionalitât par doprâ la tô muse pal sbloc dal telefon.</string>
+    <string name="face_reenroll_failure_dialog_content" product="default">Impussibil configurâ il sbloc cu la muse. Va tes impostazions e torne prove.</string>
+    <string name="keyguard_face_unlock_unavailable" product="default">Sbloc cu la muse no disponibil</string>
+    <string name="accesssibility_keyguard_retry" product="default">Scor in sù par tornâ a provâ il sbloc cu la muse</string>
+    <string name="keyguard_face_successful_unlock_swipe" product="default">Sblocât cu la muse. Scor in sù par vierzi.</string>
+    <string name="keyguard_face_successful_unlock_press" product="default">Sblocât cu la muse. Frache la icone Sbloche par vierzi.</string>
+    <string name="keyguard_face_successful_unlock_press_alt_1" product="default">Sblocât cu la muse. Frache par vierzi.</string>
+    <string name="keyguard_face_successful_unlock" product="default">Sbocât cu la muse</string>
+</resources>

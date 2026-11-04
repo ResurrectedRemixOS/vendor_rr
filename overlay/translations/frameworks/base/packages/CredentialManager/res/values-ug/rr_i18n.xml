@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="string_cancel">ۋاز كەچ</string>
+    <string name="string_continue">داۋاملاشتۇر</string>
+    <string name="string_learn_more">تەپسىلات بىلدۈرگۈسى</string>
+    <string name="content_description_show_password">ئىم كۆرسەت</string>
+    <string name="set_as_default">كۆڭۈلدىكى قىممەتكە تەڭشە</string>
+    <string name="settings">تەڭشەكلەر</string>
+    <string name="accessibility_snackbar_dismiss">پەرۋا قىلما</string>
+    <string name="get_dialog_button_label_continue">داۋاملاشتۇر</string>
+    <string name="more_options_content_description">تېخىمۇ كۆپ</string>
+</resources>

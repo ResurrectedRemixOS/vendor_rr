@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="download_paused_percent">થોભ્યું, %d%%</string>
+    <string name="button_resume_download">"ફરી શરૂ કરો"</string>
+    <string name="button_pause_download">થોભાવો</string>
+    <string name="notif_summary_paused">%d થોભ્યા</string>
+</resources>

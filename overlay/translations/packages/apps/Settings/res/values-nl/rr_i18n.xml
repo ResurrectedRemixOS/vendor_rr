@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"standaard"</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"standaard"</item>
+        <item>zo</item>
+        <item>ma</item>
+        <item>di</item>
+        <item>wo</item>
+        <item>do</item>
+        <item>vr</item>
+        <item>za</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"standaard"</item>
+        <item>metrisch</item>
+        <item>ussystem</item>
+        <item>uksystem</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Niet opgegeven"</item>
+        <item>"Neutraal"</item>
+        <item>"Vrouwelijk"</item>
+        <item>"Mannelijk"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="tethering_allow_vpn_upstreams_title">VPN gebruiken voor verbonden apparaten</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Wanneer dit apparaat een VPN gebruikt, gebruiken alle apparaten die met de hotspot zijn verbonden dezelfde VPN</string>
+    <string name="face_enrolling_close_to_continue">Telefoon vouwen tijdens instellen</string>
+    <string name="face_enrolling_close_to_continue_description">De telefoon moet worden gevouwen om Gezichtsontgrendeling in te stellen of te gebruiken</string>
+    <string name="face_enrolling_do_it_later">"Later doen"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM-toolkit</string>
+    <string name="platform_compat_target_sdk_title">Ingeschakeld voor targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Beheer van persoonlijke context</string>
+</resources>

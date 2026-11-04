@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ssl_error_example">Amedya, asebter n tuqqna ahat mačči n tuddsa i tettwaliḍ.</string>
+    <string name="ssl_error_continue">Kemmel s iminig akken yebɣu yella</string>
+    <string name="performance_boost_notification_button_not_now">Mačči tura</string>
+    <string name="performance_boost_notification_button_manage">Sefrek</string>
+</resources>

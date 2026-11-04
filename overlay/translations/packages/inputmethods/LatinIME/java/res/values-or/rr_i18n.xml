@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_hu_ZZ">ହଙ୍ଗେରୀୟ (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">ମେଟେରିଆଲ - ସିଷ୍ଟମ ସେଟିଂସ ଅନୁସରଣ କରନ୍ତୁ</string>
+    <string name="prefs_keyboard_height_scale">କୀବୋର୍ଡ ଉଚ୍ଚତା ସ୍କେଲ</string>
+    <string name="number_row">ନମ୍ବର ସାରି</string>
+    <string name="number_row_summary">4ଟି କୀ ସାରିଥିବା ସମସ୍ତ ଲେଆଉଟ୍ ପାଇଁ ସର୍ବଦା ନମ୍ବର ସାରି ଦେଖାନ୍ତୁ</string>
+    <string name="number_row_password">ପାସୱାର୍ଡ ପାଇଁ ନମ୍ବର ସାରି</string>
+    <string name="number_row_password_summary">ପାସୱାର୍ଡ ଇନପୁଟ୍ ପାଇଁ 4ଟି କୀ ସାରିଥିବା ସମସ୍ତ ଲେଆଉଟ୍ ପାଇଁ ସର୍ବଦା ନମ୍ବର ସାରି ଦେଖାନ୍ତୁ</string>
+    <string name="space_trackpad">ସ୍ପେସ୍ ବାର୍ ଟ୍ରାକପ୍ୟାଡ୍</string>
+    <string name="space_trackpad_summary">କର୍ସର ସରାଇବା ପାଇଁ ସ୍ପେସ୍ ବାର୍ ଉପରେ ସ୍ୱାଇପ୍ କରନ୍ତୁ</string>
+    <string name="backspace_trackpad">ବ୍ୟାକସ୍ପେସ୍ କୀ ଟ୍ରାକପ୍ୟାଡ୍</string>
+    <string name="backspace_trackpad_summary">ଶବ୍ଦ ଡିଲିଟ୍ କରିବା ପାଇଁ ବ୍ୟାକସ୍ପେସ୍ କୀ ଉପରେ ସ୍ୱାଇପ୍ କରନ୍ତୁ</string>
+    <string name="show_longpress_hints">ଲଙ୍ଗ-ପ୍ରେସ୍ କୀ ସୂଚନା ଦେଖାନ୍ତୁ</string>
+    <string name="show_longpress_hints_summary">ସମର୍ଥିତ କୀ ପାଇଁ ଲଙ୍ଗ-ପ୍ରେସ୍ ସୂଚନା ଦେଖାଏ</string>
+    <string name="show_emoji_key">ଇମୋଜି କୀ ଦେଖାନ୍ତୁ</string>
+    <string name="show_emoji_key_summary">ସର୍ବଦା ଇମୋଜି କୀ ଦେଖାନ୍ତୁ। ଏହି ବିକଳ୍ପ ସକ୍ରିୟ ଥିଲେ ଭାଷା ବଦଳାଇବା କୀ ଦେଖାଯାଇପାରିବ ନାହିଁ</string>
+    <string name="enable_split_keyboard_summary">କେବଳ ଲ୍ୟାଣ୍ଡସ୍କେପ୍ ରେ</string>
+    <string name="split_keyboard_duplicate_keys">ମଝିଆ କୀ ନକଲ କରନ୍ତୁ</string>
+    <string name="split_keyboard_duplicate_keys_summary">ଦୁଇ ଭାଗରେ ମଝି ନିକଟ କୀ ଦେଖାନ୍ତୁ</string>
+    <string name="spoken_description_split_keyboard">କୀବୋର୍ଡ ବିଭାଜନ କରନ୍ତୁ</string>
+    <string name="spoken_description_merge_keyboard">କୀବୋର୍ଡ ମିଶାନ୍ତୁ</string>
+    <string name="spoken_description_float_keyboard">କୀବୋର୍ଡ ଭାସମାନ କରନ୍ତୁ</string>
+    <string name="spoken_description_dock_keyboard">କୀବୋର୍ଡ ଡକ୍ କରନ୍ତୁ</string>
+    <string name="floating_keyboard_drag_handle">କୀବୋର୍ଡ ସରାନ୍ତୁ</string>
+    <string name="floating_keyboard_resize_handle">କୀବୋର୍ଡ ଆକାର ବଦଳାନ୍ତୁ</string>
+    <string name="floating_keyboard_reset">"ରିସେଟ କରନ୍ତୁ"</string>
+    <string name="floating_keyboard_hide">କୀବୋର୍ଡ ଲୁଚାନ୍ତୁ</string>
+    <string name="floating_keyboard_switch_ime">"ଇନପୁଟ ପଦ୍ଧତି ସ୍ୱିଚ କରନ୍ତୁ"</string>
+</resources>

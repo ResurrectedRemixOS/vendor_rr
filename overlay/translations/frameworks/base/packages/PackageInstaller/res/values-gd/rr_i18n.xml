@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="update">Ùraich</string>
+    <string name="more_details">Barrachd fiosrachaidh</string>
+    <string name="archive">Tasg-lann</string>
+    <string name="unarchive_error_generic_title">Chaidh rudeigin ceàrr</string>
+    <string name="unarchive_error_storage_title">Chan eil stòras gu leòr ann</string>
+    <string name="unarchive_clear_storage_button">Glan an stòras</string>
+    <string name="title_install_failed_less_storage">Chan eil stòras gu leòr ann</string>
+    <string name="title_uninstall_app_not_found">Cha deach an aplacaid a lorg</string>
+    <string name="title_restore_error_less_storage">Chan eil stòras gu leòr ann</string>
+    <string name="title_restore_error_generic">Chaidh rudeigin ceàrr</string>
+    <string name="message_anonymous_source_warning" product="default">        Tha am fòn ’s an dàta pearsanta agad nas so-leònta
+        a thaobh ionnsaighean o aplacaidean nach aithne dhuinn. Ma stàlaicheas tu an aplacaid seo,
+        aontaichidh tu gu bheil thu fhèin an urra ri
+        dochann sam bith air an fhòn agad no call dàta sam bith a dh’èireas o chleachdadh na h-aplacaid seo ma dh’fhaoidte.
+    </string>
+    <string name="message_anonymous_source_warning" product="tablet">        Tha an tablaid ’s an dàta pearsanta agad nas so-leònta
+        a thaobh ionnsaighean o aplacaidean nach aithne dhuinn. Ma stàlaicheas tu an aplacaid seo,
+        aontaichidh tu gu bheil thu fhèin an urra ri
+        dochann sam bith air an tablaid agad no call dàta sam bith a dh’èireas o chleachdadh na h-aplacaid seo ma dh’fhaoidte.
+    </string>
+    <string name="message_anonymous_source_warning" product="tv">        Tha an TBh ’s an dàta pearsanta agad nas so-leònta
+        a thaobh ionnsaighean o aplacaidean nach aithne dhuinn. Ma stàlaicheas tu an aplacaid seo,
+        aontaichidh tu gu bheil thu fhèin an urra ri
+        dochann sam bith air an TBh agad no call dàta sam bith a dh’èireas o chleachdadh na h-aplacaid seo ma dh’fhaoidte.
+    </string>
+    <string name="button_install">Stàlaich</string>
+    <string name="button_update">Ùraich</string>
+    <string name="button_done">Deiseil</string>
+    <string name="button_cancel">Sguir dheth</string>
+    <string name="button_continue">Air adhart</string>
+    <string name="button_uninstall">Dì-stàlaich</string>
+    <string name="button_delete">Sguab às</string>
+    <string name="button_manage_apps">Stiùir aplacaidean</string>
+    <string name="button_archive">Tasg-lann</string>
+    <string name="button_uninstall_updates_system_app">Dì-stàlaich na h-ùrachaidhean</string>
+    <string name="button_settings">Roghainnean</string>
+    <string name="button_retry">Feuch ris a‑rithist</string>
+</resources>

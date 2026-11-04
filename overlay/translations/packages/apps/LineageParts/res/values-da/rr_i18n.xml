@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pulse_length_blink">Blink</string>
+    <string name="charging_control_limit_summary">Aktuel grænse: %d %%</string>
+    <string name="live_display_color_profile_preview">"Forhåndsvisning af farve"</string>
+    <string name="live_display_color_profile_dci_p3_summary">Farver, der er nøjagtige i DCI-P3-farverummet</string>
+    <string name="live_display_reading_mode_summary">Gråtonetilstand til langvarig læsning</string>
+    <string name="volume_panel_position_title">Position for lydstyrkepanel</string>
+    <string name="click_partial_screenshot_title">Klik for delvis screenshot</string>
+    <string name="click_partial_screenshot_summary">Tryk kort på lydstyrke ned og tænd/sluk-knappen for at tage et delvist screenshot</string>
+    <string name="navigation_bar_edge_long_swipe_title">Handling ved lang swipe fra kanten</string>
+    <string name="toggleLocation">"Lokation"</string>
+    <string name="status_bar_battery_style_icon_landscape">Ikon i liggende tilstand</string>
+    <string name="status_bar_battery_style_dotted_circle">Prikket cirkel</string>
+    <string name="status_bar_brightness_slider_show_expanded">Vis når udvidet</string>
+    <string name="status_bar_brightness_slider_show_always">Vis altid</string>
+    <string name="status_bar_brightness_slider_position_title">Position for lysstyrkeskyder</string>
+    <string name="status_bar_brightness_slider_position_top">Top</string>
+    <string name="status_bar_brightness_slider_position_bottom">Nederst</string>
+    <string name="network_traffic_autohide_summary">Skjul trafikmåleren, når der ingen aktivitet er</string>
+    <string name="network_traffic_hide_arrows">Skjul pile</string>
+    <string name="network_traffic_hide_arrows_summary">Skjul pile for upload- og download-retning</string>
+    <string name="network_traffic_units_auto">Automatisk (kB/s eller MB/s)</string>
+    <string name="network_traffic_show_units_compact">Kompakt</string>
+    <string name="network_traffic_disabled_clock">Netværkstrafik deaktiveret på grund af urets position</string>
+    <string name="contributions_info_msg"><![CDATA[<b>Samlet antal bidragydere:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/> <b>Samlet antal commits:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/> <b>Seneste opdatering:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
+    <string name="long_screen_settings_title">Apps i fuld skærm</string>
+    <string name="long_screen_settings_summary">Tving ældre apps til at bruge fuldskærmsformatet</string>
+    <string name="long_screen_settings_no_apps">"Ingen apps"</string>
+    <string name="touchscreen_gesture_single_tap_title">Enkelt tryk</string>
+    <string name="touchscreen_gesture_action_ambient_display">Vis omgivelsesskærm</string>
+    <string name="trust_feature_selinux_value_enforcing">"Håndhæver"</string>
+    <string name="trust_feature_selinux_explain">SELinux bestemmer, hvilke processer der har adgang til hvilke filer og stier på din enhed.\nDette forhindrer apps og tjenester i at få adgang til filer, de ikke må tilgå. På den måde begrænses en eventuel skadelig proces, og din sikkerhed bevares.</string>
+    <string name="trust_warnings_alerts_intro">Du kan vælge, hvilke sikkerhedsproblemer du vil have advarsler om. For din sikkerhed anbefales det at aktivere alle advarsler</string>
+    <string name="trust_warnings_keys">Build-signatur</string>
+    <string name="trust_onboarding_description">Tillid hjælper dig med at holde din enhed sikker og beskytte dit privatliv.\nTillidsikonet vises kun, når indholdet på siden er blevet verificeret.</string>
+    <string name="trust_restrict_usb_title">Begræns USB</string>
+    <string name="sms_security_check_limit_summary">Apps kan sende %s beskeder inden for 1 minut, før bekræftelse kræves</string>
+    <string name="sms_security_check_limit_summary_none">Apps må ikke sende beskeder uden bekræftelse</string>
+    <string name="sms_security_check_limit_always_confirm">Bekræft altid</string>
+</resources>

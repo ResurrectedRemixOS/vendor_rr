@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_screenshot">Ekrankopio</string>
+    <string name="permgrouplab_notifications">Sciigoj</string>
+    <string name="ringtone_silent">Nenio</string>
+    <string name="sim_done_button">Farite</string>
+    <string name="date_time_done">Farite</string>
+    <string name="ime_action_done">Farite</string>
+    <string name="action_mode_done">Farite</string>
+    <string name="add_account_button_label">Aldoni konton</string>
+    <string name="keyboardview_keycode_done">Farite</string>
+    <string name="action_menu_overflow_description">Pli opcioj</string>
+    <string name="media_route_controller_disconnect">Malkonekti</string>
+    <string name="accessibility_dialog_button_uninstall">Malinstali</string>
+    <string name="done_accessibility_shortcut_menu_button">Farite</string>
+    <string name="hearing_device_status_disconnected">Malkonektita</string>
+    <string name="hearing_device_status_connected">Konektita</string>
+    <string name="unnamed_user_name">Uzanto</string>
+    <string name="done_label">Farite</string>
+    <string name="zen_mode_default_events_name">Evento</string>
+    <string name="floating_toolbar_open_overflow_description">Pli opcioj</string>
+    <string name="autofill_save_yes">Konservi</string>
+    <string name="accessibility_system_action_notifications_label">Sciigoj</string>
+    <string name="accessibility_system_action_screenshot_label">Ekrankopio</string>
+    <string name="system_locale_title">Sistema implicitaĵo</string>
+    <string name="profile_label_private">Privata</string>
+    <string name="app_locked_notification_message">Nova mesaĝo</string>
+    <string name="keyboard_shortcut_group_applications_calculator">Kalkulilo</string>
+</resources>

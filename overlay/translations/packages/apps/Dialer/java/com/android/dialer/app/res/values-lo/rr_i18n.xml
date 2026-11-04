@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">ໃນລະຫວ່າງໂທ</string>
+    <string name="incall_enable_dnd_title">ເປີດໃຊ້ຫ້າມລົບກວນໃນລະຫວ່າງການໂທ</string>
+    <string name="incall_vibrate_outgoing_title">ສັ່ນເມື່ອຮັບສາຍ</string>
+    <string name="incall_vibrate_call_waiting_title">ສັ່ນເມື່ອມີສາຍລໍຖ້າ</string>
+    <string name="incall_vibrate_hangup_title">ສັ່ນເມື່ອວາງສາຍ</string>
+    <string name="incall_vibrate_45_title">ສັ່ນທຸກນາທີ</string>
+    <string name="incall_vibrate_45_summary">ສັ່ນທີ່ວິນາທີທີ 45 ຂອງທຸກນາທີໃນລະຫວ່າງການໂທອອກ</string>
+    <string name="incall_dnd_dialog_message">ເພື່ອເປີດໃຊ້ຫ້າມລົບກວນ, ແອັບໂທລະສັບຕ້ອງໄດ້ຮັບສິດຄວບຄຸມສະຖານະຫ້າມລົບກວນ.\nກະລຸນາອະນຸຍາດ.</string>
+    <string name="allow">"ອະນຸຍາດ"</string>
+    <string name="deny">"ປະຕິເສດ"</string>
+    <string name="call_recording_category_title">ການບັນທຶກການໂທ</string>
+    <string name="call_recording_format">ຮູບແບບສຽງ</string>
+    <string name="call_via">ໂທຜ່ານ</string>
+    <string name="call_via_dialog_title">ໂທຜ່ານ…</string>
+    <string name="call_log_stats_title">ສະຖິຕິ</string>
+    <string name="action_menu_helplines">ສາຍດ່ວນ</string>
+    <string name="default_dialer_text">ທ່ານຕ້ອງຕັ້ງຕົວໂທເປັນແອັບໂທລະສັບເລີ່ມຕົ້ນເພື່ອໃຊ້ງານ.</string>
+    <string name="default_dialer_action">"ຕັ້ງເປັນຄ່າເລີ່ມຕົ້ນ"</string>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Galerii"</string>
+    <string name="app_permissions_toast">Kasutaja ei andnud lube.</string>
+    <string name="reels_title">Reels</string>
+    <string name="albums_title">"Albumid"</string>
+    <string name="categories_title">Kategooriad</string>
+    <string name="library_title">"Teek"</string>
+    <string name="album_favorites">"Lemmikud"</string>
+    <string name="album_trash">"Prügikast"</string>
+    <string name="album_reels">Reels</string>
+    <string name="album_photos">"Fotod"</string>
+    <string name="album_videos">"Videod"</string>
+    <plurals name="album_thumbnail_items">
+        <item quantity="one">%d üksus</item>
+        <item quantity="other">%d üksust</item>
+    </plurals>
+    <plurals name="delete_file_forever_confirm_message">
+        <item quantity="one">Kas oled kindel, et soovid %d faili jäädavalt kustutada?</item>
+        <item quantity="other">Kas oled kindel, et soovid %d faili jäädavalt kustutada?</item>
+    </plurals>
+    <plurals name="delete_file_forever_successful">
+        <item quantity="one">%d fail kustutati jäädavalt</item>
+        <item quantity="other">%d faili kustutati jäädavalt</item>
+    </plurals>
+    <plurals name="delete_file_forever_unsuccessful">
+        <item quantity="one">%d faili ei õnnestunud jäädavalt kustutada</item>
+        <item quantity="other">%d faili ei õnnestunud jäädavalt kustutada</item>
+    </plurals>
+    <plurals name="move_file_to_trash_confirm_message">
+        <item quantity="one">Kas oled kindel, et soovid %d faili prügikasti teisaldada?</item>
+        <item quantity="other">Kas oled kindel, et soovid %d faili prügikasti teisaldada?</item>
+    </plurals>
+    <plurals name="move_file_to_trash_successful">
+        <item quantity="one">%d fail teisaldati prügikasti</item>
+        <item quantity="other">%d faili teisaldati prügikasti</item>
+    </plurals>
+    <plurals name="move_file_to_trash_unsuccessful">
+        <item quantity="one">%d faili ei õnnestunud prügikasti teisaldada</item>
+        <item quantity="other">%d faili ei õnnestunud prügikasti teisaldada</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_confirm_message">
+        <item quantity="one">Kas oled kindel, et soovid %d faili prügikastist taastada?</item>
+        <item quantity="other">Kas oled kindel, et soovid %d faili prügikastist taastada?</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_successful">
+        <item quantity="one">%d fail taastati prügikastist</item>
+        <item quantity="other">%d faili taastati prügikastist</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_unsuccessful">
+        <item quantity="one">%d faili ei õnnestunud prügikastist taastada</item>
+        <item quantity="other">%d faili ei õnnestunud prügikastist taastada</item>
+    </plurals>
+    <string name="manage_media_permission_title">Meediaõiguste haldamine</string>
+    <string name="manage_media_permission_message">Pildi- ja videofailide paremaks haldamiseks luba rakendusel hallata sinu meediafaile</string>
+    <string name="media_info_unknown">"Teadmata"</string>
+    <string name="media_info_add_description_hint">Lisa kirjeldus</string>
+    <string name="media_info_write_description_failed">Meedia kirjelduse muutmine ebaõnnestus</string>
+    <string name="media_info_location_loading_placeholder">Laadimine…</string>
+    <string name="media_info_location_open_with">Vaata asukohta rakendusega</string>
+    <string name="intent_action_not_supported">Toiming pole toetatud</string>
+    <string name="intent_media_not_found">Meediat ei leitud</string>
+    <string name="intent_media_type_not_found">Meediatüüpi ei leitud</string>
+    <string name="intent_media_type_not_supported">Meediatüüp pole toetatud</string>
+    <string name="intent_no_system_wallpaper_cropper_available">Süsteemset lõikurit pole saadaval</string>
+    <string name="intent_wallpaper_cannot_be_changed">Taustapilti ei saa muuta</string>
+    <string name="file_action_add_to_favorites">"Lisa lemmikutesse"</string>
+    <string name="file_action_delete_forever">"Kustuta lõplikult"</string>
+    <string name="file_action_edit">"Muuda"</string>
+    <string name="file_action_empty_trash">"Tühjenda prügikast"</string>
+    <string name="file_action_information">"Teave"</string>
+    <string name="file_action_move_to_trash">"Teisalda prügikasti"</string>
+    <string name="file_action_remove_from_favorites">Eemalda lemmikutest</string>
+    <string name="file_action_restore_from_trash">Taasta prügikastist</string>
+    <string name="file_action_share">"Jaga"</string>
+    <string name="file_action_use_as">Kasuta kui</string>
+    <string name="file_action_undo_action">"Võta tagasi"</string>
+    <string name="no_media">Meediat pole</string>
+    <plurals name="thumbnail_selection_count">
+        <item quantity="one">%d valitud</item>
+        <item quantity="other">%d valitud</item>
+    </plurals>
+    <string name="pick_a_photo">Vali foto</string>
+    <string name="pick_a_video">Vali video</string>
+    <string name="pick_a_media">Vali meedia</string>
+    <string name="picker_done">"Valmis"</string>
+    <string name="set_wallpaper_label">"Taustapilt"</string>
+    <string name="set_wallpaper">"Määra taustapilt"</string>
+    <string name="set_wallpaper_dialog_title">"Määra taustapildiks:"</string>
+    <string name="set_wallpaper_home_screen">"Avakuva"</string>
+    <string name="set_wallpaper_lock_screen">"Lukustuskuva"</string>
+    <string name="set_wallpaper_both">Avakuva ja lukustuskuva</string>
+    <string name="warning_bin_time_period">Failid kustutatakse jäädavalt 30 päeva pärast.</string>
+    <string name="motion_photo_show_video">Näita videot</string>
+    <string name="motion_photo_show_photo">Näita fotot</string>
+    <string name="title_activity_settings">"Seaded"</string>
+    <string name="general_header">"Üldine"</string>
+    <string name="video_header">Video</string>
+    <string name="edge_tap_navigation_enable_title">Serva puudutusega navigeerimine</string>
+    <string name="edge_tap_navigation_enabled_description">Meedia vahel liikumiseks puuduta ekraani vasakut või paremat serva</string>
+    <string name="double_tap_to_seek_enabled_title">Luba topeltpuudutusega kerimine</string>
+    <string name="double_tap_to_seek_enabled_description">Video vasakule või paremale poolele topeltpuudutamisega kerid tagasi või edasi</string>
+    <string name="double_tap_to_seek_seconds_title">Topeltpuudutusega kerimise samm</string>
+    <string name="double_tap_to_seek_seconds_description">Sekundid, mida kerida videot topeltpuudutades</string>
+    <string name="hide_native_seek_buttons_title">Peida algsed kerimisnupud</string>
+    <string name="hide_native_seek_buttons_description">Peida videomängija juhtnuppudelt kelmi tagasi ja edasi nupud</string>
+    <string name="remember_video_playback_position_enabled_title">Jäta meelde esitusasend</string>
+    <string name="remember_video_playback_position_enabled_description">Jätka videoid viimasest peatatud kohast</string>
+</resources>

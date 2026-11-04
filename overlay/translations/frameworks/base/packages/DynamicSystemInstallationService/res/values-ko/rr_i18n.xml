@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">동적 시스템 업데이트</string>
+    <string name="notification_channel_name">동적 시스템 업데이트</string>
+    <string name="keyguard_title">동적 시스템 업데이트</string>
+</resources>

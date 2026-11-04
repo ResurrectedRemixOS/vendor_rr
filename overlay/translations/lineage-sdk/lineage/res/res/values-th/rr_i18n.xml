@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">ความเร็วในการชาร์จ</string>
+    <string name="charging_speed_slow">"ช้า"</string>
+    <string name="charging_speed_fast">"เร็ว"</string>
+    <string name="charging_speed_super_fast">เร็วมาก</string>
+    <string name="charging_control_notification_channel">การควบคุมการชาร์จ</string>
+    <string name="charging_control_notification_title">การควบคุมการชาร์จ</string>
+    <string name="charging_control_notification_cancel_once">"ยกเลิก"</string>
+    <string name="charging_control_notification_content_limit">แบตเตอรี่จะชาร์จถึง %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">แบตเตอรี่ชาร์จถึง %1$d%%</string>
+    <string name="charging_control_notification_content_target">แบตเตอรี่จะชาร์จเต็มเวลา %1$s</string>
+    <string name="charging_control_notification_content_target_reached">แบตเตอรี่ชาร์จแล้ว</string>
+</resources>

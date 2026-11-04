@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_split_keyboard_summary">Solo in orizzontale</string>
+    <string name="split_keyboard_duplicate_keys">Duplica i tasti centrali</string>
+    <string name="split_keyboard_duplicate_keys_summary">Mostra i tasti vicino al centro su entrambe le metà</string>
+    <string name="spoken_description_split_keyboard">Tastiera divisa</string>
+    <string name="spoken_description_merge_keyboard">Tastiera unita</string>
+    <string name="spoken_description_float_keyboard">Tastiera mobile</string>
+    <string name="spoken_description_dock_keyboard">Tastiera ancorata</string>
+    <string name="floating_keyboard_drag_handle">Sposta tastiera</string>
+    <string name="floating_keyboard_resize_handle">Ridimensiona tastiera</string>
+    <string name="floating_keyboard_reset">"Reimposta"</string>
+    <string name="floating_keyboard_hide">Nascondi tastiera</string>
+    <string name="floating_keyboard_switch_ime">"Cambia metodo di immissione"</string>
+</resources>

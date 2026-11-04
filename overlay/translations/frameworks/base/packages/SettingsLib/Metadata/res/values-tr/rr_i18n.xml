@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Bir mantıksal (boolean) değer.</string>
+    <string name="any_int_type_description">Bir tam sayı değeri.</string>
+    <string name="any_string_type_description">Bir metin (string) değeri.</string>
+    <string name="display_id_type_description">Bir sistem ekran tanımlayıcısı (yapılandırmaya göre dahili veya harici olabilir).</string>
+    <string name="installed_package_name_type_description">Cihaza yüklü herhangi bir paket.</string>
+    <string name="int_in_range_type_description_from">%1$d değerine eşit veya bundan büyük, %2$d adımlı bir tam sayı.</string>
+    <string name="int_in_range_type_description_to">%1$d değerine eşit veya bundan küçük, %2$d adımlı bir tam sayı.</string>
+    <string name="int_in_range_type_description_between">[%1$d, %2$d] aralığında, %3$d adımlı bir tam sayı.</string>
+    <string name="time_of_day_type_description">24 saatlik HH:mm biçiminde tanımlanan bir gün saati.</string>
+    <string name="time_duration_type_description">Saniye hassasiyetinde tam sayı olarak ifade edilen bir süre.</string>
+    <string name="sim_slot_id_type_description">Geçerli bir SIM yuvası kimliği.</string>
+    <string name="subscription_id_type_description">Geçerli bir abonelik kimliği.</string>
+    <string name="wifi_ssid_type_description">Bir Wi-Fi ağının SSID\'si.</string>
+</resources>

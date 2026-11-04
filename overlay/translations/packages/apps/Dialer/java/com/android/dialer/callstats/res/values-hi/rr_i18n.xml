@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hour">
+        <item quantity="other">%d घंटे</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="two">%d मिनट</item>
+        <item quantity="few">%d मिनट</item>
+        <item quantity="many">%d मिनट</item>
+        <item quantity="zero">%d मिनट</item>
+        <item quantity="other">%d मिनट</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="two">%d सेकंड</item>
+        <item quantity="few">%d सेकंड</item>
+        <item quantity="many">%d सेकंड</item>
+        <item quantity="zero">%d सेकंड</item>
+        <item quantity="other">%d सेकंड</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="two">%d कॉल</item>
+        <item quantity="few">%d कॉल</item>
+        <item quantity="many">%d कॉल</item>
+        <item quantity="zero">%d कॉल</item>
+        <item quantity="other">%d कॉल</item>
+    </plurals>
+    <string name="call_stats_detail_title">कॉन्टैक्ट आंकड़ों का विवरण</string>
+    <string name="call_stats_incoming">आने वाली: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">जाने वाली: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">छूटी हुई: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">ब्लॉक की गई: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">कुल: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">कुल: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"प्रारंभ दिनांक"</string>
+    <string name="call_stats_filter_to">"समाप्ति दिनांक"</string>
+    <string name="call_stats_filter_picker_title">समय सीमा फ़िल्टर करें</string>
+    <string name="date_quick_selection">त्वरित चयन</string>
+    <string name="date_qs_currentmonth">चालू महीना</string>
+    <string name="date_qs_currentquarter">चालू तिमाही</string>
+    <string name="date_qs_currentyear">चालू वर्ष</string>
+    <string name="date_qs_lastweek">"पिछला हफ़्ता"</string>
+    <string name="date_qs_lastmonth">"पिछला महीना"</string>
+    <string name="date_qs_lastquarter">पिछली तिमाही</string>
+    <string name="date_qs_lastyear">"पिछला साल"</string>
+    <string name="call_stats_date_filter">समय सीमा समायोजित करें</string>
+    <string name="call_stats_reset_filter">समय सीमा रीसेट करें</string>
+    <string name="call_stats_sort_by_duration">कॉल अवधि के अनुसार क्रमबद्ध करें</string>
+    <string name="call_stats_sort_by_count">कॉल संख्या के अनुसार क्रमबद्ध करें</string>
+    <string name="call_stats_title_for_number">यह संख्या</string>
+    <string name="call_stats_title_of_total">कुल का</string>
+    <string name="call_stats_title_durations">कॉल अवधि</string>
+    <string name="call_stats_title_count">कॉल संख्या</string>
+    <string name="call_stats_title_average_duration">औसत कॉल अवधि</string>
+    <string name="recent_calls_no_items_in_range">आपके कॉल लॉग में चुनी गई समय सीमा में कोई कॉल नहीं है।</string>
+</resources>

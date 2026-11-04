@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="remove_custom_preset_warning_message">Kas oled kindel, et soovid eemaldada %1$s?</string>
+</resources>

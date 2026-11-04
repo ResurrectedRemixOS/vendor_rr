@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_password">Talrække til adgangskoder</string>
+    <string name="number_row_password_summary">Vis altid en talrække for alle layouts med 4 tastrækker til adgangskodeindtastning</string>
+    <string name="backspace_trackpad">Styreflade på tilbageslettasten</string>
+    <string name="backspace_trackpad_summary">Stryg på tilbageslettasten for at slette ord</string>
+    <string name="enable_split_keyboard_summary">Kun i landskab</string>
+    <string name="split_keyboard_duplicate_keys">Dupliker midterste taster</string>
+    <string name="split_keyboard_duplicate_keys_summary">Vis taster tæt på midten på begge halvdele</string>
+    <string name="spoken_description_split_keyboard">Delt tastatur</string>
+    <string name="spoken_description_merge_keyboard">Sammenflet tastatur</string>
+    <string name="spoken_description_float_keyboard">Svævende tastatur</string>
+    <string name="spoken_description_dock_keyboard">Forankret tastatur</string>
+    <string name="floating_keyboard_drag_handle">Flyt tastatur</string>
+    <string name="floating_keyboard_resize_handle">Ændr størrelse på tastatur</string>
+    <string name="floating_keyboard_reset">"Nulstil"</string>
+    <string name="floating_keyboard_hide">Skjul tastatur</string>
+    <string name="floating_keyboard_switch_ime">"Skift indtastningsmetode"</string>
+</resources>

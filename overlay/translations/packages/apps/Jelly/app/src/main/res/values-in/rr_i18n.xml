@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_go_forward">Maju</string>
+    <string name="pref_web_debugging_title">Debugging web</string>
+    <string name="pref_web_debugging_summary">Izinkan memeriksa halaman web melalui chrome://inspect dengan USB debugging</string>
+    <string name="pref_fullscreen_shortcuts_title">Pintasan layar penuh</string>
+    <string name="pref_fullscreen_shortcuts_summary">Paksa pintasan dibuka dalam mode layar penuh</string>
+    <string name="protected_media_dialog_message">Izinkan media yang dilindungi?</string>
+</resources>

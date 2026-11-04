@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX ඔබේ පෙරනිමි ඵල පාලන පුවරුව නොවේ.</string>
+    <string name="snack_bar_not_default_set">"පෙරනිමි ලෙස සකසන්න"</string>
+    <string name="snack_bar_not_default_not_now">"දැන් නොවේ"</string>
+    <string name="multimedia">බහුමාධ්‍ය</string>
+    <string name="custom_n">අභිරුචි <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="device_line_out">රේඛා ප්‍රතිදානය</string>
+    <string name="devices">"උපාංග"</string>
+    <string name="virtualizer">වර්චුවලයිසර්</string>
+    <string name="bass">බේස්</string>
+    <string name="rename">"යළි නම් කරන්න"</string>
+    <string name="remove_custom_preset_warning_message">ඔබට %1$s ඉවත් කිරීමට අවශ්‍ය බව ස්ථිරද?</string>
+    <string name="picker_title">සංගීත ඵල පාලන පුවරුව</string>
+</resources>

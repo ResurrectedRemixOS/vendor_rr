@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM-instellings</string>
+    <string name="esim_toggle_title">"e-SIM"</string>
+    <string name="esim_toggle_summary">Laai \'n operateurprofiel af en aktiveer dit om \'n virtuele SIM-kaart te gebruik</string>
+    <string name="esim_toggle_dialog_cancel">"Kanselleer"</string>
+</resources>

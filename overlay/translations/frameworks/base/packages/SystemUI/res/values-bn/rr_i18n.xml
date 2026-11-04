@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">"পরিবেশের আলো অনুযায়ী উজ্জ্বলতা"</string>
+    <string name="status_bar_icons_title">স্ট্যাটাস বার আইকন</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_reading_mode">রিডিং মোড</string>
+    <string name="accessibility_quick_settings_reading_mode_on">রিডিং মোড চালু।</string>
+    <string name="accessibility_quick_settings_reading_mode_off">রিডিং মোড বন্ধ।</string>
+    <string name="vpn_credentials_dialog_connect">"কানেক্ট করুন"</string>
+    <string name="status_bar_firewall">ফায়ারওয়াল</string>
+    <string name="battery_notification_channel_tv">ব্যাটারি সতর্কতা</string>
+    <string name="screenshot_delete_label">"মুছুন"</string>
+    <string name="screenshot_delete_description">স্ক্রিনশট মুছুন</string>
+    <string name="screenrecord_lowquality_label">নিম্ন মানের</string>
+    <string name="screenrecord_lowquality_summary">ছোট ফাইল আকারের জন্য</string>
+    <string name="screenrecord_longer_timeout_switch_label">বড় ফাইল আকারের সীমা</string>
+    <string name="screenrecord_longer_timeout_switch_summary">রেকর্ডিং আকার ১৫ GB-তে সীমাবদ্ধ করুন</string>
+    <string name="screenrecord_skip_time_label">স্কিপ টাইমার</string>
+    <string name="screenrecord_skip_time_summary">৩ সেকেন্ডের অপেক্ষা সরান</string>
+    <string name="screenrecord_hevc_switch_label">HEVC এনকোডিং</string>
+    <string name="screenrecord_hevc_switch_summary">আরও কার্যকর HEVC এনকোডার ব্যবহার করুন</string>
+    <string name="zen_alarm_warning_indef">"<xliff:g id="WHEN">%1$s</xliff:g> এর আগে এটি বন্ধ না করা পর্যন্ত পরবর্তী অ্যালার্ম শুনতে পাবেন না"</string>
+</resources>

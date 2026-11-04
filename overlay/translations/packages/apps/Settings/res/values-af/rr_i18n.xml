@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"verstek"</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"verstek"</item>
+        <item>son</item>
+        <item>ma</item>
+        <item>di</item>
+        <item>wo</item>
+        <item>do</item>
+        <item>vr</item>
+        <item>sa</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"verstek"</item>
+        <item>metrieke</item>
+        <item>VSA-stelsel</item>
+        <item>VK-stelsel</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Nie gespesifiseer nie"</item>
+        <item>"Neutraal"</item>
+        <item>"Vroulik"</item>
+        <item>"Manlik"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">Ekstras</string>
+    <string name="advanced_keyboard_settings_title">"Gevorderde instellings"</string>
+    <string name="adb_enable_root">Gewortelde ontfouting</string>
+    <string name="adb_enable_summary_root">Laat Android-ontfouting as wortel toe</string>
+    <string name="backup_transport_setting_label">Verander rugsteunverskaffer</string>
+    <string name="backup_transport_title">Kies rugsteunverskaffer</string>
+    <string name="berry_black_theme_title">Suiwer swart</string>
+    <string name="berry_black_theme_summary">Suiwer swart agtergrond vir donker tema</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Jy is nou # stap weg van die aktivering van ontwikkelaarinstellings.} other {Jy is nou # stappe weg van die aktivering van ontwikkelaarinstellings.} }</string>
+    <string name="status_bar_double_tap_to_sleep_title">Tik om te slaap</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dubbeltik op die statusbalk of sluitskerm om die skerm af te skakel</string>
+    <string name="high_touch_polling_rate_title">Hoë aanraakpeilfrekwensie</string>
+    <string name="high_touch_polling_rate_summary">Verhoog die aanraakskermpeilfrekwensie</string>
+    <string name="tethering_allow_vpn_upstreams_title">Gebruik VPN vir gekoppelde toestelle</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Wanneer hierdie toestel \'n VPN gebruik, sal alle toestelle wat aan die warmkol gekoppel is, dieselfde VPN gebruik</string>
+    <string name="max_refresh_rate_title">Piek-verversingstempo</string>
+    <string name="min_refresh_rate_title">Minimum verversingstempo</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Soek die vingerafdruksensor op die voorkant van jou tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Soek die vingerafdruksensor op die voorkant van jou toestel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Soek die vingerafdruksensor op die voorkant van jou foon.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Soek die vingerafdruksensor op die agterkant van jou tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Soek die vingerafdruksensor op die agterkant van jou toestel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Soek die vingerafdruksensor op die agterkant van jou foon.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Soek die vingerafdruksensor aan die kant van jou tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Soek die vingerafdruksensor aan die kant van jou toestel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Soek die vingerafdruksensor aan die kant van jou foon.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Raak die sensor op die voorkant van jou tablet aan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Raak die sensor op die voorkant van jou toestel aan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Raak die sensor op die voorkant van jou foon aan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Raak die sensor op die agterkant van jou tablet aan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Raak die sensor op die agterkant van jou toestel aan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Raak die sensor op die agterkant van jou foon aan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Raak die sensor aan die kant van jou tablet aan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Raak die sensor aan die kant van jou toestel aan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Raak die sensor aan die kant van jou foon aan.</string>
+    <string name="show_navbar_hint_title">Navigasiewenk</string>
+    <string name="show_navbar_hint_summary">Wys navigasiewenkbalk onderaan die skerm</string>
+    <string name="auto_brightness_one_shot_title">Eenmalige outomatiese helderheid</string>
+    <string name="auto_brightness_one_shot_summary">Helderheidsaanpassing sal slegs gebeur op die oomblik wanneer die skerm aangeskakel word</string>
+    <string name="data_usage_app_restrict_all">Staan netwerktoegang toe</string>
+    <string name="data_usage_app_restrict_all_summary">Aktiveer netwerkgebruik</string>
+    <string name="data_usage_app_restrict_mobile">"Mobiele data"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Aktiveer mobiele dataverbruik</string>
+    <string name="data_usage_app_restrict_vpn">VPN-data</string>
+    <string name="data_usage_app_restrict_vpn_summary">Aktiveer VPN-dataverbruik</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi-data"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Aktiveer Wi‑Fi-dataverbruik</string>
+    <string name="proximity_wake_summary">Kontroleer die nabyheidsensor voordat die skerm wakker gemaak word</string>
+    <string name="storage_warning_internal">Waarskuwing: Hierdie opsie werk moontlik nie behoorlik nie en kan tot dataverlies lei, en word dus nie aanbeveel nie!</string>
+    <string name="assisted_gps">Gebruik bygestane GPS</string>
+    <string name="assisted_gps_summary">Laai satellietbystandsdata van die internet af, wat die GPS-begin aansienlik kan verbeter. Vir noodoproepe is bygestane GPS altyd toegelaat.</string>
+    <string name="battery_technology">Tegnologie</string>
+    <string name="battery_health">"Gesondheid"</string>
+    <string name="battery_health_good">"Goed"</string>
+    <string name="battery_health_overheat">"Oorverhit"</string>
+    <string name="battery_health_dead">"Dood"</string>
+    <string name="battery_health_over_voltage">"Oor spanning"</string>
+    <string name="battery_health_unspecified_failure">Ongespesifiseerde fout</string>
+    <string name="battery_health_cold">"Koud"</string>
+    <string name="battery_health_unknown">"Onbekend"</string>
+    <string name="battery_temperature">"Temperatuur"</string>
+    <string name="battery_voltage">Spanning</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Ontwerpkapasiteit</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Maksimum kapasiteit</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Vou foon op tydens opstelling</string>
+    <string name="face_enrolling_close_to_continue_description">Die foon moet opgevou wees om Gesigontsluiting op te stel of te gebruik</string>
+    <string name="face_enrolling_do_it_later">"Doen dit later"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM-gereedskapstel</string>
+    <string name="platform_compat_target_sdk_title">Geaktiveer vir targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Persoonlike Konteksbestuurder</string>
+</resources>

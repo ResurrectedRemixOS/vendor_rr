@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">जवळपासची ठिकाणे</string>
+    <string name="lookup_settings_label">फोन नंबर शोध</string>
+    <string name="enable_forward_lookup_title">फॉरवर्ड लुकअप</string>
+    <string name="enable_forward_lookup_summary">डायलरमध्ये शोधताना जवळपासची ठिकाणे दाखवा</string>
+    <string name="enable_reverse_lookup_title">रिव्हर्स लुकअप</string>
+    <string name="enable_reverse_lookup_summary">येणाऱ्या अज्ञात नंबरसाठी व्यक्ती किंवा ठिकाणाची माहिती शोधा</string>
+    <string name="forward_lookup_provider_title">फॉरवर्ड लुकअप प्रदाता</string>
+    <string name="reverse_lookup_provider_title">रिव्हर्स लुकअप प्रदाता</string>
+    <string name="lookup_disclaimer">माहिती गोळा करण्यासाठी लुकअप सुरक्षित प्रोटोकॉल (https) द्वारे दूरस्थ वेबसाइटवर क्वेरी पाठवू शकतात. क्वेरीमध्ये समोरच्या व्यक्तीचा फोन नंबर किंवा शोध मजकूर असू शकतो</string>
+</resources>

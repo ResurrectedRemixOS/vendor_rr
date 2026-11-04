@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ringtone_default">كۆڭۈلدىكى قوڭغۇراق ئاۋازى</string>
+    <string name="notification_sound_default">كۆڭۈلدىكى ئۇقتۇرۇش ئاۋازى</string>
+    <string name="alarm_sound_default">كۆڭۈلدىكى قوڭغۇراق ئاۋازى</string>
+    <string name="add_alarm_text">قوڭغۇراق قوش</string>
+    <string name="delete_ringtone_text">ئۆچۈر</string>
+</resources>

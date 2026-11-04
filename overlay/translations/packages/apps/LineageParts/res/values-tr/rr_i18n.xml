@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="live_display_color_profile_preview">"Renk önizleme"</string>
+    <string name="volume_panel_position_title">Ses paneli konumu</string>
+    <string name="status_bar_battery_style_dotted_circle">Daire (Noktalı)</string>
+    <string name="network_traffic_hide_arrows">Okları gizle</string>
+    <string name="network_traffic_hide_arrows_summary">Yükleme ve indirme yönü oklarını gizle</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="find_in_page">Sykje op side</string>
+    <string name="share">Diele</string>
+    <string name="download">Downloade</string>
+    <string name="print">Ofdrukke</string>
+</resources>

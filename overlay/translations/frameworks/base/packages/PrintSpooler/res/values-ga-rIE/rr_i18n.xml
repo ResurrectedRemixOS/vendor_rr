@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_button">Socraigh suas</string>
+    <string name="printing_notification_title_template">Ag priontáil <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g></string>
+    <string name="cancelling_notification_title_template">Ag cealú <xliff:g id="print_job_name" example="foo.jpg">%1$s</xliff:g></string>
+</resources>

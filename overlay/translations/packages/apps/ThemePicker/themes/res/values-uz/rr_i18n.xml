@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Klassik</string>
+    <string name="bundle1_color_name">Karbon</string>
+    <string name="bundle2_color_name">Qog‘oz</string>
+    <string name="bundle3_color_name">Quyosh</string>
+    <string name="bue_color_name">Lavanda</string>
+    <string name="red_color_name">Mevali</string>
+    <string name="wht_color_name">Tuman</string>
+    <string name="indigo_color_name">Indigo</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Yashma</string>
+    <string name="lemongrass_color_name">Limon o‘ti</string>
+    <string name="moonstone_color_name">Oy toshi</string>
+    <string name="obsidian_color_name">Obsidian</string>
+    <string name="peony_color_name">Pion</string>
+    <string name="porcelain_color_name">Chinni</string>
+    <string name="fruit1_color_name">Sariq va qizil ikki rangli palitra</string>
+    <string name="fruit2_color_name">Yashil va to‘q sariq ikki rangli palitra</string>
+    <string name="fruit3_color_name">Ko‘k va yashil ikki rangli palitra</string>
+    <string name="fruit4_color_name">Och binafsha va ko‘k ikki rangli palitra</string>
+    <string name="fruit5_color_name">Pushti va indigo ikki rangli palitra</string>
+</resources>

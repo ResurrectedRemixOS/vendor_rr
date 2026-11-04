@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_euicc">Configurer l\'eSIM</string>
+    <string name="esim_support_summary">Configurez une eSIM ou insérez une carte SIM. Pour insérer une carte SIM, lisez les instructions fournies avec votre appareil.</string>
+    <string name="sim_missing_skip_title">Ignorer la configuration de la SIM ?</string>
+    <string name="sim_missing_skip_message">Si vous ignorez cette étape, vous ne serez pas connecté à un réseau mobile tant que vous n\'aurez pas configuré une SIM dans les Paramètres.</string>
+    <string name="setup_24_hour_format">"Utiliser le format 24 heures"</string>
+    <string name="location_summary">Choisissez la façon dont votre appareil gère sa position</string>
+    <string name="location_access_title">"Utiliser la localisation"</string>
+    <string name="location_agps_access_title">Localisation améliorée</string>
+    <string name="services_find_privacy_policy">Vous pouvez lire la politique de confidentialité sur un autre appareil en visitant :</string>
+    <string name="services_metrics_title">Envoyer des données de diagnostic</string>
+    <string name="pure_black_theme">Utiliser un fond noir pur</string>
+    <string name="theme_preview">Aperçu du thème</string>
+    <string name="swipe_up_to_go_home">"Balayez vers le haut pour revenir à l\'accueil"</string>
+    <string name="tap_home_to_go_home">Appuyez sur l\'icône de navigation centrale pour revenir à l\'écran d\'accueil</string>
+    <string name="press_center_to_go_home">Appuyez sur le bouton central pour revenir à l\'écran d\'accueil</string>
+</resources>

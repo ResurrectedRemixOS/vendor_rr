@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="main_fragment_section_search">Serĉi</string>
+    <string name="audio_file_type_unknown">Nekonata</string>
+    <string name="audio_sample_rate_unknown">Nekonata</string>
+    <string name="audio_channel_count_unknown">Nekonata</string>
+    <string name="audio_encoding_unknown">Nekonata</string>
+    <string name="audio_output_mode_unknown">Nekonata</string>
+    <string name="audio_bitrate_unknown">Nekonata</string>
+    <string name="audio_output_device_name">Nomo</string>
+    <string name="audio_output_device_name_unknown">Nekonata</string>
+    <string name="audio_output_device_type_unknown">Nekonata</string>
+    <string name="audio_format_compression_unknown">Nekonata</string>
+    <string name="provider_argument_server">Servilo</string>
+    <string name="provider_argument_username">Uzantnomo</string>
+    <string name="provider_argument_password">Pasvorto</string>
+    <string name="save_provider_action">Konservi</string>
+    <string name="delete_provider_action">Forigi</string>
+    <string name="provider_name">Nomo</string>
+    <string name="argument_validation_error_title">Eraro</string>
+    <string name="title_activity_settings">Agordoj</string>
+    <string name="experimental_header">Eksperimentaĵoj</string>
+    <string name="now_playing_widget_dummy_title">Titolo</string>
+    <string name="now_playing_widget_dummy_artist">Artisto</string>
+    <string name="sort_by_name">Nomo</string>
+    <string name="sort_by_title">Titolo</string>
+    <string name="sort_by_unknown">Nekonata</string>
+    <string name="yes">Jes</string>
+    <string name="no">Ne</string>
+    <string name="unknown">Nekonata</string>
+    <string name="subsonic_license">Permesilo</string>
+    <string name="jellyfin_version">Versio</string>
+    <string name="ampache_server">Servilo</string>
+    <string name="ampache_version">Versio</string>
+    <string name="playlist_name">Nomo</string>
+</resources>

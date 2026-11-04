@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Այբուբեն (Bépo)</string>
+    <string name="subtype_hu_ZZ">Հունգարերեն (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material՝ հետևել համակարգի կարգավորումներին</string>
+    <string name="prefs_keyboard_height_scale">Ստեղնաշարի բարձրության մասշտաբ</string>
+    <string name="number_row">Թվերի շարք</string>
+    <string name="number_row_summary">Միշտ ցուցադրել թվերի շարքը բոլոր դասավորություններում, որոնք ունեն 4 շարք ստեղներ</string>
+    <string name="number_row_password">Թվերի շարք գաղտնաբառերի համար</string>
+    <string name="number_row_password_summary">Միշտ ցուցադրել թվերի շարքը բոլոր դասավորություններում, որոնք ունեն 4 շարք ստեղներ գաղտնաբառի մուտքագրման համար</string>
+    <string name="space_trackpad">Տարածության ստեղնի թրեքփադ</string>
+    <string name="space_trackpad_summary">Սահեցրեք տարածության ստեղնի վրա՝ կուրսորը տեղափոխելու համար</string>
+    <string name="backspace_trackpad">Ջնջման ստեղնի թրեքփադ</string>
+    <string name="backspace_trackpad_summary">Սահեցրեք ջնջման ստեղնի վրա՝ բառերը ջնջելու համար</string>
+    <string name="show_longpress_hints">Ցուցադրել երկար սեղմման հուշումները</string>
+    <string name="show_longpress_hints_summary">Ցուցադրում է երկար սեղմման հուշումները աջակցվող ստեղների համար</string>
+    <string name="show_emoji_key">Ցուցադրել emoji ստեղնը</string>
+    <string name="show_emoji_key_summary">Միշտ ցուցադրել emoji ստեղնը։ Երբ այս տարբերակը միացված է, լեզվի փոխարկման ստեղնը չի կարող ցուցադրվել։</string>
+    <string name="enable_split_keyboard_summary">Միայն հորիզոնական դիրքում</string>
+    <string name="split_keyboard_duplicate_keys">Կրկնօրինակել կենտրոնական ստեղները</string>
+    <string name="split_keyboard_duplicate_keys_summary">Ցուցադրել մոտակա ստեղները երկու կեսերի մեջտեղում</string>
+    <string name="spoken_description_split_keyboard">Բաժանված ստեղնաշար</string>
+    <string name="spoken_description_merge_keyboard">Մեկնել ստեղնաշարը</string>
+    <string name="spoken_description_float_keyboard">Լողացնել ստեղնաշարը</string>
+    <string name="spoken_description_dock_keyboard">Ամրացնել ստեղնաշարը</string>
+    <string name="floating_keyboard_drag_handle">Տեղափոխել ստեղնաշարը</string>
+    <string name="floating_keyboard_resize_handle">Փոխել ստեղնաշարի չափը</string>
+    <string name="floating_keyboard_reset">"Զրոյացնել"</string>
+    <string name="floating_keyboard_hide">Թաքցնել ստեղնաշարը</string>
+    <string name="floating_keyboard_switch_ime">"Փոխել ներածման եղանակը"</string>
+</resources>

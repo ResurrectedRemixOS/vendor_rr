@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">Wonke ama-akhawunti</string>
+    <string name="call_log_all_calls_header">Wonke amakholi</string>
+    <string name="call_log_incoming_header">Amakholi angenayo kuphela</string>
+    <string name="call_log_outgoing_header">Amakholi aphumayo kuphela</string>
+    <string name="call_log_missed_header">Amakholi angaphenduliwe kuphela</string>
+    <string name="call_log_voicemail_header">Amakholi nemilayezo yesikhulumi kuphela</string>
+    <string name="call_log_blacklist_header">Amakholi avinjiwe kuphela</string>
+</resources>

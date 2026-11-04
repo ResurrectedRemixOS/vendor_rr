@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF ကြည့်ရှုစနစ်</string>
+    <string name="find_in_page">စာမျက်နှာတွင် ရှာရန်</string>
+    <string name="share">"မျှဝေရန်"</string>
+    <string name="open_with">ဖွင့်ရန်…</string>
+    <string name="download">"ဒေါင်းလုဒ် လုပ်ရန်"</string>
+    <string name="pdf_document">PDF စာရွက်စာတမ်း</string>
+    <string name="print">"စာထုတ်ရန်"</string>
+    <string name="download_successful">ဒေါင်းလုဒ် အောင်မြင်သည်</string>
+    <string name="download_error">ဖိုင်ဒေါင်းလုဒ်ဆွဲစဉ် အမှားဖြစ်ပွားခဲ့သည်</string>
+</resources>

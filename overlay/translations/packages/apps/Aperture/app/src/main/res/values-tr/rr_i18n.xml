@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="use_photo_jpeg_ultra_hdr_title">Görüntüleri JPEG Ultra HDR olarak kaydet</string>
+    <string name="use_photo_jpeg_ultra_hdr_summary">Mümkünse HDR görüntüleri iyileştirmek için görüntüleri JPEG Ultra HDR olarak kaydet</string>
+    <string name="enable_raw_image_capture_title">RAW görüntü yakalamayı etkinleştir</string>
+    <string name="enable_raw_image_capture_summary">RAW görüntü yakalamayı etkinleştirin. RAW yakalama etkinken fotoğraflar JPEG Ultra HDR olarak kaydedilemez</string>
+    <string name="disable_jpeg_with_raw_title">RAW ile JPEG\'i devre dışı bırak</string>
+    <string name="disable_jpeg_with_raw_summary">RAW görüntü yakalama etkinken JPEG\'i devre dışı bırakın</string>
+</resources>

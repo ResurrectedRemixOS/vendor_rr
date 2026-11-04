@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX သည် သင်၏ မူလအသံအကျိုးသက်ရောက်မှု ထိန်းချုပ်ရေးပြားမဟုတ်ပါ။</string>
+    <string name="snack_bar_not_default_set">"မူရင်းအဖြစ် သတ်မှတ်ရန်"</string>
+    <string name="snack_bar_not_default_not_now">"ယခုမလုပ်ပါ"</string>
+    <string name="normal">ပုံမှန်</string>
+    <string name="classical">"ဂန္ထဝင်"</string>
+    <string name="dance">"အက"</string>
+    <string name="flat">ပြား</string>
+    <string name="folk">"ရိုးရာတေးဂီတ"</string>
+    <string name="heavy_metal">"ဟဲဗီး မက်တယ်လ်"</string>
+    <string name="hip_hop">"ဟစ်ဟော့ပ်"</string>
+    <string name="electronic">အီလက်ထရောနစ်</string>
+    <string name="small_speakers">အသေးစားစပီကာများ</string>
+    <string name="multimedia">မာလ်တီမီဒီယာ</string>
+    <string name="custom">စိတ်ကြိုက်</string>
+    <string name="custom_n">စိတ်ကြိုက် <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">စပီကာမုဒ်အတွက် အကျိုးသက်ရောက်မှု မရနိုင်ပါ။</string>
+    <string name="device_headset">"မိုက်ခွက်ပါနားကြပ်"</string>
+    <string name="device_speaker">"စပီကာ"</string>
+    <string name="device_line_out">Line out</string>
+    <string name="reverb">Reverb</string>
+    <string name="devices">"စက်များ"</string>
+    <string name="virtualizer">Virtualizer</string>
+    <string name="bass">Bass</string>
+    <string name="rename">"အမည်ပြောင်းရန်"</string>
+    <string name="remove_custom_preset_warning_message">%1$s ကို ဖယ်ရှားလိုသည်မှာ သေချာပါသလား။</string>
+    <string name="picker_title">သီချင်းအကျိုးသက်ရောက်မှု ထိန်းချုပ်ရေးပြား</string>
+</resources>

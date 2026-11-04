@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Kontakt statistikasi tafsilotlari</string>
+    <string name="call_stats_incoming">Kiruvchi: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Chiquvchi: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">O‘tkazib yuborilgan: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Bloklangan: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Jami: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Jami: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">Boshlanish sanasi</string>
+    <string name="call_stats_filter_to">Tugash sanasi</string>
+    <string name="call_stats_filter_picker_title">Vaqt oralig‘i</string>
+    <string name="date_quick_selection">Tezkor tanlov</string>
+    <string name="date_qs_currentmonth">Joriy oy</string>
+    <string name="date_qs_currentquarter">Joriy chorak</string>
+    <string name="date_qs_currentyear">Joriy yil</string>
+    <string name="date_qs_lastweek">"Avvalgi hafta"</string>
+    <string name="date_qs_lastmonth">"Avvalgi oy"</string>
+    <string name="date_qs_lastquarter">Oxirgi chorak</string>
+    <string name="date_qs_lastyear">"Oʻtgan yili"</string>
+    <string name="call_stats_date_filter">Vaqt oralig‘ini sozlash</string>
+    <string name="call_stats_reset_filter">Vaqt oralig‘ini tiklash</string>
+    <string name="call_stats_sort_by_duration">Qo‘ng‘iroq davomiyligi bo‘yicha saralash</string>
+    <string name="call_stats_sort_by_count">Qo‘ng‘iroqlar soni bo‘yicha saralash</string>
+    <string name="call_stats_title_for_number">Shu raqam</string>
+    <string name="call_stats_title_of_total">Jamidan</string>
+    <string name="call_stats_title_durations">Qo‘ng‘iroq davomiyligi</string>
+    <string name="call_stats_title_count">Qo‘ng‘iroqlar soni</string>
+    <string name="call_stats_title_average_duration">O‘rtacha qo‘ng‘iroq davomiyligi</string>
+    <string name="recent_calls_no_items_in_range">Qo‘ng‘iroqlar jurnalida tanlangan vaqt oralig‘ida qo‘ng‘iroqlar yo‘q.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">ସମସ୍ତ ଆକାଉଣ୍ଟ</string>
+    <string name="call_log_all_calls_header">ସମସ୍ତ କଲ</string>
+    <string name="call_log_incoming_header">କେବଳ ଇନକାମିଂ କଲ</string>
+    <string name="call_log_outgoing_header">କେବଳ ଆଉଟଗୋଇଂ କଲ</string>
+    <string name="call_log_missed_header">କେବଳ ମିସ୍ ହୋଇଥିବା କଲ</string>
+    <string name="call_log_voicemail_header">କେବଳ ଭଏସମେଲ ସହିତ କଲ</string>
+    <string name="call_log_blacklist_header">କେବଳ ବ୍ଲକ ହୋଇଥିବା କଲ</string>
+</resources>

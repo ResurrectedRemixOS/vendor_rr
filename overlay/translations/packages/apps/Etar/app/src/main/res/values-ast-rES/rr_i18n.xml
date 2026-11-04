@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="create_event_dialog_save">Guardar</string>
+    <string name="presence_label">Apaecer como</string>
+    <string name="add_calendar">Amestar</string>
+    <string name="preferences_alerts_vibrateWhen_title">Vibrar</string>
+    <string name="preferences_alerts_ringtone_title">Soníu</string>
+    <string name="accessibility_pick_start_date">Data de comienzu</string>
+    <string name="accessibility_pick_start_time">Hora d\'aniciu</string>
+    <string name="accessibility_pick_end_date">Data de fin</string>
+    <string name="visibility_private">Priváu</string>
+    <string name="preferences_list_add_offline_title">Amestar un calendariu llocal</string>
+    <string name="searchview_description_clear">Desaniciar la consulta</string>
+    <string name="action_label">Intro</string>
+    <string name="chips_action_copy">Copiar</string>
+</resources>

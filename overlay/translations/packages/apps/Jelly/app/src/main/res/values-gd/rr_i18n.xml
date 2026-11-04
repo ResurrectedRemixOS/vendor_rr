@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="url_bar_more">Barrachd</string>
+    <string name="url_bar_search_clear">Falamhaich an lorg</string>
+    <string name="menu_go_back">Air ais</string>
+    <string name="menu_downloads">Luchdaidhean a-nuas</string>
+    <string name="background_shortcuts_save_action">Sàbhail</string>
+    <string name="pref_start_page_autoload_enabled">An comas</string>
+    <string name="pref_start_page_autoload_disabled">À comas</string>
+    <string name="ssl_cert_dialog_trust">Earbsa</string>
+    <string name="ssl_error_untrusted">Chan eil an teisteanas seo o ùghdarras earbsach.</string>
+    <string name="ssl_error_mismatch">Chan eil ainm na làraich co-ionnann ris an ainm air an teisteanas.</string>
+    <string name="ssl_error_expired">Dh’fhalbh an ùine air an teisteanas seo.</string>
+    <string name="ssl_error_not_yet_valid">Chan eil an teisteanas seo dligheach fhathast.</string>
+    <string name="ssl_error_date_invalid">Tha ceann-là mì-dhligheach aig an teisteanas seo.</string>
+    <string name="ssl_error_invalid">Tha an teisteanas seo mì-dhligheach.</string>
+    <string name="ssl_error_unknown">Mearachd teisteanais nach aithne dhuinn.</string>
+    <string name="location_dialog_allow">Ceadaich</string>
+    <string name="location_dialog_block">Bac</string>
+    <string name="protected_media_dialog_deny">Diùlt</string>
+    <string name="media_session_destroy_action">Cuir stad air</string>
+</resources>

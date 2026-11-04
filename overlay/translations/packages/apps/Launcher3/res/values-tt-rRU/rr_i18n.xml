@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_picker_widget_options_button_description">Күбрәк көйләүләр</string>
+    <string name="suggested_widgets_header_title">Тәкъдимнәр</string>
+    <string name="widgets_full_sheet_personal_tab">Шәхси</string>
+    <string name="all_apps_label">Барлык кушымталар</string>
+    <string name="uninstall_private_system_shortcut_label">Кушымтаны бетерү</string>
+    <string name="widget_settings">Көйләүләр</string>
+    <string name="permlab_install_shortcut">тизтөймәләр урнаштыру</string>
+    <string name="package_state_unknown">Билгесез</string>
+    <string name="dialog_update">Яңарту</string>
+    <string name="all_apps_personal_tab">Шәхси</string>
+    <string name="work_profile_toggle_label">Эш профиле</string>
+    <string name="home_screen_files_rename_dialog_neutral_button">Баш тарту</string>
+</resources>

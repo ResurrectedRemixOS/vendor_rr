@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hour">
+        <item quantity="zero">%d h</item>
+        <item quantity="one">%d h</item>
+        <item quantity="other">%d h</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="zero">%d min</item>
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="zero">%d s</item>
+        <item quantity="one">%d s</item>
+        <item quantity="other">%d s</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="zero">%d zvanu</item>
+        <item quantity="one">%d zvans</item>
+        <item quantity="other">%d zvani</item>
+    </plurals>
+    <string name="call_stats_detail_title">Kontaktu statistikas detalizācija</string>
+    <string name="call_stats_incoming">Ienākošie: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Izejošie: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Neatbildētie: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Bloķētie: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Kopā: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Kopā: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"Sākuma datums"</string>
+    <string name="call_stats_filter_to">"Beigu datums"</string>
+    <string name="call_stats_filter_picker_title">Laika filtrs</string>
+    <string name="date_quick_selection">Ātrā atlase</string>
+    <string name="date_qs_currentmonth">Pašreizējais mēnesis</string>
+    <string name="date_qs_currentquarter">Pašreizējais ceturksnis</string>
+    <string name="date_qs_currentyear">Pašreizējais gads</string>
+    <string name="date_qs_lastweek">"Pagājušajā nedēļā"</string>
+    <string name="date_qs_lastmonth">"Iepriekšējā mēnesī"</string>
+    <string name="date_qs_lastquarter">Iepriekšējais ceturksnis</string>
+    <string name="date_qs_lastyear">"Pagājušajā gadā"</string>
+    <string name="call_stats_date_filter">Pielāgot laika periodu</string>
+    <string name="call_stats_reset_filter">Atiestatīt laika periodu</string>
+    <string name="call_stats_sort_by_duration">Kārtot pēc zvanu ilguma</string>
+    <string name="call_stats_sort_by_count">Kārtot pēc zvanu skaita</string>
+    <string name="call_stats_title_for_number">Šis numurs</string>
+    <string name="call_stats_title_of_total">No kopējā</string>
+    <string name="call_stats_title_durations">Zvanu ilgumi</string>
+    <string name="call_stats_title_count">Zvanu skaits</string>
+    <string name="call_stats_title_average_duration">Vidējais zvanu ilgums</string>
+    <string name="recent_calls_no_items_in_range">Zvanu žurnālā atlasītajā laika periodā nav neviena zvana.</string>
+</resources>

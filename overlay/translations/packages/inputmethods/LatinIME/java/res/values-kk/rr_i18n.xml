@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Alphabet (Bépo)</string>
+    <string name="subtype_hu_ZZ">Hungarian (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - жүйе параметрлерін пайдалану</string>
+    <string name="prefs_keyboard_height_scale">Пернетақта биіктігінің масштабы</string>
+    <string name="number_row">Санды жол</string>
+    <string name="number_row_summary">Төрт жолды пернетақтасы бар барлық орналасулар үшін санды жолды үнемі көрсету</string>
+    <string name="number_row_password">Құпия сөзге арналған санды жол</string>
+    <string name="number_row_password_summary">Құпия сөз енгізу үшін төрт жолды пернетақтасы бар барлық орналасулар үшін санды жолды үнемі көрсету</string>
+    <string name="space_trackpad">Бос орын трекпады</string>
+    <string name="space_trackpad_summary">Курсорды жылжыту үшін бос орын батырмасын сырғытыңыз</string>
+    <string name="backspace_trackpad">Backspace трекпады</string>
+    <string name="backspace_trackpad_summary">Сөздерді жою үшін backspace батырмасын сырғытыңыз</string>
+    <string name="show_longpress_hints">Ұзақ басу кеңестерін көрсету</string>
+    <string name="show_longpress_hints_summary">Қолдау көрсетілетін пернелер үшін ұзақ басу кеңестерін көрсетеді</string>
+    <string name="show_emoji_key">Эмодзи пернесін көрсету</string>
+    <string name="show_emoji_key_summary">Эмодзи пернесін үнемі көрсету. Бұл параметр қосулы кезде тіл ауыстыру пернесі көрсетілмейді.</string>
+    <string name="enable_split_keyboard_summary">Тек альбомдық бағдарда</string>
+    <string name="split_keyboard_duplicate_keys">Ортадағы пернелерді көшіру</string>
+    <string name="split_keyboard_duplicate_keys_summary">Екі жартының ортасына жақын пернелерді көрсету</string>
+    <string name="spoken_description_split_keyboard">Бөлінген пернетақта</string>
+    <string name="spoken_description_merge_keyboard">Біріктірілген пернетақта</string>
+    <string name="spoken_description_float_keyboard">Қалқымалы пернетақта</string>
+    <string name="spoken_description_dock_keyboard">Бекітілген пернетақта</string>
+    <string name="floating_keyboard_drag_handle">Пернетақтаны жылжыту</string>
+    <string name="floating_keyboard_resize_handle">Пернетақта өлшемін өзгерту</string>
+    <string name="floating_keyboard_reset">"Бастапқы күйге қайтару"</string>
+    <string name="floating_keyboard_hide">Пернетақтаны жасыру</string>
+    <string name="floating_keyboard_switch_ime">"Енгізу әдісін ауыстыру"</string>
+</resources>

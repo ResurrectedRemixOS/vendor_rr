@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="album_favorites">Blêdwizers</string>
+    <string name="album_videos">Fideo\'s</string>
+    <string name="media_info_unknown">Unbekend</string>
+    <string name="file_action_add_to_favorites">Oan blêdwizers Tafoegje</string>
+    <string name="file_action_edit">Bewurkje</string>
+    <string name="file_action_information">Ynformaasje</string>
+    <string name="file_action_share">Diele</string>
+    <string name="file_action_undo_action">Ungedien meitsje</string>
+    <string name="picker_done">Foltôge</string>
+    <string name="title_activity_settings">Ynstellingen</string>
+    <string name="general_header">Algemien</string>
+</resources>

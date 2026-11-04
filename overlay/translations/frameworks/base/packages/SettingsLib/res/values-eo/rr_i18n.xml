@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wifi_security_none">Nenio</string>
+    <string name="wifi_disabled_generic">Malŝaltita</string>
+    <string name="bluetooth_talkback_phone">Telefono</string>
+    <string name="unknown">Nekonata</string>
+    <string name="tts_default_lang_title">Lingvo</string>
+    <string name="category_private">Privata</string>
+    <string name="adb_wireless_error">Eraro</string>
+    <string name="adb_device_forget">Forgesi</string>
+    <string name="debug_applications_category">Aplikaĵoj</string>
+    <string name="loading_injected_setting_summary">Ŝarĝado</string>
+    <string name="daltonizer_mode_disabled">Malŝaltita</string>
+    <string name="battery_info_status_unknown">Nekonata</string>
+    <string name="disabled">Malŝaltita</string>
+    <string name="screen_zoom_summary_default">Defaŭlte</string>
+    <string name="save">Konservi</string>
+    <string name="done">Farite</string>
+    <string name="zen_mode_settings_summary_off">Neniam</string>
+    <string name="tv_media_transfer_connected">Konektita</string>
+    <string name="user_add_user_item_title">Uzanto</string>
+    <string name="guest_exit_clear_data_button">Forigi</string>
+    <string name="guest_exit_save_data_button">Konservi</string>
+    <string name="cached_apps_freezer_disabled">Malŝaltita</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Kaméra</string>
+    <string name="title_activity_settings">Sétingan</string>
+    <string name="edge_mode_off">Pareum</string>
+    <string name="noise_reduction_mode_off">Pareum</string>
+    <string name="shading_mode_off">Pareum</string>
+    <string name="color_correction_aberration_mode_off">Pareum</string>
+    <string name="distortion_correction_mode_off">Pareum</string>
+    <string name="hot_pixel_mode_off">Pareum</string>
+    <string name="video_mirror_mode_off">Pareum</string>
+</resources>

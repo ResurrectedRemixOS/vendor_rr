@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_expand">Slargje</string>
+    <string name="pip_phone_settings">Impostazions</string>
+    <string name="pip_menu_title">Menù</string>
+    <string name="accessibility_action_pip_resize">Ridimensione</string>
+    <string name="bubble_overflow_button_content_description">Extra</string>
+    <string name="bubble_content_description_single"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> di <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="bubble_accessibility_action_move_top_left">Sposte in alt a çampe</string>
+    <string name="bubble_accessibility_action_move_top_right">Sposte in alt a diestre</string>
+    <string name="bubble_accessibility_action_move_bottom_left">Sposte in bas a çampe</string>
+    <string name="bubble_accessibility_action_move_bottom_right">Sposte in bas a diestre</string>
+    <string name="bubble_accessibility_action_move_bar_left">Môf a çampe</string>
+    <string name="bubble_accessibility_action_move_bar_right">Môf a diestre</string>
+    <string name="bubbles_user_education_got_it">Capît</string>
+    <string name="notification_bubble_title">Bufule</string>
+    <string name="manage_bubbles_text">Gjestìs</string>
+    <string name="letterbox_education_got_it">Capît</string>
+    <string name="letterbox_restart_cancel">Anule</string>
+    <string name="letterbox_restart_restart">Torne invie</string>
+    <string name="back_button_text">Indaûr</string>
+    <string name="more_button_text">Altri</string>
+    <string name="select_text">Selezione</string>
+    <string name="screenshot_text">Schermade</string>
+    <string name="new_window_text">Gnûf barcon</string>
+    <string name="manage_windows_text">Gjestìs barcons</string>
+    <string name="desktop_mode_layout_menu_snap_text">Ridimensione</string>
+    <string name="desktop_mode_layout_menu_immersive_restore_button_text">Ripristine</string>
+    <string name="desktop_mode_layout_menu_maximize_button_text">Slargje</string>
+    <string name="desktop_mode_layout_menu_restore_button_text">Ripristine</string>
+    <string name="open_by_default_dialog_subheader_text">Sielç cemût vierzi i colegaments web par cheste aplicazion</string>
+    <string name="open_by_default_dialog_in_app_text">Te aplicazion</string>
+    <string name="open_by_default_dialog_in_browser_text">Tal navigadôr</string>
+    <string name="open_by_default_dialog_dismiss_button_text">Va ben</string>
+    <string name="open_by_default_splash_dialog_checkbox_text">Visiti de mê sielte</string>
+    <string name="pip_fullscreen">Plen schermi</string>
+    <string name="pip_move">Sposte</string>
+    <string name="pip_expand">Slargje</string>
+    <string name="pip_collapse">Strenç</string>
+    <string name="a11y_action_pip_move_left">Môf a çampe</string>
+    <string name="a11y_action_pip_move_right">Môf a diestre</string>
+    <string name="a11y_action_pip_move_up">Môf insù</string>
+    <string name="a11y_action_pip_move_down">Môf injù</string>
+    <string name="a11y_action_pip_move_done">Fat</string>
+</resources>

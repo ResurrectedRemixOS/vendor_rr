@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_playback_no_app_found_toast">নির্বাচিত রেকর্ডিং চালানোর জন্য কোনো অ্যাপ পাওয়া যায়নি।</string>
+</resources>

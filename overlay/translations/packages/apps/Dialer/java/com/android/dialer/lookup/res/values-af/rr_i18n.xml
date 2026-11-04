@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Nabygeleë plekke</string>
+    <string name="lookup_settings_label">Opsoek van foonnommers</string>
+    <string name="enable_forward_lookup_title">Vorentoe opsoek</string>
+    <string name="enable_forward_lookup_summary">Wys plekke in die buurt wanneer jy in die kiesier soek</string>
+    <string name="enable_reverse_lookup_title">Omgekeerde opsoek</string>
+    <string name="enable_reverse_lookup_summary">Soek inligting oor die persoon of plek vir onbekende nommers op inkomende oproepe</string>
+    <string name="forward_lookup_provider_title">Vorentoe opsoekverskaffer</string>
+    <string name="reverse_lookup_provider_title">Omgekeerde opsoekverskaffer</string>
+    <string name="lookup_disclaimer">Opsoeke kan navrae oor \'n veilige protokol (https) na afgeleë webwerwe stuur om inligting te versamel. Die navraag kan die ander party se foonnommer of die soekterm insluit.</string>
+</resources>

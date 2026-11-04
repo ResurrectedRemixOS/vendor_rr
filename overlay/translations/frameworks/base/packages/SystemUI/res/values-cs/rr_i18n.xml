@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">"Adaptivní jas"</string>
+    <string name="accessibility_battery_level_battery_saver_with_percent">Baterie <xliff:g id="number">%d</xliff:g> procent. Šetřič baterie je zapnutý.</string>
+    <string name="zen_alarm_warning_indef">"Pokud tento režim nevypnete, svůj další budík <xliff:g id="WHEN">%1$s</xliff:g> neuslyšíte"</string>
+</resources>

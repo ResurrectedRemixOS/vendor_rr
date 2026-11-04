@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Annulla</string>
+    <string name="finish">Agabbadu</string>
+    <string name="setup_datetime_section_date">Data</string>
+    <string name="setup_datetime_section_time">Ora</string>
+    <string name="date_format_day">Die</string>
+    <string name="date_format_month">Mese</string>
+    <string name="setup_time_zone">Fusu oràriu</string>
+    <string name="setup_24_hour_format">Imprea su formadu 24 oras</string>
+    <string name="swipe_up_to_go_home">Iscurre in artu pro andare a s\'ischermu printzipale</string>
+</resources>

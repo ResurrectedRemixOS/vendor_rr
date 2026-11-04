@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_feedback">Tilbakemelding</string>
+    <string name="notification_channel_parental_controls">Foreldrekontroll</string>
+    <string name="face_acquired_poor_gaze">Sjå beint på eininga di.</string>
+    <string name="accessibility_shortcut_label_button">tilgjengeknapp</string>
+    <string name="accessibility_shortcut_label_volume_keys">volumtastar</string>
+    <string name="accessibility_shortcut_label_triple_tap">tre trykk</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_face" product="default">Andletslås</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_fingerprint">Fingeravtrykk</string>
+    <string name="app_lock_edu_dialog_lockscreen_password_name">passord</string>
+    <string name="app_lock_permission_review_expand_app_list_button">Vis alle</string>
+    <string name="app_lock_permission_review_continue_button">Hald fram</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_IN_PROGRESS">Ber om opplåsing av SIM-nettundergruppe \u2026</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_IN_PROGRESS">Ber om å låsa opp SIM-tenesteytar \u2026</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_IN_PROGRESS">Ber om å låsa opp RUIM-tenesteytar \u2026</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ERROR">Klarte ikkje låsa opp SIM-nettundergruppa.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ERROR">Klarte ikkje låsa opp SIM-tenesteytaren.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ERROR">Klarte ikkje låsa opp RUIM-tenesteytaren.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_SUCCESS">SIM-tenesteytaren er låst opp.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_SUCCESS">Låste opp RUIM-tenesteytarar.</string>
+    <string name="app_locked_notification_message">Ny melding</string>
+    <string name="brightness_unable_adjust_msg">Kan ikkje endra lysstyrken fordi appen øvst styrer han</string>
+</resources>

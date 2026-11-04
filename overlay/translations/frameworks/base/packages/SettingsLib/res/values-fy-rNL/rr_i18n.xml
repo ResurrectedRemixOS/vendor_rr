@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="select_logd_size_titles">
+        <item>Ut</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Ut</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string name="wifi_security_none">Gjin</string>
+    <string name="wifi_disabled_generic">Utskeakele</string>
+    <string name="speed_label_slow">Stadich</string>
+    <string name="speed_label_fast">Fluch</string>
+    <string name="bluetooth_connecting">Ferbining meitsje\u2026</string>
+    <string name="bluetooth_pairing_decline">Annulearje</string>
+    <string name="bluetooth_talkback_headset">Koptelefoan</string>
+    <string name="bluetooth_talkback_phone">Telefoan</string>
+    <string name="tether_settings_title_usb">USB-tethering</string>
+    <string name="unknown">Unbekend</string>
+    <string name="tts_default_lang_title">Taal</string>
+    <string name="tts_general_section_title">Algemien</string>
+    <string name="category_work">Wurk</string>
+    <string name="private_dns_mode_off">Ut</string>
+    <string name="private_dns_mode_opportunistic">Automatysk</string>
+    <string name="no_application">Neat</string>
+    <string name="loading_injected_setting_summary">Lade\u2026</string>
+    <string name="daltonizer_mode_disabled">Utskeakele</string>
+    <string name="battery_info_status_unknown">Unbekend</string>
+    <string name="battery_info_status_charging">Dwaande mei opladen</string>
+    <string name="battery_info_status_charging_dock">Dwaande mei opladen</string>
+    <string name="battery_info_status_charging_v2">Dwaande mei opladen</string>
+    <string name="disabled">Utskeakele</string>
+    <string name="enabled">Ynskeakele</string>
+    <string name="screen_zoom_summary_smallest">Lytste</string>
+    <string name="screen_zoom_summary_smaller">Lytser</string>
+    <string name="screen_zoom_summary_small">Lyts</string>
+    <string name="screen_zoom_summary_default">Standert</string>
+    <string name="cancel">Annulearje</string>
+    <string name="back">Tebek</string>
+    <string name="save">Bewarje</string>
+    <string name="done">Foltôge</string>
+    <string name="zen_mode_do_not_disturb_name">Net steure</string>
+    <string name="zen_mode_settings_title">Net steure</string>
+    <string name="zen_mode_enable_dialog_turn_on">Ynskeakelje</string>
+    <string name="zen_mode_settings_summary_off">Nea</string>
+    <string name="user_setup_button_setup_later">No net</string>
+    <string name="guest_reset_guest_confirm_button">Opnij ynstelle</string>
+    <string name="guest_exit_clear_data_button">Fuortsmite</string>
+    <string name="guest_exit_save_data_button">Bewarje</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Slute</string>
+    <string name="cached_apps_freezer_disabled">Utskeakele</string>
+    <string name="cached_apps_freezer_enabled">Ynskeakele</string>
+    <string name="wifi_hotspot_switch_on_text">Oan</string>
+    <string name="wifi_hotspot_switch_off_text">Ut</string>
+</resources>

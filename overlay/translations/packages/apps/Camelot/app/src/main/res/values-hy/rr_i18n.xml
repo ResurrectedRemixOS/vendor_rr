@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF դիտիչ</string>
+    <string name="find_in_page">Փնտրել էջում</string>
+    <string name="share">"Կիսվել"</string>
+    <string name="open_with">Բացել…-ով</string>
+    <string name="download">"Ներբեռնել"</string>
+    <string name="pdf_document">PDF փաստաթուղթ</string>
+    <string name="print">"Տպել"</string>
+    <string name="download_successful">Ներբեռնումն հաջող էր</string>
+    <string name="download_error">Ֆայլը ներբեռնելիս սխալ առաջացավ</string>
+</resources>

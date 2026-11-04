@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="play_recordings">
+        <item quantity="zero">Atskaņot ierakstus</item>
+        <item quantity="one">Atskaņot ierakstus</item>
+        <item quantity="other">Atskaņot ierakstus</item>
+    </plurals>
+    <string name="call_playback_no_app_found_toast">Atskaņošanai nav atrasta neviena lietotne atlasītajam ierakstam.</string>
+</resources>

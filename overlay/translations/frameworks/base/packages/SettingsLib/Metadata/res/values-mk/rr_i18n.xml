@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Булова вредност.</string>
+    <string name="any_int_type_description">Цела бројка.</string>
+    <string name="any_string_type_description">Текстуална вредност.</string>
+    <string name="display_id_type_description">Идентификатор на системски приказ (внатрешен или надворешен, зависно од конфигурацијата).</string>
+    <string name="installed_package_name_type_description">Која било апликација инсталирана на уредот.</string>
+    <string name="int_in_range_type_description_from">Цел број поголем или еднаков на %1$d, со чекор %2$d.</string>
+    <string name="int_in_range_type_description_to">Цел број помал или еднаков на %1$d, со чекор %2$d.</string>
+    <string name="int_in_range_type_description_between">Цел број во опсегот [%1$d, %2$d], со чекор %3$d.</string>
+    <string name="time_of_day_type_description">Време од денот во 24-часовен формат HH:mm.</string>
+    <string name="time_duration_type_description">Времетраење изразено со цел број со точност на секунди.</string>
+    <string name="sim_slot_id_type_description">Важечки ID на SIM слот.</string>
+    <string name="subscription_id_type_description">Важечки ID на претплата.</string>
+    <string name="wifi_ssid_type_description">SSID на Wi-Fi мрежа.</string>
+</resources>

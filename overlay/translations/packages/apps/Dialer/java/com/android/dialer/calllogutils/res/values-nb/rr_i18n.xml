@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">Alle kontoer</string>
+    <string name="call_log_all_calls_header">Alle samtaler</string>
+    <string name="call_log_incoming_header">Kun innkommende samtaler</string>
+    <string name="call_log_outgoing_header">Kun utgående samtaler</string>
+    <string name="call_log_missed_header">Kun ubesvarte samtaler</string>
+    <string name="call_log_voicemail_header">Kun samtaler med talepost</string>
+    <string name="call_log_blacklist_header">Kun blokkerte samtaler</string>
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">ଡିଭାଇସ ଫ୍ଲିପ କାର୍ଯ୍ୟ</string>
+    <string name="shake_action_title">ଡିଭାଇସ ଝଟକା କାର୍ଯ୍ୟ</string>
+    <string-array name="action_setting_entries">
+        <item>ସ୍ନୁଜ୍</item>
+        <item>"ଖାରଜ କରନ୍ତୁ"</item>
+        <item>"କିଛି ନୁହେଁ"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">ବାଜୁଥିବା ଆଲାର୍ମ ଏବଂ ଟାଇମର</string>
+    <string name="alarm_missed_channel">ମିସ୍ ହୋଇଥିବା ଆଲାର୍ମ</string>
+    <string name="alarm_snooze_channel">ସ୍ନୁଜ କରାଯାଇଥିବା ଆଲାର୍ମ</string>
+    <string name="alarm_upcoming_channel">ଆଗାମୀ ଆଲାର୍ମ</string>
+    <string name="stopwatch_channel">ଷ୍ଟପୱାଚ୍</string>
+    <string name="timer_channel">ଟାଇମର୍</string>
+    <string name="add_label">ଲେବଲ ଯୋଡ଼ନ୍ତୁ</string>
+    <string name="dialog_permissions_title">"ଅନୁମତିଗୁଡ଼ିକ"</string>
+    <string name="dialog_permissions_ask">ପୁଣି ପଚାରନ୍ତୁ</string>
+    <string name="dialog_permissions_dismiss">"ଖାରଜ କରନ୍ତୁ"</string>
+    <string name="dialog_permissions_settings">"ସେଟିଂସ"</string>
+    <string name="dialog_permissions_power_off_alarm">ଏହି ଅନୁମତି ବିନା, ଆଲାର୍ମ ବଜାଇବା ପାଇଁ ଆପଣଙ୍କ ଡିଭାଇସ ନିଜେ ଚାଲୁ ହୋଇପାରିବ ନାହିଁ</string>
+    <string name="dialog_permissions_no_permission">ଆବଶ୍ୟକୀୟ ଅନୁମତି ପ୍ରତ୍ୟାଖ୍ୟାନ କରାଯାଇଛି, ସେଟିଂସ ଆପ୍‌ରୁ ସେଗୁଡ଼ିକୁ ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="dialog_permissions_post_notifications">ଏହି ଆପ୍ ବିଜ୍ଞପ୍ତି ଉପରେ ନିର୍ଭର କରେ। ସେଗୁଡ଼ିକ ବିନା ଏହା ଚଲାଇହେବ ନାହିଁ!</string>
+    <string name="selected">"ଚୟନ କରାଯାଇଛି"</string>
+    <string name="more_options">"ଅଧିକ ବିକଳ୍ପ"</string>
+    <string name="widget_choice_title">ଆପଣଙ୍କ ଶୈଳୀ ବାଛନ୍ତୁ</string>
+    <string name="widget_name_transparent">ବ୍ୟାକଅପ ବିହୀନ</string>
+    <string name="widget_name_solid">ବ୍ୟାକଅପ ସହିତ</string>
+    <string name="night_mode_enabled_title">"ସକ୍ଷମ କରାଯାଇଛି"</string>
+    <string name="night_mode_dnd_title">ବିରକ୍ତ କରନ୍ତୁ ନାହିଁ ଅବସ୍ଥା ଅନୁସରଣ କରନ୍ତୁ</string>
+    <string name="night_mode_dnd_summary">ନାଇଟ ମୋଡ ବିରକ୍ତ କରନ୍ତୁ ନାହିଁ ଅବସ୍ଥା ଅନୁସରଣ କରେ</string>
+    <string name="show_ampm_title">AM/PM ସୂଚକ ଦେଖାନ୍ତୁ</string>
+    <string name="bold_text_title">ବୋଲ୍ଡ ଘଡ଼ି ଲେଖା</string>
+    <string name="night_mode_brightness_text_title">"ଉଜ୍ଜ୍ୱଳତା"</string>
+    <string name="clock_color_title">"ରଙ୍ଗ"</string>
+    <string-array name="clock_color_entries">
+        <item>"ଧଳା"</item>
+        <item>"ଲାଲ"</item>
+        <item>"ସବୁଜ"</item>
+        <item>"ନୀଳ"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"ସ୍କ୍ରିନ୍‌ ସେଭର୍‌"</string>
+    <string name="screensaver_preview">"ପ୍ରିଭ୍ୟୁ"</string>
+    <string name="screensaver_preview_summary">ସ୍କ୍ରିନ ସେଭର ତୁରନ୍ତ ଆରମ୍ଭ କରେ</string>
+    <string name="screensaver_change_settings">"ସେଟିଂସ"</string>
+    <string name="screensaver_change_settings_summary">ଘଡ଼ିର ସ୍କ୍ରିନ ସେଭର ସେଟିଂସ ଖୋଲେ</string>
+    <string name="screensaver_daydream_settings">ସ୍କ୍ରିନ ସେଭର ବାଛନ୍ତୁ/ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="screensaver_daydream_settings_summary">ମୁଖ୍ୟ ସ୍କ୍ରିନ ସେଭର ସେଟିଂସ ଖୋଲେ</string>
+</resources>

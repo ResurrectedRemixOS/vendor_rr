@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="clock">Cleoc</string>
+    <string name="accessibility_adaptive_brightness">Soilleireachd cho-fhreagrach</string>
+    <string name="status_bar_icons_title">Ìomhaigheagan air bàr na staid</string>
+    <string name="screenshot_delete_label">Sguab às</string>
+    <string name="extreme_battery_saver_text">Dearg-chunnart</string>
+    <string name="usb_audio_device_permission_prompt_title">Am faod <xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g> <xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g> inntrigeadh?</string>
+    <string name="usb_device_dialog_always_allow_button">Ceadaich an-còmhnaidh</string>
+    <string name="share_wifi_button_text">Co-roinn WiFi</string>
+    <string name="add_network_button_text">Cuir lìonra ris</string>
+    <string name="screenshot_save_to">Sàbhail gu</string>
+    <string name="screenshot_copy_label">Dèan lethbhreac</string>
+    <string name="screenshot_default_files_app_name">Faidhlichean</string>
+    <string name="screenrecord_stop_description">Cuir stad air a’ chlàradh</string>
+    <string name="screenrecord_start_description">Tòisich air clàradh</string>
+    <string name="screenrecord_save_text">Thoir gnogag gus a shealltainn</string>
+    <string name="screenrecord_stop_dialog_title">An sgur thu dhen chlàradh?</string>
+    <string name="screenrecord_stop_dialog_button">Cuir stad air a’ chlàradh</string>
+    <string name="screen_record_should_show_touches_label">Seall na suathaidhean</string>
+    <string name="screen_record_color_picker">Roghnaichear nan dathan</string>
+    <string name="screen_record_unmute">Dì-mhùch</string>
+    <string name="issuerecord_save_text">Thoir gnogag gus a shealltainn</string>
+    <string name="immersive_cling_title">’Ga shealltainn air an làn-sgrìn</string>
+    <string name="biometric_dialog_enter_pin">Cuir a-steach am PIN agad</string>
+    <string name="biometric_dialog_enter_password">Cuir a-steach am facal-faire agad</string>
+    <string name="biometric_dialog_enter_pattern">Cuir a-steach am pàtran agad</string>
+    <string name="work_challenge_emergency_button_text">Èiginn</string>
+    <string name="biometric_re_enroll_dialog_cancel">Chan ann an-dràsta</string>
+    <string name="accessibility_status_bar_assistant_icon">Cuidiche</string>
+    <string name="accessibility_status_bar_input_method_indicator">Meur-chlàr</string>
+    <string name="input_method_switcher_title_large_screen">Meur-chlàr</string>
+    <string name="see_all_bluetooth_devices">Seall na h-uile</string>
+    <string name="quick_settings_bluetooth_device_saved">Air a shàbhaladh</string>
+    <string name="quick_settings_bluetooth_secondary_label_hearing_aids">Innealan-claisneachd</string>
+    <string name="quick_settings_camera_mic_available">Ri fhaighinn</string>
+    <string name="quick_settings_camera_mic_blocked">Chaidh a bhacadh</string>
+    <string name="quick_settings_networks_unavailable">Chan eil lìonraidhean ri fhaighinn</string>
+    <string name="quick_settings_cast_title">Tilg</string>
+    <string name="quick_settings_cast_detail_title">Tilg am meadhan ri uidheam</string>
+    <string name="quick_settings_cast_disconnect">Bris an ceangal</string>
+    <string name="quick_settings_audio_effects_section_title">Èifeachdan</string>
+    <string name="quick_settings_inversion_label">Ais-thionndadh nan dathan</string>
+    <string name="quick_settings_color_correction_label">Ceartachadh nan dathan</string>
+    <string name="quick_settings_font_scaling_label">Meud a’ chrutha-chlò</string>
+    <string name="quick_settings_more_user_settings">Stiùir na cleachdaichean</string>
+    <string name="flashlight_dialog_turn_off">Cuir dheth</string>
+    <string name="quick_settings_work_mode_paused_state">’Na stad</string>
+    <string name="performance">Dèanadas</string>
+    <string name="quick_settings_hearing_devices_connected">Gnìomhach</string>
+    <string name="quick_settings_hearing_devices_disconnected">Gun cheangal</string>
+    <string name="hearing_devices_preset_label">Ro-sheata</string>
+    <string name="hearing_devices_tools_label">Innealan</string>
+    <string name="quick_settings_hearing_devices_live_caption_title">Fo-thiotalan beòtha</string>
+    <string name="quick_settings_notes_label">Nòta</string>
+    <string name="zen_mode_set_up">Cha deach a shuidheachadh</string>
+    <string name="accessibility_action_label_shrink_widget">Lùghdaich an àirde</string>
+    <string name="accessibility_action_label_expand_widget">Meudaich an àirde</string>
+    <string name="notification_history_button_description">Eachdraidh nam brathan</string>
+    <string name="notification_section_header_highlights">Soillseachadh</string>
+    <string name="go_to_adaptive_notification_settings">Cuir dheth</string>
+    <string name="volume_panel_captioning_title">Fo-thiotalan beòtha</string>
+    <string name="stream_assistant">Cuidiche</string>
+    <string name="media_device_cast">Tilg</string>
+    <string name="volume_panel_spatial_audio_fixed">Socraichte</string>
+    <string name="wallet_app_button_label">Seall na h-uile</string>
+    <string name="wallet_error_generic">Duilgheadas a’ faighinn nan cairtean agad, feuch ris a-rithist an ceann greis</string>
+    <string name="wallet_lockscreen_settings_label">Roghainnean na sgrìn-ghlasaidh</string>
+    <string name="status_bar_supervision">Smachdan nam pàrant</string>
+    <string name="accessibility_status_bar_satellite_symbol">Saideal</string>
+    <string name="inline_turn_off_notifications">Cuir dheth</string>
+    <string name="notification_alert_title">Bun-roghainn</string>
+    <string name="notification_automatic_title">Fèin-obrachail</string>
+    <string name="notification_inline_disable_promotion">Cuir dheth</string>
+    <string name="group_system_full_screenshot">Tog glacadh-sgrìn</string>
+    <string name="group_system_go_back">Air ais</string>
+    <string name="keyboard_shortcut_group_applications_assist">Cuidiche</string>
+    <string name="keyboard_shortcut_group_applications_calculator">Àireamhair</string>
+    <string name="keyboard_shortcut_group_applications_maps">Mapaichean</string>
+    <string name="qs_edit_menu_content_description">Roghainnean</string>
+    <string name="accessibility_quick_settings_power_menu">Clàr-taice na cumhachd</string>
+    <string name="accessibility_quick_settings_power_menu_expanded">Leudaichte</string>
+    <string name="accessibility_quick_settings_power_menu_collapsed">Air a cho-theannachadh</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_message">Tha làn-smachd iomchaidh do dh’aplacaidean
+       a chuidicheas leis an t-so-ruigsinneachd ach chan eil e iomchaidh dhan mhòrchuid a dh’aplacaidean.
+    </string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_heading">Faicinn is stiùireadh na sgrìn</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_message">’S urrainn dha an t-susbaint air fad air an sgrìn a leughadh
+        agus susbaint a shealltainn thar aplacaidean eile.
+    </string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_heading">Faicinn is stiùireach nan ceadan</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_message">’S urrainn dha na h-eadar-ghnìomhan agad
+        le aplacaid no mothaichear bathair-chruaidh a thracadh agus eadar-ghnìomhan le aplacaidean a ghabhail às do leth.
+    </string>
+    <string name="shutdown_progress">Ga chur dheth\u2026</string>
+    <string name="notification_channel_setup">Suidheachadh</string>
+    <string name="dnd_is_on">Tha “Na bris a-steach orm” air</string>
+    <string name="ongoing_privacy_dialog_a11y_title">’Ga chleachdadh</string>
+    <string name="privacy_chip_container_leading_title">Prìobhaideachd</string>
+    <string name="accessibility_control_move_up">Gluais suas</string>
+    <string name="accessibility_control_move_down">Gluais sìos</string>
+    <string name="magnification_mode_switch_state_window">Meudaich pàirt dhen sgrìn</string>
+    <string name="accessibility_magnification_settings_panel_description">Roghainnean a’ mheudachaidh</string>
+    <string name="accessibility_magnification_zoom">Sùm</string>
+    <string name="accessibility_magnification_medium">Meadhanach</string>
+    <string name="accessibility_magnification_small">Beag</string>
+    <string name="accessibility_magnification_large">Mòr</string>
+    <string name="accessibility_magnification_fullscreen">Làn-sgrìn</string>
+    <string name="controls_settings_dialog_positive_button">Tha</string>
+    <string name="controls_media_button_prev">An traca roimhe</string>
+    <string name="controls_media_button_next">An ath-thraca</string>
+    <string name="controls_media_button_connecting">’Ga cheangal</string>
+    <string name="media_transfer_loading">’Ga luchdadh</string>
+    <string name="media_output_dialog_accessibility_seekbar">Àirde na fuaime</string>
+    <string name="media_output_group_title_suggested">Na mholamaid</string>
+    <string name="build_number_clip_data_label">Àireamh na togail</string>
+    <string name="priority_conversations">Còmhraidhean le prìomhachas</string>
+    <string name="birthday_status">Co-là breith</string>
+    <string name="anniversary_status">Ceann-bliadhna</string>
+    <string name="game_status">’Ga chluich</string>
+    <string name="missed_call">Gairm a dh’fhalbh ort</string>
+    <string name="people_tile_title">Còmhradh</string>
+    <string name="person_available">Ri fhaighinn</string>
+    <string name="ongoing_call_content_description">Gairm a’ dol air adhart</string>
+    <string name="mobile_data_no_connection">Chan eil ceangal ann</string>
+    <string name="turn_on_wifi">WiFi</string>
+    <string name="wifi_failed_connect_message">Cha b’ urrainn dhuinn ceangal ris an lìonra</string>
+    <string name="see_all_networks">Seall na h-uile</string>
+    <string name="clipboard_text_hidden">Thoir gnogag gus a shealltainn</string>
+    <string name="clipboard_text_copied">Chaidh lethbhreac dhen teacsa a dhèanamh</string>
+    <string name="manage_users">Stiùir na cleachdaichean</string>
+    <string name="log_access_confirmation_deny">Na ceadaich</string>
+    <string name="video_camera">Camara video</string>
+    <string name="call_from_work_profile_action">Geàrr leum gu pròifil na h-obrach</string>
+    <string name="priority_mode_dream_overlay_content_description">Na bris a-steach orm</string>
+    <string name="shortcut_helper_category_system_apps">Aplacaidean an t-siostaim</string>
+    <string name="shortcutHelper_category_split_screen">Sgrìn sgoilte</string>
+    <string name="shortcut_helper_customizer_action_key_text">Gluasad</string>
+    <string name="shortcut_helper_add_shortcut_button_label">Cuir ath-ghoirid ris</string>
+    <string name="touchpad_tutorial_back_gesture_button">Air ais</string>
+    <string name="touchpad_back_gesture_action_title">Air ais</string>
+    <string name="qs_edit_mode_category_accessibility">So-ruigsinneachd</string>
+    <string name="qs_edit_mode_category_privacy">Prìobhaideachd</string>
+    <string name="qs_edit_mode_category_unknown">Chan eil fhios</string>
+    <string name="ambientcue_first_time_edu_icon_description">Ìomhaigheag</string>
+    <string name="sign_in_button_on_bouncer">Clàraich a-steach</string>
+    <string name="ambient_cue_expand_action">leudaich</string>
+    <string name="av_panel_title">Prìobhaideachd</string>
+    <string name="sensor_activity_close_app_button">Dùin an aplacaid</string>
+    <string name="more_options_move">Gluais</string>
+    <string name="floating_menu_more_options_label">Barrachd roghainnean</string>
+    <string name="dream_setup_button_not_now">Chan ann an-dràsta</string>
+    <string-array name="tile_states_internet">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_modes_dnd">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_notes">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+    <string-array name="tile_states_desktopeffects">
+        <item>Chan eil seo ri fhaighinn</item>
+        <item>Dheth</item>
+        <item>Air</item>
+    </string-array>
+</resources>

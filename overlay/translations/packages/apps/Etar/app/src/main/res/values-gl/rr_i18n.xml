@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="no_snooze_label">"Ningún"</string>
+    <string name="hint_url">\"URL\"</string>
+    <string name="no_calendars_found">Antes de poder engadir un evento, tes que engadir polo menos un calendario ao dispositivo</string>
+    <string name="add_calendar">Engadir calendario</string>
+    <string name="week_start_locale_default">Predeterminado do idioma</string>
+    <string name="preferences_staggered_display_title">Visualización escalonada</string>
+    <string name="preferences_staggered_display_summary">Mostrar os eventos superpostos nunha disposición escalonada</string>
+    <string name="cal_export_error">Erro ao exportar o evento</string>
+    <string name="preferences_manage_notifications">Xestionar notificacións</string>
+    <string name="preferences_do_not_check_battery_optimization">Non comprobar a optimización da batería</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Usar baixo a túa responsabilidade. As notificacións deixarán de funcionar, o widget non se actualizará e os servizos en segundo plano fallarán. Pero non se che volverá preguntar se queres activar o servizo en segundo plano.</string>
+    <string name="calendars">Calendarios</string>
+    <string name="discard_event_changes">Queres descartar os cambios?</string>
+    <string name="discard">"Descartar"</string>
+</resources>

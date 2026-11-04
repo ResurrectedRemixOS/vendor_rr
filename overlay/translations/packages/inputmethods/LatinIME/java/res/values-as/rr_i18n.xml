@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_hu_ZZ">হাংগেৰিয়ান (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">মেটেৰিয়েল - ছিষ্টেমৰ ছেটিং অনুসৰণ কৰক</string>
+    <string name="prefs_keyboard_height_scale">কীব\'ৰ্ডৰ উচ্চতা স্কেল</string>
+    <string name="number_row">সংখ্যা শাৰী</string>
+    <string name="number_row_summary">৪টা কীৰ শাৰী থকা সকলো বিন্যাসৰ বাবে সদায় সংখ্যা শাৰী দেখুৱাওক</string>
+    <string name="number_row_password">পাছৱৰ্ডৰ বাবে সংখ্যা শাৰী</string>
+    <string name="number_row_password_summary">পাছৱৰ্ড ইনপুটৰ বাবে ৪টা কীৰ শাৰী থকা সকলো বিন্যাসৰ বাবে সদায় সংখ্যা শাৰী দেখুৱাওক</string>
+    <string name="space_trackpad">স্পেচ বাৰ ট্ৰ্যাকপেড</string>
+    <string name="space_trackpad_summary">কাৰ্চাৰ স্থানান্তৰ কৰিবলে স্পেচ বাৰত ছুৱাইপ কৰক</string>
+    <string name="backspace_trackpad">বেকস্পেচ কী ট্ৰ্যাকপেড</string>
+    <string name="backspace_trackpad_summary">শব্দ মচিবলে বেকস্পেচ কীত ছুৱাইপ কৰক</string>
+    <string name="show_longpress_hints">দীঘল-টিপা কীৰ ইংগিত দেখুৱাওক</string>
+    <string name="show_longpress_hints_summary">সমৰ্থিত কীৰ বাবে দীঘল-টিপা ইংগিত দেখুৱায়</string>
+    <string name="show_emoji_key">ইমোজি কী দেখুৱাওক</string>
+    <string name="show_emoji_key_summary">সদায় ইমোজি কী দেখুৱাওক। এই বিকল্প সক্ষম থাকিলে, ভাষা সলনি কৰা কী দেখুৱাব নোৱাৰি।</string>
+    <string name="enable_split_keyboard_summary">কেৱল আনুভূমিক অৱস্থাত</string>
+    <string name="split_keyboard_duplicate_keys">মধ্যৱৰ্তী কীসমূহ নকল কৰক</string>
+    <string name="split_keyboard_duplicate_keys_summary">দুয়োটা অংশতে মাজৰ ওচৰৰ কীসমূহ দেখুৱাওক</string>
+    <string name="spoken_description_split_keyboard">বিভাজিত কীব\'ৰ্ড</string>
+    <string name="spoken_description_merge_keyboard">কীব\'ৰ্ড একত্ৰ কৰক</string>
+    <string name="spoken_description_float_keyboard">ভাঁহি থকা কীব\'ৰ্ড</string>
+    <string name="spoken_description_dock_keyboard">ডক কৰা কীব\'ৰ্ড</string>
+    <string name="floating_keyboard_drag_handle">কীব\'ৰ্ড স্থানান্তৰ কৰক</string>
+    <string name="floating_keyboard_resize_handle">কীব\'ৰ্ডৰ আকাৰ সলনি কৰক</string>
+    <string name="floating_keyboard_reset">"ৰিছেট কৰক"</string>
+    <string name="floating_keyboard_hide">কীব\'ৰ্ড লুকুৱাওক</string>
+    <string name="floating_keyboard_switch_ime">"ইনপুটৰ পদ্ধতি সলনি কৰক"</string>
+</resources>

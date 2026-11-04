@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Ойролцоох газрууд</string>
+    <string name="lookup_settings_label">Утасны дугаараар лавлах</string>
+    <string name="enable_forward_lookup_title">Урагш лавлах</string>
+    <string name="enable_forward_lookup_summary">Залгагчид хайхад ойр орчмын газрыг харуулах</string>
+    <string name="enable_reverse_lookup_title">Урвуу лавлах</string>
+    <string name="enable_reverse_lookup_summary">Ирэх дуудлагад үл мэдэгдэх дугаарын хүн эсвэл газрын мэдээллийг лавлах</string>
+    <string name="forward_lookup_provider_title">Урагш лавлагааны үйлчилгээ үзүүлэгч</string>
+    <string name="reverse_lookup_provider_title">Урвуу лавлагааны үйлчилгээ үзүүлэгч</string>
+    <string name="lookup_disclaimer">Лавлагаа нь мэдээлэл цуглуулахын тулд аюулгүй протоколоор (https) алсын вэбсайтууд руу хүсэлт илгээж болно. Хүсэлтэд нөгөө талын утасны дугаар эсвэл хайлтын асуулт багтаж болно</string>
+</resources>

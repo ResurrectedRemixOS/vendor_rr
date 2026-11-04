@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="usb_audio_device_permission_prompt_title">Caniatáu <xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g> i gael mynediad at <xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g>?</string>
+    <string name="usb_audio_device_confirm_prompt_title">Agor <xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g> i drin <xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g>?</string>
+    <string name="usb_device_dialog_always_allow_button">Caniatáu Bob Tro</string>
+    <string name="usb_device_dialog_allow_only_this_time_button">Dim ond y tro hwn</string>
+    <string name="usb_authorization_deny">Peidio â chaniatáu</string>
+    <string name="screenshot_save_to">Cadw i</string>
+    <string name="screenshot_copy_label">Copïo</string>
+    <string name="screenshot_edit_description">Golygu\u2019r sgrinlun</string>
+    <string name="screenshot_share_description">Rhannu\u2019r sgrinlun</string>
+    <string name="screen_record_should_show_touches_label">Dangos cyffyrddiadau</string>
+    <string name="screen_record_color_picker">Dewisydd lliwiau</string>
+    <string name="screen_record_unmute">Dad-distewi</string>
+    <string name="immersive_cling_title">Yn gweld sgrin lawn</string>
+    <string name="biometric_dialog_enter_pin">Rho dy PIN</string>
+    <string name="biometric_dialog_enter_password">Rho dy gyfrinair</string>
+    <string name="biometric_dialog_enter_pattern">Rho dy batrwm</string>
+    <string name="accessibility_status_bar_input_method_indicator">Bysellfwrdd</string>
+    <string name="input_method_switcher_title_large_screen">Bysellfwrdd</string>
+    <string name="quick_settings_cast_detail_title">Bwrw\'r sgrin ar ddyfais arall</string>
+    <string name="quick_settings_audio_effects_section_title">Effeithiau</string>
+    <string name="quick_settings_hearing_devices_live_caption_title">Capisynau Byw</string>
+    <string name="notification_section_header_highlights">Goleubwyntio</string>
+    <string name="quick_settings_disclosure_parental_controls">Rheolir y ddyfais hon gan dy riant</string>
+    <string name="monitoring_description_parental_controls">Rheolir y ddyfais hon gan dy riant. Gall dy riant weld a rheoli gwybodaeth fel yr apiau rwyt yn eu defnyddio, dy leoliad, a dy amser yn defnyddio\u2019r ddyfais.</string>
+    <string name="volume_panel_captioning_title">Capisynau Byw</string>
+    <string name="accessibility_status_bar_satellite_symbol">Lloeren</string>
+    <string name="notification_onboarding_summaries_turn_on">Troi ymlaen yn Gosodiadau</string>
+    <string name="notification_bundle_header_counter">{count, plural,
+=1 {# hysbysiad}
+    other {# hysbysiad}
+    }</string>
+    <string name="qs_edit_menu_content_description">Dewisiadau</string>
+    <string name="accessibility_quick_settings_power_menu_expanded">Ehangwyd</string>
+    <string name="accessibility_quick_settings_power_menu_collapsed">Lleihawyd</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_message">Mae rheolaeth lwyr yn briodol ar gyfer apiau sy\u2019n dy helpu gydag anghenion hygyrchedd, ond nid i\u2019r mwyafrif o apiau.</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_heading">Gweld a rheoli\u2019r sgrin</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_message">Gall ddarllen yr holl gynnwys ar y sgrin a dangos cynnwys dros ben apiau eraill.</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_heading">Gweld a pherfformio gweithredoedd</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_message">Gall tracio dy ryngweithiadau gydag ap neu galedwedd synhwyro a rhyngweithio gydag ap ar dy ran.</string>
+    <string name="privacy_chip_container_leading_title">Preifatrwydd</string>
+    <string name="media_output_group_title_suggested">Awgrymiadau</string>
+    <string name="qs_tile_request_dialog_not_add">Peidio ag ychwnegu teitl</string>
+    <string name="note_task_button_label">Cymryd nodiadau</string>
+    <string name="call_from_work_profile_text">Dyw dy sefydliad ond yn dy ganiatáu i wneud galwadau o apiau gwaith</string>
+    <string name="start_desktop_mode">Bwrdd gwaith</string>
+    <string name="privacy_dialog_manage_service">Rheoli gwasanaeth</string>
+    <string name="privacy_dialog_recent_call_usage">Wedi ei ddefnyddio\u2019n ddiweddar mewn galwad ffôn</string>
+    <string name="shortcut_helper_key_combinations_and_conjunction">plws</string>
+    <string name="shortcut_helper_customizer_action_key_text">Gweithred</string>
+    <string name="touchpad_home_gesture_success_body">Rwyt wedi cwblhau\u2019r ystum mynd cartref</string>
+    <string name="qs_edit_mode_category_unknown">Anhysybys</string>
+    <string name="sign_in_button_on_bouncer">Mewngofnodi</string>
+    <string name="ambient_cue_expand_action">ehangu</string>
+    <string name="location_button_text_precise_location">Lleoliad manwl cywir</string>
+    <string name="location_button_text_use_precise_location">Defnyddio lleoliad manwl cywir</string>
+    <string name="av_panel_title">Preifatrwydd</string>
+    <string name="sensor_activity_close_app_button">Cau\u2019r ap</string>
+    <string name="more_options_move">Symud</string>
+    <string name="floating_menu_more_options_label">Rhagor o ddewisiadau</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Дахин асаах…</string>
+    <string name="global_action_restart_system">"Систем"</string>
+    <string name="global_action_restart_recovery">"Сэргээх"</string>
+    <string name="global_action_restart_bootloader">Bootloader</string>
+    <string name="global_action_restart_download">"Татаж авах"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Дахин эхэлж байна..."</string>
+    <string name="global_action_restart_recovery_progress">Сэргээх горүүд дахин асаж байна…</string>
+    <string name="global_action_restart_bootloader_progress">Bootloader горүүд дахин асаж байна…</string>
+    <string name="global_action_restart_download_progress">Татах горимд дахин асаж байна…</string>
+    <string name="global_action_restart_fastboot_progress">Fastbootd горимд дахин асаж байна…</string>
+    <string name="global_action_current_user">Одоогийн</string>
+    <string name="global_action_users">"Хэрэглэгчид"</string>
+    <string name="clock">"Цаг"</string>
+    <string name="accessibility_adaptive_brightness">"Орчинтой зохицох гэрэлтүүлэг"</string>
+    <string name="status_bar_icons_title">Статус самбарын дүрс тэмдгүүд</string>
+    <string name="quick_settings_ambient_display_label">"Идэвхгүй дэлгэц"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Ambient дэлгэц унтраалттай.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Ambient дэлгэц асаалттай.</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD унтраалттай\nБатарейг хэмнэгч</string>
+    <string name="quick_settings_caffeine_label">"Кофейн"</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine унтраалттай.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine асаалттай.</string>
+    <string name="quick_settings_heads_up_label">Heads up</string>
+    <string name="accessibility_quick_settings_heads_up_off">Heads up унтраалттай.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Heads up асаалттай.</string>
+    <string name="quick_settings_powershare_label">Утасгүй PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Утасгүй PowerShare унтраалттай\nБатарейг хэмнэгч</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Утасгүй PowerShare унтраалттай\nБатарей хэт бага</string>
+    <string name="quick_settings_powershare_enabled_label">Утасгүй PowerShare идэвхжсэн</string>
+    <string name="quick_settings_reading_mode">Унших горим</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Унших горим асаалттай.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Унших горим унтраалттай.</string>
+    <string name="quick_settings_sync_label">"Синк"</string>
+    <string name="accessibility_quick_settings_sync_off">Синк унтраалттай.</string>
+    <string name="accessibility_quick_settings_sync_on">Синк асаалттай.</string>
+    <string name="quick_settings_profiles_label">Системийн профайлууд</string>
+    <string name="accessibility_quick_settings_profiles_off">Профайлууд унтраалттай.</string>
+    <string name="accessibility_quick_settings_profiles">Профайл: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"USB модем болгох"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Холбогдох…</string>
+    <string name="vpn_credentials_hint"><xliff:g id="name">%s</xliff:g>-д холбогдохын тулд нэвтрэх мэдээллээ оруулна уу</string>
+    <string name="vpn_credentials_username">"Хэрэглэгчийн нэр"</string>
+    <string name="vpn_credentials_password">"Нууц үг"</string>
+    <string name="vpn_credentials_dialog_connect">"Холбогдох"</string>
+    <string name="status_bar_firewall">Галт хана</string>
+    <string name="battery_notification_channel_tv">Батарейны анхааруулга</string>
+    <string name="screenshot_delete_label">"Устгах"</string>
+    <string name="screenshot_delete_description">Дэлгэцийн зураг устгах</string>
+    <string name="screenrecord_lowquality_label">Бага чанар</string>
+    <string name="screenrecord_lowquality_summary">Файлын хэмжээ бага байхын тулд</string>
+    <string name="screenrecord_longer_timeout_switch_label">Файлын дээд хэмжээ их</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Бичлэгийн хэмжээг 15 GB-аар хязгаарлах</string>
+    <string name="screenrecord_skip_time_label">Алгасах таймер</string>
+    <string name="screenrecord_skip_time_summary">3 секундын хүлээлтийг арилгах</string>
+    <string name="screenrecord_hevc_switch_label">HEVC кодлолт</string>
+    <string name="screenrecord_hevc_switch_summary">Илүү үр ашигтай HEVC кодлогчийг ашиглах</string>
+    <string name="zen_alarm_warning_indef">"Та сэрүүлгээ <xliff:g id="WHEN">%1$s</xliff:g>-с өмнө унтраагаагүй тохиолдолд дараагийн сэрүүлгээ тус хугацаанд сонсохгүй"</string>
+</resources>

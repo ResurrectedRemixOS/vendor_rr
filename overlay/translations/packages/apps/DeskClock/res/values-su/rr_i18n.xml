@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dialog_permissions_settings">Sétingan</string>
+    <string name="more_options">Opsi leuwih</string>
+    <string name="screensaver_change_settings">Sétingan</string>
+    <string name="settings">Sétingan</string>
+    <string name="unknown_ringtone_title">Teu dipikanyaho</string>
+    <string name="menu_item_settings">Sétingan</string>
+</resources>

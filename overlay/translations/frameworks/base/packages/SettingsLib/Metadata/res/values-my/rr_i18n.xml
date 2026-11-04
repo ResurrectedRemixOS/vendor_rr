@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">boolean တန်ဖိုး။</string>
+    <string name="any_int_type_description">integer တန်ဖိုး။</string>
+    <string name="any_string_type_description">string တန်ဖိုး။</string>
+    <string name="display_id_type_description">စနစ်ဖန်သားပြင် identifier (configuration အပေါ်မူတည်၍ internal သို့မဟုတ် external ဖြစ်နိုင်သည်)။</string>
+    <string name="installed_package_name_type_description">စက်တွင်ထည့်သွင်းထားသော package မည်သည့်အရာမဆို။</string>
+    <string name="int_in_range_type_description_from">step %2$d ဖြင့် %1$d နှင့် ညီသို့မဟုတ် ထို့ထက်ကြီးသော integer။</string>
+    <string name="int_in_range_type_description_to">step %2$d ဖြင့် %1$d နှင့် ညီသို့မဟုတ် ထို့ထက်ငယ်သော integer။</string>
+    <string name="int_in_range_type_description_between">step %3$d ဖြင့် [%1$d, %2$d] အပိုင်းအခြားအတွင်းရှိ integer။</string>
+    <string name="time_of_day_type_description">24-နာရီပုံစံ HH:mm ဖြင့် သတ်မှတ်ထားသော နေ့အချိန်။</string>
+    <string name="time_duration_type_description">စက္ကန့်တိကျမှုဖြင့် integer ဖြင့်ဖော်ပြသော အချိန်ကြာချင်းကာလ။</string>
+    <string name="sim_slot_id_type_description">မှန်ကန်သော SIM slot ID။</string>
+    <string name="subscription_id_type_description">မှန်ကန်သော subscription ID။</string>
+    <string name="wifi_ssid_type_description">Wi-Fi ကွန်ရက်၏ SSID။</string>
+</resources>

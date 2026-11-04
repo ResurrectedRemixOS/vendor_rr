@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">በጥሪ ላይ</string>
+    <string name="incall_enable_dnd_title">በጥሪ ጊዜ አትረብሽን አንቃ</string>
+    <string name="incall_vibrate_outgoing_title">ሲመልሱ ይንቀጠቀጥ</string>
+    <string name="incall_vibrate_call_waiting_title">በጥሪ መጠባበቅ ጊዜ ይንቀጠቀጥ</string>
+    <string name="incall_vibrate_hangup_title">ሲዘጉ ይንቀጠቀጥ</string>
+    <string name="incall_vibrate_45_title">በየደቂቃው ይንቀጠቀጥ</string>
+    <string name="incall_vibrate_45_summary">በወጪ ጥሪዎች ወቅት በእያንዳንዱ ደቂቃ 45ኛ ሰከንድ ላይ ይንቀጠቀጣል</string>
+    <string name="incall_dnd_dialog_message">አትረብሽን ለማንቃት የስልክ መተግበሪያው የአትረብሽ ሁኔታን የመቆጣጠር ፈቃድ ያስፈልገዋል።\nእባክዎ ይፍቀዱ።</string>
+    <string name="allow">"ፍቀድ"</string>
+    <string name="deny">"ከልክል"</string>
+    <string name="call_recording_category_title">የጥሪ ቀረጻ</string>
+    <string name="call_recording_format">የኦዲዮ ቅርጸት</string>
+    <string name="call_via">በ ይደውሉ</string>
+    <string name="call_via_dialog_title">በ… ይደውሉ</string>
+    <string name="call_log_stats_title">ስታቲስቲክስ</string>
+    <string name="action_menu_helplines">የእርዳታ መስመሮች</string>
+    <string name="default_dialer_text">ለመጠቀም ዳያለር እንደ ነባሪ የስልክ መተግበሪያ ማዘጋጀት አለብዎት።</string>
+    <string name="default_dialer_action">"እንደ ነባሪ ያዋቅሩ"</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="profile_name_glasses">gléas</string>
+    <string name="profile_name_generic">gléas</string>
+    <string name="consent_yes">Ceadaigh</string>
+    <string name="consent_no">Ná ceadaigh</string>
+    <string name="consent_cancel">Cealaigh</string>
+    <string name="consent_back">Ar ais</string>
+    <string name="permission_phone">Fón</string>
+    <string name="permission_contacts">Teagmhálacha</string>
+    <string name="permission_calendar">Féilire</string>
+    <string name="permission_microphone">Micreafón</string>
+    <string name="permission_notifications">Fógraí</string>
+    <string name="permission_microphone_summary">Taifeadadh fuaime</string>
+    <string name="permission_notifications_summary">\u2022 Léigh gach fógra, lena n-áirítear eolas cosúil le teagmhálacha, teachtaireachtaí agus grianghraif&lt;br/&gt;\u2022 Seol fógraí chugat&lt;br/&gt;&lt;br/&gt;Is féidir leat cumas an aip seo fógraí a léamh agus a sheoladh a bhainistiú am ar bith i Socruithe &gt; Fógraí.</string>
+    <string name="device_type" product="default">Fón</string>
+    <string name="device_type" product="tablet">táibléad</string>
+    <string name="device_type" product="device">gléas</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="install">ئورنات</string>
+    <string name="update">يېڭىلا</string>
+    <string name="done">تامام</string>
+    <string name="cancel">ۋاز كەچ</string>
+    <string name="ok">جەزملە</string>
+    <string name="manage_applications">ئەپ باشقۇرۇش</string>
+    <string name="generic_error_dlg_title">خاتالىق</string>
+    <string name="uninstall_application_title">ئەپنى ئۆچۈر</string>
+    <string name="app_name_unknown">يوچۇن</string>
+    <string name="anonymous_source_continue">داۋاملاشتۇر</string>
+    <string name="external_sources_settings">تەڭشەكلەر</string>
+    <string name="unarchive_action_required_continue">داۋاملاشتۇر</string>
+    <string name="unarchive_settings_button">تەڭشەكلەر</string>
+    <string name="title_install_failed_not_installed">ئەپ ئورنىتىلمىغان</string>
+    <string name="button_install">ئورنات</string>
+    <string name="button_update">يېڭىلا</string>
+    <string name="button_done">تامام</string>
+    <string name="button_cancel">ۋاز كەچ</string>
+    <string name="button_continue">داۋاملاشتۇر</string>
+    <string name="button_uninstall">ئۆچۈر</string>
+    <string name="button_delete">ئۆچۈر</string>
+    <string name="button_manage_apps">ئەپ باشقۇرۇش</string>
+    <string name="button_uninstall_updates_system_app">يېڭىلاشنى ئۆچۈر</string>
+    <string name="button_settings">تەڭشەكلەر</string>
+    <string name="button_retry">قايتا سىنا</string>
+</resources>

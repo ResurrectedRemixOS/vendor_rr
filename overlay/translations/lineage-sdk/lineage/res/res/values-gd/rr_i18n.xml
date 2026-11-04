@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed_slow">Slaodach</string>
+    <string name="charging_speed_fast">Luath</string>
+    <string name="charging_control_notification_cancel_once">Sguir dheth</string>
+</resources>

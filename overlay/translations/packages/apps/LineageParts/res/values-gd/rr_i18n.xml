@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_control_start_time_title">Àm tòiseachaidh</string>
+    <string name="live_display_color_profile_preview">Ro-shealladh nan dathan</string>
+    <string name="power_menu_devicecontrols_title">Uidheaman-smachd do dh’uidheaman</string>
+</resources>

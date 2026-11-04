@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Զանգի ձայնագրությունը սկսել չհաջողվեց</string>
+    <string name="call_recording_file_location">Զանգի ձայնագրությունը պահպանվել է <xliff:g id="filename">%s</xliff:g>-ում</string>
+    <string name="onscreenCallRecordText">Ձայնագրել զանգը</string>
+    <string name="onscreenCallRecordingText">Զանգը ձայնագրվում է՝ <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Կանգնեցնել տեսագրումը"</string>
+    <string name="recording_warning_title">Միացնե՞լ զանգերի ձայնագրումը</string>
+    <string name="recording_warning_text">Ծանուցում․ Դուք պատասխանատու եք զանգերի ձայնագրման գործառույթի և այդ ձայնագրությունների օգտագործման կամ տարածման վերաբերյալ կիրառելի բոլոր օրենքների, կանոնակարգերի և կանոնների պահպանման համար</string>
+</resources>

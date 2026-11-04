@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">Tydens oproep</string>
+    <string name="incall_enable_dnd_title">Aktiveer Moenie Steur Nie tydens oproepe</string>
+    <string name="incall_vibrate_outgoing_title">Vibreer by antwoord</string>
+    <string name="incall_vibrate_call_waiting_title">Vibreer by oproepwag</string>
+    <string name="incall_vibrate_hangup_title">Vibreer by beëindiging</string>
+    <string name="incall_vibrate_45_title">Vibreer elke minuut</string>
+    <string name="incall_vibrate_45_summary">Vibreer elke minuut by die 45-sekonde-merk tydens uitgaande oproepe</string>
+    <string name="incall_dnd_dialog_message">Om Moenie Steur Nie te aktiveer, moet die Foon-program toestemming kry om die Moenie Steur Nie-status te beheer.\nVerleen asseblief toestemming.</string>
+    <string name="allow">"Laat toe"</string>
+    <string name="deny">"Weier"</string>
+    <string name="call_recording_category_title">Oproepopname</string>
+    <string name="call_recording_format">Klankformaat</string>
+    <string name="call_via">Bel via</string>
+    <string name="call_via_dialog_title">Bel via…</string>
+    <string name="call_log_stats_title">Statistiek</string>
+    <string name="action_menu_helplines">Hulplyne</string>
+    <string name="default_dialer_text">Jy moet Kiesier as die standaard foon-program instel om dit te gebruik.</string>
+    <string name="default_dialer_action">"Stel as verstek"</string>
+</resources>

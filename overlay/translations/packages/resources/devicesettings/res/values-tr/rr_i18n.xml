@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="popup_title">Ön kamera ayarları</string>
+    <string name="popup_calibration_title">"Kalibrasyon"</string>
+    <string name="popup_calibration_summary">Açılır ön kameranın motorunu kalibre et</string>
+    <string name="popup_calibration_warning_title">Motor kalibrasyonu</string>
+    <string name="popup_calibration_warning_text">Gereksiz kalibrasyon kalıcı hasara yol açabilir. Açılır kamera motoru düzgün hareket etmiyorsa veya yanlış konumdaysa yalnızca kalibre etmeniz önerilir!</string>
+    <string name="popup_camera_tip">Uyarı</string>
+    <string name="popup_camera_takeback_failed_calibrate">Ön kamera kapatılamadı. Motoru kalibre etmeyi deneyin.</string>
+    <string name="popup_camera_popup_failed_calibrate">Ön kamera açılamadı. Motoru kalibre etmeyi deneyin.</string>
+    <string name="popup_camera_calibrate_running">Ön kamera kalibrasyon sırasında kullanılamaz.</string>
+    <string name="popup_camera_calibrate_now">Kalibre et</string>
+    <string name="popup_camera_calibrate_failed">Kalibre edilemedi</string>
+    <string name="popup_camera_calibrate_success">Kalibrasyon başarılı. Artık ön kamerayı açabilirsiniz.</string>
+    <string name="popup_led_title">Kamera LED\'i</string>
+    <string name="popup_led_summary">Ön kamera açılıp kapanırken LED ışığını etkinleştir</string>
+    <string name="popup_sound_title">"Ses efektleri"</string>
+    <string name="popup_sound_muqin">Ksilofon</string>
+    <string name="popup_sound_yingyan">Kondor</string>
+    <string name="popup_sound_mofa">"Sihir"</string>
+    <string name="popup_sound_jijia">Mekanik</string>
+    <string name="popup_sound_chilun">Dişli çark</string>
+    <string name="popup_sound_cangmen">Kabin kapısı</string>
+    <string name="doze_brightness_title">Her zaman açık parlaklık</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g> modu etkin</string>
+    <string name="doze_brightness_low">Düşük parlaklık</string>
+    <string name="doze_brightness_high">Yüksek parlaklık</string>
+    <string name="doze_brightness_adaptive">"Otomatik parlaklık"</string>
+    <string name="alert_slider_mode_torch_on">"Işık açık"</string>
+    <string name="alert_slider_mode_torch_off">"Işık kapalı"</string>
+</resources>

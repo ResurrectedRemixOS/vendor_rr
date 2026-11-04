@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_added_to_taskbar">Appen er lagd til på oppgåvelinja</string>
+    <string name="app_removed_from_taskbar">Appen er fjerna frå oppgåvelinja</string>
+    <string name="home_screen_files_context_menu_copy_label">Kopier</string>
+    <string name="home_screen_files_context_menu_rename_label">Gje nytt namn</string>
+    <string name="home_screen_files_context_menu_delete_permanently_label">Slett for godt</string>
+    <string name="home_screen_files_context_menu_move_to_trash_label">Flytt til papirkorga</string>
+    <string name="actions_popup_menu_button">Handlingar</string>
+    <string name="shortcuts_popup_menu_button">Snarvegar</string>
+    <string name="folder_type_name">Mappe</string>
+    <string name="create_new_folder_button_text">Ny mappe</string>
+    <string name="default_new_folder_name">Ny mappe</string>
+    <string name="home_screen_files_rename_dialog_neutral_button">Avbryt</string>
+    <string name="home_screen_files_rename_dialog_positive_button">Gje nytt namn</string>
+    <string name="something_went_wrong">Noko gjekk gale</string>
+</resources>

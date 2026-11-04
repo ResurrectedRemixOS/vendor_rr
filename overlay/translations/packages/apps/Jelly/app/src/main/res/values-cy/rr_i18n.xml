@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="background_shortcuts_save_action">Cadw</string>
+    <string name="pref_start_page_autoload_enabled">Galluogwyd</string>
+    <string name="ssl_error_untrusted">Dyw’r dystysgrif hon ddim oddi wrth awdurdod dibynadwy.</string>
+    <string name="ssl_error_mismatch">Dyw enw\'r wefan ddim yr un fath a\u2019r enw ar y dystysgrif.</string>
+    <string name="ssl_error_expired">Mae\u2019r dystysgrif wedi dod i ben.</string>
+    <string name="ssl_error_not_yet_valid">Dyw\'r dystysgrif hon ddim yn ddilys eto.</string>
+    <string name="ssl_error_date_invalid">Mae gan y dystysgrif hon dyddiad annilys.</string>
+    <string name="ssl_error_invalid">Mae\u2019r dystysgrif hon yn annilys.</string>
+    <string name="ssl_error_unknown">Gwall tystysgrif anhysbys.</string>
+    <string name="media_session_destroy_action">Stopio</string>
+</resources>

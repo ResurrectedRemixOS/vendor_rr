@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">Kitendo cha kugeuza kifaa</string>
+    <string name="shake_action_title">Kitendo cha kutikisa kifaa</string>
+    <string-array name="action_setting_entries">
+        <item>Nikumbushe baadaye</item>
+        <item>"Ondoa"</item>
+        <item>"Hakuna chochote"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">Kengele na vipima muda vinavyolia</string>
+    <string name="alarm_missed_channel">Kengele zilizokosekana</string>
+    <string name="alarm_snooze_channel">Kengele zilizoahirishwa</string>
+    <string name="alarm_upcoming_channel">Kengele zijazo</string>
+    <string name="stopwatch_channel">Saa ya kusitisha</string>
+    <string name="timer_channel">Kipima wakati</string>
+    <string name="add_label">Ongeza lebo</string>
+    <string name="dialog_permissions_title">"Ruhusa"</string>
+    <string name="dialog_permissions_ask">Uliza tena</string>
+    <string name="dialog_permissions_dismiss">"Ondoa"</string>
+    <string name="dialog_permissions_settings">"Mipangilio"</string>
+    <string name="dialog_permissions_power_off_alarm">Bila ruhusa hii, kifaa chako hakitaweza kujiwasha chenyewe ili kulia kengele</string>
+    <string name="dialog_permissions_no_permission">Ruhusa zinazohitajika zimekataliwa.Ziwezeshe kutoka kwenye programu ya Mipangilio</string>
+    <string name="dialog_permissions_post_notifications">Programu hii inategemea arifa. Bila arifa, haiwezi kuendeshwa!</string>
+    <string name="selected">"Umechagua"</string>
+    <string name="more_options">"Chaguo zaidi"</string>
+    <string name="widget_choice_title">Chagua mtindo wako</string>
+    <string name="widget_name_transparent">Haijahifadhiwa</string>
+    <string name="widget_name_solid">Imehifadhiwa</string>
+    <string name="night_mode_enabled_title">"Imewashwa"</string>
+    <string name="night_mode_dnd_title">Fuata hali ya Usinisumbue</string>
+    <string name="night_mode_dnd_summary">Hali ya usiku hufuata hali ya Usinisumbue</string>
+    <string name="show_ampm_title">Onyesha kiashiria cha AM/PM</string>
+    <string name="bold_text_title">Maandishi ya saa yenye herufi nzito</string>
+    <string name="night_mode_brightness_text_title">"Ung\'avu"</string>
+    <string name="clock_color_title">"Rangi"</string>
+    <string-array name="clock_color_entries">
+        <item>"Nyeupe"</item>
+        <item>"Nyekundu"</item>
+        <item>"Kijani"</item>
+        <item>"Samawati"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"Taswira ya skrini"</string>
+    <string name="screensaver_preview">"Kagua kwanza"</string>
+    <string name="screensaver_preview_summary">Anzisha skrini ya kuokoa mara moja</string>
+    <string name="screensaver_change_settings">"Mipangilio"</string>
+    <string name="screensaver_change_settings_summary">Inafungua mipangilio ya skrini ya kuokoa ya Saa</string>
+    <string name="screensaver_daydream_settings">Chagua/wezesha skrini ya kuokoa</string>
+    <string name="screensaver_daydream_settings_summary">Inafungua mipangilio kuu ya skrini ya kuokoa</string>
+</resources>

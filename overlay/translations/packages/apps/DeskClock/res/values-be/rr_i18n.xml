@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dialog_permissions_ask">Спытаць зноў</string>
+    <string name="dialog_permissions_no_permission">Патрэбныя дазволы не атрымана. Уключыце іх у праграме «Налады».</string>
+    <string name="dialog_permissions_post_notifications">Гэта праграма залежыць ад апавяшчэнняў. Без іх яна не можа працаваць!</string>
+    <string name="selected">"Выбрана"</string>
+    <string name="more_options">"Дадатковыя параметры"</string>
+    <string name="widget_choice_title">Выберыце свой стыль</string>
+    <string name="widget_name_transparent">Без падкрэслення</string>
+    <string name="widget_name_solid">З падкрэсленнем</string>
+    <string name="night_mode_enabled_title">"Уключана"</string>
+    <string name="night_mode_dnd_title">Выконваць стан «Не турбаваць»</string>
+    <string name="night_mode_dnd_summary">Начны рэжым ідзе ў лад стану «Не турбаваць»</string>
+    <string name="show_ampm_title">Паказваць індыкатар AM/PM</string>
+    <string name="bold_text_title">Тлусты тэкст гадзін</string>
+    <string name="night_mode_brightness_text_title">"Яркасць"</string>
+    <string name="clock_color_title">"Колер"</string>
+    <string-array name="clock_color_entries">
+        <item>"Белы"</item>
+        <item>"Чырвоны"</item>
+        <item>"Зялёны"</item>
+        <item>"Сіні"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"Экранная застаўка"</string>
+    <string name="screensaver_preview">"Перадпрагляд"</string>
+    <string name="screensaver_preview_summary">Запускае экранную застаўку неадкладна</string>
+    <string name="screensaver_change_settings_summary">Адкрывае налады экраннай застаўкі Гадзінніка</string>
+    <string name="screensaver_daydream_settings">Выбраць/уключыць экранную застаўку</string>
+    <string name="screensaver_daydream_settings_summary">Адкрывае асноўныя налады экраннай застаўкі</string>
+</resources>

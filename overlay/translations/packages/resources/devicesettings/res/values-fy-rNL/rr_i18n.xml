@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="none">Gjin</string>
+    <string name="stylus_screen_off_when_inserted_title">Skerm útskeakelje</string>
+    <string name="stylus_vibrate_title">Trille</string>
+    <string name="popup_camera_tip">Warskôging</string>
+    <string name="alert_slider_mode_none">Gjin</string>
+    <string name="alert_slider_mode_silent">Stil</string>
+</resources>

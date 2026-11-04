@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="touchscreen_m_gesture_title">Messagen</string>
+    <string name="touchscreen_flashlight_gesture_title">Täscheluucht</string>
+    <string name="ambient_display_summary">Schierm waakreg maachen, wann s du Notifikatiounen empfänks</string>
+    <string name="none">Keen</string>
+    <string name="fingerprint_pocketmode_title">Onbeofsiichtegt waakreg maache verhënneren</string>
+    <string name="high_touch_sensitivity_title">Héich Beréierungsempfindlechkeet</string>
+    <string name="high_touch_sensitivity_summary">Touch-Empfindlechkeet erhéijen, fir den Touchscreen och mat Hännsche benotzen ze kënnen</string>
+    <string name="stylus_vibrate_title">Vibréieren</string>
+    <string name="popup_calibration_title">Kalibréierung</string>
+    <string name="doze_brightness_adaptive">Automatesch Hellegkeet</string>
+    <string name="alert_slider_selection_dialog_title">Aktioun</string>
+    <string name="alert_slider_mode_none">Keen</string>
+    <string name="alert_slider_mode_silent">Roueg</string>
+</resources>

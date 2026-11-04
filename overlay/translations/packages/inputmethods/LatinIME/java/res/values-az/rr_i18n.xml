@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_split_keyboard_summary">Yalnız mənzərə rejimində</string>
+    <string name="split_keyboard_duplicate_keys">Mərkəz düymələri çoxalt</string>
+    <string name="split_keyboard_duplicate_keys_summary">Düymələri hər iki yarıda, ortaya yaxın göstər</string>
+    <string name="spoken_description_split_keyboard">Klaviaturanı ayır</string>
+    <string name="spoken_description_merge_keyboard">Klaviaturanı birləşdir</string>
+    <string name="spoken_description_float_keyboard">Üzən klaviatura</string>
+    <string name="spoken_description_dock_keyboard">Yuva klaviaturası</string>
+    <string name="floating_keyboard_drag_handle">Klaviaturanı daşı</string>
+    <string name="floating_keyboard_resize_handle">Klaviatura ölçüsünü dəyiş</string>
+    <string name="floating_keyboard_reset">"Sıfırlayın"</string>
+    <string name="floating_keyboard_hide">Klaviaturanı gizlət</string>
+    <string name="floating_keyboard_switch_ime">"Daxiletmə metodunu dəyişdirin"</string>
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"डीफॉल्ट"</item>
+        <item>सेल्सिअस</item>
+        <item>फॅरेनहाइट</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"डीफॉल्ट"</item>
+        <item>रवि</item>
+        <item>सोम</item>
+        <item>मंगळ</item>
+        <item>बुध</item>
+        <item>गुरु</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"डीफॉल्ट"</item>
+        <item>मेट्रिक</item>
+        <item>US प्रणाली</item>
+        <item>UK प्रणाली</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"नमूद केलेले नाही"</item>
+        <item>"तटस्थ"</item>
+        <item>"स्त्रीलिंग"</item>
+        <item>"पुल्लिंग"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">अधिक</string>
+    <string name="advanced_keyboard_settings_title">"प्रगत सेटिंग्ज"</string>
+    <string name="adb_enable_root">रूटेड डीबगिंग</string>
+    <string name="adb_enable_summary_root">Android डीबगिंग रूट म्हणून चालवण्याची परवानगी द्या</string>
+    <string name="backup_transport_setting_label">बॅकअप प्रदाता बदला</string>
+    <string name="backup_transport_title">बॅकअप प्रदाता निवडा</string>
+    <string name="berry_black_theme_title">पूर्ण काळा</string>
+    <string name="berry_black_theme_summary">डार्क थीमसाठी पूर्ण काळी पार्श्वभूमी</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {तुम्ही आता डेव्हलपमेंट सेटिंग्ज सुरू करण्यापासून # पाऊल दूर आहात.} other {तुम्ही आता डेव्हलपमेंट सेटिंग्ज सुरू करण्यापासून # पावले दूर आहात.} }</string>
+    <string name="status_bar_double_tap_to_sleep_title">झोपण्यासाठी टॅप करा</string>
+    <string name="status_bar_double_tap_to_sleep_summary">डिस्प्ले बंद करण्यासाठी स्टेटस बार किंवा लॉक स्क्रीनवर दोनदा टॅप करा</string>
+    <string name="high_touch_polling_rate_title">उच्च टच पोलिंग रेट</string>
+    <string name="high_touch_polling_rate_summary">टचस्क्रीन पोलिंग रेट वाढवा</string>
+    <string name="heads_up_notifications_enabled_title">हेड्स-अप</string>
+    <string name="heads_up_notifications_enabled_summary">महत्त्वाच्या सूचना एका लहान तरंगत्या विंडोमध्ये दाखवा</string>
+    <string name="tethering_allow_vpn_upstreams_title">कनेक्ट केलेल्या डिव्हाइसेससाठी VPN वापरा</string>
+    <string name="tethering_allow_vpn_upstreams_summary">हे डिव्हाइस VPN वापरत असताना, हॉटस्पॉटला जोडलेली सर्व डिव्हाइसेस तोच VPN वापरतील</string>
+    <string name="lock_settings_picker_pattern_size_message">पॅटर्नचा आकार निवडा</string>
+    <string name="max_refresh_rate_title">कमाल रिफ्रेश रेट</string>
+    <string name="min_refresh_rate_title">किमान रिफ्रेश रेट</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">टॅबलेटच्या समोरील फिंगरप्रिंट सेन्सर शोधा.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">डिव्हाइसच्या समोरील फिंगरप्रिंट सेन्सर शोधा.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">फोनच्या समोरील फिंगरप्रिंट सेन्सर शोधा.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">टॅबलेटच्या मागील बाजूस फिंगरप्रिंट सेन्सर शोधा.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">डिव्हाइसच्या मागील बाजूस फिंगरप्रिंट सेन्सर शोधा.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">फोनच्या मागील बाजूस फिंगरप्रिंट सेन्सर शोधा.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">टॅबलेटच्या बाजूला फिंगरप्रिंट सेन्सर शोधा.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">डिव्हाइसच्या बाजूला फिंगरप्रिंट सेन्सर शोधा.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">फोनच्या बाजूला फिंगरप्रिंट सेन्सर शोधा.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">टॅबलेटच्या समोरील सेन्सरला स्पर्श करा.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">डिव्हाइसच्या समोरील सेन्सरला स्पर्श करा.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">फोनच्या समोरील सेन्सरला स्पर्श करा.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">टॅबलेटच्या मागील बाजूचा सेन्सरला स्पर्श करा.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">डिव्हाइसच्या मागील बाजूचा सेन्सरला स्पर्श करा.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">फोनच्या मागील बाजूचा सेन्सरला स्पर्श करा.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">टॅबलेटच्या बाजूचा सेन्सरला स्पर्श करा.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">डिव्हाइसच्या बाजूचा सेन्सरला स्पर्श करा.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">फोनच्या बाजूचा सेन्सरला स्पर्श करा.</string>
+    <string name="show_navbar_hint_title">नेव्हिगेशन सूचना</string>
+    <string name="show_navbar_hint_summary">स्क्रीनच्या तळाशी नेव्हिगेशन सूचना बार दाखवा</string>
+    <string name="auto_brightness_one_shot_title">एकदाच ऑटो-ब्राइटनेस</string>
+    <string name="auto_brightness_one_shot_summary">स्क्रीन सुरू झाल्याच्या क्षणीच ब्राइटनेस समायोजित होईल</string>
+    <string name="data_usage_app_restrict_all">नेटवर्क प्रवेशाला परवानगी द्या</string>
+    <string name="data_usage_app_restrict_all_summary">नेटवर्क वापर सुरू करा</string>
+    <string name="data_usage_app_restrict_mobile">"मोबाइल डेटा"</string>
+    <string name="data_usage_app_restrict_mobile_summary">मोबाइल डेटा वापर सुरू करा</string>
+    <string name="data_usage_app_restrict_vpn">VPN डेटा</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN डेटा वापर सुरू करा</string>
+    <string name="data_usage_app_restrict_wifi">"वाय-फाय डेटा"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi डेटा वापर सुरू करा</string>
+    <string name="proximity_wake_summary">स्क्रीन जागी करण्यापूर्वी प्रॉक्झिमिटी सेन्सर तपासा</string>
+    <string name="storage_warning_internal">इशारा: हा पर्याय नीट काम करू शकत नाही किंवा डेटा गमावू शकतो, म्हणून शिफारस केलेली नाही!</string>
+    <string name="assisted_gps">असिस्टेड GPS वापरा</string>
+    <string name="assisted_gps_summary">GPS सुरू होण्याची कार्यक्षमता सुधारण्यासाठी इंटरनेटवरून उपग्रह सहाय्य डेटा डाउनलोड करा. आणीबाणीच्या कॉलसाठी असिस्टेड GPS नेहमी परवानगीप्राप्त असते.</string>
+    <string name="battery_technology">तंत्रज्ञान</string>
+    <string name="battery_health">"आरोग्य"</string>
+    <string name="battery_health_good">"चांगले"</string>
+    <string name="battery_health_overheat">"जास्त गरम"</string>
+    <string name="battery_health_dead">"बंद"</string>
+    <string name="battery_health_over_voltage">"जास्त व्होल्टेज"</string>
+    <string name="battery_health_unspecified_failure">अनिर्दिष्ट त्रुटी</string>
+    <string name="battery_health_cold">"थंड"</string>
+    <string name="battery_health_unknown">"अज्ञात"</string>
+    <string name="battery_temperature">"तापमान"</string>
+    <string name="battery_voltage">व्होल्टेज</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">डिझाइन क्षमता</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">कमाल क्षमता</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">सेटअप दरम्यान फोन फोल्ड करा</string>
+    <string name="face_enrolling_close_to_continue_description">फेस अनलॉक सेट करण्यासाठी किंवा वापरण्यासाठी फोन फोल्ड करणे आवश्यक आहे</string>
+    <string name="face_enrolling_do_it_later">"हे नंतर करा"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM टूलकिट</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion >= <xliff:g id="number" example="29">%d</xliff:g> साठी सक्षम</string>
+    <string name="personal_context_title">पर्सनल कॉन्टेक्स्ट मॅनेजर</string>
+</resources>

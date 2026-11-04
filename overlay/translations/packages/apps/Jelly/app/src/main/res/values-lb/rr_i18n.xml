@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="url_bar_more">Méi</string>
+    <string name="menu_fav_add">Bei d\'Favoritte setzen</string>
+    <string name="menu_share">Deelen</string>
+    <string name="menu_favorites">Favoritten</string>
+    <string name="menu_history">Historique</string>
+    <string name="menu_settings">Astellungen</string>
+    <string name="menu_download">Erofgelueden</string>
+    <string name="menu_print">Drécken</string>
+    <string name="dismiss">Verwerfen</string>
+    <string name="download_positive">Erofgelueden</string>
+    <string name="background_shortcuts_save_action">Späicheren</string>
+    <string name="settings_title">Astellungen</string>
+    <string name="pref_start_page_autoload_enabled">Aktivéiert</string>
+    <string name="pref_start_page_autoload_disabled">Desaktivéiert</string>
+    <string name="pref_start_page_dialog_reset">Zrécksetzen</string>
+    <string name="pref_location_title">Standuert</string>
+    <string name="history_title">Historique</string>
+    <string name="history_snackbar_item_deleted_message">Réckgängeg maachen</string>
+    <string name="favorite_title">Favoritten</string>
+    <string name="favorite_added">Bei d\'Favoritten dobäigesat</string>
+    <string name="favorite_edit_title">Titel</string>
+    <string name="favorite_edit_positive">Änneren</string>
+    <string name="favorite_edit_delete">Läschen</string>
+    <string name="suggestions_provider_history">Historique</string>
+    <string name="suggestions_provider_none">Keen</string>
+    <string name="search_bar_hint">Sichen</string>
+    <string name="ssl_cert_dialog_dismiss">Verwerfen</string>
+    <string name="location_dialog_allow">Erlaben</string>
+    <string name="protected_media_dialog_deny">Verweigeren</string>
+    <string name="media_session_destroy_action">Stopp</string>
+</resources>

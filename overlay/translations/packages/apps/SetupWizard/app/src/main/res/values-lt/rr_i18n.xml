@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Atšaukti"</string>
+    <string name="finish">Baigti</string>
+    <string name="done">"Atlikta"</string>
+    <string name="setup_welcome_message">Sveiki atvykę į <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Nustatykite darbo profilį</string>
+    <string name="accessibility_settings">"Pasiekiamumo nustatymai"</string>
+    <string name="device_info">"Įrenginio informacija"</string>
+    <string name="device_information">"Įrenginio informacija"</string>
+    <string name="device_info_serial">"Serijos numeris"</string>
+    <string name="setup_locale">"Kalba"</string>
+    <string name="sim_locale_changed">Aptiktas SIM: %1$s</string>
+    <string name="setup_euicc">Nustatyti eSIM</string>
+    <string name="esim_support_summary">Nustatykite eSIM arba įdėkite SIM kortelę. Norėdami įdėti SIM kortelę, perskaitykite įrenginio komplekte pateiktas instrukcijas.</string>
+    <string name="sim_missing_skip_title">Praleisti SIM kortelės nustatymą?</string>
+    <string name="sim_missing_skip_message">Jei praleisite šį veiksmą, nebūsite prisijungę prie mobiliojo tinklo, kol nenustatysite SIM kortelės nustatymuose.</string>
+    <string name="setup_datetime_section_date">"Data"</string>
+    <string name="setup_datetime_section_time">"Laikas"</string>
+    <string name="setup_date_format">"Formatuoti"</string>
+    <string name="date_format_day">"Diena"</string>
+    <string name="date_format_month">"Mėnuo"</string>
+    <string name="date_format_year">"Metai"</string>
+    <string name="setup_time_zone">"Laiko juosta"</string>
+    <string name="setup_24_hour_format">"Naudoti 24 val. formatą"</string>
+    <string name="intro_restore_title">Atkurti programas ir duomenis</string>
+    <string name="intro_restore_subtitle">Jei turite „Seedvault“ atsarginę kopiją iš <xliff:g id="name" example="LineageOS">%s</xliff:g> ar kitos OS, galite ją atkurti čia.</string>
+    <string name="intro_restore_button">Atkurti iš atsarginės kopijos</string>
+    <string name="location_summary">Pasirinkite, kaip įrenginys tvarko savo vietovę</string>
+    <string name="location_access_title">"Naudoti vietovę"</string>
+    <string name="location_agps_access_title">Patobulinta vietovės nustatymas</string>
+    <string name="location_agps_access_summary">Įjungus vietovę, atsisiųsti palydovinės pagalbos duomenis iš interneto, kas gerokai pagerina GPS paleidimo našumą.</string>
+    <string name="update_recovery_title">Atnaujinti Resurrected Remix atkūrimo sistemą</string>
+    <string name="update_recovery_description">Atnaujina Resurrected Remix atkūrimo sistemą pirmą kartą paleidžiant po kiekvieno atnaujinimo.</string>
+    <string name="update_recovery_warning">Atkūrimo sistema bus atnaujinta, kai baigsite nustatymą. Jei norite jos nepakeisti, išjunkite šią funkciją.</string>
+    <string name="update_recovery_setting">Atnaujinti Resurrected Remix atkūrimo sistemą kartu su OS</string>
+    <string name="setup_services">Resurrected Remix funkcijos</string>
+    <string name="services_pp_explanation">Šios paslaugos dirba jūsų labui, plėsdamos įrenginio galimybes. Duomenys bus naudojami pagal <xliff:g id="name" example="LineageOS">%1$s</xliff:g> privatumo politiką.</string>
+    <string name="services_find_privacy_policy">Privatumo politiką galite perskaityti kitame įrenginyje apsilankę:</string>
+    <string name="services_help_improve_cm">Padėkite tobulinti <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> automatiškai siunčia diagnostikos ir naudojimo duomenis <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Ši informacija negali būti naudojama jums identifikuoti, ir ji padeda komandoms tobulinti, pavyzdžiui, akumuliatoriaus veikimo trukmę, programų našumą ir naujas <xliff:g id="name" example="LineageOS">%3$s</xliff:g> funkcijas.</string>
+    <string name="services_metrics_title">Teikti diagnostikos duomenis</string>
+    <string name="setup_navigation">Naršymas</string>
+    <string name="navigation_summary">Pasirinkite norimą naršymo būdą</string>
+    <string name="gesture_navigation">"Naršymas gestais"</string>
+    <string name="navbar_navigation">"Naršymas 3 mygtukais"</string>
+    <string name="gesture_navigation_short">Gestai</string>
+    <string name="hide_gesture_hint">Slėpti gestinės navigacijos užuominą</string>
+    <string name="setup_theme">"Tema"</string>
+    <string name="theme_summary">Tamsioji tema naudoja juodą foną, kad kai kuriuose ekranuose akumuliatorius veiktų ilgiau</string>
+    <string name="dark">Tamsi</string>
+    <string name="light">Šviesi</string>
+    <string name="pure_black_theme">Naudoti grynai juodą foną</string>
+    <string name="theme_preview">Temos peržiūra</string>
+    <string name="swipe_up_to_go_home">"Perbraukite aukštyn, kad grįžtumėte į pagrindinį ekraną"</string>
+    <string name="tap_home_to_go_home">Palieskite centrinę naršymo piktogramą, kad grįžtumėte į pagrindinį ekraną</string>
+    <string name="press_center_to_go_home">Paspauskite centrinį mygtuką, kad grįžtumėte į pagrindinį ekraną</string>
+</resources>

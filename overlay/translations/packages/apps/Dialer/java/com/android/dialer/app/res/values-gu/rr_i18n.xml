@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">કૉલ દરમિયાન</string>
+    <string name="incall_enable_dnd_title">કૉલ દરમિયાન ખલેલ પાડશો નહીં ચાલુ કરો</string>
+    <string name="incall_vibrate_outgoing_title">જવાબ આપતી વખતે વાઇબ્રેટ કરો</string>
+    <string name="incall_vibrate_call_waiting_title">કૉલ વેઇટિંગ પર વાઇબ્રેટ કરો</string>
+    <string name="incall_vibrate_hangup_title">કૉલ કાપતી વખતે વાઇબ્રેટ કરો</string>
+    <string name="incall_vibrate_45_title">દર મિનિટે વાઇબ્રેટ કરો</string>
+    <string name="incall_vibrate_45_summary">આઉટગોઇંગ કૉલ દરમિયાન દરેક મિનિટના 45 સેકંડે વાઇબ્રેટ થાય છે</string>
+    <string name="incall_dnd_dialog_message">ખલેલ પાડશો નહીં ચાલુ કરવા માટે, ફોન ઍપને ખલેલ પાડશો નહીં સ્થિતિ નિયંત્રિત કરવાની પરવાનગી આપવી જરૂરી છે.\nકૃપા કરીને તેને મંજૂરી આપો.</string>
+    <string name="allow">"મંજૂરી આપો"</string>
+    <string name="deny">"નકારો"</string>
+    <string name="call_recording_category_title">કૉલ રેકોર્ડિંગ</string>
+    <string name="call_recording_format">ઑડિઓ ફોર્મેટ</string>
+    <string name="call_via">આની દ્વારા કૉલ કરો</string>
+    <string name="call_via_dialog_title">આની દ્વારા કૉલ કરો…</string>
+    <string name="call_log_stats_title">આંકડા</string>
+    <string name="action_menu_helplines">હેલ્પલાઇન</string>
+    <string name="default_dialer_text">આનો ઉપયોગ કરવા માટે તમારે Dialer ને ડિફૉલ્ટ ફોન ઍપ તરીકે સેટ કરવી પડશે.</string>
+    <string name="default_dialer_action">"ડિફૉલ્ટ તરીકે સેટ કરો"</string>
+</resources>

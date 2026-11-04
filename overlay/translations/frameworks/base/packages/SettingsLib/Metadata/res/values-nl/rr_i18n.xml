@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Een booleaanse waarde.</string>
+    <string name="any_int_type_description">Een geheel getal.</string>
+    <string name="any_string_type_description">Een tekenreekswaarde.</string>
+    <string name="display_id_type_description">Een systeemidentificatie voor het scherm (kan intern of extern zijn, afhankelijk van de configuratie).</string>
+    <string name="installed_package_name_type_description">Elk pakket dat op het apparaat is geïnstalleerd.</string>
+    <string name="int_in_range_type_description_from">Een geheel getal groter dan of gelijk aan %1$d, met stap %2$d.</string>
+    <string name="int_in_range_type_description_to">Een geheel getal kleiner dan of gelijk aan %1$d, met stap %2$d.</string>
+    <string name="int_in_range_type_description_between">Een geheel getal binnen het bereik [%1$d, %2$d], met stap %3$d.</string>
+    <string name="time_of_day_type_description">Een tijdstip in het 24-uursformaat HH:mm.</string>
+    <string name="time_duration_type_description">Een tijdsduur als geheel getal met seconden als precisie.</string>
+    <string name="sim_slot_id_type_description">Een geldige sim-slot-id.</string>
+    <string name="subscription_id_type_description">Een geldige abonnements-id.</string>
+    <string name="wifi_ssid_type_description">De SSID van een wifi-netwerk.</string>
+</resources>

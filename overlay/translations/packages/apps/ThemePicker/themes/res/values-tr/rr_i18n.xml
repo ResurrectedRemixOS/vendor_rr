@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Lavanta</string>
+    <string name="red_color_name">Böğürtlen</string>
+    <string name="wht_color_name">Sis</string>
+    <string name="fruit1_color_name">Sarı ve kırmızı iki renkli palet</string>
+    <string name="fruit2_color_name">Yeşil ve turuncu iki renkli palet</string>
+    <string name="fruit3_color_name">Mavi ve yeşil iki renkli palet</string>
+    <string name="fruit4_color_name">Açık mor ve mavi iki renkli palet</string>
+    <string name="fruit5_color_name">Pembe ve indigo iki renkli palet</string>
+</resources>

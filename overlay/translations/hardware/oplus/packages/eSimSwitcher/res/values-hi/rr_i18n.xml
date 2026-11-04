@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM सेटिंग</string>
+    <string name="esim_toggle_title">"ई-सिम"</string>
+    <string name="esim_toggle_summary">वर्चुअल SIM कार्ड इस्तेमाल करने के लिए ऑपरेटर प्रोफ़ाइल डाउनलोड करके सक्रिय करें</string>
+    <string name="esim_toggle_dialog_cancel">"रद्द करें"</string>
+</resources>

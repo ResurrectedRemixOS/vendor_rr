@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Майстар налады</string>
+    <string name="cancel">"Скасаваць"</string>
+    <string name="finish">Завяршыць</string>
+    <string name="done">"Гатова"</string>
+    <string name="ok">"ОК"</string>
+    <string name="setup_managed_profile_welcome_message">Наладзьце працоўны профіль</string>
+    <string name="accessibility_settings">"Налады спецыяльных магчымасцей"</string>
+    <string name="device_info">"Інфармацыя пра прыладу"</string>
+    <string name="device_information">"Звесткі пра прыладу"</string>
+    <string name="device_info_serial">"Серыйны нумар"</string>
+    <string name="sim_locale_changed">Выяўлена SIM-карта: %1$s</string>
+    <string name="setup_euicc">Наладзьце eSIM</string>
+    <string name="setup_sim_missing">SIM-карта адсутнічае</string>
+    <string name="esim_support_summary">Наладзьце eSIM або ўстаўце SIM-карту. Каб уставіць SIM-карту, прачытайце інструкцыю, што ідзе з прыладай.</string>
+    <string name="sim_missing_summary" product="tablet">SIM-карта ў планшэце не выяўлена. Каб уставіць SIM-карту, прачытайце інструкцыю, што ідзе з прыладай.</string>
+    <string name="sim_missing_summary" product="default">SIM-карта ў тэлефоне не выяўлена. Каб уставіць SIM-карту, прачытайце інструкцыю, што ідзе з прыладай.</string>
+    <string name="sim_missing_skip_title">Прапусціць налады SIM?</string>
+    <string name="sim_missing_skip_message">Калі вы прапусціце гэты крок, вы не будзеце падключаны да мабільнай сеткі, пакуль не наладзіце SIM-карту ў наладах.</string>
+    <string name="date_time_summary">Усталюйце часавы пояс і пры неабходнасці наладзьце бягучую дату і час</string>
+    <string name="setup_datetime_section_date">"Дата"</string>
+    <string name="setup_datetime_section_time">"Час"</string>
+    <string name="setup_date_format">"Фармаціраваць"</string>
+    <string name="date_format_day">Дзень</string>
+    <string name="date_format_month">"Месяц"</string>
+    <string name="date_format_year">"Год"</string>
+    <string name="setup_time_zone">"Часавы пояс"</string>
+    <string name="setup_24_hour_format">"Выкарыстоўваць 24-гадзінны фармат"</string>
+    <string name="intro_restore_subtitle">Калі ў вас ёсць рэзервовая копія Seedvault са <xliff:g id="name" example="LineageOS">%s</xliff:g> або іншай АС, яе можна аднавіць тут.</string>
+    <string name="intro_restore_button">Аднавіць з рэзервовай копіі</string>
+    <string name="location_summary">Выберыце, як прылада кіруе сваім месцазнаходжаннем</string>
+    <string name="location_access_title">"Выкарыстоўваць геалакацыю"</string>
+    <string name="location_agps_access_title">Пашыранае месцазнаходжанне</string>
+    <string name="location_access_summary">Дазволіць праграмам, якія запыталі ваш дазвол на доступ да месцазнаходжання, выкарыстоўваць гэтую інфармацыю. Гэта можа ўключаць бягучае і папярэдняе месцазнаходжанне.</string>
+    <string name="update_recovery_title">Абнавіць рэкавery Resurrected Remix</string>
+    <string name="update_recovery_description">Абнаўляе рэкавery Resurrected Remix пры першым запуску пасля кожнага абнаўлення.</string>
+    <string name="update_recovery_warning">Рэкавery будзе абноўлены, як толькі вы завершыце налады. Калі хочаце захаваць яго без змен, адключыце гэту функцыю.</string>
+    <string name="update_recovery_setting">Абнавіць рэкавery Resurrected Remix разам з АС</string>
+    <string name="setup_services">Функцыі Resurrected Remix</string>
+    <string name="services_pp_explanation">Гэтыя сэрвісы працуюць для вас, каб пашырыць магчымасці прылады. Даныя будуць выкарыстоўвацца ў адпаведнасці з палітыкай канфідэнцыяльнасці <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Палітыку канфідэнцыяльнасці можна прачытаць на іншай прыладзе, адкрыўшы:</string>
+    <string name="services_help_improve_cm">Дапамажыце палепшыць <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> аўтаматычна адпраўляе дыягнастычныя даныя і даныя пра выкарыстанне ў <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Гэтая інфармацыя не можа быць выкарыстана для вашай ідэнтыфікацыі і дапамагае камандам, якія працуюць над такімі рэчамі, як час работы батарэі, прадукцыйнасць праграм і новыя функцыі <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">Дзяліцца дыягнастычнымі данымі</string>
+    <string name="navigation_summary">Выберыце пераважны спосаб навігацыі</string>
+    <string name="navbar_navigation">"3-кнопачная навігацыя"</string>
+    <string name="gesture_navigation_short">Жэсты</string>
+    <string name="hide_gesture_hint">Схаваць падказку пра навігацыю жэстамі</string>
+    <string name="setup_theme">"Тэма"</string>
+    <string name="theme_summary">Цёмная тэма выкарыстоўвае чорнае фон, што дапамагае даўжэй захаваць зарад батарэі на некаторых экранах</string>
+    <string name="dark">Цёмны</string>
+    <string name="light">Светлая</string>
+    <string name="pure_black_theme">Выкарыстоўваць чыста чорны фон</string>
+    <string name="theme_preview">Папярэдні прагляд тэмы</string>
+    <string name="swipe_up_to_go_home">"Каб перайсці на галоўны экран, правядзіце пальцам уверх"</string>
+    <string name="tap_home_to_go_home">Націсніце цэнтральную іконку навігацыі, каб перайсці на галоўны экран</string>
+    <string name="press_center_to_go_home">Націсніце цэнтральную кнопку, каб перайсці на галоўны экран</string>
+</resources>

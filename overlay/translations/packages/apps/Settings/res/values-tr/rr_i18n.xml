@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kb/sn</item>
+        <item>256 kb/sn</item>
+        <item>1 Mb/sn</item>
+        <item>5 Mb/sn</item>
+        <item>15 Mb/sn</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"varsayılan"</item>
+        <item>Santigrat</item>
+        <item>Fahrenhayt</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"varsayılan"</item>
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çar</item>
+        <item>Per</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"varsayılan"</item>
+        <item>Metrik</item>
+        <item>ABD sistemi</item>
+        <item>İngiltere sistemi</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Belirtilmedi"</item>
+        <item>"Normal"</item>
+        <item>"Kadın"</item>
+        <item>"Erkek"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>Fr</item>
+        <item>Es</item>
+        <item>İt</item>
+        <item>De</item>
+    </string-array>
+    <string name="face_enrolling_close_to_continue">Kurulum sırasında telefonu katlayın</string>
+    <string name="face_enrolling_close_to_continue_description">Yüz Kilidi\'ni kurmak veya kullanmak için telefonun katlanmış olması gerekir</string>
+    <string name="face_enrolling_do_it_later">"Daha sonra yap"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM araç takımı</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion >= <xliff:g id="number" example="29">%d</xliff:g> için etkin</string>
+    <string name="personal_context_title">Kişisel Bağlam Yöneticisi</string>
+</resources>

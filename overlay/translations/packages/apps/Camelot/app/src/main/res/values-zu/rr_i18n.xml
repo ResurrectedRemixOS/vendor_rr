@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Isibonisi se-PDF</string>
+    <string name="find_in_page">Thola kukhasi</string>
+    <string name="share">"Yabelana"</string>
+    <string name="open_with">Vula nge…</string>
+    <string name="download">"Landa"</string>
+    <string name="pdf_document">Idokhumenti ye-PDF</string>
+    <string name="print">"Phrinta"</string>
+    <string name="download_successful">Ukulanda kuphumelele</string>
+    <string name="download_error">Kuvele iphutha lapho kulanda ifayela</string>
+</resources>

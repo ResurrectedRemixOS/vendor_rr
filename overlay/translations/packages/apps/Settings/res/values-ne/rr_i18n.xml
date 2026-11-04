@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"डिफल्ट"</item>
+        <item>सेल्सियस</item>
+        <item>फ्यारेनहाइट</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"डिफल्ट"</item>
+        <item>आइत</item>
+        <item>सोम</item>
+        <item>मङ्gल</item>
+        <item>बुध</item>
+        <item>बिही</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"डिफल्ट"</item>
+        <item>मेट्रिक</item>
+        <item>US प्रणाली</item>
+        <item>UK प्रणाली</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"नतोकिएको"</item>
+        <item>"तटस्थ"</item>
+        <item>"स्त्रीलिङ्ग"</item>
+        <item>"पुलिङ्ग"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">अतिरिक्त</string>
+    <string name="advanced_keyboard_settings_title">"उन्नत सेटिङहरू"</string>
+    <string name="adb_enable_root">रुट डिबगिङ</string>
+    <string name="adb_enable_summary_root">Android डिबगिङलाई root का रूपमा चलाउन अनुमति दिनुहोस्</string>
+    <string name="backup_transport_setting_label">ब्याकअप प्रदायक बदल्नुहोस्</string>
+    <string name="backup_transport_title">ब्याकअप प्रदायक छान्नुहोस्</string>
+    <string name="berry_black_theme_title">पूर्ण कालो</string>
+    <string name="berry_black_theme_summary">डार्क थिमका लागि पूर्ण कालो पृष्ठभूमि</string>
+    <string name="lineagelicense_title">LineageOS कानुनी जानकारी</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {तपाईं अब विकासक सेटिङ सक्षम गर्नबाट # चरण टाढा हुनुहुन्छ।} other {तपाईं अब विकासक सेटिङ सक्षम गर्नबाट # चरण टाढा हुनुहुन्छ।} }</string>
+    <string name="show_dev_on_cm">तपाईंले विकासक सेटिङ सक्षम गर्नुभएको छ!</string>
+    <string name="show_dev_already_cm">आवश्यक छैन, तपाईंले विकासक सेटिङ पहिले नै सक्षम गर्नुभएको छ।</string>
+    <string name="status_bar_double_tap_to_sleep_title">सुताउन ट्याप गर्नुहोस्</string>
+    <string name="status_bar_double_tap_to_sleep_summary">डिस्प्ले बन्द गर्न स्थिति पट्टी वा लक स्क्रिनमा डबल-ट्याप गर्नुहोस्</string>
+    <string name="high_touch_polling_rate_title">उच्च टच पोलिङ दर</string>
+    <string name="high_touch_polling_rate_summary">टचस्क्रिन पोलिङ दर बढाउनुहोस्</string>
+    <string name="heads_up_notifications_enabled_title">Heads-up</string>
+    <string name="heads_up_notifications_enabled_summary">सानो तैरने विन्डोमा प्राथमिकता सूचनाहरू देखाउनुहोस्</string>
+    <string name="high_touch_sensitivity_title">उच्च टच संवेदनशीलता</string>
+    <string name="high_touch_sensitivity_summary">पञ्जा लगाएर प्रयोग गर्न टचस्क्रिनको संवेदनशीलता बढाउनुहोस्</string>
+    <string name="tethering_allow_vpn_upstreams_title">जडान भएका डिभाइसका लागि VPN प्रयोग गर्नुहोस्</string>
+    <string name="tethering_allow_vpn_upstreams_summary">यो डिभाइसले VPN प्रयोग गर्दा हटस्पटमा जडान भएका सबै डिभाइसले उही VPN प्रयोग गर्नेछन्</string>
+    <string name="lock_settings_picker_pattern_size_message">ढाँचाको आकार छान्नुहोस्</string>
+    <string name="lockpattern_settings_enable_error_path_title">ढाँचाको त्रुटि देखाउनुहोस्</string>
+    <string name="lockpattern_settings_enable_dots_title">ढाँचाका थोप्लाहरू देखाउनुहोस्</string>
+    <string name="max_refresh_rate_title">उच्चतम रिफ्रेस दर</string>
+    <string name="min_refresh_rate_title">न्यूनतम रिफ्रेस दर</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">तपाईंको ट्याब्लेटको अगाडिपट्टि फिंगरप्रिन्ट सेन्सर खोज्नुहोस्।</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">तपाईंको डिभाइसको अगाडिपट्टि फिंगरप्रिन्ट सेन्सर खोज्नुहोस्।</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">तपाईंको फोनको अगाडिपट्टि फिंगरप्रिन्ट सेन्सर खोज्नुहोस्।</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">तपाईंको ट्याब्लेटको पछाडिपट्टि फिंगरप्रिन्ट सेन्सर खोज्नुहोस्।</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">तपाईंको डिभाइसको पछाडिपट्टि फिंगरप्रिन्ट सेन्सर खोज्नुहोस्।</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">तपाईंको फोनको पछाडिपट्टि फिंगरप्रिन्ट सेन्सर खोज्नुहोस्।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">तपाईंको ट्याब्लेटको छेउमा फिंगरप्रिन्ट सेन्सर खोज्नुहोस्।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">तपाईंको डिभाइसको छेउमा फिंगरप्रिन्ट सेन्सर खोज्नुहोस्।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">तपाईंको फोनको छेउमा फिंगरप्रिन्ट सेन्सर खोज्नुहोस्।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">तपाईंको ट्याब्लेटको अगाडिपट्टिको सेन्सर छुनुहोस्।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">तपाईंको डिभाइसको अगाडिपट्टिको सेन्सर छुनुहोस्।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">तपाईंको फोनको अगाडिपट्टिको सेन्सर छुनुहोस्।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">तपाईंको ट्याब्लेटको पछाडिपट्टिको सेन्सर छुनुहोस्।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">तपाईंको डिभाइसको पछाडिपट्टिको सेन्सर छुनुहोस्।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">तपाईंको फोनको पछाडिपट्टिको सेन्सर छुनुहोस्।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">तपाईंको ट्याब्लेटको छेउको सेन्सर छुनुहोस्।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">तपाईंको डिभाइसको छेउको सेन्सर छुनुहोस्।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">तपाईंको फोनको छेउको सेन्सर छुनुहोस्।</string>
+    <string name="show_navbar_hint_title">नेभिगेसन संकेत</string>
+    <string name="show_navbar_hint_summary">स्क्रिनको तलपट्टि नेभिगेसन संकेत पट्टी देखाउनुहोस्</string>
+    <string name="auto_brightness_one_shot_title">एक पटकको स्वतः ब्राइटनेस</string>
+    <string name="auto_brightness_one_shot_summary">ब्राइटनेस समायोजन स्क्रिन खुल्ने क्षणमा मात्र हुनेछ</string>
+    <string name="data_usage_app_restrict_all">नेटवर्क पहुँच अनुमति दिनुहोस्</string>
+    <string name="data_usage_app_restrict_all_summary">नेटवर्क प्रयोग सक्षम गर्नुहोस्</string>
+    <string name="data_usage_app_restrict_mobile">"मोबाइल डेटा"</string>
+    <string name="data_usage_app_restrict_mobile_summary">मोबाइल डेटा प्रयोग सक्षम गर्नुहोस्</string>
+    <string name="data_usage_app_restrict_vpn">VPN डेटा</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN डेटा प्रयोग सक्षम गर्नुहोस्</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi डेटा"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi डेटा प्रयोग सक्षम गर्नुहोस्</string>
+    <string name="unlock_scramble_pin_layout_title">लेआउट फेरबदल गर्नुहोस्</string>
+    <string name="unlock_scramble_pin_layout_summary">डिभाइस अनलक गर्दा PIN लेआउट फेरबदल गर्नुहोस्</string>
+    <string name="proximity_wake_title">अनजानमा जाग्नबाट रोक्नुहोस्</string>
+    <string name="proximity_wake_summary">स्क्रिन जगाउनुअघि नजिकताको सेन्सर जाँच गर्नुहोस्</string>
+    <string name="touchscreen_hovering_title">टचस्क्रिन होभरिङ</string>
+    <string name="touchscreen_hovering_summary">वेब ब्राउजर, रिमोट डेस्कटप आदिमा माउसजस्तै स्क्रिनमा होभर गर्न दिन्छ</string>
+    <string name="wake_when_plugged_or_unplugged_title">प्लग गर्दा जगाउनुहोस्</string>
+    <string name="wake_when_plugged_or_unplugged_summary">पावर स्रोत जडान वा विच्छेद गर्दा स्क्रिन खोल्नुहोस्</string>
+    <string name="storage_warning_internal">चेतावनी: यो विकल्प ठीकसँग काम नगर्न सक्छ वा डेटा हराउन सक्छ, त्यसैले सिफारिस गरिएको छैन!</string>
+    <string name="assisted_gps">Assisted GPS प्रयोग गर्नुहोस्</string>
+    <string name="assisted_gps_summary">उपग्रह सहायता डेटा इन्टरनेटबाट डाउनलोड गर्नुहोस् जसले GPS सुरु हुने गतिलाई धेरै सुधार गर्न सक्छ। आपतकालीन कलका लागि, सहायता प्राप्त GPS सधैँ अनुमति दिइन्छ।</string>
+    <string name="battery_technology">प्रविधि</string>
+    <string name="battery_health">"अवस्था"</string>
+    <string name="battery_health_good">"राम्रो"</string>
+    <string name="battery_health_overheat">"धेरै तातो"</string>
+    <string name="battery_health_dead">"मृत"</string>
+    <string name="battery_health_over_voltage">"अधिक भोल्टेज"</string>
+    <string name="battery_health_unspecified_failure">अनिर्दिष्ट त्रुटि</string>
+    <string name="battery_health_cold">"चिसो"</string>
+    <string name="battery_health_unknown">"अज्ञात"</string>
+    <string name="battery_temperature">"तापक्रम"</string>
+    <string name="battery_voltage">भोल्टेज</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">डिजाइन क्षमता</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">अधिकतम क्षमता</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">सेटअपका बेला फोन फोल्ड गर्नुहोस्</string>
+    <string name="face_enrolling_close_to_continue_description">फेस अनलक सेट अप गर्न वा प्रयोग गर्न फोन फोल्ड गर्नुपर्छ</string>
+    <string name="face_enrolling_do_it_later">"यो काम पछि गर्नुहोस्‌"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM टुलकिट</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> का लागि सक्षम</string>
+    <string name="personal_context_title">व्यक्तिगत सन्दर्भ प्रबन्धक</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_password">비밀번호용 숫자 행</string>
+    <string name="number_row_password_summary">비밀번호 입력을 위해 키가 4행인 모든 레이아웃에서 항상 숫자 행 표시</string>
+    <string name="backspace_trackpad">스페이스바 트랙패드</string>
+    <string name="backspace_trackpad_summary">스페이스바에서 스와이프하여 단어 삭제</string>
+    <string name="enable_split_keyboard_summary">가로 방향에서만</string>
+    <string name="split_keyboard_duplicate_keys">가운데 키 복제</string>
+    <string name="split_keyboard_duplicate_keys_summary">양쪽 절반의 가운데 근처 키 표시</string>
+    <string name="spoken_description_split_keyboard">키보드 분할</string>
+    <string name="spoken_description_merge_keyboard">키보드 병합</string>
+    <string name="spoken_description_float_keyboard">키보드 떠다니기</string>
+    <string name="spoken_description_dock_keyboard">키보드 도킹</string>
+    <string name="floating_keyboard_drag_handle">키보드 이동</string>
+    <string name="floating_keyboard_resize_handle">키보드 크기 조절</string>
+    <string name="floating_keyboard_reset">"재설정"</string>
+    <string name="floating_keyboard_hide">키보드 숨기기</string>
+    <string name="floating_keyboard_switch_ime">"입력 방법 전환"</string>
+</resources>

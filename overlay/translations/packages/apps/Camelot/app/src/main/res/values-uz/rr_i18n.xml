@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF ko‘ruvchi</string>
+    <string name="find_in_page">Sahifadan qidirish</string>
+    <string name="share">"Ulashish"</string>
+    <string name="open_with">Quyidagi bilan ochish…</string>
+    <string name="download">"Yuklab olish"</string>
+    <string name="pdf_document">PDF hujjat</string>
+    <string name="print">"Chop etish"</string>
+    <string name="download_successful">Yuklab olish muvaffaqiyatli yakunlandi</string>
+    <string name="download_error">Faylni yuklab olishda xatolik</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Anulo"</string>
+    <string name="finish">Mbaro</string>
+    <string name="device_info">"Informacionet e pajisjes"</string>
+    <string name="device_information">"Informacioni i pajisjes"</string>
+    <string name="device_info_serial">"Numri i serisë"</string>
+    <string name="setup_euicc">Konfiguro eSIM</string>
+    <string name="esim_support_summary">Konfiguro një eSIM ose fut një kartë SIM. Për të futur një kartë SIM, lexo udhëzimet që erdhën me pajisjen.</string>
+    <string name="sim_missing_skip_title">Të kapërcehet konfigurimi i SIM-it?</string>
+    <string name="sim_missing_skip_message">Nëse e kapërcen këtë hap, nuk do të lidhesh me rrjetin celular deri sa të konfigurosh një SIM te Cilësimet.</string>
+    <string name="setup_datetime_section_date">"Data"</string>
+    <string name="setup_datetime_section_time">"Ora"</string>
+    <string name="setup_date_format">"Formato"</string>
+    <string name="date_format_day">Ditë</string>
+    <string name="date_format_month">"Muaji"</string>
+    <string name="date_format_year">"Vit"</string>
+    <string name="setup_time_zone">"Brezi orar"</string>
+    <string name="setup_24_hour_format">"Përdor formatin 24-orësh"</string>
+    <string name="location_summary">Zgjidh si e menaxhon pajisja vendndodhjen</string>
+    <string name="location_access_title">"Përdor vendndodhjen"</string>
+    <string name="location_agps_access_title">Vendndodhje e përmirësuar</string>
+    <string name="services_find_privacy_policy">Mund ta lexosh politikën e privatësisë në një pajisje tjetër duke vizituar:</string>
+    <string name="services_metrics_title">Ndaj të dhëna diagnostikuese</string>
+    <string name="gesture_navigation_short">Gjesti</string>
+    <string name="pure_black_theme">Përdor sfond krejt të zi</string>
+    <string name="theme_preview">Pamja paraprake e temës</string>
+    <string name="swipe_up_to_go_home">"Rrëshqit shpejt lart për të shkuar në ekranin bazë"</string>
+    <string name="tap_home_to_go_home">Prek ikonën qendrore të navigimit për t\'u kthyer në fillim</string>
+    <string name="press_center_to_go_home">Shtyp butonin qendror për t\'u kthyer në fillim</string>
+</resources>

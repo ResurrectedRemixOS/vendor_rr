@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">ពេលកំពុងហៅ</string>
+    <string name="incall_enable_dnd_title">បើកកុំរំខានអំឡុងពេលហៅទូរស័ព្ទ</string>
+    <string name="incall_vibrate_outgoing_title">ញ័រពេលទទួល</string>
+    <string name="incall_vibrate_call_waiting_title">ញ័រពេលមានការហៅរង់ចាំ</string>
+    <string name="incall_vibrate_hangup_title">ញ័រពេលបញ្ចប់ការហៅ</string>
+    <string name="incall_vibrate_45_title">ញ័រជារៀងរាល់នាទី</string>
+    <string name="incall_vibrate_45_summary">ញ័រនៅវិនាទីទី៤៥ នៃជារៀងរាល់នាទីក្នុងអំឡុងពេលហៅចេញ</string>
+    <string name="incall_dnd_dialog_message">ដើម្បីបើក \"កុំរំខាន\" កម្មវិធីទូរស័ព្ទត្រូវតែទទួលការអនុញ្ញាតគ្រប់គ្រងស្ថានភាពកុំរំខាន។\nសូមអនុញ្ញាតវា។</string>
+    <string name="allow">"អនុញ្ញាត"</string>
+    <string name="deny">"បដិសេធ"</string>
+    <string name="call_recording_category_title">ការថតសំឡេងការហៅ</string>
+    <string name="call_recording_format">ទ្រង់ទ្រាយសំឡេង</string>
+    <string name="call_via">ហៅតាម</string>
+    <string name="call_via_dialog_title">ហៅតាម…</string>
+    <string name="call_log_stats_title">ស្ថិតិ</string>
+    <string name="action_menu_helplines">លេខទូរស័ព្ទជំនួយ</string>
+    <string name="default_dialer_text">អ្នកត្រូវតែកំណត់កម្មវិធីហៅទូរស័ព្ទជាកម្មវិធីលំនាំដើម ដើម្បីប្រើវា។</string>
+    <string name="default_dialer_action">"កំណត់ជាលំនាំដើម"</string>
+</resources>

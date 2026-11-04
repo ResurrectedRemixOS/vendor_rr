@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hour">
+        <item quantity="other">%d саат</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%d мүн</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%d сек</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="other">%d чалуу</item>
+    </plurals>
+    <string name="call_stats_detail_title">Байланыш статистикасынын чоо-жайы</string>
+    <string name="call_stats_incoming">Кирүүчү: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Чыгуучу: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Өткөрүп жиберилген: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Бөгөттөлгөн: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Жалпы: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Жалпы: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">Баштоо датасы</string>
+    <string name="call_stats_filter_to">Аяктоо датасы</string>
+    <string name="call_stats_filter_picker_title">Чыпкалоо диапазону</string>
+    <string name="date_quick_selection">Ыкчам тандоо</string>
+    <string name="date_qs_currentmonth">Учурдагы ай</string>
+    <string name="date_qs_currentquarter">Учурдагы кварта</string>
+    <string name="date_qs_currentyear">Учурдагы жыл</string>
+    <string name="date_qs_lastweek">"Өткөн апта"</string>
+    <string name="date_qs_lastmonth">"Өткөн ай"</string>
+    <string name="date_qs_lastquarter">Өткөн кварта</string>
+    <string name="date_qs_lastyear">"Былтыр"</string>
+    <string name="call_stats_date_filter">Убакыт диапазонун тууралоо</string>
+    <string name="call_stats_reset_filter">Убакыт диапазонун баштапкы абалга келтирүү</string>
+    <string name="call_stats_sort_by_duration">Чалуу узактыгы боюнча саптоо</string>
+    <string name="call_stats_sort_by_count">Чалуулардын саны боюнча саптоо</string>
+    <string name="call_stats_title_for_number">Бул номер</string>
+    <string name="call_stats_title_of_total">Жалпынын ичинен</string>
+    <string name="call_stats_title_durations">Чалуулардын узактыгы</string>
+    <string name="call_stats_title_count">Чалуулардын саны</string>
+    <string name="call_stats_title_average_duration">Орточо чалуу узактыгы</string>
+    <string name="recent_calls_no_items_in_range">Тандалган убакыт диапазонунда чалуу журналында чалуулар жок.</string>
+</resources>

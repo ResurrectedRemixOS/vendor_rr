@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX si panel yako chaguo-msingi ya udhibiti wa athari.</string>
+    <string name="snack_bar_not_default_set">"Weka chaguomsingi"</string>
+    <string name="snack_bar_not_default_not_now">"Si sasa"</string>
+    <string name="normal">Kawaida</string>
+    <string name="classical">"Muziki wa dhati"</string>
+    <string name="dance">"Dansi"</string>
+    <string name="flat">Bapa</string>
+    <string name="folk">"Muziki wa Jadi"</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="electronic">Elektroniki</string>
+    <string name="small_speakers">Spika ndogo</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="custom">Maalum</string>
+    <string name="custom_n">Maalum <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">Athari hii haipatikani katika hali ya spika.</string>
+    <string name="device_headset">"Vifaa vya sauti"</string>
+    <string name="device_speaker">"Spika"</string>
+    <string name="device_line_out">Line out</string>
+    <string name="reverb">Reverb</string>
+    <string name="devices">"Vifaa"</string>
+    <string name="virtualizer">Virtualizer</string>
+    <string name="bass">Bass</string>
+    <string name="rename">"Badilisha jina"</string>
+    <string name="remove_custom_preset_warning_message">Una uhakika unataka kuondoa %1$s?</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">"自動調整亮度"</string>
+    <string name="zen_alarm_warning_indef">"你不會聽到下一個<xliff:g id="WHEN">%1$s</xliff:g> 的鬧鐘，除非你預先關閉這項功能"</string>
+</resources>

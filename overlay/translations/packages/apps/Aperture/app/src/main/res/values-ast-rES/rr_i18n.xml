@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="image_view_description">Previsualización de la imaxe</string>
+    <string name="qr_share_with_action">Compartir con</string>
+    <string name="advanced_header">Opciones avanzaes</string>
+    <string name="edge_mode_fast">Rápida</string>
+    <string name="noise_reduction_mode_fast">Rápida</string>
+    <string name="shading_mode_default">Por defeutu</string>
+    <string name="shading_mode_off">Non</string>
+    <string name="shading_mode_fast">Rápida</string>
+    <string name="color_correction_aberration_mode_default">Por defeutu</string>
+    <string name="color_correction_aberration_mode_off">Non</string>
+    <string name="color_correction_aberration_mode_fast">Rápida</string>
+    <string name="distortion_correction_mode_fast">Rápida</string>
+    <string name="hot_pixel_mode_fast">Rápida</string>
+</resources>

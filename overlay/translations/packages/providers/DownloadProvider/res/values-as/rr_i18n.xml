@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="download_paused_percent">বিৰতি দিয়া হ\'ল, %d%%</string>
+    <string name="button_resume_download">"পুনৰ আৰম্ভ কৰক"</string>
+    <string name="button_pause_download">বিৰতি দিয়ক</string>
+    <string name="notif_summary_paused">%d টা বিৰতি দিয়া হ\'ল</string>
+</resources>

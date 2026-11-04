@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Pembekal Amanah Profil</string>
+    <string name="profile_picker_title">"Profil"</string>
+    <string name="profile_none">"Tiada"</string>
+    <string name="profile_trust_agent_title">Ejen Amanah Profil</string>
+    <string name="profile_trust_agent_summary">Membenarkan Profil melumpuhkan perlindungan skrin kunci buat sementara</string>
+    <string name="trust_by_profile">Dipercayai oleh Profil</string>
+</resources>

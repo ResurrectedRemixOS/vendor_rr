@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="string_cancel">Anule</string>
+    <string name="string_learn_more">Plui informazions</string>
+    <string name="content_description_show_password">Mostre password</string>
+    <string name="set_as_default">Met come predefinide</string>
+    <string name="settings">Impostazions</string>
+    <string name="accessibility_snackbar_dismiss">Scarte</string>
+    <string name="more_options_content_description">Altri</string>
+</resources>

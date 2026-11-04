@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pause">Hlé</string>
+    <plurals name="recording_selection_count">
+        <item quantity="one">%d valið</item>
+        <item quantity="two">%d valin</item>
+        <item quantity="few">%d valin</item>
+        <item quantity="many">%d valin</item>
+        <item quantity="zero">%d valið</item>
+        <item quantity="other">%d valin</item>
+    </plurals>
+</resources>

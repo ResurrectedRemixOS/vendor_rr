@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_dnd_dialog_message">Щоб увімкнути режим «Не турбувати», застосунку «Телефон» потрібен дозвіл керувати станом «Не турбувати».\nБудь ласка, надайте його.</string>
+    <string name="call_via">Дзвінок через</string>
+    <string name="call_via_dialog_title">Дзвінок через…</string>
+    <string name="default_dialer_text">Щоб користуватися цим, зробіть застосунок набору номера типовим застосунком телефону.</string>
+    <string name="default_dialer_action">"Вибрати за умовчанням"</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX हे तुमचे डीफॉल्ट इफेक्ट्स नियंत्रण पॅनल नाही.</string>
+    <string name="snack_bar_not_default_set">"डीफॉल्ट म्हणून सेट करा"</string>
+    <string name="snack_bar_not_default_not_now">"आता नको"</string>
+    <string name="multimedia">मल्टिमीडिया</string>
+    <string name="custom_n">सानुकूल <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="device_line_out">लाइन आउट</string>
+    <string name="devices">"डिव्हाइस"</string>
+    <string name="virtualizer">व्हर्च्युअलायझर</string>
+    <string name="bass">बास</string>
+    <string name="rename">"नाव बदला"</string>
+    <string name="remove_custom_preset_warning_message">तुम्हाला खात्री आहे की तुम्ही %1$s काढून टाकू इच्छिता?</string>
+    <string name="picker_title">संगीत इफेक्ट्स नियंत्रण पॅनल</string>
+</resources>

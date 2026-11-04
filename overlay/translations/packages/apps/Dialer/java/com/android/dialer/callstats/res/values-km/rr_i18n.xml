@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">ព័ត៌មានលម្អិតស្ថិតិទំនាក់ទំនង</string>
+    <string name="call_stats_incoming">ចូល៖ <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">ចេញ៖ <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">ខកខាន៖ <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">បានទប់ស្កាត់៖ <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">សរុប៖ <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">សរុប៖ <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">កាលបរិច្ឆេទ​ចាប់ផ្ដើម</string>
+    <string name="call_stats_filter_to">កាលបរិច្ឆេទ​បញ្ចប់</string>
+    <string name="call_stats_filter_picker_title">ចម្រងជួរ</string>
+    <string name="date_quick_selection">ការជ្រើសរើសរហ័ស</string>
+    <string name="date_qs_currentmonth">ខែនេះ</string>
+    <string name="date_qs_currentquarter">ត្រីមាសនេះ</string>
+    <string name="date_qs_currentyear">ឆ្នាំនេះ</string>
+    <string name="date_qs_lastweek">"សប្ដាហ៍មុន"</string>
+    <string name="date_qs_lastmonth">"ខែមុន"</string>
+    <string name="date_qs_lastquarter">ត្រីមាសមុន</string>
+    <string name="date_qs_lastyear">"ឆ្នាំមុន"</string>
+    <string name="call_stats_date_filter">កែតម្រូវជួរពេលវេលា</string>
+    <string name="call_stats_reset_filter">កំណត់ជួរពេលវេលាឡើងវិញ</string>
+    <string name="call_stats_sort_by_duration">តម្រៀបតាមរយៈពេលហៅ</string>
+    <string name="call_stats_sort_by_count">តម្រៀបតាមចំនួនការហៅ</string>
+    <string name="call_stats_title_for_number">លេខនេះ</string>
+    <string name="call_stats_title_of_total">នៃសរុប</string>
+    <string name="call_stats_title_durations">រយៈពេលហៅ</string>
+    <string name="call_stats_title_count">ចំនួនការហៅ</string>
+    <string name="call_stats_title_average_duration">រយៈពេលហៅមធ្យម</string>
+    <string name="recent_calls_no_items_in_range">កំណត់ហេតុការហៅរបស់អ្នកមិនមានការហៅណាមួយក្នុងជួរពេលវេលាដែលបានជ្រើសរើសទេ។</string>
+</resources>

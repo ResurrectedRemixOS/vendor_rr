@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_retry_face_auth" product="default">Rhoi gynnig eto ar Ddatgloi ag Wyneb</string>
+    <string name="face_re_enroll_notification_title" product="default">Gosod Datgloi ag Wyneb eto</string>
+    <string name="biometric_dialog_tap_confirm_with_face" product="default">Datglowyd gydag wyneb</string>
+    <string name="biometric_dialog_tap_confirm_with_face_alt_1" product="default">Datglowyd gydag wyneb. Pwysa i barhau.</string>
+    <string name="biometric_dialog_tap_confirm_with_face_sfps" product="default">Wedi datgloi ag wyneb. Tapia i barhau.</string>
+    <string name="face_re_enroll_notification_name" product="default">Datgloi ag Wyneb</string>
+    <string name="face_re_enroll_dialog_title" product="default">Gosod Datgloi ag Wyneb</string>
+    <string name="face_re_enroll_dialog_content" product="default">I osod Datgloi ag Wyneb eto, caiff model cyfredol dy wyneb ei ddileu.\n\nBydd rhaid gosod Datgloi ag Wyneb eto i ddefnyddio dy wyneb i ddatgloi dy ffôn.</string>
+    <string name="face_reenroll_failure_dialog_content" product="default">Methwyd gosod datgloi ag wyneb. Cer i\u2019r Gosodiadau i geisio eto.</string>
+    <string name="keyguard_face_unlock_unavailable" product="default">Datgloi â Wyneb ddim ar gael</string>
+    <string name="accesssibility_keyguard_retry" product="default">Llithra i fyny i roi cynnig arall ar Ddatgloi ag Wyneb</string>
+    <string name="keyguard_face_successful_unlock_swipe" product="default">Datglowyd gydag wyneb. Llusga i fyny i barhau.</string>
+    <string name="keyguard_face_successful_unlock_press" product="default">Datglowyd gydag wyneb. Pwysa\u2019r eicon datgloi i agor.</string>
+    <string name="keyguard_face_successful_unlock_press_alt_1" product="default">Datglowyd gydag wyneb. Pwysa i agor.</string>
+    <string name="keyguard_face_successful_unlock" product="default">Datglowyd gydag wyneb</string>
+</resources>

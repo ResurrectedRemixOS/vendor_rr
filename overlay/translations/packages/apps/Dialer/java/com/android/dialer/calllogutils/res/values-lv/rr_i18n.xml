@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">Visi konti</string>
+    <string name="call_log_all_calls_header">Visi zvani</string>
+    <string name="call_log_incoming_header">Tikai ienākošie zvani</string>
+    <string name="call_log_outgoing_header">Tikai izejošie zvani</string>
+    <string name="call_log_missed_header">Tikai neatbildētie zvani</string>
+    <string name="call_log_voicemail_header">Tikai zvani ar balss pastu</string>
+    <string name="call_log_blacklist_header">Tikai bloķētie zvani</string>
+</resources>

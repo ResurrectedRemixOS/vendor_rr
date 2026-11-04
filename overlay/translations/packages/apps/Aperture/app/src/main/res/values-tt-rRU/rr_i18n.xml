@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Камера</string>
+    <string name="cancel_button_description">Баш тарту</string>
+    <string name="qr_share_with_action">Уртаклашу...</string>
+    <string name="qr_address_title">Контакт өстәү</string>
+    <string name="qr_address_content_description">Контакт өстәү</string>
+    <string name="title_activity_settings">Көйләүләр</string>
+    <string name="edge_mode_default">Гадәти</string>
+    <string name="noise_reduction_mode_default">Гадәти</string>
+    <string name="shading_mode_default">Гадәти</string>
+    <string name="color_correction_aberration_mode_default">Гадәти</string>
+    <string name="distortion_correction_mode_default">Гадәти</string>
+    <string name="hot_pixel_mode_default">Гадәти</string>
+    <string name="location_permission_dialog_turn_on">Кабызу</string>
+</resources>

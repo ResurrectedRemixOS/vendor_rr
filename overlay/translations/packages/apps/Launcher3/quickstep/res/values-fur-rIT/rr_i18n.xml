@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="allset_hint_expressive">Scor in sù</string>
+    <string name="allset_device_type_phone">telefon</string>
+    <string name="action_image_copy">Copie</string>
+    <string name="action_image_save">Salve</string>
+    <string name="taskbar_edu_stashing">Scor planc in sù par mostrâ la sbare des ativitâts</string>
+    <string name="taskbar_button_more_options">Altris opzions</string>
+    <string name="taskbar_pinned_overflow_a11y_title">Altris aplicazions</string>
+    <string name="quick_switch_pane_title">Aplicazions resintis</string>
+    <string name="bubble_bar_bubble_description"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> di <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="search_gesture_feature_title">Cercli par cirî</string>
+    <string name="ambientcue_first_time_edu_icon_description">Icone</string>
+    <string name="ambient_cue_expand_action">slargje</string>
+</resources>

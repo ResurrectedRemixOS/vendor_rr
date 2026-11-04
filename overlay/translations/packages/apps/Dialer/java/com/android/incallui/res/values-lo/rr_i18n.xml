@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">ເລີ່ມການບັນທຶກການໂທບໍ່ສຳເລັດ</string>
+    <string name="call_recording_file_location">ບັນທຶກການໂທໄວ້ທີ່ <xliff:g id="filename">%s</xliff:g> ແລ້ວ</string>
+    <string name="onscreenCallRecordText">ບັນທຶກການໂທ</string>
+    <string name="onscreenCallRecordingText">ກຳລັງບັນທຶກການໂທ - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"ຢຸດການບັນທຶກ"</string>
+    <string name="recording_warning_title">ເປີດໃຊ້ການບັນທຶກການໂທບໍ?</string>
+    <string name="recording_warning_text">ແຈ້ງເຕືອນ: ທ່ານຮັບຜິດຊອບໃນການປະຕິບັດຕາມກົດໝາຍ, ລະບຽບ ແລະ ກົດລະບຽບໃດໆທີ່ນຳໃຊ້ກັບການນຳໃຊ້ຟັງຊັນບັນທຶກການໂທ ແລະ ການນຳໃຊ້ ຫຼື ເຜີຍແຜ່ການບັນທຶກເຫຼົ່ານັ້ນ.</string>
+</resources>

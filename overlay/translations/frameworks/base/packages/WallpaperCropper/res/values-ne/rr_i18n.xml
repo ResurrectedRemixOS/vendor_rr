@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="crop_wallpaper">वालपेपर काट्नुहोस्</string>
+    <string name="wallpaper_instructions">"वालपेपर राख्नुहोस्"</string>
+    <string name="wallpaper_load_fail">छवि वालपेपरका रूपमा लोड गर्न सकिएन</string>
+</resources>

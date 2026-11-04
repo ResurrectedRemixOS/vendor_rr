@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF-katselin</string>
+    <string name="find_in_page">Etsi sivulta</string>
+    <string name="share">"Jaa"</string>
+    <string name="open_with">Avaa sovelluksella…</string>
+    <string name="download">Lataa</string>
+    <string name="pdf_document">PDF-asiakirja</string>
+    <string name="print">"Tulosta"</string>
+    <string name="download_successful">Lataus onnistui</string>
+    <string name="download_error">Tiedoston lataamisessa tapahtui virhe</string>
+</resources>

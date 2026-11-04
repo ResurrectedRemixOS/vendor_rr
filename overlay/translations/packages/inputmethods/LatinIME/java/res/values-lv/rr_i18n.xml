@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Alfabēts (Bépo)</string>
+    <string name="subtype_hu_ZZ">Ungāru (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material — sekot sistēmas iestatījumiem</string>
+    <string name="prefs_keyboard_height_scale">Tastatūras augstuma mērogs</string>
+    <string name="number_row">Ciparu rinda</string>
+    <string name="number_row_summary">Vienmēr rādīt ciparu rindu visiem izkārtojumiem, kuriem ir 4 taustiņu rindas</string>
+    <string name="number_row_password">Ciparu rinda parolēm</string>
+    <string name="number_row_password_summary">Vienmēr rādīt ciparu rindu visiem izkārtojumiem ar 4 taustiņu rindām paroļu ievadei</string>
+    <string name="space_trackpad">Atstarpes taustiņa skārienpaliktnis</string>
+    <string name="space_trackpad_summary">Velciet pa atstarpes taustiņu, lai pārvietotu kursoru</string>
+    <string name="backspace_trackpad">Atpakaļatkāpes taustiņa skārienpaliktnis</string>
+    <string name="backspace_trackpad_summary">Velciet pa atpakaļatkāpes taustiņu, lai dzēstu vārdus</string>
+    <string name="show_longpress_hints">Rādīt ilgi nospiežamo taustiņu padomus</string>
+    <string name="show_longpress_hints_summary">Rāda padomus ilgi nospiežamiem taustiņiem, ja tie tiek atbalstīti</string>
+    <string name="show_emoji_key">Rādīt emocijzīmju taustiņu</string>
+    <string name="show_emoji_key_summary">Vienmēr rādīt emocijzīmju taustiņu. Kad šī opcija ir iespējota, valodas pārslēgšanas taustiņu nevar rādīt.</string>
+    <string name="enable_split_keyboard_summary">Tikai ainavas režīmā</string>
+    <string name="split_keyboard_duplicate_keys">Dublēt centrālos taustiņus</string>
+    <string name="split_keyboard_duplicate_keys_summary">Rādīt tuvu vidum taustiņus abās pusēs</string>
+    <string name="spoken_description_split_keyboard">Sadalīt tastatūru</string>
+    <string name="spoken_description_merge_keyboard">Apvienot tastatūru</string>
+    <string name="spoken_description_float_keyboard">Peldoša tastatūra</string>
+    <string name="spoken_description_dock_keyboard">Piestiprināta tastatūra</string>
+    <string name="floating_keyboard_drag_handle">Pārvietot tastatūru</string>
+    <string name="floating_keyboard_resize_handle">Mainīt tastatūras izmēru</string>
+    <string name="floating_keyboard_reset">"Atiestatīt"</string>
+    <string name="floating_keyboard_hide">Paslēpt tastatūru</string>
+    <string name="floating_keyboard_switch_ime">"Pārslēgt ievades metodi"</string>
+</resources>

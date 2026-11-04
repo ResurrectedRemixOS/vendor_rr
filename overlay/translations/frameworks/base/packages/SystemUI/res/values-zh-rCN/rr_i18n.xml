@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_alarm_warning_indef">"您将不会听到下一个<xliff:g id="WHEN">%1$s</xliff:g> 的闹钟响铃，除非您在该时间之前关闭这项功能"</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_settings">Agordoj</string>
+    <string name="letterbox_restart_cancel">Nuligi</string>
+    <string name="screenshot_text">Ekrankopio</string>
+    <string name="a11y_action_pip_move_done">Farite</string>
+</resources>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"إلغاء"</string>
+    <string name="finish">أنهِ</string>
+    <string name="setup_managed_profile_welcome_message">إعداد الملف الشخصي للعمل</string>
+    <string name="device_info">"معلومات الجهاز"</string>
+    <string name="device_information">"معلومات الجهاز"</string>
+    <string name="device_info_serial">"الرقم التسلسلي"</string>
+    <string name="setup_euicc">إعداد eSIM</string>
+    <string name="esim_support_summary">أعدّ eSIM أو أدخل بطاقة SIM. لإدخال بطاقة SIM، اقرأ التعليمات المرفقة مع جهازك.</string>
+    <string name="sim_missing_skip_title">هل تريد تخطي إعداد بطاقة SIM؟</string>
+    <string name="sim_missing_skip_message">إذا تخطيت هذه الخطوة، فلن تتصل بشبكة الجوال حتى تُعدّ بطاقة SIM في الإعدادات.</string>
+    <string name="setup_datetime_section_date">"التاريخ"</string>
+    <string name="setup_datetime_section_time">"الوقت"</string>
+    <string name="setup_date_format">"تهيئة"</string>
+    <string name="date_format_day">"يوم"</string>
+    <string name="date_format_month">"شهر"</string>
+    <string name="date_format_year">"سنة"</string>
+    <string name="setup_time_zone">"المنطقة الزمنية"</string>
+    <string name="setup_24_hour_format">"استخدام تنسيق ٢٤ ساعة"</string>
+    <string name="intro_restore_subtitle">إذا كانت لديك نسخة احتياطية من Seedvault من <xliff:g id="name" example="LineageOS">%s</xliff:g> أو من أي نظام تشغيل آخر، يمكنك استعادتها هنا.</string>
+    <string name="location_summary">اختر كيف يدير جهازك الموقع الجغرافي</string>
+    <string name="location_access_title">"استخدام الموقع الجغرافي"</string>
+    <string name="location_agps_access_title">الموقع المحسّن</string>
+    <string name="services_pp_explanation">تعمل هذه الخدمات لتوسيع إمكانات جهازك. ستُستخدم البيانات وفقاً لسياسة الخصوصية الخاصة بـ <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">يمكنك قراءة سياسة الخصوصية على جهاز آخر عبر زيارة:</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> عن طريق إرسال بيانات التشخيص والاستخدام تلقائيًا إلى <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. لا يمكن استخدام هذه المعلومات لتحديد هويتك، وتساعد الفرق العاملة على تحسين عمر البطارية وأداء التطبيقات وميزات <xliff:g id="name" example="LineageOS">%3$s</xliff:g> الجديدة.</string>
+    <string name="services_metrics_title">المساهمة ببيانات التشخيص</string>
+    <string name="gesture_navigation_short">الإيماءة</string>
+    <string name="setup_theme">"المظهر"</string>
+    <string name="theme_summary">يستخدم المظهر الداكن خلفية سوداء للمساعدة في توفير البطارية لفترة أطول على بعض الشاشات</string>
+    <string name="dark">داكن</string>
+    <string name="light">فاتح</string>
+    <string name="pure_black_theme">استخدام خلفية سوداء خالصة</string>
+    <string name="theme_preview">معاينة المظهر</string>
+    <string name="swipe_up_to_go_home">"مرّر سريعًا للأعلى للانتقال إلى الشاشة الرئيسية"</string>
+    <string name="tap_home_to_go_home">اضغط على أيقونة التنقل الوسطى للذهاب إلى الشاشة الرئيسية</string>
+    <string name="press_center_to_go_home">اضغط على الزر الأوسط للذهاب إلى الشاشة الرئيسية</string>
+</resources>

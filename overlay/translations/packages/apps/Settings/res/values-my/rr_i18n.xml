@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"မူရင်း"</item>
+        <item>celsius</item>
+        <item>fahrenhe</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"မူရင်း"</item>
+        <item>sun</item>
+        <item>mon</item>
+        <item>tue</item>
+        <item>wed</item>
+        <item>thu</item>
+        <item>fri</item>
+        <item>sat</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"မူရင်း"</item>
+        <item>metric</item>
+        <item>ussystem</item>
+        <item>uksystem</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"သတ်မှတ်မထားပါ"</item>
+        <item>"သာမန်"</item>
+        <item>"ဣတ္ထိလိင်"</item>
+        <item>"ပုလ္လိင်"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">နောက်ထပ်များ</string>
+    <string name="advanced_keyboard_settings_title">"အဆင့်မြင့် ဆက်တင်များ"</string>
+    <string name="adb_enable_root">Rooted debugging</string>
+    <string name="adb_enable_summary_root">Android debugging ကို root အနေဖြင့် run ခွင့်ပြုရန်</string>
+    <string name="backup_transport_setting_label">အရန်သိမ်းရန် provider ပြောင်းရန်</string>
+    <string name="backup_transport_title">အရန်သိမ်းရန် provider ရွေးရန်</string>
+    <string name="berry_black_theme_title">အမည်းသက်သက်</string>
+    <string name="berry_black_theme_summary">မှောင်သောအပြင်အဆင်အတွက် အမည်းသက်သက်နောက်ခံ</string>
+    <string name="lineagelicense_title">LineageOS legal</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {ဖွံ့ဖြိုးရေးဆက်တင်များ ဖွင့်ရန် အဆင့် # ဆင့် လိုသေးသည်။} other {ဖွံ့ဖြိုးရေးဆက်တင်များ ဖွင့်ရန် အဆင့် # ဆင့် လိုသေးသည်။} }</string>
+    <string name="show_dev_on_cm">ဖွံ့ဖြိုးရေးဆက်တင်များကို ဖွင့်ပြီးပါပြီ!</string>
+    <string name="show_dev_already_cm">မလိုပါ၊ ဖွံ့ဖြိုးရေးဆက်တင်များကို ဖွင့်ပြီးသားဖြစ်သည်။</string>
+    <string name="status_bar_double_tap_to_sleep_title">အိပ်ရန် တို့ပါ</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ဖန်သားပြင်ပိတ်ရန် အခြေအနေပြနေရာ သို့မဟုတ် လော့ခ်စခရင်ကို နှစ်ချက်တို့ပါ</string>
+    <string name="high_touch_polling_rate_title">တို့မှုစစ်ဆေးနှုန်း မြင့်မားရန်</string>
+    <string name="high_touch_polling_rate_summary">တို့မျက်နှာပြင်စစ်ဆေးနှုန်းကို မြှင့်ရန်</string>
+    <string name="heads_up_notifications_enabled_title">Heads-up</string>
+    <string name="heads_up_notifications_enabled_summary">အရေးပါသော အကြောင်းကြားချက်များကို သေးငယ်သော မျောနေသည့်ဝင်းဒိုးတွင် ပြရန်</string>
+    <string name="high_touch_sensitivity_title">တို့မှုအာရုံခံမှု မြင့်မားရန်</string>
+    <string name="high_touch_sensitivity_summary">လက်အိတ်ဝတ်ထားစဉ်တွင် သုံးနိုင်ရန် တို့မျက်နှာပြင်အာရုံခံမှုကို မြှင့်ရန်</string>
+    <string name="tethering_allow_vpn_upstreams_title">ချိတ်ဆက်ထားသော စက်များအတွက် VPN သုံးရန်</string>
+    <string name="tethering_allow_vpn_upstreams_summary">ဤစက်သည် VPN သုံးနေချိန်တွင် hotspot သို့ ချိတ်ဆက်ထားသော စက်အားလုံးသည် တူညီသော VPN ကို သုံးမည်</string>
+    <string name="lock_settings_picker_pattern_size_message">ပုံစံအရွယ်အစားကို ရွေးပါ</string>
+    <string name="lockpattern_settings_enable_error_path_title">ပုံစံအမှားကို ပြရန်</string>
+    <string name="lockpattern_settings_enable_dots_title">ပုံစံအချက်များကို ပြရန်</string>
+    <string name="max_refresh_rate_title">အမြင့်ဆုံး refresh rate</string>
+    <string name="min_refresh_rate_title">အနိမ့်ဆုံး refresh rate</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">တက်ဘလက်၏ ရှေ့ဘက်ရှိ လက်ဗွေအာရုံခံကိရိယာကို ရှာပါ။</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">စက်၏ ရှေ့ဘက်ရှိ လက်ဗွေအာရုံခံကိရိယာကို ရှာပါ။</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">ဖုန်း၏ ရှေ့ဘက်ရှိ လက်ဗွေအာရုံခံကိရိယာကို ရှာပါ။</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">တက်ဘလက်၏ နောက်ဘက်ရှိ လက်ဗွေအာရုံခံကိရိယာကို ရှာပါ။</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">စက်၏ နောက်ဘက်ရှိ လက်ဗွေအာရုံခံကိရိယာကို ရှာပါ။</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">ဖုန်း၏ နောက်ဘက်ရှိ လက်ဗွေအာရုံခံကိရိယာကို ရှာပါ။</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">တက်ဘလက်၏ ဘေးဘက်ရှိ လက်ဗွေအာရုံခံကိရိယာကို ရှာပါ။</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">စက်၏ ဘေးဘက်ရှိ လက်ဗွေအာရုံခံကိရိယာကို ရှာပါ။</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">ဖုန်း၏ ဘေးဘက်ရှိ လက်ဗွေအာရုံခံကိရိယာကို ရှာပါ။</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">တက်ဘလက်၏ ရှေ့ဘက်ရှိ အာရုံခံကိရိယာကို တို့ပါ။</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">စက်၏ ရှေ့ဘက်ရှိ အာရုံခံကိရိယာကို တို့ပါ။</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">ဖုန်း၏ ရှေ့ဘက်ရှိ အာရုံခံကိရိယာကို တို့ပါ။</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">တက်ဘလက်၏ နောက်ဘက်ရှိ အာရုံခံကိရိယာကို တို့ပါ။</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">စက်၏ နောက်ဘက်ရှိ အာရုံခံကိရိယာကို တို့ပါ။</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">ဖုန်း၏ နောက်ဘက်ရှိ အာရုံခံကိရိယာကို တို့ပါ။</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">တက်ဘလက်၏ ဘေးဘက်ရှိ အာရုံခံကိရိယာကို တို့ပါ။</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">စက်၏ ဘေးဘက်ရှိ အာရုံခံကိရိယာကို တို့ပါ။</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">ဖုန်း၏ ဘေးဘက်ရှိ အာရုံခံကိရိယာကို တို့ပါ။</string>
+    <string name="show_navbar_hint_title">လမ်းညွှန် အရိပ်အမြွက်</string>
+    <string name="show_navbar_hint_summary">ဖန်သားပြင်အောက်ခြေတွင် လမ်းညွှန်အရိပ်အမြွက်ဘားကို ပြရန်</string>
+    <string name="auto_brightness_one_shot_title">တစ်ကြိမ်တည်း အလိုအလျောက် အလင်းရောင်ညှိခြင်း</string>
+    <string name="auto_brightness_one_shot_summary">ဖန်သားပြင်ဖွင့်သည့်အချိန်တွင်သာ အလင်းရောင်ညှိခြင်း ဖြစ်ပေါ်မည်</string>
+    <string name="data_usage_app_restrict_all">ကွန်ရက်ဝင်ရောက်ခွင့် ပေးရန်</string>
+    <string name="data_usage_app_restrict_all_summary">ကွန်ရက်အသုံးပြုမှု ဖွင့်ရန်</string>
+    <string name="data_usage_app_restrict_mobile">"မိုဘိုင်းဒေတာ"</string>
+    <string name="data_usage_app_restrict_mobile_summary">မိုဘိုင်းဒေတာ အသုံးပြုခွင့် ဖွင့်ရန်</string>
+    <string name="data_usage_app_restrict_vpn">VPN ဒေတာ</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN ဒေတာ အသုံးပြုခွင့် ဖွင့်ရန်</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi ဒေတာ"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi ဒေတာ အသုံးပြုခွင့် ဖွင့်ရန်</string>
+    <string name="unlock_scramble_pin_layout_title">အပြင်အဆင် ရောနှောရန်</string>
+    <string name="unlock_scramble_pin_layout_summary">စက်ကို လော့ခ်ဖွင့်စဉ် PIN အပြင်အဆင်ကို ရောနှောရန်</string>
+    <string name="proximity_wake_title">မတော်တဆ နိုးမှု ကာကွယ်ရန်</string>
+    <string name="proximity_wake_summary">ဖန်သားပြင် နိုးရန် ခြားနားမှုအာရုံခံကိရိယာကို စစ်ဆေးရန်</string>
+    <string name="touchscreen_hovering_title">တို့မျက်နှာပြင် ရစ်ဝဲမှု</string>
+    <string name="touchscreen_hovering_summary">ဝဘ်ဘရောက်ဇာ၊ remote desktop စသည်တို့တွင် မောက်စ်ကဲ့သို့ ဖန်သားပြင်ပေါ် ရစ်ဝဲနိုင်စေသည်</string>
+    <string name="wake_when_plugged_or_unplugged_title">ပလပ်ထိုးသည့်အခါ နိုးရန်</string>
+    <string name="wake_when_plugged_or_unplugged_summary">ပါဝါရင်းမြစ် ချိတ်ဆက်ခြင်း သို့မဟုတ် ဖြုတ်ခြင်းတွင် ဖန်သားပြင်ကို ဖွင့်ရန်</string>
+    <string name="storage_warning_internal">သတိပေးချက်- ဤရွေးချယ်မှုသည် မှန်ကန်စွာ အလုပ်မလုပ်နိုင်ပါ သို့မဟုတ် ဒေတာဆုံးရှုံးစေနိုင်သဖြင့် အကြံမပြုပါ!</string>
+    <string name="assisted_gps">အကူအညီပေးသော GPS သုံးရန်</string>
+    <string name="battery_technology">နည်းပညာ</string>
+    <string name="battery_health">"အခြေအနေ"</string>
+    <string name="battery_health_good">"ကောင်းသည်"</string>
+    <string name="battery_health_overheat">"အပူလွန်နေသည်"</string>
+    <string name="battery_health_dead">"အားမရှိပါ"</string>
+    <string name="battery_health_over_voltage">"ဗို့အား ကျော်လွန်နေသည်"</string>
+    <string name="battery_health_unspecified_failure">မသတ်မှတ်ရသော ချို့ယွင်းမှု</string>
+    <string name="battery_health_cold">"အေးသည်"</string>
+    <string name="battery_health_unknown">"မသိ"</string>
+    <string name="battery_temperature">"အပူချိန်"</string>
+    <string name="battery_voltage">voltage</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">ဒီဇိုင်း စွမ်းရည်</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">အမြင့်ဆုံး စွမ်းရည်</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">ပြင်ဆင်စဉ်တွင် ဖုန်းကို ခေါက်ပါ</string>
+    <string name="face_enrolling_close_to_continue_description">Face Unlock ကို ပြင်ဆင်ရန် သို့မဟုတ် သုံးရန် ဖုန်းကို ခေါက်ရမည်</string>
+    <string name="face_enrolling_do_it_later">"နောက်မှလုပ်ရန်"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM toolkit</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> အတွက် ဖွင့်ထားသည်</string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

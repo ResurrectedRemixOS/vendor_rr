@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="play_recordings">
+        <item quantity="other">Жазууларды ойнотуу</item>
+    </plurals>
+    <string name="call_playback_no_app_found_toast">Тандалган жазууну ойнотуу үчүн колдонмо табылган жок.</string>
+</resources>

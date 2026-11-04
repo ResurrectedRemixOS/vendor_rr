@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ตัวอ่าน PDF</string>
+    <string name="find_in_page">ค้นหาในหน้านี้</string>
+    <string name="share">"แชร์"</string>
+    <string name="open_with">เปิดด้วย…</string>
+    <string name="download">"ดาวน์โหลด"</string>
+    <string name="pdf_document">เอกสาร PDF</string>
+    <string name="print">"พิมพ์"</string>
+    <string name="download_successful">ดาวน์โหลดสำเร็จ</string>
+    <string name="download_error">เกิดข้อผิดพลาดขณะดาวน์โหลดไฟล์</string>
+</resources>

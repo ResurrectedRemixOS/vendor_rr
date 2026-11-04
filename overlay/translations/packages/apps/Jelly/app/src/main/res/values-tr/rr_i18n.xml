@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_desktop_shortcuts">Masaüstü kısayolları</string>
+    <string name="desktop_shortcuts_title">Masaüstü kısayolları</string>
+    <string name="pref_web_debugging_title">Web hata ayıklama</string>
+    <string name="pref_web_debugging_summary">USB hata ayıklama üzerinden chrome://inspect ile web sayfalarını incelemeye izin ver</string>
+    <string name="pref_fullscreen_shortcuts_title">Tam ekran kısayolları</string>
+    <string name="pref_fullscreen_shortcuts_summary">Kısayolların tam ekranda açılmasını zorla</string>
+</resources>

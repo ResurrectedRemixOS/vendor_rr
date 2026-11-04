@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Peru"</string>
+    <string name="finish">Valmis</string>
+    <string name="setup_welcome_message">Tervetuloa, <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Määritä työprofiilisi</string>
+    <string name="accessibility_settings">"Saavutettavuusasetukset"</string>
+    <string name="device_info">"Laitetiedot"</string>
+    <string name="device_information">"Laitteen tiedot"</string>
+    <string name="device_info_serial">"Sarjanumero"</string>
+    <string name="setup_euicc">Määritä eSIM</string>
+    <string name="esim_support_summary">Määritä eSIM tai aseta SIM-kortti. Lue SIM-kortin asettamisohjeet laitteen mukana tulleesta oppaasta.</string>
+    <string name="sim_missing_skip_title">Ohitetaanko SIM-kortin määritys?</string>
+    <string name="sim_missing_skip_message">Jos ohitat tämän vaiheen, et ole yhteydessä matkapuhelinverkkoon, ennen kuin määrität SIM-kortin asetuksissa.</string>
+    <string name="setup_datetime_section_date">"Päivämäärä"</string>
+    <string name="setup_datetime_section_time">"Aika"</string>
+    <string name="setup_date_format">"Alusta"</string>
+    <string name="date_format_day">Päivä</string>
+    <string name="date_format_month">"Kuukausi"</string>
+    <string name="date_format_year">"Vuosi"</string>
+    <string name="setup_time_zone">"Aikavyöhyke"</string>
+    <string name="setup_24_hour_format">"Käytä 24 tunnin kelloa"</string>
+    <string name="intro_restore_subtitle">Jos sinulla on Seedvault-varmuuskopio kohteesta <xliff:g id="name" example="LineageOS">%s</xliff:g> tai muusta käyttöjärjestelmästä, voit palauttaa sen tässä.</string>
+    <string name="location_summary">Valitse, miten laitteesi hallitsee sijaintiaan</string>
+    <string name="location_access_title">"Käytä sijaintia"</string>
+    <string name="location_agps_access_title">Tarkennettu sijainti</string>
+    <string name="location_agps_access_summary">Kun sijainti on käytössä, lataa satelliittien apudataa internetistä, mikä voi parantaa merkittävästi GPS-käynnistyksen suorituskykyä.</string>
+    <string name="services_pp_explanation">Nämä palvelut toimivat laajentaakseen laitteesi ominaisuuksia. Tietoja käytetään <xliff:g id="name" example="LineageOS">%1$s</xliff:g>:n tietosuojakäytännön mukaisesti.</string>
+    <string name="services_find_privacy_policy">Voit lukea tietosuojakäytännön toisella laitteella vierailemalla osoitteessa:</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> lähettämällä automaattisesti diagnostiikka- ja käyttötietoja palveluun <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Näitä tietoja ei voi käyttää sinun tunnistamiseesi, ja ne auttavat kehittäjätiimejä esimerkiksi akun keston, sovellusten suorituskyvyn ja uusien <xliff:g id="name" example="LineageOS">%3$s</xliff:g>-ominaisuuksien parissa.</string>
+    <string name="services_metrics_title">Lähetä diagnostiikkatietoja</string>
+    <string name="setup_navigation">Navigointi</string>
+    <string name="navigation_summary">Valitse haluamasi navigointitapa</string>
+    <string name="gesture_navigation">"Eleillä navigointi"</string>
+    <string name="navbar_navigation">"Kolmen painikkeen navigointi"</string>
+    <string name="gesture_navigation_short">Eleet</string>
+    <string name="hide_gesture_hint">Piilota eleiden vihje</string>
+    <string name="setup_theme">"Teema"</string>
+    <string name="theme_summary">Tumma teema käyttää mustaa taustaa, mikä auttaa säästämään akkua pidempään joillakin näytöillä</string>
+    <string name="dark">Tumma</string>
+    <string name="light">Vaalea</string>
+    <string name="pure_black_theme">Käytä täysin mustaa taustaa</string>
+    <string name="theme_preview">Teeman esikatselu</string>
+    <string name="swipe_up_to_go_home">"Siirry aloitusnäytölle pyyhkäisemällä ylös"</string>
+    <string name="tap_home_to_go_home">Napauta keskimmäistä navigointikuvaketta palataksesi aloitusnäytölle</string>
+    <string name="press_center_to_go_home">Palaa aloitusnäytölle painamalla keskipainiketta</string>
+</resources>

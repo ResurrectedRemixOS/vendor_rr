@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="spa_unavailable">Nun ta disponible</string>
+    <string name="spa_learn_more">Saber más</string>
+    <string name="spa_spinner_selected_item">Na seleición</string>
+</resources>

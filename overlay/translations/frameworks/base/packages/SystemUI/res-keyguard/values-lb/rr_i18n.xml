@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyguard_enter_pin">PIN aginn</string>
+    <string name="keyguard_network_locked_message">Netzwierk gespaart</string>
+    <string name="keyboardview_keycode_delete">Läschen</string>
+    <string name="kg_wrong_pin">Falsche PIN</string>
+    <string name="kg_puk_enter_puk_hint">D\'SIM ass elo desaktivéiert. Gëff e PUK-Code a fir weiderzemaachen. Kontaktéier däi Provider fir Detailer.</string>
+    <string name="kg_puk_enter_pin_hint">Gëff de gewënschte PIN-Code an</string>
+    <string name="kg_enter_confirm_pin_hint">Bestäteg de gewënschte PIN-Code</string>
+    <string name="kg_invalid_sim_pin_hint">Gëff e PIN an, deen tëscht 4 an 8 Zifferen huet.</string>
+    <string name="kg_password_wrong_pin_code_pukked">Inkorrekte SIM-PIN-Code. Du muss elo däi Provider kontaktéiere fir däin Apparat z\'entspären.</string>
+    <string name="kg_password_pin_failed">SIM-PIN-Operatioun feelgeschloen!</string>
+    <string name="airplane_mode">Fligermodus</string>
+    <string name="clock_title_default">Standard</string>
+</resources>

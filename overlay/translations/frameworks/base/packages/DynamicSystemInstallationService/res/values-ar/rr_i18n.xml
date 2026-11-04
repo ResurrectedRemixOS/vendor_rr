@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">تحديثات النظام الديناميكية</string>
+    <string name="notification_channel_name">تحديثات النظام الديناميكية</string>
+    <string name="keyguard_title">تحديثات النظام الديناميكية</string>
+</resources>

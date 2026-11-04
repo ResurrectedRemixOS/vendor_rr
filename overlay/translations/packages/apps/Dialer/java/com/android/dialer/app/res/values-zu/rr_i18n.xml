@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">Ngesikhathi sekholi</string>
+    <string name="incall_enable_dnd_title">Nika amandla ku-Ungaphazamisi ngesikhathi sekholi</string>
+    <string name="incall_vibrate_outgoing_title">Dlidliza uma uphendula</string>
+    <string name="incall_vibrate_call_waiting_title">Dlidliza uma kukhona ikholi elindile</string>
+    <string name="incall_vibrate_hangup_title">Dlidliza uma unqamula</string>
+    <string name="incall_vibrate_45_title">Dlidliza ngaso sonke isikhathi somzuzu</string>
+    <string name="incall_vibrate_45_summary">Idlidliza ngomzuzwana wama-45 womzuzu ngamakholi aphumayo</string>
+    <string name="incall_dnd_dialog_message">Ukuze unike amandla i-Ungaphazamisi, i-app yefoni kudingeka inikezwe imvume yokulawula isimo se-Ungaphazamisi.\nSicela uyinike.</string>
+    <string name="allow">"Vumela"</string>
+    <string name="deny">"Phika"</string>
+    <string name="call_recording_category_title">Ukurekhoda amakholi</string>
+    <string name="call_recording_format">Ifomethi yomsindo</string>
+    <string name="call_via">Shayela nge</string>
+    <string name="call_via_dialog_title">Shayela nge…</string>
+    <string name="call_log_stats_title">Izibalo</string>
+    <string name="action_menu_helplines">Imigwaqo yosizo</string>
+    <string name="default_dialer_text">Kufanele usethe i-Dialer njengo-app yefoni ezenzakalelayo ukuze uyisebenzisa.</string>
+    <string name="default_dialer_action">"Setha njengokuzenzakalelayo"</string>
+</resources>

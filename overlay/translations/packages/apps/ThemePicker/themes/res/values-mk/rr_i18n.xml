@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Класично</string>
+    <string name="bundle1_color_name">Јаглен</string>
+    <string name="bundle2_color_name">Хартија</string>
+    <string name="bundle3_color_name">Сонце</string>
+    <string name="bue_color_name">Лаванда</string>
+    <string name="red_color_name">Боровинка</string>
+    <string name="wht_color_name">Магла</string>
+    <string name="indigo_color_name">"Индиго"</string>
+    <string name="iris_color_name">Ирис</string>
+    <string name="jade_color_name">Жад</string>
+    <string name="lemongrass_color_name">Лимонџо</string>
+    <string name="moonstone_color_name">Лунарен камен</string>
+    <string name="obsidian_color_name">Опсидијан</string>
+    <string name="peony_color_name">Божур</string>
+    <string name="porcelain_color_name">Порцелан</string>
+    <string name="fruit1_color_name">Палета со две бои: жолта и црвена</string>
+    <string name="fruit2_color_name">Палета со две бои: зелена и портокалова</string>
+    <string name="fruit3_color_name">Палета со две бои: сина и зелена</string>
+    <string name="fruit4_color_name">Палета со две бои: светло виолетова и сина</string>
+    <string name="fruit5_color_name">Палета со две бои: розова и индиго</string>
+</resources>

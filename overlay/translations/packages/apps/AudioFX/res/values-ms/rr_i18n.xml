@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX bukan panel kawalan kesan lalai anda.</string>
+    <string name="snack_bar_not_default_set">"Tetapkan lalai"</string>
+    <string name="snack_bar_not_default_not_now">"Bukan sekarang"</string>
+    <string name="normal">Normal</string>
+    <string name="classical">"Klasik"</string>
+    <string name="dance">"Tarian"</string>
+    <string name="flat">Rata</string>
+    <string name="folk">"Muzik Rakyat"</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">"Hip-hop"</string>
+    <string name="electronic">Elektronik</string>
+    <string name="small_speakers">Pembesar suara kecil</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="custom">Tersuai</string>
+    <string name="custom_n">Tersuai <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">Kesan tidak tersedia untuk mod pembesar suara.</string>
+    <string name="device_headset">"Set Kepala"</string>
+    <string name="device_speaker">"Pembesar suara"</string>
+    <string name="device_line_out">Output talian</string>
+    <string name="reverb">Gema</string>
+    <string name="devices">"Peranti"</string>
+    <string name="virtualizer">Virtualizer</string>
+    <string name="bass">Bass</string>
+    <string name="rename">"Namakan semula"</string>
+    <string name="remove_custom_preset_warning_message">Adakah anda pasti mahu mengalih keluar %1$s?</string>
+</resources>

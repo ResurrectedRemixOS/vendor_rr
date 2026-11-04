@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_menu_helplines">ಸಹಾಯವಾಣಿಗಳು</string>
+    <string name="default_dialer_text">ಇದನ್ನು ಬಳಸಲು ನೀವು ಡಯಲರ್ ಅನ್ನು ಡೀಫಾಲ್ಟ್ ಫೋನ್ ಆ್ಯಪ್ ಆಗಿ ಹೊಂದಿಸಬೇಕು.</string>
+    <string name="default_dialer_action">"ಡೀಫಾಲ್ಟ್ ಆಗಿ ಸೆಟ್ ಮಾಡಿ"</string>
+</resources>

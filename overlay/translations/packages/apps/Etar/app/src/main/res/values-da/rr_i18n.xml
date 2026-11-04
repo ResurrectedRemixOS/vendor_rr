@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="add_calendar">Tilføj kalender</string>
+    <string name="week_start_locale_default">Lokalitetens standard</string>
+    <string name="preferences_staggered_display_title">Forskudt visning</string>
+    <string name="preferences_staggered_display_summary">Vis overlappende begivenheder i et forskudt layout</string>
+    <string name="cal_export_error">Kunne ikke eksportere begivenheden</string>
+    <string name="preferences_manage_notifications">Administrer notifikationer</string>
+    <string name="preferences_do_not_check_battery_optimization">Kontrollér ikke batterioptimering</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Brug på eget ansvar! Notifikationer virker ikke længere, widgetten opdateres ikke, og baggrundstjenester går ned. Du bliver dog ikke spurgt igen, hvis du vil aktivere baggrundstjenesten.</string>
+    <string name="calendars">Kalendere</string>
+    <string name="discard_event_changes">Vil du kassere ændringerne?</string>
+    <string name="discard">"Kassér"</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Календарь</string>
+    <string name="today">Бүген</string>
+    <string name="tomorrow">Иртәгә</string>
+    <string name="day_view">Көн</string>
+    <string name="week_view">Атна</string>
+    <string name="month_view">Ай</string>
+    <string name="goto_today">Бүген</string>
+    <string name="menu_preferences">Көйләүләр</string>
+    <string name="search">Эзләү</string>
+    <string name="view_settings">Көйләүләрне карау</string>
+    <string name="create_event_dialog_save">Саклау</string>
+    <string name="edit_event_calendar_label">Календарь</string>
+    <string name="privacy_label">Хосусыйлык</string>
+    <string name="no_syncable_calendars">Календарьлар юк</string>
+    <string name="view_event_calendar_label">Календарь:</string>
+    <string name="quick_response_settings">Тиз җаваплар</string>
+    <string name="loading">Йөкләү\u2026</string>
+    <string name="delete_label">Бетерү</string>
+    <string name="discard_label">Баш тарту</string>
+    <string name="preferences_title">Көйләүләр</string>
+    <string name="preferences_theme">Тема</string>
+    <string name="preferences_black_theme">Кара</string>
+    <string name="preferences_color">Беренчел төс</string>
+    <string name="preferences_color_pick">Беренчел төс</string>
+    <string name="preferences_alerts_ringtone_title">Тавыш</string>
+    <string name="preferences_build_version">Билд версиясе</string>
+    <string name="accessibility_reminder_privacy">Хосусыйлык</string>
+    <string name="visibility_default">Гадәти</string>
+    <string name="preferences_calendar_delete_cancel">Баш тарту</string>
+    <string name="preferences_list_add_offline_name">Исем</string>
+    <string name="preferences_list_add_offline_cancel">Баш тарту</string>
+    <string name="discard">Кире кагу</string>
+    <string name="cancel">Баш тарту</string>
+    <string name="chips_action_cancel">Баш тарту</string>
+</resources>

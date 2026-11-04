@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">ඇමතුම තුළ</string>
+    <string name="incall_enable_dnd_title">ඇමතුම් අතරතුර බාධා නොකරන්න සක්‍රිය කරන්න</string>
+    <string name="incall_vibrate_outgoing_title">පිළිතුරු දෙන විට කම්පනය කරන්න</string>
+    <string name="incall_vibrate_call_waiting_title">ඇමතුම් රැඳී සිටියදී කම්පනය කරන්න</string>
+    <string name="incall_vibrate_hangup_title">ඇමතුම විසන්දන විට කම්පනය කරන්න</string>
+    <string name="incall_vibrate_45_title">සෑම මිනිත්තුවකම කම්පනය කරන්න</string>
+    <string name="incall_vibrate_45_summary">පිටතට යන ඇමතුම් අතරතුර සෑම මිනිත්තුවේම තත්පර 45 ලකුණේදී කම්පනය වේ</string>
+    <string name="incall_dnd_dialog_message">බාධා නොකරන්න සක්‍රිය කිරීමට, දුරකථන යෙදුමට බාධා නොකරන්න තත්ත්වය පාලනය කිරීමේ අවසරය ලබා දිය යුතුය.\nකරුණාකර එය ඉඩ දෙන්න.</string>
+    <string name="allow">"ඉඩ දෙන්න"</string>
+    <string name="deny">"ප්‍රතික්ෂේප කරන්න"</string>
+    <string name="call_recording_category_title">ඇමතුම් පටිගත කිරීම</string>
+    <string name="call_recording_format">ශ්‍රව්‍ය ආකෘතිය</string>
+    <string name="call_via">හරහා ඇමතුම</string>
+    <string name="call_via_dialog_title">හරහා ඇමතුම…</string>
+    <string name="call_log_stats_title">සංඛ්‍යාලේඛන</string>
+    <string name="action_menu_helplines">උපකාර රේඛා</string>
+    <string name="default_dialer_text">එය භාවිත කිරීමට ඩයලර් පෙරනිමි දුරකථන යෙදුම ලෙස සැකසිය යුතුය.</string>
+    <string name="default_dialer_action">"පෙරනිමි ලෙස සකසන්න"</string>
+</resources>

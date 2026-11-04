@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="clock">"Reloxo"</string>
+    <string name="accessibility_adaptive_brightness">"Brillo intelixente"</string>
+    <string name="status_bar_icons_title">Iconas da barra de estado</string>
+    <string name="status_bar_firewall">Cortalumes</string>
+    <string name="battery_notification_channel_tv">Aviso de batería</string>
+    <string name="screenshot_delete_label">"Eliminar"</string>
+    <string name="screenshot_delete_description">Eliminar captura de pantalla</string>
+    <string name="screenrecord_lowquality_label">Calidade inferior</string>
+    <string name="screenrecord_lowquality_summary">Para un ficheiro máis pequeno</string>
+    <string name="screenrecord_longer_timeout_switch_label">Límite de tamaño de ficheiro maior</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Limitar o tamaño da gravación a 15 GB</string>
+    <string name="screenrecord_skip_time_label">Omitir temporizador</string>
+    <string name="screenrecord_skip_time_summary">Eliminar a espera de 3 segundos</string>
+    <string name="screenrecord_hevc_switch_label">Codificación HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Usar o codificador HEVC, máis eficiente</string>
+    <string name="zen_alarm_warning_indef">"Non escoitarás a alarma seguinte (<xliff:g id="WHEN">%1$s</xliff:g>) a menos que desactives esta opción antes desa hora"</string>
+</resources>

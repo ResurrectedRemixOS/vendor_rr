@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_split_keyboard_summary">Uniquement en mode paysage</string>
+    <string name="split_keyboard_duplicate_keys">Dupliquer les touches centrales</string>
+    <string name="split_keyboard_duplicate_keys_summary">Afficher les touches proches du centre sur les deux moitiés</string>
+    <string name="spoken_description_split_keyboard">Scinder le clavier</string>
+    <string name="spoken_description_merge_keyboard">Fusionner le clavier</string>
+    <string name="spoken_description_float_keyboard">Clavier flottant</string>
+    <string name="spoken_description_dock_keyboard">Ancrer le clavier</string>
+    <string name="floating_keyboard_drag_handle">Déplacer le clavier</string>
+    <string name="floating_keyboard_resize_handle">Redimensionner le clavier</string>
+    <string name="floating_keyboard_reset">"Réinitialiser"</string>
+    <string name="floating_keyboard_hide">Masquer le clavier</string>
+    <string name="floating_keyboard_switch_ime">"Changer le mode de saisie"</string>
+</resources>

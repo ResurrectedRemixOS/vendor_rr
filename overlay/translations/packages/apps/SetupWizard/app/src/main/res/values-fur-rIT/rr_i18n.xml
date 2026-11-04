@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Anule</string>
+    <string name="finish">Finìs</string>
+    <string name="device_info_serial">Numar di serie</string>
+    <string name="setup_datetime_section_time">Ore</string>
+    <string name="setup_date_format">Formate</string>
+    <string name="date_format_day">Dì</string>
+    <string name="date_format_month">Mês</string>
+    <string name="date_format_year">An</string>
+    <string name="setup_time_zone">Fûs orari</string>
+    <string name="setup_24_hour_format">Dopre formât 24 oris</string>
+    <string name="location_access_title">Dopre posizion</string>
+    <string name="swipe_up_to_go_home">Scor in sù par lâ ae schermade iniziâl</string>
+</resources>

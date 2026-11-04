@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Kunne ikke starte samtaleopptak</string>
+    <string name="call_recording_file_location">Samtaleopptaket ble lagret til <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Ta opp samtale</string>
+    <string name="onscreenCallRecordingText">Tar opp samtale – <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Stopp opptaket"</string>
+    <string name="recording_warning_title">Aktivere samtaleopptak?</string>
+    <string name="recording_warning_text">Merk: Du er selv ansvarlig for å overholde lover, forskrifter og regler som gjelder for bruk av samtaleopptak, og for bruk eller distribusjon av opptakene.</string>
+</resources>

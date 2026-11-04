@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="clock">"Kello"</string>
+    <string name="accessibility_adaptive_brightness">"Kirkkauden säätö"</string>
+    <string name="status_bar_icons_title">Tilapalkin kuvakkeet</string>
+    <string name="battery_notification_channel_tv">Akkuvaroitus</string>
+    <string name="screenrecord_lowquality_label">Matalampi laatu</string>
+    <string name="screenrecord_lowquality_summary">Pienempi tiedostokoko</string>
+    <string name="screenrecord_longer_timeout_switch_label">Suurempi tiedostokokoraja</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Rajoita tallenteen koko 15 Gt:een</string>
+    <string name="screenrecord_skip_time_label">Ohita ajastin</string>
+    <string name="screenrecord_skip_time_summary">Poista 3 sekunnin odotus</string>
+    <string name="screenrecord_hevc_switch_label">HEVC-koodaus</string>
+    <string name="screenrecord_hevc_switch_summary">Käytä tehokkaampaa HEVC-koodain</string>
+    <string name="zen_alarm_warning_indef">"Et kuule seuraavaa hälytystäsi (<xliff:g id="WHEN">%1$s</xliff:g>), ellet poista tätä tilaa käytöstä ennen sitä."</string>
+</resources>

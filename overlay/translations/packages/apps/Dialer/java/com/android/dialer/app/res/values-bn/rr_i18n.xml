@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">কল চলাকালীন</string>
+    <string name="incall_enable_dnd_title">কলের সময় বিরক্ত করবে না সক্রিয় করুন</string>
+    <string name="incall_vibrate_outgoing_title">উত্তর দিলে ভাইব্রেট করুন</string>
+    <string name="incall_vibrate_call_waiting_title">ভিন্ন কলে থাকলে কম্পন হোক</string>
+    <string name="incall_vibrate_hangup_title">কল কাটলে ভাইব্রেট করুন</string>
+    <string name="incall_vibrate_45_title">প্রতি মিনিটে ভাইব্রেট করুন</string>
+    <string name="incall_vibrate_45_summary">প্রতিটি মিনিটের ৪৫ সেকেন্ডে আউটগোয়িং কলের সময় ভাইব্রেট হবে</string>
+    <string name="incall_dnd_dialog_message">বিরক্ত করবে না চালু করতে, ফোন অ্যাপকে বিরক্ত করবে না অবস্থা নিয়ন্ত্রণের অনুমতি দিতে হবে।\nঅনুগ্রহ করে অনুমতি দিন।</string>
+    <string name="allow">"অনুমতি দিন"</string>
+    <string name="deny">"অস্বীকার করুন"</string>
+    <string name="call_recording_category_title">কল রেকর্ডিং</string>
+    <string name="call_recording_format">অডিও ফরম্যাট</string>
+    <string name="call_via">এর মাধ্যমে কল করুন</string>
+    <string name="call_via_dialog_title">এর মাধ্যমে কল করুন…</string>
+    <string name="call_log_stats_title">পরিসংখ্যান</string>
+    <string name="action_menu_helplines">হেল্পলাইন</string>
+    <string name="default_dialer_text">এটি ব্যবহার করতে ডায়ালারকে ডিফল্ট ফোন অ্যাপ হিসেবে সেট করতে হবে।</string>
+    <string name="default_dialer_action">"ডিফল্ট হিসেবে সেট করুন"</string>
+</resources>

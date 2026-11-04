@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed_slow">"慢"</string>
+    <string name="charging_speed_fast">快速</string>
+</resources>

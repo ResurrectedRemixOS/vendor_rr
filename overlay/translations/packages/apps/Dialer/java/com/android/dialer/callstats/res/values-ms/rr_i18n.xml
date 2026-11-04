@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Butiran statistik kenalan</string>
+    <string name="call_stats_incoming">Masuk: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Keluar: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Tidak dijawab: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Disekat: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Jumlah: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Jumlah: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"Tarikh mula"</string>
+    <string name="call_stats_filter_to">"Tarikh akhir"</string>
+    <string name="call_stats_filter_picker_title">Julat tapisan</string>
+    <string name="date_quick_selection">Pilihan pantas</string>
+    <string name="date_qs_currentmonth">Bulan ini</string>
+    <string name="date_qs_currentquarter">Suku tahun ini</string>
+    <string name="date_qs_currentyear">Tahun ini</string>
+    <string name="date_qs_lastweek">"Minggu lalu"</string>
+    <string name="date_qs_lastmonth">"Bulan lepas"</string>
+    <string name="date_qs_lastquarter">Suku tahun lepas</string>
+    <string name="date_qs_lastyear">"Tahun lalu"</string>
+    <string name="call_stats_date_filter">Laras julat masa</string>
+    <string name="call_stats_reset_filter">Set semula julat masa</string>
+    <string name="call_stats_sort_by_duration">Isih mengikut tempoh panggilan</string>
+    <string name="call_stats_sort_by_count">Isih mengikut bilangan panggilan</string>
+    <string name="call_stats_title_for_number">Nombor ini</string>
+    <string name="call_stats_title_of_total">Daripada jumlah</string>
+    <string name="call_stats_title_durations">Tempoh panggilan</string>
+    <string name="call_stats_title_count">Bilangan panggilan</string>
+    <string name="call_stats_title_average_duration">Purata tempoh panggilan</string>
+    <string name="recent_calls_no_items_in_range">Log panggilan anda tidak mengandungi sebarang panggilan dalam julat masa yang dipilih.</string>
+</resources>

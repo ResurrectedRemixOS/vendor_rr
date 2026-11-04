@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM ဆက်တင်များ</string>
+    <string name="esim_toggle_title">eSIM</string>
+    <string name="esim_toggle_summary">ဗာချူအယ်ဆim ကတ်ကို သုံးရန် ဝန်ဆောင်မှုပရိုဖိုင်ကို ဒေါင်းလုဒ်လုပ်ပြီး ဖွင့်ပါ</string>
+    <string name="esim_toggle_dialog_cancel">"မလုပ်တော့"</string>
+</resources>

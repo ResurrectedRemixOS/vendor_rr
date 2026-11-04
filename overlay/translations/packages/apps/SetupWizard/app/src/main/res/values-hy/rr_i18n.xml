@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Կարգավորման օգնական</string>
+    <string name="cancel">"Չեղարկել"</string>
+    <string name="next">Հաջորդը</string>
+    <string name="finish">Ավարտել</string>
+    <string name="skip">Բաց թողնել</string>
+    <string name="start">"Սկսել"</string>
+    <string name="done">"Պատրաստ է"</string>
+    <string name="ok">"Եղավ"</string>
+    <string name="loading">"Սպասեք…"</string>
+    <string name="setup_welcome_message">Բարի գալուստ <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Կարգավորեք ձեր աշխատանքային պրոֆիլը</string>
+    <string name="emergency_call">"Շտապ կանչ"</string>
+    <string name="accessibility_settings">"Հատուկ գործառույթների կարգավորումներ"</string>
+    <string name="device_info">"Տեղեկություններ սարքի մասին"</string>
+    <string name="device_information">"Տեղեկություններ սարքի մասին"</string>
+    <string name="device_info_serial">"Սերիական համար"</string>
+    <string name="setup_locale">"Լեզու"</string>
+    <string name="sim_locale_changed">Հայտնաբերվել է %1$s SIM</string>
+    <string name="setup_euicc">Կարգավորել eSIM</string>
+    <string name="setup_sim_missing">SIM քարտը բացակայում է</string>
+    <string name="esim_support_summary">Կարգավորեք eSIM կամ տեղադրեք SIM քարտ։ SIM քարտ տեղադրելու համար կարդացեք սարքի հետ տրված հրահանգները։</string>
+    <string name="sim_missing_summary" product="tablet">Ձեր պլանշետում SIM քարտ չի հայտնաբերվել։ SIM քարտ տեղադրելու համար կարդացեք սարքի հետ տրված հրահանգները։</string>
+    <string name="sim_missing_summary" product="default">Ձեր հեռախոսում SIM քարտ չի հայտնաբերվել։ SIM քարտ տեղադրելու համար կարդացեք սարքի հետ տրված հրահանգները։</string>
+    <string name="sim_missing_skip_title">Բաց թողնե՞լ SIM-ի կարգավորումը։</string>
+    <string name="sim_missing_skip_message">Եթե բաց թողնեք այս քայլը, մինչև Կարգավորումներում SIM-ը չկարգավորեք, բջջային ցանցին չեք միանա։</string>
+    <string name="setup_datetime">"Ամսաթիվ և ժամ"</string>
+    <string name="date_time_summary">Սահմանեք ժամային գոտին և, անհրաժեշտության դեպքում, փոխեք ընթացիկ ամսաթիվն ու ժամը</string>
+    <string name="setup_current_date">Ընթացիկ ամսաթիվ</string>
+    <string name="setup_current_time">Ընթացիկ ժամ</string>
+    <string name="setup_datetime_section_date">"Ամսաթիվ"</string>
+    <string name="setup_datetime_section_time">"Ժամ"</string>
+    <string name="setup_date_format">"Ֆորմատավորել"</string>
+    <string name="date_format_day">"Օր"</string>
+    <string name="date_format_month">"Ամիս"</string>
+    <string name="date_format_year">"Տարի"</string>
+    <string name="setup_time_zone">"Ժամային գոտի"</string>
+    <string name="setup_24_hour_format">"Օգտագործել 24-ժամյա ձևաչափը"</string>
+    <string name="intro_restore_title">Վերականգնել հավելվածները և տվյալները</string>
+    <string name="intro_restore_subtitle">Եթե ունեք <xliff:g id="name" example="LineageOS">%s</xliff:g>-ից կամ որևէ այլ OS-ից Seedvault պահուստային պատճենը, կարող եք այն վերականգնել այստեղ։</string>
+    <string name="intro_restore_button">Վերականգնել պահուստից</string>
+    <string name="setup_location">"Տեղորոշման ծառայություններ"</string>
+    <string name="location_summary">Ընտրեք, թե ինչպես է ձեր սարքը կառավարում գտնվելու վայրը</string>
+    <string name="location_access_title">"Օգտագործել տեղորոշումը"</string>
+    <string name="location_agps_access_title">Բարելավված տեղորոշում</string>
+    <string name="location_access_summary">Թույլատրել հավելվածներին, որոնք խնդրել են ձեր թույլտվությունը օգտագործել ձեր տեղեկությունները։ Սա կարող է ներառել ձեր ընթացիկ և նախկին գտնվելու վայրերը։</string>
+    <string name="location_agps_access_summary">Երբ տեղորոշումը միացված է, ինտերնետից ներբեռնել արբանյակային օգնական տվյալներ, ինչը կարող է զգալիորեն բարելավել GPS-ի մեկնարկի արագությունը։</string>
+    <string name="update_recovery_title">Թարմացնել Resurrected Remix-ի վերականգնման ռեժիմը</string>
+    <string name="update_recovery_description">Թարմացնում է Resurrected Remix-ի վերականգնման ռեժիմը յուրաքանչյուր թարմացումից հետո առաջին գործարկման ժամանակ։</string>
+    <string name="update_recovery_warning">Վերականգնման ռեժիմը կթարմացվի, երբ ավարտեք կարգավորումը։ Եթե ցանկանում եք այն անփոփոխ պահել, անջատեք այս գործառույթը։</string>
+    <string name="update_recovery_setting">Թարմացնել Resurrected Remix-ի վերականգնման ռեժիմը OS-ի հետ միասին</string>
+    <string name="setup_services">Resurrected Remix-ի գործառույթներ</string>
+    <string name="services_pp_explanation">Այս ծառայությունները աշխատում են ձեր սարքի հնարավորություններն ընդլայնելու համար։ Տվյալները կօգտագործվեն <xliff:g id="name" example="LineageOS">%1$s</xliff:g>-ի գաղտնիության քաղաքականությանը համապատասխան։</string>
+    <string name="services_find_privacy_policy">Գաղտնիության քաղաքականությանը կարող եք ծանոթանալ մեկ այլ սարքից՝ այցելելով․</string>
+    <string name="services_help_improve_cm">Օգնեք բարելավել <xliff:g id="name" example="LineageOS">%s</xliff:g>-ը</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g>-ը ավտոմատ կերպով ուղարկում է ախտորոշիչ և օգտագործման տվյալներ <xliff:g id="name" example="LineageOS">%2$s</xliff:g>-ին։ Այս տեղեկատվությունը չի կարող օգտագործվել ձեզ նույնականացնելու համար և օգնում է թիմերին աշխատել այնպիսի բաների վրա, ինչպիսիք են մարտկոցի աշխատաժամանակը, հավելվածների աշխատանքը և <xliff:g id="name" example="LineageOS">%3$s</xliff:g>-ի նոր գործառույթները։</string>
+    <string name="services_metrics_title">Ուղարկել ախտորոշիչ տվյալներ</string>
+    <string name="services_os_nav_keys_label">Օգտագործել <b>էկրանի նավիգացիայի կոճակները</b> ֆիզիկական կոճակների փոխարեն։</string>
+    <string name="setup_navigation">Նավիգացիա</string>
+    <string name="navigation_summary">Ընտրեք նախընտրելի նավիգացիայի եղանակը</string>
+    <string name="gesture_navigation">"Ժեստերով նավիգացիա"</string>
+    <string name="navbar_navigation">"Եռակոճակ նավիգացիա"</string>
+    <string name="gesture_navigation_short">Ժեստ</string>
+    <string name="hide_gesture_hint">Թաքցնել ժեստային նավիգացիայի ցուցումը</string>
+    <string name="setup_theme">"Թեմա"</string>
+    <string name="theme_summary">Մուգ թեման որոշ էկրանների վրա օգնում է երկարացնել մարտկոցի աշխատանքը՝ օգտագործելով սև ֆոն</string>
+    <string name="dark">Մուգ</string>
+    <string name="light">"Բաց"</string>
+    <string name="pure_black_theme">Օգտագործել զուտ սև ֆոն</string>
+    <string name="theme_preview">Թեմայի նախադիտում</string>
+    <string name="swipe_up_to_go_home">"Մատը սահեցրեք վերև՝ հիմնական էկրան անցնելու համար"</string>
+    <string name="tap_home_to_go_home">Հպեք կենտրոնական նավիգացիայի պատկերակին՝ հիմնական էկրան անցնելու համար</string>
+    <string name="press_center_to_go_home">Սեղմեք կենտրոնական կոճակը՝ հիմնական էկրան անցնելու համար</string>
+</resources>

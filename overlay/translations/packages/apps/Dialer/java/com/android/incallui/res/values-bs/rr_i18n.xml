@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Snimanje poziva nije moguće pokrenuti</string>
+    <string name="call_recording_file_location">Snimak poziva sačuvan u <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Snimaj poziv</string>
+    <string name="onscreenCallRecordingText">Snimanje poziva - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Zaustavi snimanje"</string>
+    <string name="recording_warning_title">Omogućiti snimanje poziva?</string>
+    <string name="recording_warning_text">Napomena: Odgovorni ste za usklađenost sa svim zakonima, propisima i pravilima koji se primjenjuju na korištenje funkcije snimanja poziva i na korištenje ili distribuciju tih snimaka.</string>
+</resources>

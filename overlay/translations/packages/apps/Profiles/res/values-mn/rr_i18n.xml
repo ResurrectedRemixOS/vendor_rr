@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Профайлын итгэмжлэгдсэн үйлчилгээ</string>
+    <string name="profile_picker_title">"Профайлууд"</string>
+    <string name="profile_none">"Байхгүй"</string>
+    <string name="profile_trust_agent_title">Профайлын итгэмжлэгдсэн агент</string>
+    <string name="profile_trust_agent_summary">Профайлуудад түгжээтэй дэлгэцийн хамгаалалтыг түр зуур идэвхгүй болгох эрхийг олгодог</string>
+    <string name="trust_by_profile">Профайлд итгэмжлэгдсэн</string>
+</resources>

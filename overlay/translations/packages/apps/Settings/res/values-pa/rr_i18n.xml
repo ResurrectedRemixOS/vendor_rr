@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ਪੂਰਵ-ਨਿਰਧਾਰਿਤ"</item>
+        <item>ਸੈਲਸੀਅਸ</item>
+        <item>ਫਾਰਨਹਾਈਟ</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ਪੂਰਵ-ਨਿਰਧਾਰਿਤ"</item>
+        <item>ਐਤ</item>
+        <item>ਸੋਮ</item>
+        <item>ਮੰਗਲ</item>
+        <item>ਬੁਧ</item>
+        <item>ਵੀਰ</item>
+        <item>ਸ਼ੁੱਕਰ</item>
+        <item>ਸ਼ਨੀ</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ਪੂਰਵ-ਨਿਰਧਾਰਿਤ"</item>
+        <item>ਮੈਟ੍ਰਿਕ</item>
+        <item>US ਸਿਸਟਮ</item>
+        <item>UK ਸਿਸਟਮ</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"ਨਿਰਧਾਰਿਤ ਨਹੀਂ"</item>
+        <item>"ਨਿਰਪੱਖ"</item>
+        <item>"ਇਸਤਰੀ-ਲਿੰਗ"</item>
+        <item>"ਪੁਲਿੰਗ"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">ਵਾਧੂ</string>
+    <string name="advanced_keyboard_settings_title">"ਅਡਵਾਂਸ ਸੈਟਿੰਗਾਂ"</string>
+    <string name="adb_enable_root">ਰੂਟ ਡੀਬੱਗਿੰਗ</string>
+    <string name="adb_enable_summary_root">Android ਡੀਬੱਗਿੰਗ ਨੂੰ ਰੂਟ ਵਜੋਂ ਚਲਾਉਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <string name="backup_transport_setting_label">ਬੈਕਅੱਪ ਪ੍ਰਦਾਤਾ ਬਦਲੋ</string>
+    <string name="backup_transport_title">ਬੈਕਅੱਪ ਪ੍ਰਦਾਤਾ ਚੁਣੋ</string>
+    <string name="berry_black_theme_title">ਪੂਰਾ ਕਾਲਾ</string>
+    <string name="berry_black_theme_summary">ਡਾਰਕ ਥੀਮ ਲਈ ਪੂਰਾ ਕਾਲਾ ਬੈਕਗ੍ਰਾਊਂਡ</string>
+    <string name="lineagelicense_title">LineageOS ਕਾਨੂੰਨੀ</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {ਡਿਵੈਲਪਰ ਸੈਟਿੰਗਾਂ ਚਾਲੂ ਕਰਨ ਤੋਂ ਤੁਸੀਂ ਹੁਣ # ਕਦਮ ਦੂਰ ਹੋ।} other {ਡਿਵੈਲਪਰ ਸੈਟਿੰਗਾਂ ਚਾਲੂ ਕਰਨ ਤੋਂ ਤੁਸੀਂ ਹੁਣ # ਕਦਮ ਦੂਰ ਹੋ।} }</string>
+    <string name="show_dev_on_cm">ਤੁਸੀਂ ਡਿਵੈਲਪਰ ਸੈਟਿੰਗਾਂ ਚਾਲੂ ਕਰ ਲਈਆਂ ਹਨ!</string>
+    <string name="show_dev_already_cm">ਲੋੜ ਨਹੀਂ, ਤੁਸੀਂ ਡਿਵੈਲਪਰ ਸੈਟਿੰਗਾਂ ਪਹਿਲਾਂ ਹੀ ਚਾਲੂ ਕਰ ਚੁੱਕੇ ਹੋ।</string>
+    <string name="status_bar_double_tap_to_sleep_title">ਸੌਣ ਲਈ ਟੈਪ ਕਰੋ</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ਡਿਸਪਲੇ ਬੰਦ ਕਰਨ ਲਈ ਸਥਿਤੀ ਪੱਟੀ ਜਾਂ ਲਾਕ ਸਕ੍ਰੀਨ \'ਤੇ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ</string>
+    <string name="high_touch_polling_rate_title">ਉੱਚ ਟੱਚ ਪੋਲਿੰਗ ਰੇਟ</string>
+    <string name="high_touch_polling_rate_summary">ਟੱਚਸਕ੍ਰੀਨ ਪੋਲਿੰਗ ਰੇਟ ਵਧਾਓ</string>
+    <string name="heads_up_notifications_enabled_title">ਹੈੱਡਸ-ਅੱਪ</string>
+    <string name="heads_up_notifications_enabled_summary">ਤਰਜੀਹੀ ਸੂਚਨਾਵਾਂ ਇੱਕ ਛੋਟੀ ਤੈਰਦੀ ਵਿੰਡੋ ਵਿੱਚ ਦਿਖਾਓ</string>
+    <string name="high_touch_sensitivity_title">ਉੱਚ ਟੱਚ ਸੰਵੇਦਨਸ਼ੀਲਤਾ</string>
+    <string name="high_touch_sensitivity_summary">ਟੱਚਸਕ੍ਰੀਨ ਦੀ ਸੰਵੇਦਨਸ਼ੀਲਤਾ ਵਧਾਓ ਤਾਂ ਜੋ ਦਸਤਾਨੇ ਪਹਿਨ ਕੇ ਵਰਤਿਆ ਜਾ ਸਕੇ</string>
+    <string name="tethering_allow_vpn_upstreams_title">ਜੁੜੀਆਂ ਡਿਵਾਈਸਾਂ ਲਈ VPN ਵਰਤੋ</string>
+    <string name="tethering_allow_vpn_upstreams_summary">ਜਦੋਂ ਇਹ ਡਿਵਾਈਸ VPN ਵਰਤ ਰਹੀ ਹੋਵੇ, ਹੌਟਸਪੌਟ ਨਾਲ ਜੁੜੀਆਂ ਸਾਰੀਆਂ ਡਿਵਾਈਸਾਂ ਉਹੀ VPN ਵਰਤਣਗੀਆਂ</string>
+    <string name="lock_settings_picker_pattern_size_message">ਪੈਟਰਨ ਦਾ ਆਕਾਰ ਚੁਣੋ</string>
+    <string name="lockpattern_settings_enable_error_path_title">ਪੈਟਰਨ ਗਲਤੀ ਦਿਖਾਓ</string>
+    <string name="lockpattern_settings_enable_dots_title">ਪੈਟਰਨ ਬਿੰਦੀਆਂ ਦਿਖਾਓ</string>
+    <string name="max_refresh_rate_title">ਵੱਧ ਤੋਂ ਵੱਧ ਰਿਫ੍ਰੈਸ਼ ਰੇਟ</string>
+    <string name="min_refresh_rate_title">ਘੱਟੋ-ਘੱਟ ਰਿਫ੍ਰੈਸ਼ ਰੇਟ</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">ਆਪਣੇ ਟੈਬਲੇਟ ਦੇ ਅਗਲੇ ਪਾਸੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਲੱਭੋ।</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">ਆਪਣੀ ਡਿਵਾਈਸ ਦੇ ਅਗਲੇ ਪਾਸੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਲੱਭੋ।</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਅਗਲੇ ਪਾਸੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਲੱਭੋ।</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">ਆਪਣੇ ਟੈਬਲੇਟ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਲੱਭੋ।</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">ਆਪਣੀ ਡਿਵਾਈਸ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਲੱਭੋ।</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਲੱਭੋ।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">ਆਪਣੇ ਟੈਬਲੇਟ ਦੇ ਪਾਸੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਲੱਭੋ।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">ਆਪਣੀ ਡਿਵਾਈਸ ਦੇ ਪਾਸੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਲੱਭੋ।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਾਸੇ ਫਿੰਗਰਪ੍ਰਿੰਟ ਸੈਂਸਰ ਲੱਭੋ।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">ਆਪਣੇ ਟੈਬਲੇਟ ਦੇ ਅਗਲੇ ਪਾਸੇ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">ਆਪਣੀ ਡਿਵਾਈਸ ਦੇ ਅਗਲੇ ਪਾਸੇ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਅਗਲੇ ਪਾਸੇ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">ਆਪਣੇ ਟੈਬਲੇਟ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">ਆਪਣੀ ਡਿਵਾਈਸ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">ਆਪਣੇ ਟੈਬਲੇਟ ਦੇ ਪਾਸੇ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">ਆਪਣੀ ਡਿਵਾਈਸ ਦੇ ਪਾਸੇ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਾਸੇ ਸੈਂਸਰ ਨੂੰ ਛੂਹੋ।</string>
+    <string name="show_navbar_hint_title">ਨੈਵੀਗੇਸ਼ਨ ਸੰਕੇਤ</string>
+    <string name="show_navbar_hint_summary">ਸਕ੍ਰੀਨ ਦੇ ਹੇਠਾਂ ਨੈਵੀਗੇਸ਼ਨ ਸੰਕੇਤ ਪੱਟੀ ਦਿਖਾਓ</string>
+    <string name="auto_brightness_one_shot_title">ਇੱਕ ਵਾਰ ਆਟੋ-ਚਮਕ</string>
+    <string name="auto_brightness_one_shot_summary">ਚਮਕ ਦਾ ਸਮਾਯੋਜਨ ਸਿਰਫ਼ ਉਸ ਪਲ ਹੋਵੇਗਾ ਜਦੋਂ ਸਕ੍ਰੀਨ ਚਾਲੂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ</string>
+    <string name="data_usage_app_restrict_all">ਨੈੱਟਵਰਕ ਪਹੁੰਚ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <string name="data_usage_app_restrict_all_summary">ਨੈੱਟਵਰਕ ਵਰਤੋਂ ਚਾਲੂ ਕਰੋ</string>
+    <string name="data_usage_app_restrict_mobile">"ਮੋਬਾਈਲ ਡਾਟਾ"</string>
+    <string name="data_usage_app_restrict_mobile_summary">ਮੋਬਾਈਲ ਡਾਟਾ ਦੀ ਵਰਤੋਂ ਚਾਲੂ ਕਰੋ</string>
+    <string name="data_usage_app_restrict_vpn">VPN ਡਾਟਾ</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN ਡਾਟਾ ਦੀ ਵਰਤੋਂ ਚਾਲੂ ਕਰੋ</string>
+    <string name="data_usage_app_restrict_wifi">"ਵਾਈ-ਫਾਈ ਡਾਟਾ"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi ਡਾਟਾ ਦੀ ਵਰਤੋਂ ਚਾਲੂ ਕਰੋ</string>
+    <string name="unlock_scramble_pin_layout_title">ਲੇਆਉਟ ਬਦਲੋ</string>
+    <string name="unlock_scramble_pin_layout_summary">ਡਿਵਾਈਸ ਅਨਲਾਕ ਕਰਦੇ ਸਮੇਂ PIN ਲੇਆਉਟ ਬਦਲੋ</string>
+    <string name="proximity_wake_title">ਅਚਾਨਕ ਜਾਗਣ ਤੋਂ ਰੋਕੋ</string>
+    <string name="proximity_wake_summary">ਸਕ੍ਰੀਨ ਜਗਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਪ੍ਰੌਕਸੀਮਿਟੀ ਸੈਂਸਰ ਜਾਂਚੋ</string>
+    <string name="touchscreen_hovering_title">ਟੱਚਸਕ੍ਰੀਨ ਹੋਵਰਿੰਗ</string>
+    <string name="touchscreen_hovering_summary">ਵੈੱਬ ਬ੍ਰਾਊਜ਼ਰਾਂ, ਰਿਮੋਟ ਡੈਸਕਟਾਪਾਂ ਆਦਿ ਵਿੱਚ ਮਾਊਸ ਵਾਂਗ ਸਕ੍ਰੀਨ \'ਤੇ ਹੋਵਰ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦਾ ਹੈ</string>
+    <string name="wake_when_plugged_or_unplugged_title">ਪਲੱਗ ਲਗਾਉਣ \'ਤੇ ਜਗਾਓ</string>
+    <string name="wake_when_plugged_or_unplugged_summary">ਪਾਵਰ ਸਰੋਤ ਜੋੜਨ ਜਾਂ ਹਟਾਉਣ ਵੇਲੇ ਸਕ੍ਰੀਨ ਚਾਲੂ ਕਰੋ</string>
+    <string name="storage_warning_internal">ਚੇਤਾਵਨੀ: ਇਹ ਵਿਕਲਪ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਨਾ ਕਰ ਸਕਦਾ ਹੈ ਜਾਂ ਡਾਟਾ ਦੇ ਨੁਕਸਾਨ ਦਾ ਕਾਰਨ ਬਣ ਸਕਦਾ ਹੈ, ਇਸ ਲਈ ਇਸਦੀ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ!</string>
+    <string name="assisted_gps">ਸਹਾਇਤਾ ਪ੍ਰਾਪਤ GPS ਵਰਤੋ</string>
+    <string name="assisted_gps_summary">ਸਹਾਇਕ ਸੈਟੇਲਾਈਟ ਡੇਟਾ ਇੰਟਰਨੈੱਟ ਤੋਂ ਡਾਊਨਲੋਡ ਕਰੋ, ਜਿਸ ਨਾਲ GPS ਦੀ ਸ਼ੁਰੂਆਤੀ ਕਾਰਗੁਜ਼ਾਰੀ ਕਾਫ਼ੀ ਬਿਹਤਰ ਹੋ ਸਕਦੀ ਹੈ। ਐਮਰਜੈਂਸੀ ਕਾਲਾਂ ਲਈ ਸਹਾਇਤਾ-ਪ੍ਰਾਪਤ GPS ਹਮੇਸ਼ਾ ਇਜਾਜ਼ਤ ਵਿੱਚ ਹੁੰਦਾ ਹੈ।</string>
+    <string name="battery_technology">ਤਕਨਾਲੋਜੀ</string>
+    <string name="battery_health">"ਸਿਹਤ"</string>
+    <string name="battery_health_good">"ਵਧੀਆ"</string>
+    <string name="battery_health_overheat">"ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ"</string>
+    <string name="battery_health_dead">"ਬੈਟਰੀ ਖਤਮ"</string>
+    <string name="battery_health_over_voltage">"ਵੱਧ ਵੋਲਟੇਜ"</string>
+    <string name="battery_health_unspecified_failure">ਅਣਜਾਣ ਗੜਬੜ</string>
+    <string name="battery_health_cold">"ਠੰਡਾ"</string>
+    <string name="battery_health_unknown">"ਅਗਿਆਤ"</string>
+    <string name="battery_temperature">"ਤਾਪਮਾਨ"</string>
+    <string name="battery_voltage">ਵੋਲਟੇਜ</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">ਡਿਜ਼ਾਈਨ ਸਮਰੱਥਾ</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">ਵੱਧ ਤੋਂ ਵੱਧ ਸਮਰੱਥਾ</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">ਸੈੱਟਅੱਪ ਦੌਰਾਨ ਫੋਨ ਫੋਲਡ ਕਰੋ</string>
+    <string name="face_enrolling_close_to_continue_description">ਫੇਸ ਅਨਲੌਕ ਸੈੱਟ ਕਰਨ ਜਾਂ ਵਰਤਣ ਲਈ ਫੋਨ ਨੂੰ ਫੋਲਡ ਕਰਨਾ ਜ਼ਰੂਰੀ ਹੈ</string>
+    <string name="face_enrolling_do_it_later">"ਇਸਨੂੰ ਬਾਅਦ ਵਿੱਚ ਕਰੋ"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM ਟੂਲਕਿੱਟ</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> ਲਈ ਯੋਗ</string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

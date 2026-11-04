@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hour">
+        <item quantity="one">%d uur</item>
+        <item quantity="other">%d uur</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="one">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="one">%d sek</item>
+        <item quantity="other">%d sek</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="one">%d oproep</item>
+        <item quantity="other">%d oproepe</item>
+    </plurals>
+    <string name="call_stats_detail_title">Besonderhede van kontakstatistiek</string>
+    <string name="call_stats_incoming">Inkomend: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Uitgaande: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Gemis: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Geblokkeer: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Totaal: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Totaal: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"Begindatum"</string>
+    <string name="call_stats_filter_to">"Einddatum"</string>
+    <string name="call_stats_filter_picker_title">Filtreer reeks</string>
+    <string name="date_quick_selection">Vinnige keuse</string>
+    <string name="date_qs_currentmonth">Huidige maand</string>
+    <string name="date_qs_currentquarter">Huidige kwartaal</string>
+    <string name="date_qs_currentyear">Huidige jaar</string>
+    <string name="date_qs_lastweek">"Verlede week"</string>
+    <string name="date_qs_lastmonth">"Verlede maand"</string>
+    <string name="date_qs_lastquarter">Laaste kwartaal</string>
+    <string name="date_qs_lastyear">"Verlede jaar"</string>
+    <string name="call_stats_date_filter">Pas tydsreeks aan</string>
+    <string name="call_stats_reset_filter">Stel tydsreeks terug</string>
+    <string name="call_stats_sort_by_duration">Sorteer volgens oproepduur</string>
+    <string name="call_stats_sort_by_count">Sorteer volgens oproeptelling</string>
+    <string name="call_stats_title_for_number">Hierdie nommer</string>
+    <string name="call_stats_title_of_total">Van totaal</string>
+    <string name="call_stats_title_durations">Oproepduurs</string>
+    <string name="call_stats_title_count">Oproeptelling</string>
+    <string name="call_stats_title_average_duration">Gemiddelde oproepduur</string>
+    <string name="recent_calls_no_items_in_range">Jou oproeplys bevat geen oproepe in die gekose tydsreeks nie.</string>
+</resources>

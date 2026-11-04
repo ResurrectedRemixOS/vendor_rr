@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Կոնտակտի վիճակագրության մանրամասներ</string>
+    <string name="call_stats_incoming">Մուտքային՝ <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Ելող՝ <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Բաց թողնված՝ <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Արգելափակված՝ <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Ընդամենը՝ <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Ընդամենը՝ <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">Մեկնարկի ամսաթիվը</string>
+    <string name="call_stats_filter_to">Ավարտի ամսաթիվը</string>
+    <string name="call_stats_filter_picker_title">Ժամանակահատվածի զտում</string>
+    <string name="date_quick_selection">Արագ ընտրություն</string>
+    <string name="date_qs_currentmonth">Ընթացիկ ամիս</string>
+    <string name="date_qs_currentquarter">Ընթացիկ եռամսյակ</string>
+    <string name="date_qs_currentyear">Ընթացիկ տարի</string>
+    <string name="date_qs_lastweek">"Անցած շաբաթ"</string>
+    <string name="date_qs_lastmonth">"Անցած ամիս"</string>
+    <string name="date_qs_lastquarter">Վերջին եռամսյակ</string>
+    <string name="date_qs_lastyear">"Անցած տարի"</string>
+    <string name="call_stats_date_filter">Կարգավորել ժամանակահատվածը</string>
+    <string name="call_stats_reset_filter">Վերականգնել ժամանակահատվածը</string>
+    <string name="call_stats_sort_by_duration">Դասավորել ըստ զանգի տևողության</string>
+    <string name="call_stats_sort_by_count">Դասավորել ըստ զանգերի քանակի</string>
+    <string name="call_stats_title_for_number">Այս թիվը</string>
+    <string name="call_stats_title_of_total">Ընդհանուրից</string>
+    <string name="call_stats_title_durations">Զանգերի տևողություններ</string>
+    <string name="call_stats_title_count">Զանգերի քանակ</string>
+    <string name="call_stats_title_average_duration">Զանգի միջին տևողություն</string>
+    <string name="recent_calls_no_items_in_range">Ձեր զանգերի մատյանում ընտրված ժամանակահատվածում զանգեր չկան։</string>
+</resources>

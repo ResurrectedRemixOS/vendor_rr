@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_expand">Utvid</string>
+    <string name="pip_phone_settings">Innstillingar</string>
+    <string name="pip_menu_title">Meny</string>
+    <string name="accessibility_action_pip_resize">Endra storleik</string>
+    <string name="pip_phone_minimize">Minimer</string>
+    <string name="bubble_overflow_button_content_description">Fleire</string>
+    <string name="bubble_content_description_single"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> frå <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="bubble_accessibility_action_move_top_left">Flytt øvst til venstre</string>
+    <string name="bubble_accessibility_action_move_top_right">Flytt øvst til høgre</string>
+    <string name="bubble_accessibility_action_move_bottom_left">Flytt nedst til venstre</string>
+    <string name="bubble_accessibility_action_move_bottom_right">Flytt nedst til høgre</string>
+    <string name="bubble_accessibility_action_move_bar_left">Flytt til venstre</string>
+    <string name="bubble_accessibility_action_move_bar_right">Flytt til høgre</string>
+    <string name="bubbles_user_education_got_it">Greitt</string>
+    <string name="notification_bubble_title">Boble</string>
+    <string name="manage_bubbles_text">Styr</string>
+    <string name="user_aspect_ratio_settings_button_description">Endra storleiksforhold</string>
+    <string name="letterbox_education_got_it">Greitt</string>
+    <string name="letterbox_restart_cancel">Avbryt</string>
+    <string name="letterbox_restart_restart">Start på nytt</string>
+    <string name="back_button_text">Tilbake</string>
+    <string name="more_button_text">Meir</string>
+    <string name="select_text">Vel</string>
+    <string name="screenshot_text">Skjermbilete</string>
+    <string name="new_window_text">Nytt vindauge</string>
+    <string name="manage_windows_text">Styr vindauge</string>
+    <string name="change_aspect_ratio_text">Endra storleiksforhold</string>
+    <string name="desktop_mode_layout_menu_snap_text">Endra storleik</string>
+    <string name="desktop_mode_layout_menu_immersive_restore_button_text">Gjenopprett</string>
+    <string name="desktop_mode_layout_menu_maximize_button_text">Maksimer</string>
+    <string name="desktop_mode_layout_menu_restore_button_text">Gjenopprett</string>
+    <string name="open_by_default_dialog_subheader_text">Vel korleis du vil opna nettlenker for denne appen</string>
+    <string name="open_by_default_dialog_in_app_text">I appen</string>
+    <string name="open_by_default_dialog_in_browser_text">I nettlesaren</string>
+    <string name="open_by_default_splash_dialog_checkbox_text">Hugs valet mitt</string>
+    <string name="pip_fullscreen">Fullskjerm</string>
+    <string name="pip_move">Flytt</string>
+    <string name="pip_expand">Utvid</string>
+    <string name="pip_collapse">Gøym</string>
+    <string name="a11y_action_pip_move_left">Flytt til venstre</string>
+    <string name="a11y_action_pip_move_right">Flytt til høgre</string>
+    <string name="a11y_action_pip_move_up">Flytt opp</string>
+    <string name="a11y_action_pip_move_down">Flytt ned</string>
+    <string name="a11y_action_pip_move_done">Ferdig</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Alfabet (Bépo)</string>
+    <string name="subtype_hu_ZZ">Mađarski (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material – prati postavke sistema</string>
+    <string name="prefs_keyboard_height_scale">Razmjera visine tastature</string>
+    <string name="number_row">Red sa brojevima</string>
+    <string name="number_row_summary">Uvijek prikaži red sa brojevima za sve rasporede koji imaju 4 reda tipki</string>
+    <string name="number_row_password">Red sa brojevima za lozinke</string>
+    <string name="number_row_password_summary">Uvijek prikaži red sa brojevima za sve rasporede sa 4 reda tipki pri unosu lozinke</string>
+    <string name="space_trackpad">Touchpad na razmaknici</string>
+    <string name="space_trackpad_summary">Prevlačite po razmaknici da pomjerate kursor</string>
+    <string name="backspace_trackpad">Touchpad na tipki za brisanje</string>
+    <string name="backspace_trackpad_summary">Prevlačite po tipki za brisanje da obrišete riječi</string>
+    <string name="show_longpress_hints">Prikaži savjete za dugo pritiskanje tipki</string>
+    <string name="show_longpress_hints_summary">Prikazuje savjete za dugi pritisak za podržane tipke</string>
+    <string name="show_emoji_key">Prikaži tipku za emoji</string>
+    <string name="show_emoji_key_summary">Uvijek prikaži tipku za emoji. Kada je ova opcija omogućena, tipka za promjenu jezika se ne može prikazati.</string>
+    <string name="enable_split_keyboard_summary">Samo u pejzažnom režimu</string>
+    <string name="split_keyboard_duplicate_keys">Dupliciraj srednje tipke</string>
+    <string name="split_keyboard_duplicate_keys_summary">Prikaži tipke blizu sredine na obje polovine</string>
+    <string name="spoken_description_split_keyboard">Podijeli tastaturu</string>
+    <string name="spoken_description_merge_keyboard">Spoji tastaturu</string>
+    <string name="spoken_description_float_keyboard">Plutajuća tastatura</string>
+    <string name="spoken_description_dock_keyboard">Zakači tastaturu</string>
+    <string name="floating_keyboard_drag_handle">Pomjeri tastaturu</string>
+    <string name="floating_keyboard_resize_handle">Promijeni veličinu tastature</string>
+    <string name="floating_keyboard_reset">"Vrati na zadano"</string>
+    <string name="floating_keyboard_hide">Sakrij tastaturu</string>
+    <string name="floating_keyboard_switch_ime">"Promjena načina unosa"</string>
+</resources>

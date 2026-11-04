@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_control_start_time_title">Temps de début</string>
+    <string name="live_display_reading_mode_title">Askar n tɣuṛi</string>
+    <string name="touchscreen_gesture_single_tap_title">Asenned aḥerfi</string>
+</resources>

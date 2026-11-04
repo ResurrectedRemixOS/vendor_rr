@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">Brzina punjenja</string>
+    <string name="charging_speed_slow">"Sporo"</string>
+    <string name="charging_speed_fast">"Brzo"</string>
+    <string name="charging_speed_super_fast">Super brzo</string>
+    <string name="lineage_vendor_security_patch">Razina sigurnosne zakrpe dobavljača</string>
+    <string name="trust_feature_name">"Smatraj pouzdanim"</string>
+    <string name="permlab_trustInterface">pristup sučelju Trust</string>
+    <string name="permdesc_trustInterface">Dopušta aplikaciji prikaz Trust upozorenja i prijedloga</string>
+    <string name="trust_notification_channel">Trust upozorenja</string>
+    <string name="trust_notification_title_security">Trust • Sigurnost sustava</string>
+    <string name="trust_notification_content_selinux">SELinux nije u načinu provođenja, tvoja sigurnost je oslabljena</string>
+    <string name="trust_notification_content_keys">Ova verzija je potpisana javnim ključevima</string>
+    <string name="trust_notification_title_onboarding">Otkrij Trust</string>
+    <string name="trust_notification_content_onboarding">Saznaj kako osigurati da je tvoj uređaj siguran</string>
+    <string name="trust_notification_action_manage">Upravljaj upozorenjima</string>
+    <string name="charging_control_notification_channel">Upravljanje punjenjem</string>
+    <string name="charging_control_notification_title">Upravljanje punjenjem</string>
+    <string name="charging_control_notification_cancel_once">"Odustani"</string>
+    <string name="charging_control_notification_content_limit">Baterija će se napuniti na %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">Baterija je napunjena na %1$d%%</string>
+    <string name="charging_control_notification_content_target">Baterija će se potpuno napuniti u %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Baterija je napunjena</string>
+</resources>

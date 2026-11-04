@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_alarm_warning_indef">"Ha előbb ezt nem kapcsolja ki, nem fogja hallani a következő ébresztést. Időpontja: <xliff:g id="WHEN">%1$s</xliff:g>"</string>
+</resources>

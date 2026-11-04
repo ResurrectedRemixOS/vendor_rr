@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Otkaži"</string>
+    <string name="next">Sledeća</string>
+    <string name="skip">Preskoči</string>
+    <string name="start">"Pokreni"</string>
+    <string name="done">"Gotovo"</string>
+    <string name="ok">"Važi"</string>
+    <string name="loading">"Samo trenutak…"</string>
+    <string name="setup_welcome_message">Dobrodošli u <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Podesite svoj profil za posao</string>
+    <string name="emergency_call">"Hitan poziv"</string>
+    <string name="accessibility_settings">"Podešavanja pristupačnosti"</string>
+    <string name="device_info">"Informacije o uređaju"</string>
+    <string name="device_information">"Informacije o uređaju"</string>
+    <string name="device_info_serial">"Serijski broj"</string>
+    <string name="setup_locale">"Jezik"</string>
+    <string name="setup_euicc">Podesite eSIM</string>
+    <string name="esim_support_summary">Podesite eSIM ili umetnite SIM karticu. Da biste umetnuli SIM karticu, pročitajte uputstva koja su priložena uz uređaj.</string>
+    <string name="sim_missing_skip_title">Preskočiti podešavanje SIM-a?</string>
+    <string name="sim_missing_skip_message">Ako preskočite ovaj korak, nećete biti povezani na mobilnu mrežu dok ne podesite SIM u Podešavanjima.</string>
+    <string name="setup_datetime">"Datum i vreme"</string>
+    <string name="setup_datetime_section_date">"Datum"</string>
+    <string name="setup_datetime_section_time">"Vreme"</string>
+    <string name="setup_date_format">"Formatiraj"</string>
+    <string name="date_format_day">"Dan"</string>
+    <string name="date_format_month">"Mesec"</string>
+    <string name="date_format_year">"Godina"</string>
+    <string name="setup_time_zone">"Vremenska zona"</string>
+    <string name="setup_24_hour_format">"Koristi 24-časovni format"</string>
+    <string name="intro_restore_title">Vrati aplikacije i podatke</string>
+    <string name="intro_restore_subtitle">Ako imate Seedvault rezervnu kopiju iz <xliff:g id="name" example="LineageOS">%s</xliff:g> ili bilo kog drugog operativnog sistema, možete je vratiti ovde.</string>
+    <string name="intro_restore_button">Vrati iz rezervne kopije</string>
+    <string name="setup_location">"Usluge lokacije"</string>
+    <string name="location_summary">Izaberite kako vaš uređaj upravlja lokacijom</string>
+    <string name="location_access_title">"Koristi lokaciju"</string>
+    <string name="location_agps_access_title">Poboljšana lokacija</string>
+    <string name="location_agps_access_summary">Kada je lokacija uključena, preuzmite podatke o pomoći satelita sa interneta, što može znatno poboljšati performanse GPS pokretanja.</string>
+    <string name="update_recovery_title">Ažuriraj Resurrected Remix oporavak</string>
+    <string name="update_recovery_description">Ažurira Resurrected Remix oporavak pri prvom pokretanju nakon svakog ažuriranja.</string>
+    <string name="update_recovery_warning">Oporavak će biti ažuriran čim završite podešavanje. Ako želite da ga zadržite nepromenjenim, onemogućite ovu funkciju.</string>
+    <string name="update_recovery_setting">Ažuriraj Resurrected Remix oporavak zajedno sa operativnim sistemom</string>
+    <string name="services_pp_explanation">Ove usluge rade za vas kako bi proširile mogućnosti vašeg uređaja. Podaci će se koristiti u skladu sa politikom privatnosti kompanije <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Politiku privatnosti možete pročitati na drugom uređaju posećivanjem:</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> tako što automatski šalje dijagnostičke podatke i podatke o korišćenju kompaniji <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Ove informacije ne mogu da se koriste za identifikaciju vas i pomažu timovima koji rade na stvarima poput trajanja baterije, performansi aplikacija i novih funkcija <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">Deli dijagnostičke podatke</string>
+    <string name="navigation_summary">Izaberite željeni način navigacije</string>
+    <string name="gesture_navigation">"Navigacija pomoću pokreta"</string>
+    <string name="navbar_navigation">"Navigacija pomoću 3 dugmeta"</string>
+    <string name="gesture_navigation_short">Pokreti</string>
+    <string name="hide_gesture_hint">Sakrij savet za navigaciju pokretima</string>
+    <string name="setup_theme">"Tema"</string>
+    <string name="theme_summary">Tamna tema koristi crnu pozadinu kako bi pomogla da baterija duže traje na nekim ekranima</string>
+    <string name="dark">Tamno</string>
+    <string name="light">"Blago"</string>
+    <string name="pure_black_theme">Koristi čisto crnu pozadinu</string>
+    <string name="theme_preview">Pregled teme</string>
+    <string name="swipe_up_to_go_home">"Prevucite nagore da biste otvorili početni ekran"</string>
+    <string name="tap_home_to_go_home">Dodirnite srednju ikonicu navigacije da biste otišli na početni ekran</string>
+    <string name="press_center_to_go_home">Pritisnite srednje dugme da biste otišli na početni ekran</string>
+</resources>

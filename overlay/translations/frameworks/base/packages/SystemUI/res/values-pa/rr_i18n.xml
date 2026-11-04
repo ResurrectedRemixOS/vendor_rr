@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">ਮੁੜ ਚਾਲੂ…</string>
+    <string name="global_action_restart_system">"ਸਿਸਟਮ"</string>
+    <string name="global_action_restart_recovery">"ਰਿਕਵਰੀ"</string>
+    <string name="global_action_restart_bootloader">ਬੂਟਲੋਡਰ</string>
+    <string name="global_action_restart_download">"ਡਾਊਨਲੋਡ ਕਰੋ"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"ਮੁੜ-ਸ਼ੁਰੂ ਹੋ ਰਿਹਾ ਹੈ…"</string>
+    <string name="global_action_restart_recovery_progress">ਰਿਕਵਰੀ ਮੋਡ ਵਿੱਚ ਮੁੜ ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="global_action_restart_bootloader_progress">ਬੂਟਲੋਡਰ ਮੋਡ ਵਿੱਚ ਮੁੜ ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="global_action_restart_download_progress">ਡਾਊਨਲੋਡ ਮੋਡ ਵਿੱਚ ਮੁੜ ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="global_action_restart_fastboot_progress">Fastbootd ਮੋਡ ਵਿੱਚ ਮੁੜ ਚਾਲੂ ਹੋ ਰਿਹਾ ਹੈ…</string>
+    <string name="global_action_current_user">ਮੌਜੂਦਾ</string>
+    <string name="global_action_users">"ਵਰਤੋਂਕਾਰ"</string>
+    <string name="clock">"ਘੜੀ"</string>
+    <string name="accessibility_adaptive_brightness">"ਅਡੈਪਟਿਵ ਬ੍ਰਾਈਟਨੈੱਸ"</string>
+    <string name="status_bar_icons_title">ਸਥਿਤੀ ਪੱਟੀ ਆਈਕਨ</string>
+    <string name="quick_settings_ambient_display_label">"ਐਂਬੀਅੰਟ ਡਿਸਪਲੇ"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">ਐਂਬੀਐਂਟ ਡਿਸਪਲੇ ਬੰਦ।</string>
+    <string name="accessibility_quick_settings_ambient_display_on">ਐਂਬੀਐਂਟ ਡਿਸਪਲੇ ਚਾਲੂ।</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD ਬੰਦ\nਬੈਟਰੀ ਸੇਵਰ</string>
+    <string name="quick_settings_caffeine_label">"ਕੈਫ਼ੀਨ"</string>
+    <string name="accessibility_quick_settings_caffeine_off">ਕੈਫੀਨ ਬੰਦ।</string>
+    <string name="accessibility_quick_settings_caffeine_on">ਕੈਫੀਨ ਚਾਲੂ।</string>
+    <string name="quick_settings_heads_up_label">ਹੈੱਡਸ ਅੱਪ</string>
+    <string name="accessibility_quick_settings_heads_up_off">ਹੈੱਡਸ ਅੱਪ ਬੰਦ।</string>
+    <string name="accessibility_quick_settings_heads_up_on">ਹੈੱਡਸ ਅੱਪ ਚਾਲੂ।</string>
+    <string name="quick_settings_powershare_label">ਵਾਇਰਲੈੱਸ PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">ਵਾਇਰਲੈੱਸ PowerShare ਬੰਦ\nਬੈਟਰੀ ਸੇਵਰ</string>
+    <string name="quick_settings_powershare_off_low_battery_label">ਵਾਇਰਲੈੱਸ PowerShare ਬੰਦ\nਬੈਟਰੀ ਬਹੁਤ ਘੱਟ</string>
+    <string name="quick_settings_powershare_enabled_label">ਵਾਇਰਲੈੱਸ PowerShare ਚਾਲੂ ਹੈ</string>
+    <string name="quick_settings_reading_mode">ਰੀਡਿੰਗ ਮੋਡ</string>
+    <string name="accessibility_quick_settings_reading_mode_on">ਰੀਡਿੰਗ ਮੋਡ ਚਾਲੂ।</string>
+    <string name="accessibility_quick_settings_reading_mode_off">ਰੀਡਿੰਗ ਮੋਡ ਬੰਦ।</string>
+    <string name="quick_settings_sync_label">"ਸਿੰਕ ਕਰੋ"</string>
+    <string name="accessibility_quick_settings_sync_off">ਸਿੰਕ ਬੰਦ।</string>
+    <string name="accessibility_quick_settings_sync_on">ਸਿੰਕ ਚਾਲੂ।</string>
+    <string name="quick_settings_profiles_label">ਸਿਸਟਮ ਪ੍ਰੋਫਾਈਲਾਂ</string>
+    <string name="accessibility_quick_settings_profiles_off">ਪ੍ਰੋਫਾਈਲਾਂ ਬੰਦ।</string>
+    <string name="accessibility_quick_settings_profiles">ਪ੍ਰੋਫਾਈਲ: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"USB ਟੈਦਰਿੰਗ"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">ਨਾਲ ਜੁੜੋ…</string>
+    <string name="vpn_credentials_hint">ਕਿਰਪਾ ਕਰਕੇ <xliff:g id="name">%s</xliff:g> ਨਾਲ ਜੁੜਨ ਲਈ ਆਪਣੇ ਪਛਾਣ-ਪੱਤਰ ਦਾਖਲ ਕਰੋ</string>
+    <string name="vpn_credentials_username">"ਵਰਤੋਂਕਾਰ ਨਾਮ"</string>
+    <string name="vpn_credentials_password">"ਪਾਸਵਰਡ"</string>
+    <string name="vpn_credentials_dialog_connect">"ਕਨੈਕਟ ਕਰੋ"</string>
+    <string name="status_bar_firewall">ਫਾਇਰਵਾਲ</string>
+    <string name="battery_notification_channel_tv">ਬੈਟਰੀ ਚੇਤਾਵਨੀ</string>
+    <string name="screenshot_delete_label">"ਮਿਟਾਓ"</string>
+    <string name="screenshot_delete_description">ਸਕ੍ਰੀਨਸ਼ਾਟ ਮਿਟਾਓ</string>
+    <string name="screenrecord_lowquality_label">ਘੱਟ ਕੁਆਲਿਟੀ</string>
+    <string name="screenrecord_lowquality_summary">ਛੋਟੀ ਫਾਈਲ ਆਕਾਰ ਲਈ</string>
+    <string name="screenrecord_longer_timeout_switch_label">ਵੱਡੀ ਫਾਈਲ ਆਕਾਰ ਸੀਮਾ</string>
+    <string name="screenrecord_longer_timeout_switch_summary">ਰਿਕਾਰਡਿੰਗ ਆਕਾਰ 15 GB ਤੱਕ ਸੀਮਿਤ ਕਰੋ</string>
+    <string name="screenrecord_skip_time_label">ਸਕਿੱਪ ਟਾਈਮਰ</string>
+    <string name="screenrecord_skip_time_summary">3 ਸਕਿੰਟ ਦਾ ਇੰਤਜ਼ਾਰ ਹਟਾਓ</string>
+    <string name="screenrecord_hevc_switch_label">HEVC ਏਨਕੋਡਿੰਗ</string>
+    <string name="screenrecord_hevc_switch_summary">ਵਧੇਰੇ ਕੁਸ਼ਲ HEVC ਏਨਕੋਡਰ ਵਰਤੋ</string>
+    <string name="zen_alarm_warning_indef">"ਤੁਸੀਂ <xliff:g id="WHEN">%1$s</xliff:g> ਵਜੇ ਆਪਣਾ ਅਗਲਾ ਅਲਾਰਮ ਨਹੀਂ ਸੁਣੋਗੇ ਜੇਕਰ ਤੁਸੀਂ ਉਸ ਤੋਂ ਪਹਿਲਾਂ ਤੁਸੀਂ ਇਸ ਮੋਡ ਨੂੰ ਬੰਦ ਨਹੀਂ ਕਰਦੇ"</string>
+</resources>

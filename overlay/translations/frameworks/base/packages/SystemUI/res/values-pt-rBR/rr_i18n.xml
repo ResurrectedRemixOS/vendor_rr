@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_alarm_warning_indef">"Você não ouvirá o próximo alarme <xliff:g id="WHEN">%1$s</xliff:g>, a menos que desative essa opção antes desse horário"</string>
+</resources>

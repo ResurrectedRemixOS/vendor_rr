@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material - ตามการตั้งค่าระบบ</string>
+    <string name="prefs_keyboard_height_scale">มาตราส่วนความสูงของแป้นพิมพ์</string>
+    <string name="number_row">แถวตัวเลข</string>
+    <string name="number_row_summary">แสดงแถวตัวเลขเสมอสำหรับเลย์เอาต์ทั้งหมดที่มีปุ่ม 4 แถว</string>
+    <string name="number_row_password">แถวตัวเลขสำหรับรหัสผ่าน</string>
+    <string name="number_row_password_summary">แสดงแถวตัวเลขเสมอสำหรับเลย์เอาต์ทั้งหมดที่มีปุ่ม 4 แถวเมื่อป้อนรหัสผ่าน</string>
+    <string name="space_trackpad">แทร็กแพดแถบเว้นวรรค</string>
+    <string name="space_trackpad_summary">ปัดบนแถบเว้นวรรคเพื่อเลื่อนเคอร์เซอร์</string>
+    <string name="backspace_trackpad">แทร็กแพดปุ่มลบ</string>
+    <string name="backspace_trackpad_summary">ปัดบนปุ่มลบเพื่อลบคำ</string>
+    <string name="show_longpress_hints">แสดงคำใบ้เมื่อกดค้าง</string>
+    <string name="show_longpress_hints_summary">แสดงคำใบ้เมื่อกดค้างสำหรับปุ่มที่รองรับ</string>
+    <string name="show_emoji_key">แสดงปุ่มอิโมจิ</string>
+    <string name="show_emoji_key_summary">แสดงปุ่มอิโมจิเสมอ เมื่อเปิดใช้งานตัวเลือกนี้ จะไม่สามารถแสดงปุ่มสลับภาษาได้</string>
+    <string name="enable_split_keyboard_summary">เฉพาะแนวนอน</string>
+    <string name="split_keyboard_duplicate_keys">ทำซ้ำปุ่มกลาง</string>
+    <string name="split_keyboard_duplicate_keys_summary">แสดงปุ่มใกล้กลางทั้งสองฝั่ง</string>
+    <string name="spoken_description_split_keyboard">แยกแป้นพิมพ์</string>
+    <string name="spoken_description_merge_keyboard">รวมแป้นพิมพ์</string>
+    <string name="spoken_description_float_keyboard">แป้นพิมพ์ลอย</string>
+    <string name="spoken_description_dock_keyboard">แป้นพิมพ์แบบด็อก</string>
+    <string name="floating_keyboard_drag_handle">ย้ายแป้นพิมพ์</string>
+    <string name="floating_keyboard_resize_handle">ปรับขนาดแป้นพิมพ์</string>
+    <string name="floating_keyboard_reset">"รีเซ็ต"</string>
+    <string name="floating_keyboard_hide">ซ่อนแป้นพิมพ์</string>
+    <string name="floating_keyboard_switch_ime">"สลับวิธีการป้อนข้อมูล"</string>
+</resources>

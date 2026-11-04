@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kbit/s</item>
+        <item>256 kbit/s</item>
+        <item>1 Mbit/s</item>
+        <item>5 Mbit/s</item>
+        <item>15 Mbit/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"par défaut"</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"par défaut"</item>
+        <item>dim</item>
+        <item>lun</item>
+        <item>mar</item>
+        <item>mer</item>
+        <item>jeu</item>
+        <item>ven</item>
+        <item>sam</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"par défaut"</item>
+        <item>Métrique</item>
+        <item>Système US</item>
+        <item>Système UK</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Non défini"</item>
+        <item>"Neutre"</item>
+        <item>"Féminin"</item>
+        <item>"Masculin"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>Français</item>
+        <item>Español</item>
+        <item>Italiano</item>
+        <item>Deutsch</item>
+    </string-array>
+    <string name="face_enrolling_close_to_continue">Pliez le téléphone pendant la configuration</string>
+    <string name="face_enrolling_close_to_continue_description">Le téléphone doit être plié pour configurer ou utiliser le déverrouillage par reconnaissance faciale</string>
+    <string name="face_enrolling_do_it_later">"Plus tard"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">Boîte à outils SIM</string>
+    <string name="platform_compat_target_sdk_title">Activé pour targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Gestionnaire de contexte personnel</string>
+</resources>

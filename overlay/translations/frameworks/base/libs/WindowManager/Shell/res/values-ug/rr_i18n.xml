@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_settings">تەڭشەكلەر</string>
+    <string name="pip_menu_title">تىزىملىك</string>
+    <string name="bubble_accessibility_action_move_bar_left">سولغا يۆتكە</string>
+    <string name="bubble_accessibility_action_move_bar_right">ئوڭغا يۆتكە</string>
+    <string name="bubbles_user_education_got_it">بىلدىم</string>
+    <string name="letterbox_education_got_it">بىلدىم</string>
+    <string name="letterbox_restart_cancel">ۋاز كەچ</string>
+    <string name="letterbox_restart_restart">قايتا قوزغات</string>
+    <string name="back_button_text">قايت</string>
+    <string name="more_button_text">تېخىمۇ كۆپ</string>
+    <string name="screenshot_text">ئېكراندىن تۇتۇلغان سۈرەت</string>
+    <string name="open_by_default_dialog_dismiss_button_text">جەزملە</string>
+    <string name="open_by_default_splash_dialog_checkbox_text">تاللىشىمنى ئەستە تۇت</string>
+    <string name="pip_move">يۆتكە</string>
+    <string name="a11y_action_pip_move_left">سولغا يۆتكە</string>
+    <string name="a11y_action_pip_move_right">ئوڭغا يۆتكە</string>
+    <string name="a11y_action_pip_move_done">تامام</string>
+</resources>

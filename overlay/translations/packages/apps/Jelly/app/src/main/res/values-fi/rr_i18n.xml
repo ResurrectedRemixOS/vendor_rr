@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="url_bar_auto_complete_hint">Hae tai kirjoita URL-osoite</string>
+    <string name="menu_desktop_shortcuts">Työpöytäpikakuvakkeet</string>
+    <string name="menu_background_shortcuts">Taustapikakuvakkeet</string>
+    <string name="menu_desktop_mode">Työpöytäsivusto</string>
+    <string name="desktop_shortcuts_title">Työpöytäpikakuvakkeet</string>
+    <string name="background_shortcuts_title">Taustapikakuvakkeet</string>
+    <string name="background_shortcuts_save_action">"Tallenna"</string>
+    <string name="background_shortcuts_notification_channel">Hallitse taustapikakuvakkeita</string>
+    <string name="pref_start_page_autoload_enabled">"Käytössä"</string>
+    <string name="pref_start_page_autoload_disabled">"Ei käytössä"</string>
+    <string name="pref_dynamic_popup_title">Dynaamiset ponnahdusikkunat</string>
+    <string name="pref_dynamic_popup_summary">Salli JavaScriptin avata ponnahdusikkunoita ilman käyttäjän toimintaa</string>
+    <string name="pref_web_debugging_title">Verkkovianetsintä</string>
+    <string name="pref_web_debugging_summary">Salli verkkosivujen tarkastelu osoitteessa chrome://inspect USB-vianetsinnän kautta</string>
+    <string name="pref_fullscreen_shortcuts_title">Koko näytön pikakuvakkeet</string>
+    <string name="pref_fullscreen_shortcuts_summary">Pakota pikakuvakkeet avautumaan koko näytön tilassa</string>
+    <string name="ssl_cert_dialog_trust">"Luota"</string>
+    <string name="ssl_cert_dialog_trusted">Yhteys on suojattu</string>
+    <string name="ssl_error_untrusted">"Varmenteen myöntäjä ei ole luotettava taho."</string>
+    <string name="ssl_error_mismatch">"Sivuston nimi ei vastaa varmenteessa olevaa nimeä."</string>
+    <string name="ssl_error_expired">"Varmenne ei ole enää voimassa."</string>
+    <string name="ssl_error_not_yet_valid">"Varmenne ei ole vielä voimassa."</string>
+    <string name="ssl_error_date_invalid">"Varmenteen päiväys ei kelpaa."</string>
+    <string name="ssl_error_invalid">"Varmenne on virheellinen."</string>
+    <string name="ssl_error_unknown">"Tuntematon varmennevirhe."</string>
+    <string name="protected_media_dialog_message">Sallitaanko suojattu media?</string>
+    <string name="protected_media_dialog_grant">Myönnä</string>
+    <string name="protected_media_dialog_deny">"Estä"</string>
+    <string name="media_session_destroy_action">"Lopeta"</string>
+</resources>

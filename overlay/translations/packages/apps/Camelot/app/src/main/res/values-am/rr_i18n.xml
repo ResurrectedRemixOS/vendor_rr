@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">የPDF ተመልካች</string>
+    <string name="find_in_page">በገጹ ውስጥ ፈልግ</string>
+    <string name="share">"አጋራ"</string>
+    <string name="open_with">በ… ክፈት</string>
+    <string name="download">"አውርድ"</string>
+    <string name="pdf_document">የPDF ሰነድ</string>
+    <string name="print">"አትም"</string>
+    <string name="download_successful">ማውረድ ተሳክቷል</string>
+    <string name="download_error">ፋይሉን በማውረድ ላይ ስህተት ተፈጥሯል</string>
+</resources>

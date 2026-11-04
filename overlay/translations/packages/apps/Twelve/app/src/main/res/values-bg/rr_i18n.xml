@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="audio_output_issue_downmixing">Смесване на канали</string>
+    <string name="fullscreen_mode">Режим на цял екран</string>
+    <string name="fullscreen_mode_summary">Активиране на режим на цял екран. Това ще скрие лентата за навигация и лентата на състоянието, но ще гарантира, че съдържанието, което може да се докосне, не се припокрива с изрезките на дисплея.</string>
+    <string name="activity_most_played_artists">Най-често слушани изпълнители</string>
+    <string name="activity_most_played_genres">Най-често слушани жанрове</string>
+    <string name="activity_most_played_songs">Най-често слушани песни</string>
+    <string name="ampache_compatible">Съвместим</string>
+</resources>

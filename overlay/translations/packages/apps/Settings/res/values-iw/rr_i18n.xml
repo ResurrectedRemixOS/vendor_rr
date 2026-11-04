@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ברירת מחדל"</item>
+        <item>צלזיוס</item>
+        <item>פרנהייט</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ברירת מחדל"</item>
+        <item>א׳</item>
+        <item>ב׳</item>
+        <item>ג׳</item>
+        <item>ד׳</item>
+        <item>ה׳</item>
+        <item>ו׳</item>
+        <item>ש׳</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ברירת מחדל"</item>
+        <item>מטרי</item>
+        <item>מערכת ארה״ב</item>
+        <item>מערכת בריטניה</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"לא רוצה להגדיר"</item>
+        <item>"ניטרלי"</item>
+        <item>"נקבה"</item>
+        <item>"זכר"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>צ׳</item>
+        <item>ע׳</item>
+        <item>ח׳</item>
+        <item>ד׳</item>
+    </string-array>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">ערכת SIM</string>
+    <string name="platform_compat_target_sdk_title">מופעל עבור targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">מנהל הקשר אישי</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="download_paused">"Түр зогсоосон"</string>
+    <string name="download_paused_percent">Түр зогссон, %d%%</string>
+    <string name="button_resume_download">"Үргэлжлүүлэх"</string>
+    <string name="button_pause_download">Түр зогсоох</string>
+    <string name="notif_summary_paused">%d түр зогссон</string>
+</resources>

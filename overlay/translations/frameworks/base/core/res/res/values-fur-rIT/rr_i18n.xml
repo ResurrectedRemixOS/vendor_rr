@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_feedback">Opinion</string>
+    <string name="global_action_standby">In pause</string>
+    <string name="global_action_unrestricted_lock">Bloche</string>
+    <string name="notification_channel_accessibility_hearing_device">Dispositîf pe scolte</string>
+    <string name="notification_channel_parental_controls">Controi parentâi</string>
+    <string name="face_acquired_poor_gaze">Metiti plui dret al to dispositîf e cjale.</string>
+    <string name="default_audio_route_name_hdmi_tv">Audio de TV</string>
+    <string name="default_audio_route_name_analog">Analogjic</string>
+    <string name="default_audio_route_name_digital">Digjitâl</string>
+    <string name="accessibility_shortcut_label_button">boton acès facilitât</string>
+    <string name="accessibility_shortcut_label_volume_keys">tascj volum</string>
+    <string name="accessibility_shortcut_label_triple_tap">triple tocjade</string>
+    <string name="mouse_keys_feature_name">Tascj pal mouse</string>
+    <string name="hearing_device_status_disconnected">Disconetût</string>
+    <string name="hearing_device_status_connected">Conetût</string>
+    <string name="hearing_device_status_active">Atîf</string>
+    <string name="unnamed_user_name">Utent</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_face" product="default">Sbloc cu la muse</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_fingerprint">Sbloc cul impront</string>
+    <string name="app_lock_permission_review_expand_app_list_button">Viôt dutis</string>
+    <string name="suggested_apps_group_a11y_title">Sugjeriments di aplicazions</string>
+    <string name="accessibility_autoclick_scroll">Pergamene</string>
+    <string name="accessibility_autoclick_resume">Ripie</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_IN_PROGRESS">Domande di sbloc dal sotinsiemi di rêt SIM\u2026</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_IN_PROGRESS">Domande di sbloc dal furnidôr di servizi SIM\u2026</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_IN_PROGRESS">Domande di sbloc furnidôr di servizi RUIM\u2026</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ERROR">Domande di sbloc dal sotinsiemi di rêt SIM lade strucje.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ERROR">Domande di sbloc dal furnidôr di servizi SIM lade strucje.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ERROR">Domande di sbloc dal furnidôr di servizi RUIM lade strucje.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_SUCCESS">Sbloc dal furnidôr di servizis SIM lât a bon fin</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_SUCCESS">Sbloc furnidôr di servizi RUIM lât a bon fin.</string>
+    <string name="app_locked_notification_message">Gnûf messaç</string>
+    <string name="usb_apm_usb_plugged_in_when_locked_notification_app_title">Sigurece e riservatece</string>
+    <string name="usb_apm_usb_plugged_in_when_locked_notification_silence_action_text">Cidin</string>
+</resources>

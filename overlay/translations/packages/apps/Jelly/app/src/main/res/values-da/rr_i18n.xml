@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="url_bar_auto_complete_hint">Søg eller skriv URL</string>
+    <string name="menu_desktop_shortcuts">Genveje på skrivebordet</string>
+    <string name="menu_background_shortcuts">Genveje i baggrunden</string>
+    <string name="desktop_shortcuts_title">Genveje på skrivebordet</string>
+    <string name="background_shortcuts_title">Genveje i baggrunden</string>
+    <string name="background_shortcuts_save_action">"Gem"</string>
+    <string name="background_shortcuts_notification_channel">Administrer genveje i baggrunden</string>
+    <plurals name="background_shortcuts_notification_content">
+        <item quantity="one">%1$d instanser kører</item>
+        <item quantity="other">%1$d instanser kører</item>
+    </plurals>
+    <string name="pref_start_page_autoload_enabled">"Aktiveret"</string>
+    <string name="pref_start_page_autoload_disabled">"Deaktiveret"</string>
+    <string name="pref_dynamic_popup_title">Dynamiske pop-ups</string>
+    <string name="pref_dynamic_popup_summary">Tillad JavaScript at åbne pop-ups uden brugerinteraktion</string>
+    <string name="pref_web_debugging_title">Webfejlfinding</string>
+    <string name="pref_web_debugging_summary">Tillad inspektion af websider via chrome://inspect med USB-fejlfinding</string>
+    <string name="pref_fullscreen_shortcuts_title">Genveje i fuld skærm</string>
+    <string name="pref_fullscreen_shortcuts_summary">Tving genveje til at åbne i fuld skærm</string>
+    <string name="ssl_cert_dialog_trust">"Angiv som pålidelig"</string>
+    <string name="ssl_cert_dialog_trusted">Forbindelsen er sikker</string>
+    <string name="ssl_error_untrusted">"Dette certifikat stammer ikke fra en pålidelig kilde."</string>
+    <string name="ssl_error_mismatch">"Navnet på websitet stemmer ikke overens med navnet på certifikatet."</string>
+    <string name="ssl_error_expired">"Dette certifikat er udløbet."</string>
+    <string name="ssl_error_not_yet_valid">"Dette certifikat er ikke gyldigt endnu."</string>
+    <string name="ssl_error_date_invalid">"Dette certifikat har en ugyldig dato."</string>
+    <string name="ssl_error_invalid">"Dette certifikat er ugyldigt."</string>
+    <string name="ssl_error_unknown">"Ukendt certifikatfejl."</string>
+    <string name="location_dialog_title">Give adgang til placering?</string>
+    <string name="location_dialog_message">%1$s vil bruge din geolokation.</string>
+    <string name="location_dialog_allow">"Tillad"</string>
+    <string name="location_dialog_block">"Bloker"</string>
+    <string name="location_dialog_cancel">Afvis foreløbigt</string>
+    <string name="protected_media_dialog_message">Tillad beskyttet medie?</string>
+    <string name="protected_media_dialog_grant">Tillad</string>
+    <string name="protected_media_dialog_deny">"Afvis"</string>
+    <string name="media_session_destroy_action">Stop</string>
+</resources>

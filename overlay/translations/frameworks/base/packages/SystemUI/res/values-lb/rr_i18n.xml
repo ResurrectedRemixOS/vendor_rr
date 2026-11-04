@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_download">Erofgelueden</string>
+    <string name="clock">Auer</string>
+    <string name="accessibility_adaptive_brightness">Automatesch Hellegkeet</string>
+    <string name="vpn_credentials_username">Benotzernumm</string>
+    <string name="vpn_credentials_password">Passwuert</string>
+    <string name="vpn_credentials_dialog_connect">Connectéieren</string>
+    <string name="screenshot_delete_label">Läschen</string>
+    <string name="extreme_battery_saver_text">Extrem</string>
+    <string name="usb_device_dialog_always_allow_button">Ëmmer erlaben</string>
+    <string name="usb_device_dialog_cancel_button">Ofbriechen</string>
+    <string name="usb_debugging_allow">Erlaben</string>
+    <string name="usb_authorization_allow">Erlaben</string>
+    <string name="add_network_button_text">Netzwierk dobäisetzen</string>
+    <string name="wifi_debugging_allow">Erlaben</string>
+    <string name="learn_more">Méi gewuer ginn</string>
+    <string name="global_action_screenshot">Schiermfoto</string>
+    <string name="screenshot_copy_label">Kopéieren</string>
+    <string name="screenshot_edit_label">Änneren</string>
+    <string name="screenshot_share_label">Deelen</string>
+    <string name="screenrecord_audio_label">Toun ophuelen</string>
+    <string name="screenrecord_mic_label">Mikro</string>
+    <string name="screenrecord_stop_label">Stopp</string>
+    <string name="screenrecord_stop_description">Opnam stoppen</string>
+    <string name="screenrecord_start_description">Opnam starten</string>
+    <string name="screenrecord_share_label">Deelen</string>
+    <string name="screenrecord_stop_dialog_button">Opnam stoppen</string>
+    <string name="screen_record_should_show_touches_label">Beréierungen uweisen</string>
+    <string name="screen_record_color_picker">Faarfauswiel</string>
+    <string name="screen_record_undo">Réckgängeg maachen</string>
+    <string name="screen_record_edit">Änneren</string>
+    <string name="screen_record_delete">Läschen</string>
+    <string name="screen_capture_toolbar_screenshot_button">Schiermfoto</string>
+    <string name="screen_share_toolbar_share_button">Deelen</string>
+    <string name="screen_capture_microphone_audio">Mikro</string>
+    <string name="issuerecord_share_label">Deelen</string>
+    <string name="accessibility_accessibility_button">Accessibilitéit</string>
+    <string name="accessibility_send_smart_reply">Schécken</string>
+    <string name="cancel">Ofbriechen</string>
+    <string name="biometric_dialog_confirm">Bestätegen</string>
+    <string name="biometric_dialog_try_again">Nees probéieren</string>
+    <string name="biometric_dialog_unavailable">Net disponibel</string>
+    <string name="biometric_dialog_wrong_pin">Falsche PIN</string>
+    <string name="work_challenge_emergency_button_text">Noutfall</string>
+    <string name="biometric_re_enroll_dialog_cancel">Net elo</string>
+    <string name="cell_data_off">Aus</string>
+    <string name="data_usage_disabled_dialog_enable">Weider</string>
+    <string name="accessibility_status_bar_assistant_icon">Assistent</string>
+    <string name="accessibility_status_bar_input_method_indicator">Tastatur</string>
+    <string name="input_method_switcher_title_large_screen">Tastatur</string>
+    <string name="see_all_bluetooth_devices">All uweisen</string>
+    <string name="quick_settings_bluetooth_secondary_label_audio">Toun</string>
+    <string name="quick_settings_bluetooth_secondary_label_headset">Kopfhörer</string>
+    <string name="quick_settings_bluetooth_secondary_label_input">Agang</string>
+    <string name="quick_settings_bluetooth_secondary_label_hearing_aids">Héierapparater</string>
+    <string name="quick_settings_camera_mic_available">Disponibel</string>
+    <string name="quick_settings_cast_title">Iwwerdroen</string>
+    <string name="quick_settings_cast_detail_title">Schierm op Apparat iwwerdroen</string>
+    <string name="quick_settings_cast_disconnect">Deconnectéieren</string>
+    <string name="quick_settings_audio_input_section_title">Agang</string>
+    <string name="quick_settings_audio_effects_section_title">Effekter</string>
+    <string name="quick_settings_inversion_label">Faarwen invertéieren</string>
+    <string name="quick_settings_font_scaling_label">Schrëftgréisst</string>
+    <string name="flashlight_dialog_turn_off">Ausschalten</string>
+    <string name="quick_settings_screen_record_stop">Stopp</string>
+    <string name="qs_record_issue_stop">Stopp</string>
+    <string name="quick_settings_hearing_devices_disconnected">Connectioun getrennt</string>
+    <string name="hearing_devices_preset_label">Virastellung</string>
+    <string name="zen_mode_on">Un</string>
+    <string name="zen_mode_off">Aus</string>
+    <string name="zen_mode_set_up">Net gesat</string>
+    <string name="zen_modes_multiple_on_status">Un</string>
+    <string name="cta_tile_button_to_dismiss">Verwerfen</string>
+    <string name="manage_notifications_history_text">Historique</string>
+    <string name="notification_section_header_gentle">Roueg</string>
+    <string name="notification_section_header_highlights">Héichten</string>
+    <string name="go_to_adaptive_notification_settings">Ausschalten</string>
+    <string name="stream_music">Medien</string>
+    <string name="stream_alarm">Wecker</string>
+    <string name="stream_notification">Notifikatioun</string>
+    <string name="stream_accessibility">Accessibilitéit</string>
+    <string name="stream_assistant">Assistent</string>
+    <string name="volume_ringer_status_vibrate">Vibréieren</string>
+    <string name="media_device_cast">Iwwerdroen</string>
+    <string name="stream_unavailable_by_unknown">Net disponibel</string>
+    <string name="volume_panel_spatial_audio_off">Aus</string>
+    <string name="volume_panel_spatial_audio_fixed">Fixéiert</string>
+    <string name="volume_ringer_hint_vibrate">vibréieren</string>
+    <string name="volume_panel_hint_vibrate">vibréieren</string>
+    <string name="status_bar_alarm">Wecker</string>
+    <string name="status_bar_work">Aarbechtsprofil</string>
+    <string name="accessibility_managed_profile">Aarbechtsprofil</string>
+    <string name="inline_ok_button">Applizéieren</string>
+    <string name="inline_turn_off_notifications">Ausschalten</string>
+    <string name="notification_silence_title">Roueg</string>
+    <string name="notification_alert_title">Standard</string>
+    <string name="notification_automatic_title">Automatesch</string>
+    <string name="notification_inline_dismiss">Verwerfen</string>
+    <string name="notification_inline_disable_promotion">Ausschalten</string>
+    <string name="see_more_title">Méi gesinn</string>
+    <string name="snooze_undo">Réckgängeg maachen</string>
+    <string name="keyboard_key_space">Espace</string>
+    <string name="keyboard_key_media_stop">Stopp</string>
+    <string name="keyboard_key_media_rewind">Zréckspullen</string>
+    <string name="keyboard_key_forward_del">Läschen</string>
+    <string name="keyboard_key_move_end">Anhänken</string>
+    <string name="keyboard_shortcut_group_system_recents">Rezent</string>
+    <string name="keyboard_shortcut_search_category_input">Agang</string>
+    <string name="keyboard_shortcut_group_input">Agang</string>
+    <string name="keyboard_shortcut_group_applications_assist">Assistent</string>
+    <string name="keyboard_shortcut_group_applications_contacts">Kontakter</string>
+    <string name="keyboard_shortcut_group_applications_email">E-Mail</string>
+    <string name="keyboard_shortcut_group_applications_calendar">Kalenner</string>
+    <string name="battery">Akku</string>
+    <string name="headset">Kopfhörer</string>
+    <string name="switch_bar_on">Un</string>
+    <string name="switch_bar_off">Aus</string>
+    <string name="tile_unavailable">Net disponibel</string>
+    <string name="nav_bar_layout">Layout</string>
+    <string name="save">Späicheren</string>
+    <string name="reset">Zrécksetzen</string>
+    <string name="clipboard">Klemmbriet</string>
+    <string name="qs_edit_edit_tab">Änneren</string>
+    <string name="qs_edit_layout_tab">Layout</string>
+    <string name="other">Aner</string>
+    <string name="accessibility_shortcutchooser_edit_button">Änneren</string>
+    <string name="accessibility_quick_access_dialog_title">Accessibilitéit</string>
+    <string name="shutdown_progress">Gëtt ausgemaach\u2026</string>
+    <string name="lockscreen_none">Keen</string>
+    <string name="notification_channel_battery">Akku</string>
+    <string name="notification_channel_setup">Astellen</string>
+    <string name="notification_channel_storage">Späicher</string>
+    <string name="notification_channel_accessibility">Accessibilitéit</string>
+    <string name="slice_permission_allow">Erlaben</string>
+    <string name="slice_permission_deny">Verweigeren</string>
+    <string name="ongoing_privacy_dialog_a11y_title">Gëtt benotzt</string>
+    <string name="privacy_type_camera">Kamera</string>
+    <string name="privacy_chip_container_leading_title">Privatsphär</string>
+    <string name="accessibility_magnification_medium">Mëttel</string>
+    <string name="accessibility_magnification_small">Kleng</string>
+    <string name="accessibility_magnification_large">Grouss</string>
+    <string name="accessibility_magnifier_edit">Änneren</string>
+    <string name="accessibility_floating_button_undo">Réckgängeg maachen</string>
+    <string name="accessibility_floating_button_action_edit">Änneren</string>
+    <string name="controls_favorite_default_title">Steierelementer</string>
+    <string name="controls_favorite_other_zone_header">Aner</string>
+    <string name="controls_settings_dialog_positive_button">Jo</string>
+    <string name="controls_pin_use_alphanumeric">De PIN huet Buschtawen oder Spezialzeechen</string>
+    <string name="controls_pin_wrong">Falsche PIN</string>
+    <string name="controls_pin_instructions">PIN aginn</string>
+    <string name="controls_media_title">Medien</string>
+    <string name="controls_media_button_prev">Viregen Titel</string>
+    <string name="controls_media_button_next">Nächsten Titel</string>
+    <string name="controls_media_button_connecting">Connectéieren</string>
+    <string name="media_transfer_undo">Réckgängeg maachen</string>
+    <string name="media_output_dialog_accessibility_seekbar">Lautstäerkt</string>
+    <string name="media_input_group_title">Agang</string>
+    <string name="build_number_clip_data_label">Build-Nummer</string>
+    <string name="birthday_status">Gebuertsdag</string>
+    <string name="anniversary_status">Joresdag</string>
+    <string name="game_status">Gëtt ofgespillt</string>
+    <string name="missed_call">Verpassten Uruff</string>
+    <string name="person_available">Disponibel</string>
+    <string name="turn_on_wifi">WLAN</string>
+    <string name="wifi_failed_connect_message">Connectioun mam Netzwierk feelgeschloen</string>
+    <string name="see_all_networks">All uweisen</string>
+    <string name="fgs_manager_app_item_stop_button_label">Stopp</string>
+    <string name="clipboard_text_copied">Text kopéiert</string>
+    <string name="clipboard_overlay_window_name">Klemmbriet</string>
+    <string name="log_access_confirmation_learn_more">Méi gewuer ginn</string>
+    <string name="rear_display_bottom_sheet_cancel">Ofbriechen</string>
+    <string name="video_camera">Videokamera</string>
+    <string name="call_from_work_profile_close">Ofbriechen</string>
+    <string name="priority_mode_dream_overlay_content_description">Net stéieren</string>
+    <string name="dismiss_dialog">Verwerfen</string>
+    <string name="privacy_dialog_collapse_action">Zouklappen</string>
+    <string name="shortcut_helper_category_system_apps">System-Appen</string>
+    <string name="shortcutHelper_category_accessibility">Accessibilitéit</string>
+    <string name="shortcut_helper_category_input">Agang</string>
+    <string name="shortcut_helper_category_a11y">Accessibilitéit</string>
+    <string name="shortcut_helper_reset_button_text">Zrécksetzen</string>
+    <string name="shortcut_helper_key_combinations_and_conjunction">Plus</string>
+    <string name="shortcut_helper_customize_dialog_cancel_button_label">Ofbriechen</string>
+    <string name="shortcut_helper_customizer_action_key_text">Aktioun</string>
+    <string name="gesture_error_title">Nees probéieren</string>
+    <string name="volume_undo_action">Réckgängeg maachen</string>
+    <string name="qs_edit_mode_category_accessibility">Accessibilitéit</string>
+    <string name="qs_edit_mode_category_privacy">Privatsphär</string>
+    <string name="qs_edit_mode_category_unknown">Onbekannt</string>
+    <string name="sign_in_button_on_bouncer">Aloggen</string>
+    <string name="accessibility_button_on_bouncer_description">Accessibilitéit</string>
+    <string name="av_panel_title">Privatsphär</string>
+    <string name="sensor_activity_microphone_label">Mikro</string>
+    <string name="sensor_activity_close_app_button">App zoumaachen</string>
+    <string name="av_mic_label">Mikro</string>
+    <string name="av_camera_blur_off">Aus</string>
+    <string name="more_options_edit">Änneren</string>
+    <string name="more_options_move">Réckelen</string>
+    <string name="floating_menu_more_options_label">Méi Optiounen</string>
+    <string name="dream_setup_button_not_now">Net elo</string>
+    <string-array name="tile_states_internet">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_modes_dnd">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_notes">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+    <string-array name="tile_states_desktopeffects">
+        <item>Net disponibel</item>
+        <item>Aus</item>
+        <item>Un</item>
+    </string-array>
+</resources>

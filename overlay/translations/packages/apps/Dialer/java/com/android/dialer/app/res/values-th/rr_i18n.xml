@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_dialer_text">คุณต้องตั้งให้ Dialer เป็นแอปโทรศัพท์เริ่มต้นก่อนจึงจะใช้งานได้</string>
+    <string name="default_dialer_action">"ตั้งเป็นค่าเริ่มต้น"</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="motion_photo_show_video">Показване на видео</string>
+    <string name="motion_photo_show_photo">Показване на снимка</string>
+    <string name="title_activity_settings">"Настройки"</string>
+    <string name="general_header">"Общи"</string>
+    <string name="video_header">Видео</string>
+    <string name="edge_tap_navigation_enable_title">Навигация с докосване на ръба</string>
+    <string name="edge_tap_navigation_enabled_description">Докоснете левия или десния ръб на екрана, за да превключвате между медиите</string>
+    <string name="double_tap_to_seek_enabled_title">Активиране на двойно докосване за превъртане</string>
+    <string name="double_tap_to_seek_enabled_description">Докоснете два пъти лявата или дясната страна на видеото, за да превъртите назад или напред</string>
+    <string name="double_tap_to_seek_seconds_title">Продължителност на превъртането при двойно докосване</string>
+    <string name="double_tap_to_seek_seconds_description">Секунди за пропускане при двойно докосване на видеото</string>
+    <string name="hide_native_seek_buttons_title">Скриване на собствените бутони за превъртане</string>
+    <string name="hide_native_seek_buttons_description">Скриване на бутоните за превъртане назад и напред от контролите на видеоплейъра</string>
+    <string name="remember_video_playback_position_enabled_title">Запомняне на позицията на възпроизвеждане</string>
+    <string name="remember_video_playback_position_enabled_description">Възобновяване на видеата от последната спряна позиция</string>
+</resources>

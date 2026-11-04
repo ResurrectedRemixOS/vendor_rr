@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">ຕົວອັກສອນ (Bépo)</string>
+    <string name="subtype_hu_ZZ">ພາສາຮັງກາຣີ (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - ຕາມການຕັ້ງຄ່າລະບົບ</string>
+    <string name="prefs_keyboard_height_scale">ຂະໜາດແປ້ນພິມ</string>
+    <string name="number_row">ແຖວຕົວເລກ</string>
+    <string name="number_row_summary">ສະແດງແຖວຕົວເລກສະເໝີສຳລັບທຸກຮູບແບບທີ່ມີ 4 ແຖວປຸ່ມ</string>
+    <string name="number_row_password">ແຖວຕົວເລກສຳລັບລະຫັດຜ່ານ</string>
+    <string name="number_row_password_summary">ສະແດງແຖວຕົວເລກສະເໝີສຳລັບທຸກຮູບແບບທີ່ມີ 4 ແຖວປຸ່ມ ເວລາປ້ອນລະຫັດຜ່ານ</string>
+    <string name="space_trackpad">ແຖບສໍາຜັດຊ່ອງຈ່ອງ</string>
+    <string name="space_trackpad_summary">ປັດເທິງຊ່ອງຈ່ອງເພື່ອເລື່ອນເຄີເຊີ</string>
+    <string name="backspace_trackpad">ແຖບສໍາຜັດປຸ່ມລຶບ</string>
+    <string name="backspace_trackpad_summary">ປັດເທິງປຸ່ມລຶບເພື່ອລຶບຄຳ</string>
+    <string name="show_longpress_hints">ສະແດງຄຳແນະນຳກົດຄ້າງ</string>
+    <string name="show_longpress_hints_summary">ສະແດງຄຳແນະນຳກົດຄ້າງສຳລັບປຸ່ມທີ່ຮອງຮັບ</string>
+    <string name="show_emoji_key">ສະແດງປຸ່ມອີໂມຈິ</string>
+    <string name="show_emoji_key_summary">ສະແດງປຸ່ມອີໂມຈິສະເໝີ. ເມື່ອເປີດຕົວເລືອກນີ້ ປຸ່ມສະຫຼັບພາສາຈະບໍ່ສາມາດສະແດງໄດ້.</string>
+    <string name="enable_split_keyboard_summary">ສະເພາະແນວນອນ</string>
+    <string name="split_keyboard_duplicate_keys">ເຮັດປຸ່ມກາງຊ້ຳກັນ</string>
+    <string name="split_keyboard_duplicate_keys_summary">ສະແດງປຸ່ມໃກ້ກາງທັງສອງຝັ່ງ</string>
+    <string name="spoken_description_split_keyboard">ແບ່ງແປ້ນພິມ</string>
+    <string name="spoken_description_merge_keyboard">ລວມແປ້ນພິມ</string>
+    <string name="spoken_description_float_keyboard">ລອຍແປ້ນພິມ</string>
+    <string name="spoken_description_dock_keyboard">ຕິດແປ້ນພິມ</string>
+    <string name="floating_keyboard_drag_handle">ຍ້າຍແປ້ນພິມ</string>
+    <string name="floating_keyboard_resize_handle">ປັບຂະໜາດແປ້ນພິມ</string>
+    <string name="floating_keyboard_reset">"ຣີເຊັດ"</string>
+    <string name="floating_keyboard_hide">ເຊື່ອງແປ້ນພິມ</string>
+    <string name="floating_keyboard_switch_ime">"ສະຫຼັບວິທີການປ້ອນຂໍ້ມູນ"</string>
+</resources>

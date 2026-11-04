@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="date_qs_lastweek">"Prošle nedelje"</string>
+    <string name="date_qs_lastmonth">"Prošlog meseca"</string>
+    <string name="date_qs_lastyear">"Prošle godine"</string>
+</resources>

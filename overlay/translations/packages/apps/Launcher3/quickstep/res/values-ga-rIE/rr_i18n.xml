@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_image_copy">Cóipeáil</string>
+    <string name="action_image_save">Sábháil</string>
+    <string name="taskbar_edu_stashing">Svaidhpeáil suas go mall chun an Barra Tasc a thaispeáint</string>
+    <string name="taskbar_button_more_options">Tuilleadh roghanna</string>
+    <string name="quick_switch_task_with_position_in_parent"><xliff:g id="task_description" example="Chrome">%1$s</xliff:g>, mír <xliff:g id="index_in_parent" example="1">%2$d</xliff:g> de <xliff:g id="total_tasks" example="5">%3$d</xliff:g></string>
+    <string name="bubble_bar_bubble_description"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> ó <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="ambientcue_first_time_edu_icon_description">Deilbhín</string>
+    <string name="ambientcue_first_time_edu_title">
+        Faigh moltaí cabhracha
+    </string>
+    <string name="ambientcue_first_time_edu_text">
+        Úsáidimid intleacht shaorga chun faisnéis agus gníomhartha a mholadh go réamhghníomhach a bhaineann leis an méid atá á dhéanamh agat ar an scáileán.
+    </string>
+    <string name="ambient_cue_expand_action">leathnú</string>
+    <string name="ambient_cue_icon_content_description">Deilbhín Moltaí Comhthimpeallacha</string>
+    <string name="ambientcue_long_press_edu_text">
+        Tadhail &amp; coinnigh chun a fheiceáil conas a ghintear moltaí</string>
+    <string name="ambient_cue_autofill_action">uathlíonadh</string>
+</resources>

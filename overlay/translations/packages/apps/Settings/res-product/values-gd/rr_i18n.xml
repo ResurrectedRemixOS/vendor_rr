@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="security_settings_face_enroll_introduction_message_unlock_disabled" product="default">Cleachd d’ aodann airson a’ ghlas a thoirt far an fhòn agad no ceannachdan a dhearbhadh.\n\nAn aire: Chan urrainn dhut d’ aodann a chleachdadh airson a’ ghlas a thoirt far an uidheim seo. Cuir fios gu rianaire a’ bhuidhinn agad airson barrachd fiosrachaidh.</string>
+    <string name="security_settings_face_enroll_introduction_message_setup" product="default">Cleachd d’ aodann airson a’ ghlas a thoirt far an uidheim agad, ceannachdan ùghdarrachadh no clàradh a-steach gu aplacaidean</string>
+    <string name="security_settings_face_settings_require_attention_details" product="default">Airson a’ ghlas a thoirt far an fòn, feumaidh do shùilean a bhith fosgailte</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message" product="default">Thagh thu gun cleachd thu do lorg-mheòir mar dhòigh air a’ ghlas a thoirt far an uidheim agad. Ma ghearras tu leum thairis air seo, feumaidh tu a shuidheachadh fhathast uaireigin eile. Cha doir an suidheachadh ach mionaid no dhà.</string>
+    <string name="suggested_lock_settings_title" product="default">Dèan am fòn agad tèarainte</string>
+    <string name="wifi_hidden_network_warning" product="default">Mur eil an rùtair agad a’ craoladh ID an lìonraidh ach nam bu mhiann leat ceangal ris san àm ri teachd, ’s urrainn dhut an lìonra a shuidheachadh mar fhear falaichte.\n\nDh’fhaoidte gun adhbharaich seo cunnart tèarainteachd on a chraolas am fòn agad an t-siognail aige gu cunbhalach airson an lìonra a lorg.\n\nMa shuidhicheas tu an lìonra mar fhear falaichte, chan atharraich seo roghainnean an rùtair agad.</string>
+    <string name="status_number" product="default">Àireamh fòn</string>
+    <string name="storage_wizard_init_v2_internal_action" product="tablet">Fòrmataich</string>
+    <string name="storage_wizard_init_v2_internal_action" product="default">Fòrmataich</string>
+    <string name="storage_wizard_init_v2_internal_action" product="desktop">Fòrmataich</string>
+    <string name="main_clear_button_text" product="tablet">Suath bàn an dàta air fad</string>
+    <string name="main_clear_button_text" product="default">Suath bàn an dàta air fad</string>
+    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Caismeachdan</string>
+    <string name="really_remove_account_message" product="device">Ma bheir thu air falbh an cunntas seo, thèid a h-uile teachdaireachd, luchd-aithne is dàta eile a sguabadh às on uidheam!</string>
+    <string name="really_remove_account_message" product="desktop">Ma bheir thu air falbh an cunntas seo, thèid a h-uile teachdaireachd, luchd-aithne is dàta eile a sguabadh às on uidheam!</string>
+    <string name="style_suggestion_title" product="default">Gnàthaich am fòn agad</string>
+    <string name="activity_not_found" product="default">Cha deach an aplacaid a stàladh air an fhòn agad.</string>
+    <string name="usb_default_info" product="default">Nuair a thèid uidheam eile a cheangal ris agus am fòn air a neo-ghlasadh, thèid na roghainnean seo a chur an sàs. Na dèan ceangal ach ri uidheaman sa bheil earbsa agad.</string>
+    <string name="condition_zen_summary_phone_muted" product="default">Tha am fòn mùchte</string>
+    <string name="disabled_feature_reason_slow_down_phone" product="default">Chaidh an gleus seo a chur dheth on a chuireas e maille air an fhòn agad</string>
+    <string name="mobile_data_settings_summary_auto_switch" product="default">        Atharraichidh am fòn dhan ghiùlanair seo gu fèin-obrachail nuair a bhios e faisg ort
+    </string>
+    <string name="bluetooth_connect_access_dialog_content" product="default">Tha <xliff:g id="device_name" example="My device">%1$s</xliff:g> airson ceangal a dhèanamh ris an fhòn seo.\n\nCha do rinn thu ceangal ri <xliff:g id="device_name" example="My device">%2$s</xliff:g> roimhe riamh.</string>
+    <string name="sound_settings" product="desktop">Fuaim</string>
+    <string name="security_settings_face_enroll_introduction_title" product="default">Thoir a’ ghlas dheth le d’ aodann</string>
+    <string name="security_settings_face_enroll_introduction_title" product="desktop">Thoir a’ ghlas dheth le d’ aodann</string>
+    <string name="usb_use_file_transfers" product="desktop">Tar-chur fhaidhlichean</string>
+</resources>

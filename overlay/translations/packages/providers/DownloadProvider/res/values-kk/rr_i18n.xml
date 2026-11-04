@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="duration_minutes">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> мин</item>
+        <item quantity="two"><xliff:g id="count">%d</xliff:g> мин</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> мин</item>
+        <item quantity="many"><xliff:g id="count">%d</xliff:g> мин</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> мин</item>
+    </plurals>
+    <string name="download_paused">"Кідіртілген"</string>
+    <string name="download_paused_percent">Кідіртілген, %d%%</string>
+    <string name="button_resume_download">"Жалғастыру"</string>
+    <string name="button_pause_download">Үзу</string>
+    <string name="notif_summary_paused">%d кідіртілген</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">តម្លៃប៊ូលីន។</string>
+    <string name="any_int_type_description">តម្លៃចំនួនគត់។</string>
+    <string name="any_string_type_description">តម្លៃអក្សរ។</string>
+    <string name="display_id_type_description">អត្តសញ្ញាណផ្ទាំងបង្ហាញប្រព័ន្ធ (អាចជាខាងក្នុង ឬខាងក្រៅ អាស្រ័យលើការកំណត់)។</string>
+    <string name="installed_package_name_type_description">កញ្ចប់ណាមួយដែលបានដំឡើងនៅលើឧបករណ៍។</string>
+    <string name="int_in_range_type_description_from">ចំនួនគត់ធំជាង ឬស្មើ %1$d ជាមួយជំហាន %2$d។</string>
+    <string name="int_in_range_type_description_to">ចំនួនគត់តូចជាង ឬស្មើ %1$d ជាមួយជំហាន %2$d។</string>
+    <string name="int_in_range_type_description_between">ចំនួនគត់ក្នុងជួរ [%1$d, %2$d] ជាមួយជំហាន %3$d។</string>
+    <string name="time_of_day_type_description">ពេលវេលានៃថ្ងៃតាមទម្រង់ 24 ម៉ោង HH:mm។</string>
+    <string name="time_duration_type_description">រយៈពេលជាចំនួនគត់ ជាមួយភាពជាក់លាក់ដល់វិនាទី។</string>
+    <string name="sim_slot_id_type_description">លេខស្លុតស៊ីមត្រឹមត្រូវ។</string>
+    <string name="subscription_id_type_description">លេខអត្តសញ្ញាណការជាវត្រឹមត្រូវ។</string>
+    <string name="wifi_ssid_type_description">SSID នៃបណ្តាញ Wi-Fi។</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="device_gestures_panel_summary">Gerakan perangkat khusus</string>
+    <string name="camera_focus_fix_title">Perbaikan fokus kamera</string>
+    <string name="camera_focus_fix_summary">Aktifkan jika kamera tidak dapat fokus</string>
+    <string name="wake_on_gesture_title">Bangunkan saat gerakan</string>
+    <string name="wake_on_gesture_summary">Bangunkan perangkat alih-alih notifikasi berkedip saat ada peristiwa gerakan</string>
+    <string name="stylus_panel_title">"Stilus"</string>
+    <string name="stylus_panel_summary">Atur perilaku stylus</string>
+    <string name="stylus_removed_category_title">Stylus dilepas</string>
+    <string name="stylus_inserted_category_title">Stylus dipasang</string>
+    <string name="stylus_screen_on_when_removed_summary">Nyalakan layar saat stylus dilepas</string>
+    <string name="stylus_screen_off_when_inserted_summary">Matikan layar saat stylus dipasang</string>
+    <string name="stylus_vibrate_when_removed_summary">Getar saat stylus dilepas</string>
+    <string name="stylus_vibrate_when_inserted_summary">Getar saat stylus dipasang</string>
+    <string name="popup_calibration_warning_text">Penggunaan kalibrasi yang tidak perlu dapat menyebabkan kerusakan permanen. Disarankan untuk mengkalibrasi motor kamera pop-up hanya jika motor tidak bergerak dengan benar atau posisinya salah!</string>
+    <string name="popup_sound_chilun">Roda gigi</string>
+    <string name="popup_sound_cangmen">Pintu kabin</string>
+    <string name="doze_brightness_title">Kecerahan selalu aktif</string>
+    <string name="doze_brightness_summary">Mode <xliff:g id="mode" example="Low brightness">%s</xliff:g> diaktifkan</string>
+    <string name="alert_slider_category_title">Slider peringatan</string>
+    <string name="alert_slider_mode_torch_on">"Senter nyala"</string>
+    <string name="alert_slider_mode_torch_off">"Senter mati"</string>
+    <string name="alert_slider_notification_dialog_title">Tampilkan dialog slider</string>
+    <string name="alert_slider_notification_dialog_summary">Tampilkan dialog saat posisi slider peringatan berubah</string>
+</resources>

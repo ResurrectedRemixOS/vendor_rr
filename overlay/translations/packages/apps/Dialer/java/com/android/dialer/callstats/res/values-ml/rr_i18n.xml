@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">കോൺടാക്റ്റ് സ്റ്റാറ്റിസ്റ്റിക്സ് വിശദാംശങ്ങൾ</string>
+    <string name="call_stats_incoming">ഇൻകമിംഗ്: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">ഔട്ട്‌ഗോയിംഗ്: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">മിസ്ഡ്: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">ബ്ലോക്ക് ചെയ്തത്: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">ആകെ: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">ആകെ: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">ആരംഭിക്കുന്ന തീയതി</string>
+    <string name="call_stats_filter_to">അവസാനിക്കുന്ന തീയതി</string>
+    <string name="call_stats_filter_picker_title">ഫിൽട്ടർ പരിധി</string>
+    <string name="date_quick_selection">ദ്രുത തിരഞ്ഞെടുപ്പ്</string>
+    <string name="date_qs_currentmonth">ഈ മാസം</string>
+    <string name="date_qs_currentquarter">ഈ ക്വാർട്ടർ</string>
+    <string name="date_qs_currentyear">ഈ വർഷം</string>
+    <string name="date_qs_lastweek">"കഴിഞ്ഞ ആഴ്‌ച"</string>
+    <string name="date_qs_lastmonth">"കഴിഞ്ഞ മാസം"</string>
+    <string name="date_qs_lastquarter">കഴിഞ്ഞ ക്വാർട്ടർ</string>
+    <string name="date_qs_lastyear">"കഴിഞ്ഞ വർഷം"</string>
+    <string name="call_stats_date_filter">സമയ പരിധി ക്രമീകരിക്കുക</string>
+    <string name="call_stats_reset_filter">സമയ പരിധി പുനഃസജ്ജമാക്കുക</string>
+    <string name="call_stats_sort_by_duration">കോൾ ദൈർഘ്യം അനുസരിച്ച് ക്രമീകരിക്കുക</string>
+    <string name="call_stats_sort_by_count">കോളുകളുടെ എണ്ണം അനുസരിച്ച് ക്രമീകരിക്കുക</string>
+    <string name="call_stats_title_for_number">ഈ സംഖ്യ</string>
+    <string name="call_stats_title_of_total">മൊത്തത്തിൽ</string>
+    <string name="call_stats_title_durations">കോൾ ദൈർഘ്യങ്ങൾ</string>
+    <string name="call_stats_title_count">കോളുകളുടെ എണ്ണം</string>
+    <string name="call_stats_title_average_duration">ശരാശരി കോൾ ദൈർഘ്യം</string>
+    <string name="recent_calls_no_items_in_range">നിങ്ങളുടെ കോൾ ലോഗിൽ തിരഞ്ഞെടുത്ത സമയപരിധിയിൽ കോളുകളൊന്നുമില്ല.</string>
+</resources>

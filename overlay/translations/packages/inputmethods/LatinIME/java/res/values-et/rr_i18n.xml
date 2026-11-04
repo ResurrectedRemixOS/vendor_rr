@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_hu_ZZ">Ungari (QWERTY)</string>
+    <string name="number_row">Numbririba</string>
+    <string name="number_row_summary">Näita alati numbririba kõigil paigutustel, millel on 4 klahvirida</string>
+    <string name="number_row_password">Numbririba paroolide jaoks</string>
+    <string name="number_row_password_summary">Näita alati numbririba kõigil paigutustel, millel on 4 klahvirida, paroolide sisestamiseks</string>
+    <string name="space_trackpad">Tühikuklahvi puuteplaat</string>
+    <string name="space_trackpad_summary">Kursori liigutamiseks libista tühikuklahvil</string>
+    <string name="backspace_trackpad">Kustutusklahvi puuteplaat</string>
+    <string name="backspace_trackpad_summary">Sõnade kustutamiseks libista kustutusklahvil</string>
+    <string name="show_longpress_hints">Näita pikalt vajutamise vihjeid</string>
+    <string name="show_longpress_hints_summary">Näitab pikalt vajutamise vihjeid toetatud klahvidel</string>
+    <string name="show_emoji_key">Näita emotikonide klahvi</string>
+    <string name="show_emoji_key_summary">Näita alati emotikonide klahvi. Kui see valik on sisse lülitatud, ei saa keelevahetusklahvi kuvada.</string>
+    <string name="enable_split_keyboard_summary">Ainult põikasendis</string>
+    <string name="split_keyboard_duplicate_keys">Dubleeri keskmised klahvid</string>
+    <string name="split_keyboard_duplicate_keys_summary">Näita mõlemal poolel keskele lähemal asuvaid klahve</string>
+    <string name="spoken_description_split_keyboard">Jaga klaviatuur</string>
+    <string name="spoken_description_merge_keyboard">Ühenda klaviatuur</string>
+    <string name="spoken_description_float_keyboard">Ujuv klaviatuur</string>
+    <string name="spoken_description_dock_keyboard">Dokitud klaviatuur</string>
+    <string name="floating_keyboard_drag_handle">Teisalda klaviatuur</string>
+    <string name="floating_keyboard_resize_handle">Muuda klaviatuuri suurust</string>
+    <string name="floating_keyboard_reset">"Lähtesta"</string>
+    <string name="floating_keyboard_hide">Peida klaviatuur</string>
+    <string name="floating_keyboard_switch_ime">"Sisestusmeetodi vahetamine"</string>
+</resources>

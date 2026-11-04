@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"демейки"</item>
+        <item>Цельсий</item>
+        <item>Фаренгейт</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"демейки"</item>
+        <item>жк</item>
+        <item>дш</item>
+        <item>шш</item>
+        <item>шр</item>
+        <item>бш</item>
+        <item>жм</item>
+        <item>иш</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"демейки"</item>
+        <item>метрикалык</item>
+        <item>АКШ системасы</item>
+        <item>Улуу Британия системасы</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Көрсөтүлгөн эмес"</item>
+        <item>"Орто"</item>
+        <item>"Аял"</item>
+        <item>"Эркек"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">Кошумча</string>
+    <string name="advanced_keyboard_settings_title">"Өркүндөтүлгөн жөндөөлөр"</string>
+    <string name="adb_enable_root">Root менен мүчүлүштүктөрдү оңдоо</string>
+    <string name="adb_enable_summary_root">Android мүчүлүштүктөрдү оңдоону root укугу менен иштетүүгө уруксат берүү</string>
+    <string name="backup_transport_setting_label">Камдык көчүрмө провайдерин өзгөртүү</string>
+    <string name="backup_transport_title">Камдык көчүрмө провайдерин тандоо</string>
+    <string name="berry_black_theme_title">Таза кара</string>
+    <string name="berry_black_theme_summary">Караңгы тема үчүн таза кара фон</string>
+    <string name="lineagelicense_title">LineageOS укуктук маалыматы</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Иштеп чыгуучунун параметрлерин иштетүүгө дагы # кадам калды.} other {Иштеп чыгуучунун параметрлерин иштетүүгө дагы # кадам калды.} }</string>
+    <string name="show_dev_on_cm">Иштеп чыгуучунун параметрлери иштетилди!</string>
+    <string name="show_dev_already_cm">Кереги жок, иштеп чыгуучунун параметрлери буга чейин иштетилген.</string>
+    <string name="status_bar_double_tap_to_sleep_title">Уктоо үчүн басыңыз</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Абал тилкесине же кулпуланган экранга эки жолу басыңыз, дисплей өчөт</string>
+    <string name="high_touch_polling_rate_title">Сенсордук экрандын жыштыгы жогору</string>
+    <string name="high_touch_polling_rate_summary">Сенсордук экрандын жыштыгын жогорулатуу</string>
+    <string name="heads_up_notifications_enabled_title">Heads-up</string>
+    <string name="heads_up_notifications_enabled_summary">Маанилүү билдирмелерди кичине калкыма терезеде көрсөтүү</string>
+    <string name="high_touch_sensitivity_title">Сенсордук экрандын сезгичтиги жогору</string>
+    <string name="high_touch_sensitivity_summary">Калдыктарды кийип туруп колдонуу үчүн сенсордук экрандын сезгичтигин жогорулатуу</string>
+    <string name="tethering_allow_vpn_upstreams_title">Туташкан түзмөктөр үчүн VPN колдонуу</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Бул түзмөк VPN колдонуп жатканда, байланыш түйүнүнө туташкан бардык түзмөктөр ошол эле VPNди колдонот</string>
+    <string name="lock_settings_picker_pattern_size_message">Үлгү өлчөмүн тандаңыз</string>
+    <string name="lockpattern_settings_enable_error_path_title">Үлгү катасын көрсөтүү</string>
+    <string name="lockpattern_settings_enable_dots_title">Үлгү чекитлерин көрсөтүү</string>
+    <string name="max_refresh_rate_title">Эң жогорку жаңыртуу жыштыгы</string>
+    <string name="min_refresh_rate_title">Эң төмөнкү жаңыртуу жыштыгы</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Планшетиңиздин алдыңкы жагындагы манжа изинин сенсорун табыңыз.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Түзмөгүңүздүн алдыңкы жагындагы манжа изинин сенсорун табыңыз.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Телефонуңуздун алдыңкы жагындагы манжа изинин сенсорун табыңыз.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Планшетиңиздин арткы жагындагы манжа изинин сенсорун табыңыз.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Түзмөгүңүздүн арткы жагындагы манжа изинин сенсорун табыңыз.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Телефонуңуздун арткы жагындагы манжа изинин сенсорун табыңыз.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Планшетиңиздин капталындагы манжа изинин сенсорун табыңыз.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Түзмөгүңүздүн капталындагы манжа изинин сенсорун табыңыз.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Телефонуңуздун капталындагы манжа изинин сенсорун табыңыз.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Планшетиңиздин алдыңкы жагындагы сенсорго тийиңиз.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Түзмөгүңүздүн алдыңкы жагындагы сенсорго тийиңиз.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Телефонуңуздун алдыңкы жагындагы сенсорго тийиңиз.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Планшетиңиздин арткы жагындагы сенсорго тийиңиз.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Түзмөгүңүздүн арткы жагындагы сенсорго тийиңиз.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Телефонуңуздун арткы жагындагы сенсорго тийиңиз.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Планшетиңиздин капталындагы сенсорго тийиңиз.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Түзмөгүңүздүн капталындагы сенсорго тийиңиз.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Телефонуңуздун капталындагы сенсорго тийиңиз.</string>
+    <string name="show_navbar_hint_title">Чабыттоо маслаатчысы</string>
+    <string name="show_navbar_hint_summary">Экрандын ылдый жагында чабыттоонун маслаат тилкесин көрсөтүү</string>
+    <string name="auto_brightness_one_shot_title">Бир жолку автоматтык жарыктык</string>
+    <string name="auto_brightness_one_shot_summary">Жарыктык экран күйгөн учурда гана тууралат</string>
+    <string name="data_usage_app_restrict_all">Тармакка кирүүгө уруксат берүү</string>
+    <string name="data_usage_app_restrict_all_summary">Тармак колдонууну иштетүү</string>
+    <string name="data_usage_app_restrict_mobile">"Мобилдик Интернет"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Мобилдик Интернетти колдонууга уруксат берүү</string>
+    <string name="data_usage_app_restrict_vpn">VPN дайындары</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN дайындарын колдонууга уруксат берүү</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi дайындары"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi дайындарын колдонууга уруксат берүү</string>
+    <string name="unlock_scramble_pin_layout_title">Макетти аралаштыруу</string>
+    <string name="unlock_scramble_pin_layout_summary">Түзмөктү ачканда PIN макетин аралаштыруу</string>
+    <string name="proximity_wake_title">Кокустан ойгонушун алдын алуу</string>
+    <string name="proximity_wake_summary">Экранды ойготуудан мурун жакындык сенсорун текшерүү</string>
+    <string name="touchscreen_hovering_title">Сенсордук экранда учуу</string>
+    <string name="touchscreen_hovering_summary">Веб-браузерлерде, алыскы иш столдорунда ж.б. экранды чычкандай учуруга мүмкүндүк берет</string>
+    <string name="wake_when_plugged_or_unplugged_title">Кубат туташканда ойгонуу</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Кубат булагы туташканда же ажыратылганда экранды күйгүзүү</string>
+    <string name="storage_warning_internal">Эскертүү: Бул параметр туура иштебеши же маалымат жоголушуна алып келиши мүмкүн, ошондуктан сунушталбайт!</string>
+    <string name="assisted_gps">Жардамчы GPSти колдонуу</string>
+    <string name="assisted_gps_summary">Канагаттуу жардам маалыматтарын интернеттен жүктөп алуу, бул GPS\'тин ишке кириш ылдамдыгын бир топ жакшыртат. Шашылыш чалууларда жардамчы GPS ар дайым иштетилет.</string>
+    <string name="battery_technology">Технология</string>
+    <string name="battery_health">"Абал"</string>
+    <string name="battery_health_good">"Жакшы"</string>
+    <string name="battery_health_overheat">"Ысып кетти"</string>
+    <string name="battery_health_dead">"Отуруп калды"</string>
+    <string name="battery_health_over_voltage">"Ашыкча чыңалуу"</string>
+    <string name="battery_health_unspecified_failure">Белгисиз ката</string>
+    <string name="battery_health_cold">"Муздак"</string>
+    <string name="battery_health_unknown">"Белгисиз"</string>
+    <string name="battery_temperature">"Температура"</string>
+    <string name="battery_voltage">Чыңалуу</string>
+    <string name="battery_charge_counter_summary">%1$d мАч</string>
+    <string name="battery_design_capacity">Долбоорланган кубаттуулук</string>
+    <string name="battery_design_capacity_summary">%1$d мАч</string>
+    <string name="battery_maximum_capacity">Максималдуу кубаттуулук</string>
+    <string name="battery_maximum_capacity_summary">%1$d мАч (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Орнотуу учурунда телефонду бүктөңүз</string>
+    <string name="face_enrolling_close_to_continue_description">Бет менен ачууну орнотуу же колдонуу үчүн телефон бүктөлүшү керек</string>
+    <string name="face_enrolling_do_it_later">"Азыр эмес"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM куралдар топтому</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> үчүн иштетилген</string>
+    <string name="personal_context_title">Жеке контекст менеджери</string>
+</resources>

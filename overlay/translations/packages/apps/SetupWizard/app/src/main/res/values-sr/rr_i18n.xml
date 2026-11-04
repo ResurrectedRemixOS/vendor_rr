@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Откажи"</string>
+    <string name="finish">Готово</string>
+    <string name="setup_welcome_message">Добродошли у <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Подесите свој профил за посао</string>
+    <string name="accessibility_settings">"Подешавања приступачности"</string>
+    <string name="device_info">"Информације о уређају"</string>
+    <string name="device_information">"Информације о уређају"</string>
+    <string name="device_info_serial">"Серијски број"</string>
+    <string name="setup_euicc">Подесите eSIM</string>
+    <string name="esim_support_summary">Подесите eSIM или уметните SIM картицу. Да бисте уметнули SIM картицу, прочитајте упутства која су приложена уз уређај.</string>
+    <string name="sim_missing_skip_title">Прескочити подешавање SIM-а?</string>
+    <string name="sim_missing_skip_message">Ако прескочите овај корак, нећете бити повезани на мобилну мрежу док не подесите SIM у Подешавањима.</string>
+    <string name="setup_datetime_section_date">"Датум"</string>
+    <string name="setup_datetime_section_time">"Време"</string>
+    <string name="setup_date_format">"Форматирај"</string>
+    <string name="date_format_day">Дан</string>
+    <string name="date_format_month">"Месец"</string>
+    <string name="date_format_year">"Година"</string>
+    <string name="setup_time_zone">"Временска зона"</string>
+    <string name="setup_24_hour_format">"Користи 24-часовни формат"</string>
+    <string name="intro_restore_title">Врати апликације и податке</string>
+    <string name="intro_restore_subtitle">Ако имате Seedvault резервну копију из <xliff:g id="name" example="LineageOS">%s</xliff:g> или било ког другог оперативног система, можете је вратити овде.</string>
+    <string name="intro_restore_button">Врати из резервне копије</string>
+    <string name="location_summary">Изаберите како ваш уређај управља локацијом</string>
+    <string name="location_access_title">"Користи локацију"</string>
+    <string name="location_agps_access_title">Побољшана локација</string>
+    <string name="location_agps_access_summary">Када је локација укључена, преузмите податке о помоћи сателита са интернета, што може знатно побољшати перформансе GPS покретања.</string>
+    <string name="update_recovery_title">Ажурирај Resurrected Remix опоравак</string>
+    <string name="update_recovery_description">Ажурира Resurrected Remix опоравак при првом покретању након сваког ажурирања.</string>
+    <string name="update_recovery_warning">Опоравак ће бити ажуриран чим завршите подешавање. Ако желите да га задржите непромењеним, онемогућите ову функцију.</string>
+    <string name="update_recovery_setting">Ажурирај Resurrected Remix опоравак заједно са оперативним системом</string>
+    <string name="services_pp_explanation">Ове услуге раде за вас како би прошириле могућности вашег уређаја. Подаци ће се користити у складу са политиком приватности компаније <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Политику приватности можете прочитати на другом уређају посећивањем:</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> тако што аутоматски шаље дијагностичке податке и податке о коришћењу компанији <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Ове информације не могу да се користе за идентификацију вас и помажу тимовима који раде на стварима попут трајања батерије, перформанси апликација и нових функција <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">Дели дијагностичке податке</string>
+    <string name="setup_navigation">Navigaciona traka</string>
+    <string name="navigation_summary">Изаберите жељени начин навигације</string>
+    <string name="gesture_navigation">"Навигација помоћу покрета"</string>
+    <string name="navbar_navigation">"Навигација помоћу 3 дугмета"</string>
+    <string name="gesture_navigation_short">Покрети</string>
+    <string name="hide_gesture_hint">Сакриј савет за навигацију покретима</string>
+    <string name="setup_theme">"Тема"</string>
+    <string name="theme_summary">Тамна тема користи црну позадину како би помогла да батерија дуже траје на неким екранима</string>
+    <string name="dark">Тамно</string>
+    <string name="light">Светла</string>
+    <string name="pure_black_theme">Користи чисто црну позадину</string>
+    <string name="theme_preview">Преглед теме</string>
+    <string name="swipe_up_to_go_home">"Превуците нагоре да бисте отворили почетни екран"</string>
+    <string name="tap_home_to_go_home">Додирните средњу иконицу навигације да бисте отишли на почетни екран</string>
+    <string name="press_center_to_go_home">Притисните средње дугме да бисте отишли на почетни екран</string>
+</resources>

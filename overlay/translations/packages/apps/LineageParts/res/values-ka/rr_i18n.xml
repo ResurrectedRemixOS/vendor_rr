@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_control_limit_summary">მიმდინარე ლიმიტი: %d%%</string>
+    <string name="live_display_color_profile_preview">"ფერის გადახედვა"</string>
+    <string name="status_bar_battery_style_icon_landscape">ხატულა ლანდშაფტში</string>
+    <string name="status_bar_brightness_slider_position_title">სიკაშკაშის სლაიდერის პოზიცია</string>
+    <string name="status_bar_brightness_slider_position_top">ზემოთ</string>
+    <string name="status_bar_brightness_slider_position_bottom">ქვემოთ</string>
+</resources>

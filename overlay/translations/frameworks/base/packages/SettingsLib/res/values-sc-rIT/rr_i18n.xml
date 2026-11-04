@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="wifi_check_password_try_again">Controlla sa crae e torra a proare</string>
+    <string name="speed_label_okay">AB</string>
+    <string name="bluetooth_active_no_battery_level">Ativu</string>
+    <string name="bluetooth_hearing_aids_presets_error">Non faghet a atualizare sa precunfiguratzione</string>
+    <string name="hearing_device_spinner_item_selected">Seletzionadu</string>
+    <string name="bluetooth_talkback_headset">Auricolares</string>
+    <string name="bluetooth_talkback_phone">Telèfonu</string>
+    <string name="data_usage_ota">Agiornamentos de sistema</string>
+    <string name="tts_general_section_title">Generale</string>
+    <string name="category_personal">Personale</string>
+    <string name="category_work">Traballu</string>
+    <string name="development_settings_title">Optziones de isvilupu</string>
+    <string name="enable_adb">Curretzione de errores USB</string>
+    <string name="private_dns_mode_off">Istudadu</string>
+    <string name="private_dns_mode_opportunistic">Automàticu</string>
+    <string name="adb_warning_title">Permìtere sa curretzione USB?</string>
+    <string name="debug_applications_category">Aplicatziones</string>
+    <string name="enable_freeform_support">Ativa is ventanas de forma lìbera</string>
+    <string name="loading_injected_setting_summary">Carrighende\u2026</string>
+    <string name="accessibility_display_daltonizer_preference_title">Curretzione de colores</string>
+    <string name="battery_info_status_charging">Carrighende</string>
+    <string name="battery_info_status_charging_dock">Carrighende</string>
+    <string name="battery_info_status_charging_v2">Carrighende</string>
+    <string name="external_source_trusted">Cun permissu</string>
+    <string name="external_source_untrusted">Chene permissu</string>
+    <string name="screen_zoom_summary_smallest">Minore meda</string>
+    <string name="screen_zoom_summary_smaller">Prus minore</string>
+    <string name="screen_zoom_summary_small">Minore</string>
+    <string name="screen_zoom_summary_default">Predefinidu</string>
+    <string name="content_description_menu_button">Menù</string>
+    <string name="status_unavailable">No a disponimentu</string>
+    <string name="accessibility_manual_zen_more_time">Prus tempus.</string>
+    <string name="accessibility_manual_zen_less_time">Prus pagu tempus.</string>
+    <string name="accessibility_screen_magnification_title">Crèschida</string>
+    <string name="back">In segus</string>
+    <string name="save">Sarva</string>
+    <string name="okay">AB</string>
+    <string name="done">Fatu</string>
+    <string name="alarms_and_reminders_title">Isvèllias e apuntos</string>
+    <string name="zen_mode_enable_dialog_turn_on">Ativa</string>
+    <string name="zen_mode_settings_summary_off">Mai</string>
+    <string name="zen_interruption_level_priority">Prioridade isceti</string>
+    <string name="zen_alarm_warning_indef">No as a intèndere s\'isvèllia imbeniente <xliff:g id="when" example="at 7:00 AM">%1$s</xliff:g> a no èssere chi disatives custu in antis de s\'ora</string>
+    <string name="zen_alarm_warning">No as a intèndere s\'isvèllia imbeniente <xliff:g id="when" example="at 7:00 AM">%1$s</xliff:g></string>
+    <string name="alarm_template">a is <xliff:g id="when" example="7:00 AM">%1$s</xliff:g></string>
+    <string name="alarm_template_far">su <xliff:g id="when" example="Fri 7:00 AM">%1$s</xliff:g></string>
+    <string name="zen_mode_duration_settings_title">Durada</string>
+    <string name="zen_mode_forever">Finas a cando no dd\'as a disativare</string>
+    <string name="help_label">Agiudu e isceda</string>
+    <string name="storage_category">Archiviatzione</string>
+    <string name="user_setup_button_setup_later">Immoe nono</string>
+    <string name="user_nickname">Nùmene</string>
+    <string name="guest_reset_guest_confirm_button">Torra a impostare</string>
+    <string name="guest_exit_dialog_button">Essi</string>
+    <string name="guest_exit_clear_data_button">Cantzella</string>
+    <string name="guest_exit_save_data_button">Sarva</string>
+    <string name="user_image_photo_selector">Seletziona fotografia</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Iscarta</string>
+    <string name="wifi_hotspot_switch_on_text">Ativu</string>
+    <string name="wifi_hotspot_switch_off_text">Istudadu</string>
+</resources>

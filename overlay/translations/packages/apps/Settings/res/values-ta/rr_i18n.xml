@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"இயல்பு"</item>
+        <item>செல்சியஸ்</item>
+        <item>பாரன்ஹீட்</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"இயல்பு"</item>
+        <item>ஞா</item>
+        <item>திங்</item>
+        <item>செவ்</item>
+        <item>புத</item>
+        <item>வியா</item>
+        <item>வெள்</item>
+        <item>சனி</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"இயல்பு"</item>
+        <item>மெட்ரிக்</item>
+        <item>US அமைப்பு</item>
+        <item>UK அமைப்பு</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"குறிப்பிடப்படவில்லை"</item>
+        <item>"நடுநிலை"</item>
+        <item>"பெண்"</item>
+        <item>"ஆண்"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="face_enrolling_close_to_continue">அமைப்பின் போது மடிக்கும் ஃபோன்</string>
+    <string name="face_enrolling_close_to_continue_description">முகம் திறப்பை அமைக்க அல்லது பயன்படுத்த ஃபோனை மடிக்க வேண்டும்</string>
+    <string name="face_enrolling_do_it_later">"இப்போது வேண்டாம்"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM டூல்கிட்</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> க்கு இயக்கப்பட்டது</string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

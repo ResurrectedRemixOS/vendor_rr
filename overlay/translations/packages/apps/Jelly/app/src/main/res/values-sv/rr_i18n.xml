@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="url_bar_more">"Mer"</string>
+    <string name="url_bar_search_cancel">Avbryt sökning</string>
+    <string name="url_bar_search_clear">"Rensa sökning"</string>
+    <string name="url_bar_auto_complete_hint">Sök eller skriv URL</string>
+    <string name="menu_desktop_shortcuts">Genvägar på skrivbordet</string>
+    <string name="menu_background_shortcuts">Genvägar i bakgrunden</string>
+    <string name="desktop_shortcuts_title">Genvägar på skrivbordet</string>
+    <string name="background_shortcuts_title">Genvägar i bakgrunden</string>
+    <string name="background_shortcuts_save_action">"Spara"</string>
+    <string name="background_shortcuts_notification_channel">Hantera genvägar i bakgrunden</string>
+    <plurals name="background_shortcuts_notification_content">
+        <item quantity="one">%1$d instans körs</item>
+        <item quantity="other">%1$d instanser körs</item>
+    </plurals>
+    <string name="pref_start_page_autoload_enabled">"Aktiverad"</string>
+    <string name="pref_start_page_autoload_disabled">"Inaktiverad"</string>
+    <string name="pref_dynamic_popup_title">Dynamiska popup-fönster</string>
+    <string name="pref_dynamic_popup_summary">Tillåt JavaScript att öppna popup-fönster utan användarinteraktion</string>
+    <string name="pref_web_debugging_title">Webbfelsökning</string>
+    <string name="pref_web_debugging_summary">Tillåt inspektion av webbsidor via chrome://inspect över USB-felsökning</string>
+    <string name="pref_fullscreen_shortcuts_title">Genvägar i helskärm</string>
+    <string name="pref_fullscreen_shortcuts_summary">Tvinga genvägar att öppnas i helskärmsläge</string>
+    <string name="ssl_cert_dialog_trust">"Ange som betrott"</string>
+    <string name="ssl_error_untrusted">"Certifikatet kommer inte från en betrodd utfärdare."</string>
+    <string name="ssl_error_mismatch">"Webbplatsens namn matchar inte namnet på certifikatet."</string>
+    <string name="ssl_error_expired">"Det här certifikatet har löpt ut."</string>
+    <string name="ssl_error_not_yet_valid">"Det här certifikatet är inte giltigt än."</string>
+    <string name="ssl_error_date_invalid">"Datumet för det här certifikatet är ogiltigt."</string>
+    <string name="ssl_error_invalid">"Det här certifikatet är ogiltigt."</string>
+    <string name="ssl_error_unknown">"Okänt certifikatfel."</string>
+    <string name="location_dialog_title">Ge åtkomst till plats?</string>
+    <string name="location_dialog_message">%1$s vill använda din geografiska position.</string>
+    <string name="location_dialog_allow">"Tillåt"</string>
+    <string name="location_dialog_block">"Blockera"</string>
+    <string name="location_dialog_cancel">Neka för tillfället</string>
+    <string name="protected_media_dialog_message">Tillåt skyddat media?</string>
+    <string name="protected_media_dialog_grant">Bevilja</string>
+    <string name="protected_media_dialog_deny">"Neka"</string>
+    <string name="media_session_destroy_action">"Stoppa"</string>
+</resources>

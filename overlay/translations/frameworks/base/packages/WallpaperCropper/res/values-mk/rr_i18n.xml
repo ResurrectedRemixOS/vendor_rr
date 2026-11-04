@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="crop_wallpaper">Исечи тапет</string>
+    <string name="wallpaper_instructions">"Постави тапет"</string>
+    <string name="wallpaper_load_fail">Сликата не можеше да се постави како тапет</string>
+</resources>

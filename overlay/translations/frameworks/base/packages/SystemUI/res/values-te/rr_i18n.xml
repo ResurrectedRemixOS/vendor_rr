@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">రీస్టార్ట్…</string>
+    <string name="global_action_restart_system">"సిస్టమ్"</string>
+    <string name="global_action_restart_recovery">"రికవరీ"</string>
+    <string name="global_action_restart_bootloader">బూట్‌లోడర్</string>
+    <string name="global_action_restart_download">"డౌన్‌లోడ్ చేయి"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"పునఃప్రారంభించబడుతోంది…"</string>
+    <string name="global_action_restart_recovery_progress">రికవరీ మోడ్‌కు రీస్టార్ట్ అవుతోంది…</string>
+    <string name="global_action_restart_bootloader_progress">బూట్‌లోడర్ మోడ్‌కు రీస్టార్ట్ అవుతోంది…</string>
+    <string name="global_action_restart_download_progress">డౌన్‌లోడ్ మోడ్‌కు రీస్టార్ట్ అవుతోంది…</string>
+    <string name="global_action_restart_fastboot_progress">Fastbootd మోడ్‌కు రీస్టార్ట్ అవుతోంది…</string>
+    <string name="global_action_current_user">ప్రస్తుతం</string>
+    <string name="global_action_users">"యూజర్‌లు"</string>
+    <string name="clock">"గడియారం"</string>
+    <string name="accessibility_adaptive_brightness">"పరిసర అనుకూల ప్రకాశం"</string>
+    <string name="status_bar_icons_title">స్టేటస్‌ బార్‌ ఐకాన్‌లు</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD ఆఫ్\nబ్యాటరీ సేవర్‌</string>
+    <string name="quick_settings_powershare_label">వైర్‌లెస్ PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">వైర్‌లెస్ PowerShare ఆఫ్\nబ్యాటరీ సేవర్‌</string>
+    <string name="quick_settings_powershare_off_low_battery_label">వైర్‌లెస్ PowerShare ఆఫ్\nబ్యాటరీ చాలా తక్కువగా ఉంది</string>
+    <string name="quick_settings_powershare_enabled_label">వైర్‌లెస్ PowerShare ఎనేబుల్ చేయబడింది</string>
+    <string name="quick_settings_reading_mode">రీడింగ్ మోడ్</string>
+    <string name="accessibility_quick_settings_reading_mode_on">రీడింగ్ మోడ్ ఆన్ చేయబడింది.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">రీడింగ్ మోడ్ ఆఫ్ చేయబడింది.</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">కనెక్ట్ చేయండి…</string>
+    <string name="vpn_credentials_hint"><xliff:g id="name">%s</xliff:g> కి కనెక్ట్ కావడానికి దయచేసి మీ క్రెడెన్షియల్స్ నమోదు చేయండి</string>
+    <string name="vpn_credentials_username">"యూజర్ పేరు"</string>
+    <string name="vpn_credentials_password">"పాస్‌వర్డ్"</string>
+    <string name="vpn_credentials_dialog_connect">"కనెక్ట్ చేయండి"</string>
+    <string name="status_bar_firewall">ఫైర్‌వాల్</string>
+    <string name="battery_notification_channel_tv">బ్యాటరీ హెచ్చరిక</string>
+    <string name="screenshot_delete_label">"తొలగించండి"</string>
+    <string name="screenshot_delete_description">స్క్రీన్‌షాట్‌ను తొలగించండి</string>
+    <string name="screenrecord_lowquality_label">తక్కువ నాణ్యత</string>
+    <string name="screenrecord_lowquality_summary">చిన్న ఫైల్ సైజ్ కోసం</string>
+    <string name="screenrecord_longer_timeout_switch_label">పెద్ద ఫైల్ సైజ్ పరిమితి</string>
+    <string name="screenrecord_longer_timeout_switch_summary">రికార్డింగ్ సైజ్‌ను 15 GB కి పరిమితం చేయండి</string>
+    <string name="screenrecord_skip_time_label">స్కిప్ టైమర్</string>
+    <string name="screenrecord_skip_time_summary">3 సెకన్ల వేచి ఉండటాన్ని తీసివేయండి</string>
+    <string name="screenrecord_hevc_switch_label">HEVC ఎన్‌కోడింగ్</string>
+    <string name="screenrecord_hevc_switch_summary">మరింత సమర్థవంతమైన HEVC ఎన్‌కోడర్‌ను ఉపయోగించండి</string>
+    <string name="zen_alarm_warning_indef">"మీరు <xliff:g id="WHEN">%1$s</xliff:g> సెట్ చేసిన మీ తర్వాత అలారం మీరు ఆ లోపల దీన్ని ఆఫ్ చేయకుంటే వినిపించదు"</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF ভিউৱাৰ</string>
+    <string name="find_in_page">পৃষ্ঠাত বিচাৰক</string>
+    <string name="share">"শ্বেয়াৰ কৰক"</string>
+    <string name="open_with">ইয়াৰ সৈতে খোলক…</string>
+    <string name="download">"ডাউনল’ড কৰক"</string>
+    <string name="pdf_document">PDF ডকুমেণ্ট</string>
+    <string name="print">"প্ৰিণ্ট কৰক"</string>
+    <string name="download_successful">ডাউনল\'ড সফল হ\'ল</string>
+    <string name="download_error">ফাইল ডাউনল\'ড কৰোঁতে ত্ৰুটি ঘটিল</string>
+</resources>

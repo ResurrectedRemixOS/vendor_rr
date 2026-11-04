@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Avbryt</string>
+    <string name="finish">Fullfør</string>
+    <string name="device_info">Informasjon om eininga</string>
+    <string name="device_info_serial">Serienummer</string>
+    <string name="setup_datetime_section_date">Dato</string>
+    <string name="setup_datetime_section_time">Tid</string>
+    <string name="setup_date_format">Formater</string>
+    <string name="date_format_day">Dag</string>
+    <string name="date_format_month">Månad</string>
+    <string name="date_format_year">År</string>
+    <string name="setup_time_zone">Tidssone</string>
+    <string name="setup_24_hour_format">Bruk 24-timarsformat</string>
+    <string name="location_access_title">Bruk posisjon</string>
+    <string name="swipe_up_to_go_home">Sveip opp for å gå til startskjermen</string>
+</resources>

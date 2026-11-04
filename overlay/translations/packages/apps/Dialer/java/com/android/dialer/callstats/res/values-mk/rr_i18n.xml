@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Детали за статистика на контакт</string>
+    <string name="call_stats_incoming">Дојдовни: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Ододни: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Пропуштени: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Блокирани: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Вкупно: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Вкупно: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">Датум на почеток</string>
+    <string name="call_stats_filter_to">Датум на крај</string>
+    <string name="call_stats_filter_picker_title">Опсег на филтер</string>
+    <string name="date_quick_selection">Брз избор</string>
+    <string name="date_qs_currentmonth">Тековен месец</string>
+    <string name="date_qs_currentquarter">Тековно тромесечје</string>
+    <string name="date_qs_currentyear">Тековна година</string>
+    <string name="date_qs_lastweek">"Минатата седмица"</string>
+    <string name="date_qs_lastmonth">"Минатиот месец"</string>
+    <string name="date_qs_lastquarter">Последно тромесечје</string>
+    <string name="date_qs_lastyear">"Минатата година"</string>
+    <string name="call_stats_date_filter">Приспособи временски опсег</string>
+    <string name="call_stats_reset_filter">Врати временски опсег</string>
+    <string name="call_stats_sort_by_duration">Подреди по времетраење на повик</string>
+    <string name="call_stats_sort_by_count">Подреди по број на повици</string>
+    <string name="call_stats_title_for_number">Овој број</string>
+    <string name="call_stats_title_of_total">Од вкупно</string>
+    <string name="call_stats_title_durations">Времена на повици</string>
+    <string name="call_stats_title_count">Број на повици</string>
+    <string name="call_stats_title_average_duration">Просечно траење на повик</string>
+    <string name="recent_calls_no_items_in_range">Вашиот дневник на повици нema повици во избраниот временски опсег.</string>
+</resources>

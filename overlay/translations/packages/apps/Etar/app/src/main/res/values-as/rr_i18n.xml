@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_methods_labels">
+        <item>"জাননী"</item>
+        <item>"ইমেইল"</item>
+        <item>"এছএমএছ"</item>
+        <item>"এলাৰ্ম"</item>
+    </string-array>
+    <string-array name="availability">
+        <item>"ব্যস্ত"</item>
+        <item>"উপলব্ধ"</item>
+        <item>অস্থায়ী</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>কোনো উত্তৰ নাই</item>
+        <item>"হয়"</item>
+        <item>সম্ভৱতঃ</item>
+        <item>"নহয়"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>কেৱল এই ইভেণ্ট</item>
+        <item>এই আৰু ভৱিষ্যতৰ ইভেণ্টসমূহ</item>
+        <item>সকলো ইভেণ্ট</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>কেৱল এই ইভেণ্ট</item>
+        <item>শ্ৰেণীৰ সকলো ইভেণ্ট</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>"দিন"</item>
+        <item>"সপ্তাহ"</item>
+        <item>"মাহ"</item>
+        <item>কাৰ্যসূচী</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>কেৱল প্ৰত্যাখ্যান কৰা হ\'লে</item>
+        <item>প্ৰত্যাখ্যান কৰা বা উত্তৰ নিদিলে</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>প্ৰতিদিনে পুনৰাবৃত্তি কৰক</item>
+        <item>প্ৰতি সপ্তাহে পুনৰাবৃত্তি কৰক</item>
+        <item>প্ৰতি মাহে পুনৰাবৃত্তি কৰক</item>
+        <item>প্ৰতি বছৰে পুনৰাবৃত্তি কৰক</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>প্ৰতি প্ৰথম ৰবিবাৰে</item>
+        <item>প্ৰতি দ্বিতীয় ৰবিবাৰে</item>
+        <item>প্ৰতি তৃতীয় ৰবিবাৰে</item>
+        <item>প্ৰতি চতুৰ্থ ৰবিবাৰে</item>
+        <item>প্ৰতি শেষ ৰবিবাৰে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>প্ৰতি প্ৰথম সোমবাৰে</item>
+        <item>প্ৰতি দ্বিতীয় সোমবাৰে</item>
+        <item>প্ৰতি তৃতীয় সোমবাৰে</item>
+        <item>প্ৰতি চতুৰ্থ সোমবাৰে</item>
+        <item>প্ৰতি শেষ সোমবাৰে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>প্ৰতি প্ৰথম মঙ্গলবাৰে</item>
+        <item>প্ৰতি দ্বিতীয় মঙ্গলবাৰে</item>
+        <item>প্ৰতি তৃতীয় মঙ্গলবাৰে</item>
+        <item>প্ৰতি চতুৰ্থ মঙ্গলবাৰে</item>
+        <item>প্ৰতি শেষ মঙ্গলবাৰে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>প্ৰতি প্ৰথম বুধবাৰে</item>
+        <item>প্ৰতি দ্বিতীয় বুধবাৰে</item>
+        <item>প্ৰতি তৃতীয় বুধবাৰে</item>
+        <item>প্ৰতি চতুৰ্থ বুধবাৰে</item>
+        <item>প্ৰতি শেষ বুধবাৰে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>প্ৰতি প্ৰথম বৃহস্পতিবাৰে</item>
+        <item>প্ৰতি দ্বিতীয় বৃহস্পতিবাৰে</item>
+        <item>প্ৰতি তৃতীয় বৃহস্পতিবাৰে</item>
+        <item>প্ৰতি চতুৰ্থ বৃহস্পতিবাৰে</item>
+        <item>প্ৰতি শেষ বৃহস্পতিবাৰে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>প্ৰতি প্ৰথম শুকুৰবাৰে</item>
+        <item>প্ৰতি দ্বিতীয় শুকুৰবাৰে</item>
+        <item>প্ৰতি তৃতীয় শুকুৰবাৰে</item>
+        <item>প্ৰতি চতুৰ্থ শুকুৰবাৰে</item>
+        <item>প্ৰতি শেষ শুকুৰবাৰে</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>প্ৰতি প্ৰথম শনিবাৰে</item>
+        <item>প্ৰতি দ্বিতীয় শনিবাৰে</item>
+        <item>প্ৰতি তৃতীয় শনিবাৰে</item>
+        <item>প্ৰতি চতুৰ্থ শনিবাৰে</item>
+        <item>প্ৰতি শেষ শনিবাৰে</item>
+    </string-array>
+    <string name="user_rejected_calendar_write_permission_lineage">কেলেণ্ডাৰ সঠিকভাৱে চলাবলৈ কেলেণ্ডাৰ পঢ়া আৰু লিখাৰ অনুমতি লাগে। অনুগ্ৰহ কৰি পুনৰ চেষ্টা কৰক।</string>
+    <string name="preferences_menu_about_lineage">কেলেণ্ডাৰৰ বিষয়ে</string>
+    <string name="app_label">"কেলেণ্ডাৰ"</string>
+    <string name="when_label">কেতিয়া</string>
+    <string name="today">"আজি"</string>
+    <string name="tomorrow">কাইলৈ</string>
+    <string name="today_at_time_fmt">\"আজি <xliff:g id="time_interval">%s</xliff:g> ত\"</string>
+    <string name="tomorrow_at_time_fmt">\"কালি <xliff:g id="time_interval">%s</xliff:g> ত\"</string>
+    <string name="no_title_label">"(কোনো শিৰোনাম নাই)"</string>
+    <string name="no_reminder_label">"নাই"</string>
+    <string name="no_snooze_label">"নাই"</string>
+    <string name="calendar_refresh">\"ৰিফ্ৰেছ\"</string>
+    <string name="show_day_view">\"দিন দেখুৱাওক\"</string>
+    <string name="agenda_view">\"কাৰ্যসূচী\"</string>
+    <string name="day_view">\"দিন\"</string>
+    <string name="week_view">\"সপ্তাহ\"</string>
+    <string name="month_view">\"মাহ\"</string>
+    <string name="event_view">\"ইভেণ্ট চাওক\"</string>
+    <string name="event_create">\"নতুন ইভেণ্ট\"</string>
+    <string name="event_edit">\"ইভেণ্ট সম্পাদনা কৰক\"</string>
+    <string name="event_delete">\"ইভেণ্ট মচক\"</string>
+    <string name="share_label">"শ্বেয়াৰ কৰক"</string>
+    <string name="goto_today">\"আজি\"</string>
+    <string name="goto_date">ইয়ালৈ যাওক…</string>
+    <string name="menu_preferences">\"ছেটিংছ\"</string>
+    <string name="menu_info">"তথ্য"</string>
+    <string name="search">\"বিচাৰক\"</string>
+    <string name="hide_controls">\"নিয়ন্ত্ৰণ লুকুৱাওক\"</string>
+    <string name="show_controls">\"নিয়ন্ত্ৰণ দেখুৱাওক\"</string>
+    <string name="view_settings">\"দৃশ্য ছেটিংছ\"</string>
+    <string name="select_synced_calendars_button">সিংক কৰিবলগীয়া কেলেণ্ডাৰসমূহ</string>
+    <string name="hint_what">\"ইভেণ্টৰ নাম\"</string>
+    <string name="hint_where">""অৱস্থান""</string>
+    <string name="hint_description">\"বিৱৰণ\"</string>
+    <string name="hint_url">URL</string>
+    <string name="hint_attendees">অতিথি</string>
+    <string name="creating_event">ইভেণ্ট সৃষ্টি কৰা হ\'ল।</string>
+    <string name="saving_event">ইভেণ্ট ছেভ কৰা হ\'ল।</string>
+    <string name="empty_event">খালি ইভেণ্ট সৃষ্টি কৰা হোৱা নাই।</string>
+    <string name="creating_event_with_guest">নিমন্ত্ৰণ পঠোৱা হ\'ব।</string>
+    <string name="saving_event_with_guest">আপডেট পঠোৱা হ\'ব।</string>
+    <string name="rsvp_accepted">হয় বুলি উত্তৰ দিয়া হ\'ল।</string>
+    <string name="rsvp_tentative">হয়তো বুলি উত্তৰ দিয়া হ\'ল।</string>
+    <string name="rsvp_declined">নহয় বুলি উত্তৰ দিয়া হ\'ল।</string>
+    <string name="create_event_dialog_save">"ছেভ কৰক"</string>
+    <string name="alert_title">কেলেণ্ডাৰৰ জাননী</string>
+    <string name="foreground_notification_title">নতুন স্মাৰক সাজু কৰা হৈছে…</string>
+    <string name="foreground_notification_channel_name">পটভূমিৰ কাৰ্য</string>
+    <string name="foreground_notification_channel_description">আভ্যন্তৰীণ সমল্যকৰণৰ বাবে জাননী প্ৰয়োজন। এই চেনেল নিৰাপদে লুকুৱাব পাৰে।</string>
+    <string name="event_info_title">ইভেণ্ট চাওক</string>
+    <string name="event_info_title_invite">সভাৰ নিমন্ত্ৰণ</string>
+    <string name="edit_event_all_day_label">সম্পূৰ্ণ দিন</string>
+    <string name="edit_event_calendar_label">"কেলেণ্ডাৰ"</string>
+    <string name="presence_label">মোক এনেকৈ দেখুৱাওক</string>
+    <string name="privacy_label">"গোপনীয়তা"</string>
+    <string name="reminders_label">স্মাৰক যোগ কৰক</string>
+    <string name="no_syncable_calendars">"কোনো কেলেণ্ডাৰ নাই"</string>
+    <string name="no_calendars_found">ইভেণ্ট যোগ কৰাৰ আগতে আপোনাৰ ডিভাইচত অন্ততঃ এটা কেলেণ্ডাৰ যোগ কৰিব লাগিব।</string>
+    <string name="add_calendar">কেলেণ্ডাৰ যোগ কৰক</string>
+    <string name="view_event_calendar_label">কেলেণ্ডাৰ:</string>
+    <string name="view_event_organizer_label">আয়োজক:</string>
+    <string name="choose_event_color_label">ইভেণ্টৰ ৰং বাছক</string>
+    <string name="event_color_picker_dialog_title">ইভেণ্টৰ ৰং</string>
+    <string name="event_color_set_to_default">কেলেণ্ডাৰৰ ডিফ\'ল্ট ৰং ছেট কৰক</string>
+    <string name="calendar_color_picker_dialog_title">কেলেণ্ডাৰৰ ৰং</string>
+    <string name="calendar_square_color_picker_description">"ৰং বাছনি কৰোঁতা"</string>
+    <string name="view_event_response_label">উপস্থিত থাকিব নে?</string>
+    <string name="response_yes">"হয়"</string>
+    <string name="response_maybe">সম্ভৱতঃ</string>
+    <string name="response_no">"নহয়"</string>
+    <string name="email_guests_label">অতিথিক ইমেইল কৰক</string>
+    <string name="email_organizer_label">আয়োজকক ইমেইল কৰক</string>
+    <string name="email_picker_label">ইমেইল কৰক যাৰ সৈতে</string>
+    <string name="event_not_found">ইভেণ্ট পোৱা নগ\'ল।</string>
+    <string name="map_label">"মেপ"</string>
+    <string name="no_map">কোনো মেপ এপ ইনষ্টল কৰা নাই</string>
+    <string name="call_label">কল</string>
+    <string name="quick_response_settings">"ক্ষীপ্ৰ উত্তৰসমূহ"</string>
+    <string name="quick_response_settings_summary">অতিথিক ইমেইল কৰোঁতে ডিফ\'ল্ট উত্তৰ সম্পাদনা কৰক</string>
+    <string name="quick_response_settings_edit_title">"তাৎক্ষণিক উত্তৰ"</string>
+    <string name="quick_response_dialog_title">দ্ৰুত উত্তৰ বাছক</string>
+    <string name="quick_response_email_failed">ইমেইল প্ৰগ্ৰাম বিচাৰি পোৱা নগ\'ল</string>
+    <string-array name="quick_response_defaults">
+        <item>মাত্ৰ কেইমিনিটমান পলম হ\'ব।</item>
+        <item>প্ৰায় ১০ মিনিটৰ ভিতৰত তাত থাকিম।</item>
+        <item>মোৰ নোহোৱাকৈ আৰম্ভ কৰক।</item>
+        <item>দুঃখিত, মই আহিব নোৱাৰিম। আমি সময়সূচী সলনি কৰিব লাগিব।</item>
+    </string-array>
+    <string name="quick_response_custom_msg">নিজে লিখক…</string>
+    <string name="event_info_organizer">আয়োজক:</string>
+    <string name="event_info_reminders_label">"ৰিমাইণ্ডাৰসমূহ"</string>
+    <string name="agenda_today">আজি, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_yesterday">গতকালি, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_tomorrow">কাইলৈ, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">"ল’ড হৈ আছে…"</string>
+    <string name="show_older_events"><xliff:g id="oldest_search_range">%1$s</xliff:g>ৰ আগৰ ইভেণ্ট চাবলৈ স্পৰ্শ কৰক</string>
+    <string name="show_newer_events"><xliff:g id="newest_search_range">%1$s</xliff:g>ৰ পিছৰ ইভেণ্ট চাবলৈ স্পৰ্শ কৰক</string>
+    <string name="search_title">মোৰ কেলেণ্ডাৰসমূহ বিচাৰক</string>
+    <string name="edit_event_label">বিৱৰণ</string>
+    <string name="edit_label">সম্পাদনা</string>
+    <string name="delete_label">মচক</string>
+    <string name="duplicate_label">নকল কৰক</string>
+    <string name="save_label">"হ’ল"</string>
+    <string name="discard_label">"বাতিল কৰক"</string>
+    <string name="dismiss_all_label">সকলো বাতিল কৰক</string>
+    <string name="snooze_label">স্নুজ</string>
+    <string name="does_not_repeat">একক ইভেণ্ট</string>
+    <string name="endByDate">; <xliff:g id="date">%s</xliff:g> পৰ্যন্ত</string>
+    <string name="every_weekday">প্ৰতি কৰ্মদিৱসে (সোম–শুক্ৰ)</string>
+    <string name="monthly">"মাহিলী"</string>
+    <string name="yearly_plain">বছৰীয়া</string>
+    <string name="custom" product="default">নিজৰ পছন্দ (ফ\'নত সম্পাদনা কৰিব নোৱাৰি)</string>
+    <string name="modify_event">কেৱল এই ইভেণ্ট সলনি কৰক</string>
+    <string name="modify_all">শ্ৰেণীৰ সকলো ইভেণ্ট সলনি কৰক</string>
+    <string name="modify_all_following">এই আৰু ভৱিষ্যতৰ সকলো ইভেণ্ট সলনি কৰক</string>
+    <string name="new_event_dialog_label">\"নতুন ইভেণ্ট\"</string>
+    <string name="new_event_dialog_option">\"নতুন ইভেণ্ট\"</string>
+    <string name="delete_this_event_title">এই ইভেণ্ট মচিব নে?</string>
+    <string name="delete_recurring_event_title"><xliff:g id="eventtitle">%s</xliff:g> মচিব নে?</string>
+    <string name="change_response_title">উত্তৰ সলনি কৰক</string>
+    <string name="preferences_title">\"ছেটিংছ\"</string>
+    <string name="preferences_general_title">কেলেণ্ডাৰ দৃশ্যৰ ছেটিং</string>
+    <string name="preferences_month_view_portrait">মাহৰ দৃশ্যৰ বিন্যাস (পৰ্ট্ৰেইট)</string>
+    <string name="preferences_month_view_landscape">মাহৰ দৃশ্যৰ বিন্যাস (লেণ্ডস্কেপ)</string>
+    <string name="preferences_theme">"থীম"</string>
+    <string name="preferences_system_theme">"ছিষ্টেম ডিফ’ল্ট"</string>
+    <string name="preferences_light_theme">"পাতল"</string>
+    <string name="preferences_dark_theme">ক্বাঁৰ</string>
+    <string name="preferences_black_theme">"ক\'লা"</string>
+    <string name="preferences_color">মূল ৰং</string>
+    <string name="preferences_color_pick">মূল ৰং</string>
+    <string name="preferences_real_event_colors">প্ৰকৃত ইভেণ্টৰ ৰং ব্যৱহাৰ কৰক</string>
+    <string name="preferences_pure_black_night_mode">বিশুদ্ধ ক\'লা ৰাতিৰ ম\'ড</string>
+    <string name="preferences_reminder_title">জাননী আৰু স্মাৰক</string>
+    <string name="preferences_hide_declined_title">প্ৰত্যাখ্যান কৰা ইভেণ্ট লুকুৱাওক</string>
+    <string name="default_start_title">ডিফ\'ল্ট দৃশ্য</string>
+    <string name="display_options">"ডিছপ্লে’ৰ বিকল্পসমূহ"</string>
+    <string name="display_time">সময় দেখুৱাওক</string>
+    <string name="display_location">স্থান দেখুৱাওক</string>
+    <string name="maximum_number_of_lines">ইভেণ্টত সৰ্বাধিক শাৰীৰ সংখ্যা</string>
+    <string name="default_start_last">আগতে ব্যৱহাৰ কৰা দৃশ্য</string>
+    <string name="preferences_week_start_day_title">সপ্তাহ আৰম্ভ হয়</string>
+    <string name="preferences_week_start_day_dialog">সপ্তাহ আৰম্ভ হয়</string>
+    <string name="week_start_locale_default">স্থানীয় ডিফ\'ল্ট</string>
+    <string name="preferences_days_per_week_title">সপ্তাহত দিন</string>
+    <string name="preferences_days_per_week_dialog">সপ্তাহত দিন</string>
+    <string name="preferences_default_event_duration_title">ডিফ\'ল্ট ইভেণ্টৰ সময়কাল</string>
+    <string name="preferences_clear_search_history_title">সন্ধানৰ ইতিহাস মচক</string>
+    <string name="preferences_clear_search_history_summary">আপুনি কৰা সকলো সন্ধান আঁতৰাওক</string>
+    <string name="search_history_cleared">সন্ধানৰ ইতিহাস মচা হ\'ল।</string>
+    <string name="preferences_alerts_title">"জাননী"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"কম্পন"</string>
+    <string name="preferences_alerts_ringtone_title">"ধ্বনি"</string>
+    <string name="preferences_alerts_popup_title">পপ-আপ জাননী</string>
+    <string name="preferences_default_reminder_title">ডিফ\'ল্ট স্মাৰকৰ সময়</string>
+    <string name="preferences_default_reminder_dialog">ডিফ\'ল্ট স্মাৰকৰ সময়</string>
+    <string name="preferences_use_home_tz_title">"গৃহ দেশৰ সময় মণ্ডল ব্যৱহাৰ কৰক"</string>
+    <string name="preferences_use_home_tz_descrip">ভ্ৰমণৰ সময়ত আপোনাৰ ঘৰৰ সময় অঞ্চলত কেলেণ্ডাৰ আৰু ইভেণ্টৰ সময় দেখুৱায়</string>
+    <string name="preferences_home_tz_title">দেশৰ সময় ক্ষেত্ৰ</string>
+    <string name="preferences_show_week_num_title">সপ্তাহৰ সংখ্যা দেখুৱাওক</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">স্মাৰক স্নুজৰ বিলম্ব সুধক</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">স্মাৰক স্নুজ কৰোঁতে প্ৰতিবাৰ স্নুজৰ বিলম্ব সুধক</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">সদায় ডিফ\'ল্ট স্নুজৰ বিলম্ব ব্যৱহাৰ কৰক</string>
+    <string name="snooze_delay_dialog_title">স্নুজৰ বিলম্ব ছেট কৰক</string>
+    <string name="preferences_default_snooze_delay_title">ডিফ\'ল্ট স্নুজৰ বিলম্বৰ সময়</string>
+    <string name="preferences_default_snooze_delay_dialog">ডিফ\'ল্ট স্নুজৰ বিলম্ব</string>
+    <string name="preferences_staggered_display_title">স্তৰযুক্ত দৃশ্য</string>
+    <string name="preferences_staggered_display_summary">একাধিক ওপৰ-তলি পৰা ইভেণ্ট স্তৰযুক্ত বিন্যাসত দেখুৱাওক</string>
+    <string name="app_copyright">© 2015-<xliff:g>%1$s</xliff:g> The Etar Project. কিছু অংশ © 2005-<xliff:g>%1$s</xliff:g> The Android Open Source Project.</string>
+    <string name="authors">লেখকসকল</string>
+    <string name="changelog">পৰিৱৰ্তনৰ লগ</string>
+    <string name="license">"অনুজ্ঞাপত্ৰ"</string>
+    <string name="preferences_build_version">"বিল্ডৰ সংস্কৰণ"</string>
+    <string name="preferences_issues">সমস্যা প্ৰতিবেদন কৰক</string>
+    <string name="source_code">উৎস</string>
+    <string name="gadget_no_events">আগন্তুক কেলেণ্ডাৰ ইভেণ্ট নাই</string>
+    <string name="preferences_experimental_category">"পৰীক্ষামূলক"</string>
+    <string name="preferences_reminders_responded_label">স্মাৰক এৰি যাওক</string>
+    <string name="preferences_reminders_responded_dialog">স্মাৰক এৰি যাওক</string>
+    <string name="copy_db">ডেটাবেচ পঠাওক</string>
+    <string name="directory_searching_fmt"><xliff:g id="domain">%s</xliff:g> বিচাৰি আছে…</string>
+    <string name="accessibility_remove_attendee">উপস্থিত ব্যক্তি আঁতৰাওক</string>
+    <string name="accessibility_pick_start_date">আৰম্ভৰ তাৰিখ</string>
+    <string name="accessibility_pick_start_time">"আৰম্ভ হোৱাৰ সময়"</string>
+    <string name="accessibility_pick_end_date">সমাপ্তিৰ তাৰিখ</string>
+    <string name="accessibility_pick_end_time">"সমাপ্ত হোৱাৰ সময়"</string>
+    <string name="accessibility_pick_time_zone">"সময় মণ্ডল"</string>
+    <string name="accessibility_pick_recurrence">ইভেণ্ট পুনৰাবৃত্তি কৰক</string>
+    <string name="accessibility_add_reminder">স্মাৰক যোগ কৰক</string>
+    <string name="accessibility_remove_reminder">স্মাৰক আঁতৰাওক</string>
+    <string name="accessibility_add_attendee">উপস্থিত ব্যক্তি যোগ কৰক</string>
+    <string name="accessibility_all_day">সম্পূৰ্ণ দিনৰ ইভেণ্ট</string>
+    <string name="accessibility_reminder_time">স্মাৰকৰ সময়</string>
+    <string name="accessibility_reminder_type">স্মাৰকৰ ধৰন</string>
+    <string name="accessibility_reminder_showmeas">মোক এনেকৈ দেখুৱাওক</string>
+    <string name="accessibility_reminder_privacy">"গোপনীয়তা"</string>
+    <string name="day_view_new_event_hint">+ নতুন ইভেণ্ট</string>
+    <string name="template_announce_item_index">ইভেণ্ট <xliff:g id="item_index">%1$s</xliff:g>/<xliff:g id="item_count">%2$s</xliff:g>।</string>
+    <string name="acessibility_selected_marker_description">বাছনি কৰা ইভেণ্ট</string>
+    <string name="recurrence_month_pattern_by_day">প্ৰতি মাহৰ একে দিনা</string>
+    <string name="recurrence_end_continously">সদায়</string>
+    <string name="recurrence_end_date_label">এটা তাৰিখলৈকে</string>
+    <string name="recurrence_end_date"><xliff:g id="date">%s</xliff:g> পৰ্যন্ত</string>
+    <string name="recurrence_end_count_label">কিছুমান ইভেণ্টৰ বাবে</string>
+    <string name="acessibility_recurrence_choose_end_date_description">শেষৰ তাৰিখ সলনি কৰক</string>
+    <string name="user_rejected_calendar_write_permission">Etar ঠিকভাৱে কাম কৰিবলৈ কেলেণ্ডাৰ পঢ়া আৰু লিখাৰ অনুমতি লাগে। অনুগ্ৰহ কৰি আকৌ চেষ্টা কৰক।</string>
+    <string name="calendar_permission_not_granted">প্ৰয়োজনীয় অনুমতি প্ৰত্যাখ্যান কৰা হৈছে। ইভেণ্ট সম্পাদনা কৰিবলৈ ছেটিঙৰ পৰা সিহতক সক্ষম কৰক।</string>
+    <string name="visibility_default">"ডিফ’ল্ট"</string>
+    <string name="visibility_confidential">গোপনীয়</string>
+    <string name="visibility_private">"ব্যক্তিগত"</string>
+    <string name="visibility_public">ৰাইজ</string>
+    <string name="two_days">২ দিন</string>
+    <string name="three_days">৩ দিন</string>
+    <string name="four_days">৪ দিন</string>
+    <string name="five_days">৫ দিন</string>
+    <string name="six_days">৬ দিন</string>
+    <string name="seven_days">৭ দিন</string>
+    <string name="zero_minutes">০ মিনিট</string>
+    <string name="fifteen_minutes">"১৫ মিনিট"</string>
+    <string name="thirty_minutes">"৩০ মিনিট"</string>
+    <string name="one_hour">"১ ঘণ্টা"</string>
+    <string name="one_and_a_half_hours">১.৫ ঘণ্টা</string>
+    <string name="two_hours">"২ ঘণ্টা"</string>
+    <string name="error_generating_ics">ইভেণ্ট শ্বেয়াৰ কৰোঁতে সমস্যা হৈছে</string>
+    <string name="cal_share_intent_title">ইভেণ্ট পঠাওক:</string>
+    <string name="cal_export_event_title">ইভেণ্ট ৰপ্তানি কৰক</string>
+    <string name="cal_export_success">ইভেণ্ট সফলতাৰে ৰপ্তানি কৰা হ\'ল</string>
+    <string name="cal_export_error">ইভেণ্ট ৰপ্তানি কৰিব পৰা নগ\'ল</string>
+    <string name="cal_export_succ_msg">ইভেণ্ট সফলতাৰে ৰপ্তানি কৰা হ\'ল</string>
+    <string name="cal_import_menu_title">ইভেণ্ট আমদানি কৰক</string>
+    <string name="cal_nothing_to_import">"আমদানি কৰিবলৈ একো নাই"</string>
+    <string name="cal_import_error_msg">কেলেণ্ডাৰলৈ আমদানি ব্যৰ্থ হ\'ল</string>
+    <string name="cal_import_error_time_zone_msg">প্ৰদান কৰা সময় অঞ্চল বুজিব নোৱাৰি: %s</string>
+    <string name="cal_import_error_date_msg">প্ৰদান কৰা তাৰিখ বুজিব নোৱাৰি: %s</string>
+    <string name="cal_pick_ics">আমদানিৰ বাবে ফাইল বাছক</string>
+    <string name="show_time_no">সময় নেদেখুৱাব</string>
+    <string name="show_time_start">কেৱল আৰম্ভৰ সময়</string>
+    <string name="show_time_start_end">আৰম্ভ আৰু শেষৰ সময়</string>
+    <string name="show_time_start_end_below">ইভেণ্টৰ তলত আৰম্ভ আৰু শেষৰ সময়</string>
+    <string name="preferences_calendar_no_display_name">নাম নথকা কেলেণ্ডাৰ</string>
+    <string name="preferences_calendar_account">%1$s একাউণ্ট</string>
+    <string name="preferences_calendar_account_local">অফলাইন কেলেণ্ডাৰ</string>
+    <string name="preferences_calendar_configure_account">%1$sত কেলেণ্ডাৰ কনফিগাৰ কৰক</string>
+    <string name="preferences_calendar_number_of_events">%1$d টা ইভেণ্ট</string>
+    <string name="preferences_calendar_delete">কেলেণ্ডাৰ মচক</string>
+    <string name="preferences_calendar_display_name">"নাম সলনি কৰক"</string>
+    <string name="preferences_calendar_info_category">কেলেণ্ডাৰৰ তথ্য</string>
+    <string name="preferences_calendar_color">"ৰং"</string>
+    <string name="preferences_calendar_visible">ইভেণ্ট দেখুৱাওক</string>
+    <string name="preferences_manage_notifications">জাননী পৰিচালনা কৰক</string>
+    <string name="preferences_calendar_synchronize">এই কেলেণ্ডাৰ সমল্যকৰণ কৰক</string>
+    <string name="preferences_calendar_color_warning_title">"সকীয়নি"</string>
+    <string name="preferences_calendar_color_warning_message">ৰং সলনি কৰিলে পুনৰ সমল্যকৰণ কৰোঁতে ঘূৰি যাব পাৰে।\n\nDAVx⁵ত \'Manage calendar colors\' অক্ষম কৰিলে ইয়াক প্ৰতিৰোধ কৰিব পাৰি।</string>
+    <string name="preferences_calendar_color_warning_button">মই বুজিছোঁ</string>
+    <string name="preferences_calendar_delete_message">আপুনি সঁচাকৈয়ে এই কেলেণ্ডাৰ মচিব বিচাৰেনে?</string>
+    <string name="preferences_calendar_delete_delete">কেলেণ্ডাৰ মচক</string>
+    <string name="preferences_calendar_delete_cancel">"বাতিল কৰক"</string>
+    <string name="preferences_list_calendar_summary_sync_off">সমল্যকৰণ কৰা নাই</string>
+    <string name="preferences_list_calendar_summary_invisible">ইভেণ্ট দেখুৱা নাই</string>
+    <string name="preferences_list_general">সাধাৰণ ছেটিং</string>
+    <string name="preferences_list_add_remote">CalDAV কেলেণ্ডাৰ যোগ কৰক</string>
+    <string name="preferences_list_add_remote_etesync">EteSync কেলেণ্ডাৰ যোগ কৰক</string>
+    <string name="preferences_list_add_offline">অফলাইন কেলেণ্ডাৰ যোগ কৰক</string>
+    <string name="preferences_list_add_offline_title">অফলাইন কেলেণ্ডাৰ যোগ কৰক</string>
+    <string name="preferences_list_add_offline_error_empty">এটা কেলেণ্ডাৰৰ নাম দিয়ক!</string>
+    <string name="preferences_list_add_offline_message">অফলাইন কেলেণ্ডাৰ কোনো ক্লাউড সেৱাৰ সৈতে সমল্যকৰণ কৰা নহয়, কেৱল আপোনাৰ ফ\'নত উপলব্ধ।</string>
+    <string name="preferences_list_add_offline_button">কেলেণ্ডাৰ যোগ কৰক</string>
+    <string name="preferences_list_add_offline_name">"নাম"</string>
+    <string name="preferences_list_add_offline_cancel">"বাতিল কৰক"</string>
+    <string name="preferences_menu_about">Etar সম্পৰ্কে</string>
+    <string name="offline_account_name">অফলাইন কেলেণ্ডাৰ</string>
+    <string name="after_start_of_event">ইভেণ্ট আৰম্ভ হোৱাৰ পিছত</string>
+    <string name="preferences_do_not_check_battery_optimization">বেটাৰী অপ্টিমাইজেচন পৰীক্ষা নকৰিব</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">নিজৰ দায়িত্বত ব্যৱহাৰ কৰক! জাননী আৰু কাম নকৰিব, উইজেট আপডেট নহ\'ব আৰু পটভূমিৰ সেৱা ভাঙি পৰিব। কিন্তু পটভূমিৰ সেৱা সক্ষম কৰিবলৈ আপোনাক পুনৰ সুধা নহ\'ব।</string>
+    <string name="calendars">কেলেণ্ডাৰসমূহ</string>
+    <string name="discard_event_changes">সলনি কৰা কথাবোৰ বাতিল কৰিব বিচাৰেনে?</string>
+    <string name="discard">"বাতিল কৰক"</string>
+    <string name="cancel">"বাতিল কৰক"</string>
+    <string name="chips_action_cancel">"বাতিল কৰক"</string>
+</resources>

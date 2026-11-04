@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">በአቅራቢያ ያሉ ቦታዎች</string>
+    <string name="lookup_settings_label">የስልክ ቁጥር ፍለጋ</string>
+    <string name="enable_forward_lookup_title">ወደፊት ፍለጋ</string>
+    <string name="enable_forward_lookup_summary">በዳያለር ሲፈልጉ በአቅራቢያ ያሉ ቦታዎችን አሳይ</string>
+    <string name="enable_reverse_lookup_title">በተገላቢጦሽ ፍለጋ</string>
+    <string name="enable_reverse_lookup_summary">ለማይታወቁ ቁጥሮች ገቢ ጥሪዎች ላይ ስለ ሰውየው ወይም ቦታው መረጃ ፈልግ</string>
+    <string name="forward_lookup_provider_title">የወደፊት ፍለጋ አቅራቢ</string>
+    <string name="reverse_lookup_provider_title">የተገላቢጦሽ ፍለጋ አቅራቢ</string>
+    <string name="lookup_disclaimer">ፍለጋዎች መረጃ ለመሰብሰብ በደህንነቱ የተጠበቀ ፕሮቶኮል (https) ወደ ውጫዊ ድረ-ገጾች ጥያቄዎችን ሊልኩ ይችላሉ። ጥያቄው የሌላኛውን ወገን ስልክ ቁጥር ወይም የፍለጋ ቃል ሊይዝ ይችላል</string>
+</resources>

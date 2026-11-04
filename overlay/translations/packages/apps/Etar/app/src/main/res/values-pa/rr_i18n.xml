@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_methods_labels">
+        <item>"ਸੂਚਨਾ"</item>
+        <item>"ਈਮੇਲ"</item>
+        <item>SMS</item>
+        <item>"ਅਲਾਰਮ"</item>
+    </string-array>
+    <string-array name="availability">
+        <item>"ਰੁਝੇਵੇਂ ਵਿੱਚ"</item>
+        <item>"ਉਪਲਬਧ"</item>
+        <item>Tentative</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>No response</item>
+        <item>"ਹਾਂ"</item>
+        <item>Maybe</item>
+        <item>"ਨਹੀਂ"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Only this event</item>
+        <item>This and future events</item>
+        <item>All events</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Only this event</item>
+        <item>All events in the series</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>"ਦਿਨ"</item>
+        <item>"ਹਫ਼ਤਾ"</item>
+        <item>"ਮਹੀਨਾ"</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Only if declined</item>
+        <item>If declined or not responded</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ਹਰ ਪਹਿਲੇ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ</item>
+        <item>ਹਰ ਦੂਜੇ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ</item>
+        <item>ਹਰ ਤੀਜੇ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ</item>
+        <item>ਹਰ ਚੌਥੇ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ</item>
+        <item>ਹਰ ਆਖਰੀ ਸ਼ੁੱਕਰਵਾਰ ਨੂੰ</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ਹਰ ਪਹਿਲੇ ਸ਼ਨੀਵਾਰ ਨੂੰ</item>
+        <item>ਹਰ ਦੂਜੇ ਸ਼ਨੀਵਾਰ ਨੂੰ</item>
+        <item>ਹਰ ਤੀਜੇ ਸ਼ਨੀਵਾਰ ਨੂੰ</item>
+        <item>ਹਰ ਚੌਥੇ ਸ਼ਨੀਵਾਰ ਨੂੰ</item>
+        <item>ਹਰ ਆਖਰੀ ਸ਼ਨੀਵਾਰ ਨੂੰ</item>
+    </string-array>
+    <string name="user_rejected_calendar_write_permission_lineage">ਕੈਲੰਡਰ ਨੂੰ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨ ਲਈ ਕੈਲੰਡਰ ਪੜ੍ਹਨ ਅਤੇ ਲਿਖਣ ਦੀ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="preferences_menu_about_lineage">ਕੈਲੰਡਰ ਬਾਰੇ</string>
+    <string name="no_snooze_label">"ਕੋਈ ਨਹੀਂ"</string>
+    <string name="hint_url">\"URL\"</string>
+    <string name="no_calendars_found">ਇਵੈਂਟ ਜੋੜਨ ਤੋਂ ਪਹਿਲਾਂ, ਤੁਹਾਨੂੰ ਆਪਣੀ ਡਿਵਾਈਸ ਵਿੱਚ ਘੱਟੋ-ਘੱਟ ਇੱਕ ਕੈਲੰਡਰ ਜੋੜਨਾ ਪਵੇਗਾ</string>
+    <string name="add_calendar">ਕੈਲੰਡਰ ਜੋੜੋ</string>
+    <string name="view_event_calendar_label">ਕੈਲੰਡਰ:</string>
+    <string name="view_event_organizer_label">ਆਯੋਜਕ:</string>
+    <string name="choose_event_color_label">ਇਵੈਂਟ ਦਾ ਰੰਗ ਚੁਣੋ</string>
+    <string name="event_color_picker_dialog_title">ਇਵੈਂਟ ਦਾ ਰੰਗ</string>
+    <string name="event_color_set_to_default">ਡਿਫਾਲਟ ਕੈਲੰਡਰ ਰੰਗ \'ਤੇ ਸੈੱਟ ਕਰੋ</string>
+    <string name="calendar_color_picker_dialog_title">ਕੈਲੰਡਰ ਦਾ ਰੰਗ</string>
+    <string name="calendar_square_color_picker_description">"ਰੰਗ ਚੋਣਕਾਰ"</string>
+    <string name="view_event_response_label">ਸ਼ਾਮਲ ਹੋ ਰਹੇ ਹੋ?</string>
+    <string name="response_yes">"ਹਾਂ"</string>
+    <string name="response_maybe">Maybe</string>
+    <string name="response_no">"ਨਹੀਂ"</string>
+    <string name="email_guests_label">ਮਹਿਮਾਨਾਂ ਨੂੰ ਈਮੇਲ ਕਰੋ</string>
+    <string name="email_organizer_label">ਆਯੋਜਕ ਨੂੰ ਈਮੇਲ ਕਰੋ</string>
+    <string name="email_picker_label">ਇਸ ਨਾਲ ਈਮੇਲ ਕਰੋ</string>
+    <string name="event_not_found">\"ਇਵੈਂਟ ਨਹੀਂ ਮਿਲਿਆ।\"</string>
+    <string name="map_label">"ਨਕਸ਼ਾ"</string>
+    <string name="no_map">ਕੋਈ ਮੈਪ ਐਪ ਇੰਸਟੌਲ ਨਹੀਂ ਹੈ</string>
+    <string name="call_label">ਕਾਲ</string>
+    <string name="quick_response_settings">"ਤਤਕਾਲ ਜਵਾਬ"</string>
+    <string name="quick_response_settings_summary">ਮਹਿਮਾਨਾਂ ਨੂੰ ਈਮੇਲ ਕਰਨ ਵੇਲੇ ਡਿਫਾਲਟ ਜਵਾਬ ਸੰਪਾਦਿਤ ਕਰੋ</string>
+    <string name="quick_response_settings_edit_title">"ਤਤਕਾਲ ਜਵਾਬ"</string>
+    <string name="quick_response_dialog_title">ਤੇਜ਼ ਜਵਾਬ ਚੁਣੋ</string>
+    <string name="quick_response_email_failed">ਈਮੇਲ ਪ੍ਰੋਗਰਾਮ ਲੱਭਣ ਵਿੱਚ ਅਸਫਲ</string>
+    <string-array name="quick_response_defaults">
+        <item>ਬੱਸ ਕੁਝ ਮਿੰਟ ਦੇਰ ਹੋ ਰਹੀ ਹੈ।</item>
+        <item>ਲਗਭਗ 10 ਮਿੰਟਾਂ ਵਿੱਚ ਪਹੁੰਚ ਰਿਹਾ ਹਾਂ।</item>
+        <item>ਤੁਸੀਂ ਮੇਰੇ ਬਿਨਾਂ ਸ਼ੁਰੂ ਕਰ ਲਓ।</item>
+        <item>ਮਾਫ਼ ਕਰਨਾ, ਮੈਂ ਨਹੀਂ ਆ ਸਕਦਾ। ਸਾਨੂੰ ਇਸਨੂੰ ਮੁੜ-ਨਿਰਧਾਰਤ ਕਰਨਾ ਪਵੇਗਾ।</item>
+    </string-array>
+    <string name="quick_response_custom_msg">ਆਪਣਾ ਲਿਖੋ…</string>
+    <string name="event_info_organizer">ਆਯੋਜਕ:</string>
+    <string name="event_info_reminders_label">"ਰਿਮਾਈਂਡਰ"</string>
+    <string name="agenda_today">ਅੱਜ, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_yesterday">ਕੱਲ੍ਹ, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_tomorrow">ਭਲਕੇ, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">"ਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…"</string>
+    <string name="show_older_events"><xliff:g id="oldest_search_range">%1$s</xliff:g> ਤੋਂ ਪਹਿਲਾਂ ਦੇ ਇਵੈਂਟ ਵੇਖਣ ਲਈ ਛੂਹੋ</string>
+    <string name="show_newer_events"><xliff:g id="newest_search_range">%1$s</xliff:g> ਤੋਂ ਬਾਅਦ ਦੇ ਇਵੈਂਟ ਵੇਖਣ ਲਈ ਛੂਹੋ</string>
+    <string name="search_title">ਮੇਰੇ ਕੈਲੰਡਰਾਂ ਵਿੱਚ ਖੋਜੋ</string>
+    <string name="edit_event_label">\"ਵੇਰਵੇ\"</string>
+    <string name="edit_label">\"ਸੋਧੋ\"</string>
+    <string name="delete_label">\"ਮਿਟਾਓ\"</string>
+    <string name="duplicate_label">ਡੁਪਲੀਕੇਟ ਬਣਾਓ</string>
+    <string name="save_label">"ਹੋ ਗਿਆ"</string>
+    <string name="discard_label">"ਰੱਦ ਕਰੋ"</string>
+    <string name="dismiss_all_label">\"ਸਾਰੇ ਖਾਰਜ ਕਰੋ\"</string>
+    <string name="snooze_label">\"ਸਨੂਜ਼ ਕਰੋ\"</string>
+    <string name="does_not_repeat">ਇੱਕ-ਵਾਰੀ ਇਵੈਂਟ</string>
+    <string name="endByDate">; <xliff:g id="date">%s</xliff:g> ਤੱਕ</string>
+    <string name="every_weekday">\"ਹਰ ਹਫ਼ਤੇ ਦਾ ਕੰਮਕਾਜੀ ਦਿਨ (ਸੋਮ–ਸ਼ੁੱਕਰ)\"</string>
+    <string name="monthly">"ਮਹੀਨਾਵਾਰ"</string>
+    <string name="yearly_plain">ਸਾਲਾਨਾ</string>
+    <string name="custom" product="default">\"ਕਸਟਮ (ਫ਼ੋਨ ਉੱਤੇ ਕਸਟਮਾਈਜ਼ ਨਹੀਂ ਕਰ ਸਕਦੇ)\"</string>
+    <string name="modify_event">ਸਿਰਫ਼ ਇਹ ਇਵੈਂਟ ਬਦਲੋ</string>
+    <string name="modify_all">ਲੜੀ ਦੇ ਸਾਰੇ ਇਵੈਂਟ ਬਦਲੋ</string>
+    <string name="modify_all_following">ਇਹ ਅਤੇ ਭਵਿੱਖ ਦੇ ਸਾਰੇ ਇਵੈਂਟ ਬਦਲੋ</string>
+    <string name="new_event_dialog_label">ਨਵਾਂ ਵਰਤਾਰਾ</string>
+    <string name="new_event_dialog_option">ਨਵਾਂ ਵਰਤਾਰਾ</string>
+    <string name="delete_this_event_title">ਕੀ ਇਹ ਇਵੈਂਟ ਮਿਟਾਉਣਾ ਹੈ?</string>
+    <string name="delete_recurring_event_title">ਕੀ <xliff:g id="eventtitle">%s</xliff:g> ਮਿਟਾਉਣਾ ਹੈ?</string>
+    <string name="change_response_title">ਜਵਾਬ ਬਦਲੋ</string>
+    <string name="preferences_title">ਸੈਟਿੰਗਾਂ</string>
+    <string name="preferences_general_title">ਕੈਲੰਡਰ ਵਿਊ ਸੈਟਿੰਗ</string>
+    <string name="preferences_month_view_portrait">ਮਹੀਨਾ ਵਿਊ ਲੇਆਉਟ (ਪੋਰਟਰੇਟ)</string>
+    <string name="preferences_month_view_landscape">ਮਹੀਨਾ ਵਿਊ ਲੇਆਉਟ (ਲੈਂਡਸਕੇਪ)</string>
+    <string name="preferences_theme">"ਥੀਮ"</string>
+    <string name="preferences_system_theme">"ਸਿਸਟਮ ਪੂਰਵ-ਨਿਰਧਾਰਿਤ"</string>
+    <string name="preferences_light_theme">"ਹਲਕਾ"</string>
+    <string name="preferences_dark_theme">ਗੂੜ੍ਹਾ</string>
+    <string name="preferences_black_theme">"ਕਾਲਾ"</string>
+    <string name="preferences_color">ਮੁੱਖ ਰੰਗ</string>
+    <string name="preferences_color_pick">ਮੁੱਖ ਰੰਗ</string>
+    <string name="preferences_real_event_colors">ਅਸਲੀ ਇਵੈਂਟ ਰੰਗ ਵਰਤੋ</string>
+    <string name="preferences_pure_black_night_mode">ਪੂਰੀ ਕਾਲੀ ਰਾਤ ਵਾਲਾ ਮੋਡ</string>
+    <string name="preferences_reminder_title">ਸੂਚਨਾਵਾਂ ਅਤੇ ਯਾਦ-ਦਹਾਨੀਆਂ</string>
+    <string name="preferences_hide_declined_title">ਰੱਦ ਕੀਤੇ ਇਵੈਂਟ ਲੁਕਾਓ</string>
+    <string name="default_start_title">ਡਿਫਾਲਟ ਵਿਊ</string>
+    <string name="display_options">"ਡਿਸਪਲੇ ਦੇ ਵਿਕਲਪ"</string>
+    <string name="display_time">ਸਮਾਂ ਦਿਖਾਓ</string>
+    <string name="display_location">ਥਾਂ ਦਿਖਾਓ</string>
+    <string name="maximum_number_of_lines">ਇਵੈਂਟ ਵਿੱਚ ਲਾਈਨਾਂ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਗਿਣਤੀ</string>
+    <string name="default_start_last">ਪਹਿਲਾਂ ਵਰਤਿਆ ਵਿਊ</string>
+    <string name="preferences_week_start_day_title">ਹਫ਼ਤਾ ਇਸ ਦਿਨ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ</string>
+    <string name="preferences_week_start_day_dialog">ਹਫ਼ਤਾ ਇਸ ਦਿਨ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ</string>
+    <string name="week_start_locale_default">ਲੋਕੇਲ ਡਿਫਾਲਟ</string>
+    <string name="preferences_days_per_week_title">ਹਫ਼ਤੇ ਵਿੱਚ ਦਿਨ</string>
+    <string name="preferences_days_per_week_dialog">ਹਫ਼ਤੇ ਵਿੱਚ ਦਿਨ</string>
+    <string name="preferences_default_event_duration_title">ਇਵੈਂਟ ਦੀ ਡਿਫਾਲਟ ਮਿਆਦ</string>
+    <string name="preferences_clear_search_history_title">ਖੋਜ ਇਤਿਹਾਸ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="preferences_clear_search_history_summary">ਤੁਹਾਡੀਆਂ ਕੀਤੀਆਂ ਸਾਰੀਆਂ ਖੋਜਾਂ ਹਟਾਓ</string>
+    <string name="search_history_cleared">ਖੋਜ ਇਤਿਹਾਸ ਸਾਫ਼ ਕੀਤਾ ਗਿਆ।</string>
+    <string name="preferences_alerts_title">"ਸੂਚਨਾਵਾਂ"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"ਥਰਥਰਾਹਟ ਕਰੋ"</string>
+    <string name="preferences_alerts_ringtone_title">"ਧੁਨੀ"</string>
+    <string name="preferences_alerts_popup_title">ਪੌਪ-ਅੱਪ ਸੂਚਨਾ</string>
+    <string name="preferences_default_reminder_title">ਡਿਫਾਲਟ ਯਾਦ-ਦਹਾਨੀ ਸਮਾਂ</string>
+    <string name="preferences_default_reminder_dialog">ਡਿਫਾਲਟ ਯਾਦ-ਦਹਾਨੀ ਸਮਾਂ</string>
+    <string name="preferences_use_home_tz_title">"ਘਰ ਦਾ ਸਮਾਂ ਖੇਤਰ ਵਰਤੋ"</string>
+    <string name="preferences_use_home_tz_descrip">ਯਾਤਰਾ ਦੌਰਾਨ ਕੈਲੰਡਰ ਅਤੇ ਇਵੈਂਟ ਸਮੇਂ ਤੁਹਾਡੇ ਹੋਮ ਟਾਈਮ ਜ਼ੋਨ ਵਿੱਚ ਦਿਖਾਓ</string>
+    <string name="preferences_home_tz_title">ਘਰੇਲੂ ਸਮਾਂ ਜ਼ੋਨ</string>
+    <string name="preferences_show_week_num_title">ਹਫ਼ਤੇ ਦਾ ਨੰਬਰ ਦਿਖਾਓ</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">ਯਾਦ-ਦਹਾਨੀ ਸਨੂਜ਼ ਦੇਰੀ ਪੁੱਛੋ</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">ਯਾਦ-ਦਹਾਨੀਆਂ ਸਨੂਜ਼ ਕਰਨ ਸਮੇਂ ਹਰ ਵਾਰ ਸਨੂਜ਼ ਦੇਰੀ ਪੁੱਛੋ</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">ਹਮੇਸ਼ਾਂ ਡਿਫਾਲਟ ਸਨੂਜ਼ ਦੇਰੀ ਵਰਤੋ</string>
+    <string name="snooze_delay_dialog_title">ਸਨੂਜ਼ ਦੇਰੀ ਸੈੱਟ ਕਰੋ</string>
+    <string name="preferences_default_snooze_delay_title">ਡਿਫਾਲਟ ਸਨੂਜ਼ ਦੇਰੀ ਸਮਾਂ</string>
+    <string name="preferences_default_snooze_delay_dialog">ਡਿਫਾਲਟ ਸਨੂਜ਼ ਦੇਰੀ</string>
+    <string name="preferences_staggered_display_title">ਵਿਚਕਾਰ-ਵਿਚਕਾਰ ਦਿਖਾਵਾ</string>
+    <string name="preferences_staggered_display_summary">ਓਵਰਲੈਪ ਹੁੰਦੇ ਇਵੈਂਟ ਵਿਚਕਾਰ-ਵਿਚਕਾਰ ਲੇਆਉਟ ਵਿੱਚ ਦਿਖਾਓ</string>
+    <string name="app_copyright">© 2015-<xliff:g>%1$s</xliff:g> The Etar Project. ਕੁਝ ਹਿੱਸੇ © 2005-<xliff:g>%1$s</xliff:g> The Android Open Source Project.</string>
+    <string name="authors">ਲੇਖਕ</string>
+    <string name="changelog">ਬਦਲਾਅ ਲੌਗ</string>
+    <string name="license">"ਲਾਇਸੰਸ"</string>
+    <string name="preferences_build_version">"ਬਿਲਡ ਰੂਪ"</string>
+    <string name="preferences_issues">ਸਮੱਸਿਆਵਾਂ ਰਿਪੋਰਟ ਕਰੋ</string>
+    <string name="source_code">ਸਰੋਤ</string>
+    <string name="gadget_no_events">ਆਉਣ ਵਾਲੇ ਕੋਈ ਕੈਲੰਡਰ ਇਵੈਂਟ ਨਹੀਂ</string>
+    <string name="preferences_experimental_category">"ਪ੍ਰਯੋਗਮਈ"</string>
+    <string name="preferences_reminders_responded_label">ਯਾਦ-ਦਹਾਨੀਆਂ ਛੱਡੋ</string>
+    <string name="preferences_reminders_responded_dialog">ਯਾਦ-ਦਹਾਨੀਆਂ ਛੱਡੋ</string>
+    <string name="copy_db">ਡੇਟਾਬੇਸ ਭੇਜੋ</string>
+    <string name="directory_searching_fmt"><xliff:g id="domain">%s</xliff:g> ਖੋਜ ਰਹੇ ਹਾਂ…</string>
+    <string name="accessibility_remove_attendee">ਹਾਜ਼ਰੀਨ ਹਟਾਓ</string>
+    <string name="accessibility_pick_start_date">Start date</string>
+    <string name="accessibility_pick_start_time">"ਸ਼ੁਰੂੂਆਤ ਦਾ ਸਮਾਂ"</string>
+    <string name="accessibility_pick_end_date">End date</string>
+    <string name="accessibility_pick_end_time">"ਸਮਾਪਤੀ ਦਾ ਸਮਾਂ"</string>
+    <string name="accessibility_pick_time_zone">"ਸਮਾਂ ਖੇਤਰ"</string>
+    <string name="accessibility_pick_recurrence">ਇਵੈਂਟ ਦੁਹਰਾਓ</string>
+    <string name="accessibility_add_reminder">ਯਾਦ-ਸੂਚਨਾ ਜੋੜੋ</string>
+    <string name="accessibility_remove_reminder">ਯਾਦ-ਦਹਾਨੀ ਹਟਾਓ</string>
+    <string name="accessibility_add_attendee">ਹਾਜ਼ਰੀਨ ਜੋੜੋ</string>
+    <string name="accessibility_all_day">ਪੂਰੇ ਦਿਨ ਦਾ ਇਵੈਂਟ</string>
+    <string name="accessibility_reminder_time">ਯਾਦ-ਦਹਾਨੀ ਦਾ ਸਮਾਂ</string>
+    <string name="accessibility_reminder_type">ਯਾਦ-ਦਹਾਨੀ ਦੀ ਕਿਸਮ</string>
+    <string name="accessibility_reminder_showmeas">ਮੈਨੂੰ ਇੰਝ ਵਿਖਾਓ</string>
+    <string name="accessibility_reminder_privacy">"ਪਰਦੇਦਾਰੀ"</string>
+    <string name="day_view_new_event_hint">+ ਨਵਾਂ ਇਵੈਂਟ</string>
+    <string name="template_announce_item_index">ਇਵੈਂਟ <xliff:g id="item_index">%1$s</xliff:g> ਵਿੱਚੋਂ <xliff:g id="item_count">%2$s</xliff:g>।</string>
+    <string name="acessibility_selected_marker_description">ਚੁਣਿਆ ਇਵੈਂਟ</string>
+    <string name="recurrence_month_pattern_by_day">ਹਰ ਮਹੀਨੇ ਉਸੇ ਦਿਨ ਨੂੰ</string>
+    <string name="recurrence_end_continously">ਹਮੇਸ਼ਾ</string>
+    <string name="recurrence_end_date_label">ਇੱਕ ਮਿਤੀ ਤੱਕ</string>
+    <string name="recurrence_end_date"><xliff:g id="date">%s</xliff:g> ਤੱਕ</string>
+    <string name="recurrence_end_count_label">ਕੁਝ ਇਵੈਂਟਾਂ ਲਈ</string>
+    <string name="acessibility_recurrence_choose_end_date_description">ਅੰਤ ਮਿਤੀ ਬਦਲੋ</string>
+    <string name="user_rejected_calendar_write_permission">Etar ਨੂੰ ਸਹੀ ਢੰਗ ਨਾਲ ਕੰਮ ਕਰਨ ਲਈ ਕੈਲੰਡਰ ਪੜ੍ਹਨ ਅਤੇ ਲਿਖਣ ਦੀ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
+    <string name="calendar_permission_not_granted">ਲੋੜੀਂਦੀਆਂ ਇਜਾਜ਼ਤਾਂ ਰੱਦ ਕੀਤੀਆਂ ਗਈਆਂ ਸਨ, ਇਵੈਂਟ ਸੋਧਣ ਲਈ ਸੈਟਿੰਗਾਂ ਐਪ ਤੋਂ ਇਹ ਚਾਲੂ ਕਰੋ</string>
+    <string name="visibility_default">"ਪੂਰਵ-ਨਿਰਧਾਰਿਤ"</string>
+    <string name="visibility_confidential">ਗੁਪਤ</string>
+    <string name="visibility_private">"ਪ੍ਰਾਈਵੇਟ"</string>
+    <string name="visibility_public">ਜਨਤਕ</string>
+    <string name="two_days">2 ਦਿਨ</string>
+    <string name="three_days">3 ਦਿਨ</string>
+    <string name="four_days">4 ਦਿਨ</string>
+    <string name="five_days">5 ਦਿਨ</string>
+    <string name="six_days">6 ਦਿਨ</string>
+    <string name="seven_days">7 ਦਿਨ</string>
+    <string name="zero_minutes">0 ਮਿੰਟ</string>
+    <string name="fifteen_minutes">"15 ਮਿੰਟ"</string>
+    <string name="thirty_minutes">"30 ਮਿੰਟ"</string>
+    <string name="one_hour">"1 ਘੰਟਾ"</string>
+    <string name="one_and_a_half_hours">1.5 ਘੰਟੇ</string>
+    <string name="two_hours">"2 ਘੰਟੇ"</string>
+    <string name="error_generating_ics">ਇਵੈਂਟ ਸਾਂਝਾ ਕਰਨ ਵੇਲੇ ਸਮੱਸਿਆਵਾਂ ਆਈਆਂ</string>
+    <string name="cal_share_intent_title">ਇਵੈਂਟ ਭੇਜੋ:</string>
+    <string name="cal_export_event_title">ਇਵੈਂਟ ਐਕਸਪੋਰਟ ਕਰੋ</string>
+    <string name="cal_export_success">ਇਵੈਂਟ ਸਫ਼ਲਤਾਪੂਰਵਕ ਐਕਸਪੋਰਟ ਕੀਤਾ ਗਿਆ</string>
+    <string name="cal_export_error">ਇਵੈਂਟ ਐਕਸਪੋਰਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="cal_export_succ_msg">ਇਵੈਂਟ ਸਫ਼ਲਤਾਪੂਰਵਕ ਐਕਸਪੋਰਟ ਕੀਤਾ ਗਿਆ</string>
+    <string name="cal_import_menu_title">ਇਵੈਂਟ ਇੰਪੋਰਟ ਕਰੋ</string>
+    <string name="cal_nothing_to_import">"ਆਯਾਤ ਕਰਨ ਲਈ ਕੁਝ ਨਹੀਂ"</string>
+    <string name="cal_import_error_msg">ਕੈਲੰਡਰ ਵਿੱਚ ਇੰਪੋਰਟ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="cal_import_error_time_zone_msg">ਦਿੱਤਾ ਟਾਈਮ ਜ਼ੋਨ ਸਮਝ ਨਹੀਂ ਆਇਆ: %s</string>
+    <string name="cal_import_error_date_msg">ਦਿੱਤੀ ਮਿਤੀ ਸਮਝ ਨਹੀਂ ਆਈ: %s</string>
+    <string name="cal_pick_ics">ਇੰਪੋਰਟ ਕਰਨ ਲਈ ਫਾਈਲ ਚੁਣੋ</string>
+    <string name="show_time_no">ਸਮਾਂ ਨਾ ਦਿਖਾਓ</string>
+    <string name="show_time_start">ਸਿਰਫ਼ ਸ਼ੁਰੂਆਤੀ ਸਮਾਂ</string>
+    <string name="show_time_start_end">ਸ਼ੁਰੂਆਤੀ ਅਤੇ ਅੰਤਲਾ ਸਮਾਂ</string>
+    <string name="show_time_start_end_below">ਸ਼ੁਰੂਆਤੀ ਅਤੇ ਅੰਤਲਾ ਸਮਾਂ ਇਵੈਂਟ ਦੇ ਹੇਠਾਂ</string>
+    <string name="preferences_calendar_no_display_name">ਬਿਨਾਂ ਨਾਮ ਵਾਲਾ ਕੈਲੰਡਰ</string>
+    <string name="preferences_calendar_account">%1$s ਖਾਤਾ</string>
+    <string name="preferences_calendar_account_local">ਔਫ਼ਲਾਈਨ ਕੈਲੰਡਰ</string>
+    <string name="preferences_calendar_configure_account">%1$s ਵਿੱਚ ਕੈਲੰਡਰ ਸੰਰਚਿਤ ਕਰੋ</string>
+    <string name="preferences_calendar_number_of_events">%1$d ਇਵੈਂਟ</string>
+    <string name="preferences_calendar_delete">ਕੈਲੰਡਰ ਮਿਟਾਓ</string>
+    <string name="preferences_calendar_display_name">"ਨਾਮ ਬਦਲੋ"</string>
+    <string name="preferences_calendar_info_category">ਕੈਲੰਡਰ ਜਾਣਕਾਰੀ</string>
+    <string name="preferences_calendar_color">"ਰੰਗ"</string>
+    <string name="preferences_calendar_visible">ਇਵੈਂਟ ਦਿਖਾਓ</string>
+    <string name="preferences_manage_notifications">ਸੂਚਨਾਵਾਂ ਪ੍ਰਬੰਧਿਤ ਕਰੋ</string>
+    <string name="preferences_calendar_synchronize">ਇਸ ਕੈਲੰਡਰ ਨੂੰ ਸਿੰਕ ਕਰੋ</string>
+    <string name="preferences_calendar_color_warning_title">"ਚਿਤਾਵਨੀ"</string>
+    <string name="preferences_calendar_color_warning_message">ਰੰਗ ਬਦਲਣ ਨੂੰ ਕੈਲੰਡਰ ਦੁਬਾਰਾ ਸਿੰਕ ਹੋਣ \'ਤੇ ਵਾਪਸ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।\n\nਇਸ ਤੋਂ ਬਚਣ ਲਈ DAVx⁵ ਵਿੱਚ \'Manage calendar colors\' ਬੰਦ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।</string>
+    <string name="preferences_calendar_color_warning_button">ਮੈਂ ਸਮਝ ਗਿਆ</string>
+    <string name="preferences_calendar_delete_message">ਕੀ ਤੁਸੀਂ ਸੱਚਮੁੱਚ ਇਹ ਕੈਲੰਡਰ ਮਿਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="preferences_calendar_delete_delete">ਕੈਲੰਡਰ ਮਿਟਾਓ</string>
+    <string name="preferences_calendar_delete_cancel">"ਰੱਦ ਕਰੋ"</string>
+    <string name="preferences_list_calendar_summary_sync_off">ਸਿੰਕ ਨਹੀਂ ਹੋਇਆ</string>
+    <string name="preferences_list_calendar_summary_invisible">ਇਵੈਂਟ ਨਹੀਂ ਦਿਖਾਏ ਜਾ ਰਹੇ</string>
+    <string name="preferences_list_general">"ਸਧਾਰਨ ਸੈਟਿੰਗਾਂ"</string>
+    <string name="preferences_list_add_remote">CalDAV ਕੈਲੰਡਰ ਜੋੜੋ</string>
+    <string name="preferences_list_add_remote_etesync">EteSync ਕੈਲੰਡਰ ਜੋੜੋ</string>
+    <string name="preferences_list_add_offline">ਔਫ਼ਲਾਈਨ ਕੈਲੰਡਰ ਜੋੜੋ</string>
+    <string name="preferences_list_add_offline_title">ਔਫ਼ਲਾਈਨ ਕੈਲੰਡਰ ਜੋੜੋ</string>
+    <string name="preferences_list_add_offline_error_empty">ਕੈਲੰਡਰ ਦਾ ਨਾਮ ਦਿਓ!</string>
+    <string name="preferences_list_add_offline_message">ਔਫ਼ਲਾਈਨ ਕੈਲੰਡਰ ਕਿਸੇ ਕਲਾਊਡ ਸੇਵਾ ਨਾਲ ਸਿੰਕ ਨਹੀਂ ਹੁੰਦੇ ਅਤੇ ਸਿਰਫ਼ ਤੁਹਾਡੇ ਫ਼ੋਨ \'ਤੇ ਉਪਲਬਧ ਹੁੰਦੇ ਹਨ।</string>
+    <string name="preferences_list_add_offline_button">ਕੈਲੰਡਰ ਜੋੜੋ</string>
+    <string name="preferences_list_add_offline_name">"ਨਾਮ"</string>
+    <string name="preferences_list_add_offline_cancel">"ਰੱਦ ਕਰੋ"</string>
+    <string name="preferences_menu_about">Etar ਬਾਰੇ</string>
+    <string name="offline_account_name">ਔਫ਼ਲਾਈਨ ਕੈਲੰਡਰ</string>
+    <string name="preferences_do_not_check_battery_optimization">ਬੈਟਰੀ ਔਪਟੀਮਾਈਜ਼ੇਸ਼ਨ ਦੀ ਜਾਂਚ ਨਾ ਕਰੋ</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">ਆਪਣੇ ਜੋਖਮ \'ਤੇ ਵਰਤੋ! ਸੂਚਨਾਵਾਂ ਕੰਮ ਕਰਨਾ ਬੰਦ ਕਰ ਦੇਣਗੀਆਂ, ਵਿਜੇਟ ਅੱਪਡੇਟ ਨਹੀਂ ਹੋਵੇਗਾ ਅਤੇ ਬੈਕਗ੍ਰਾਊਂਡ ਸੇਵਾਵਾਂ ਕ੍ਰੈਸ਼ ਹੋ ਜਾਣਗੀਆਂ। ਪਰ ਬੈਕਗ੍ਰਾਊਂਡ ਸੇਵਾ ਚਾਲੂ ਕਰਨ ਬਾਰੇ ਤੁਹਾਨੂੰ ਦੁਬਾਰਾ ਨਹੀਂ ਪੁੱਛਿਆ ਜਾਵੇਗਾ।</string>
+    <string name="calendars">ਕੈਲੰਡਰ</string>
+    <string name="discard_event_changes">ਕੀ ਤੁਸੀਂ ਬਦਲਾਅ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="discard">"ਬਰਖਾਸਤ ਕਰੋ"</string>
+    <string name="cancel">"ਰੱਦ ਕਰੋ"</string>
+</resources>

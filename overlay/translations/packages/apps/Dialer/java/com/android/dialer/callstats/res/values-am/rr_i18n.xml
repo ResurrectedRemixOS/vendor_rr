@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">የእውቂያ ስታቲስቲክስ ዝርዝሮች</string>
+    <string name="call_stats_incoming">ገቢ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">ወጪ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">ያመለጡ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">የታገዱ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">ጠቅላላ: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">ጠቅላላ: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"የመጀመሪያ ቀን"</string>
+    <string name="call_stats_filter_to">"የመጨረሻ ቀን"</string>
+    <string name="call_stats_filter_picker_title">የጊዜ ክልል ማጣሪያ</string>
+    <string name="date_quick_selection">ፈጣን ምርጫ</string>
+    <string name="date_qs_currentmonth">የአሁኑ ወር</string>
+    <string name="date_qs_currentquarter">የአሁኑ ሩብ ዓመት</string>
+    <string name="date_qs_currentyear">የአሁኑ ዓመት</string>
+    <string name="date_qs_lastweek">"ባለፈው ሳምንት"</string>
+    <string name="date_qs_lastmonth">"ያለፈው ወር"</string>
+    <string name="date_qs_lastquarter">ያለፈው ሩብ ዓመት</string>
+    <string name="date_qs_lastyear">"ያለፈው ዓመት"</string>
+    <string name="call_stats_date_filter">የጊዜ ክልሉን አስተካክል</string>
+    <string name="call_stats_reset_filter">የጊዜ ክልሉን ዳግም አስጀምር</string>
+    <string name="call_stats_sort_by_duration">በጥሪ ቆይታ ደርድር</string>
+    <string name="call_stats_sort_by_count">በጥሪ ብዛት ደርድር</string>
+    <string name="call_stats_title_for_number">ይህ ቁጥር</string>
+    <string name="call_stats_title_of_total">ከጠቅላላው</string>
+    <string name="call_stats_title_durations">የጥሪ ቆይታዎች</string>
+    <string name="call_stats_title_count">የጥሪ ብዛት</string>
+    <string name="call_stats_title_average_duration">አማካይ የጥሪ ቆይታ</string>
+    <string name="recent_calls_no_items_in_range">በተመረጠው የጊዜ ክልል ውስጥ የጥሪ ታሪክዎ ምንም ጥሪ የለውም።</string>
+</resources>

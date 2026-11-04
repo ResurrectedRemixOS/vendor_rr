@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">कल सक्रिय हुँदा</string>
+    <string name="incall_enable_dnd_title">कलका बेला बाधा नपुऱ्याउनुहोस् सक्षम गर्नुहोस्</string>
+    <string name="incall_vibrate_outgoing_title">उठाउँदा कम्पन गर्नुहोस्</string>
+    <string name="incall_vibrate_call_waiting_title">कल प्रतीक्षामा हुँदा कम्पन गर्नुहोस्</string>
+    <string name="incall_vibrate_hangup_title">कल काट्दा कम्पन गर्नुहोस्</string>
+    <string name="incall_vibrate_45_title">हरेक मिनेटमा कम्पन गर्नुहोस्</string>
+    <string name="incall_vibrate_45_summary">बाहिरी कलका बेला हरेक मिनेटको ४५ सेकेन्डमा कम्पन हुन्छ</string>
+    <string name="incall_dnd_dialog_message">बाधा नपुऱ्याउनुहोस् सक्षम गर्न, फोन एपलाई बाधा नपुऱ्याउनुहोस् स्थिति नियन्त्रण गर्ने अनुमति दिनुपर्छ।\nकृपया यसलाई अनुमति दिनुहोस्।</string>
+    <string name="allow">"अनुमति दिनुहोस्"</string>
+    <string name="deny">"अस्वीकार गर्नुहोस्"</string>
+    <string name="call_recording_category_title">कल रेकर्डिङ</string>
+    <string name="call_recording_format">अडियो ढाँचा</string>
+    <string name="call_via">मार्फत कल गर्नुहोस्</string>
+    <string name="call_via_dialog_title">मार्फत कल गर्नुहोस्…</string>
+    <string name="call_log_stats_title">तथ्याङ्क</string>
+    <string name="action_menu_helplines">हेल्पलाइनहरू</string>
+    <string name="default_dialer_text">यो प्रयोग गर्न डायलरलाई पूर्वनिर्धारित फोन एपको रूपमा सेट गर्नुपर्छ।</string>
+    <string name="default_dialer_action">"डिफल्ट जानकारीका रूपमा सेट गर्नुहोस्"</string>
+</resources>

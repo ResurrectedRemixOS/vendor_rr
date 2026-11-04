@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="red_color_name">Baie</string>
+    <string name="wht_color_name">Brume</string>
+    <string name="fruit1_color_name">Palette bicolore jaune et rouge</string>
+    <string name="fruit2_color_name">Palette bicolore verte et orange</string>
+    <string name="fruit3_color_name">Palette bicolore bleue et verte</string>
+    <string name="fruit4_color_name">Palette bicolore violet clair et bleu</string>
+    <string name="fruit5_color_name">Palette bicolore rose et indigo</string>
+</resources>

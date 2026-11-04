@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Рестартирај…</string>
+    <string name="global_action_restart_recovery">"Враќање"</string>
+    <string name="global_action_restart_bootloader">Bootloader</string>
+    <string name="global_action_restart_download">"Преземи"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Се рестартира…"</string>
+    <string name="global_action_restart_recovery_progress">Се рестартира во режим на опоравување…</string>
+    <string name="global_action_restart_bootloader_progress">Се рестартира во режим на bootloader…</string>
+    <string name="global_action_restart_download_progress">Се рестартира во режим на преземање…</string>
+    <string name="global_action_restart_fastboot_progress">Се рестартира во режим на fastbootd…</string>
+    <string name="global_action_current_user">Моментален</string>
+    <string name="global_action_users">"Корисници"</string>
+    <string name="clock">"Часовник"</string>
+    <string name="accessibility_adaptive_brightness">"Адаптивна осветленост"</string>
+    <string name="status_bar_icons_title">Икони на статусната лента</string>
+    <string name="quick_settings_ambient_display_label">"Амбиентален екран"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Амбиентален приказ исклучен.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Амбиентален приказ вклучен.</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD исклучен\nШтедач на батерија</string>
+    <string name="quick_settings_caffeine_label">"Кофеин"</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine исклучен.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine вклучен.</string>
+    <string name="quick_settings_heads_up_label">Известување на врвот</string>
+    <string name="accessibility_quick_settings_heads_up_off">Известувањата на врвот се исклучени.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Известувањата на врвот се вклучени.</string>
+    <string name="quick_settings_powershare_label">Безжично PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Безжично PowerShare исклучено\nШтедач на батерија</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Безжично PowerShare исклучено\nБатеријата е preslaba</string>
+    <string name="quick_settings_powershare_enabled_label">Безжично PowerShare е овозможено</string>
+    <string name="quick_settings_reading_mode">Режим на читање</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Режимот на читање е вклучен.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Режимот на читање е исклучен.</string>
+    <string name="quick_settings_sync_label">"Синхронизирај"</string>
+    <string name="accessibility_quick_settings_sync_off">Синхронизацијата е исклучена.</string>
+    <string name="accessibility_quick_settings_sync_on">Синхронизацијата е вклучена.</string>
+    <string name="quick_settings_profiles_label">Системски профили</string>
+    <string name="accessibility_quick_settings_profiles_off">Профилите се исклучени.</string>
+    <string name="accessibility_quick_settings_profiles">Профил: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"Интернет преку USB"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Поврзи се со…</string>
+    <string name="vpn_credentials_hint">Внесете ги вашите податоци за најава за поврзување со <xliff:g id="name">%s</xliff:g></string>
+    <string name="vpn_credentials_username">"Корисничко име"</string>
+    <string name="vpn_credentials_password">"Лозинка"</string>
+    <string name="vpn_credentials_dialog_connect">"Поврзи"</string>
+    <string name="status_bar_firewall">Заштитен ѕид</string>
+    <string name="battery_notification_channel_tv">Предупредување за батеријата</string>
+    <string name="screenshot_delete_label">"Избриши"</string>
+    <string name="screenshot_delete_description">Избриши слика од екранот</string>
+    <string name="screenrecord_lowquality_label">Пониск квалитет</string>
+    <string name="screenrecord_lowquality_summary">За помала големина на датотеката</string>
+    <string name="screenrecord_longer_timeout_switch_label">Поголема граница на големина на датотеката</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Ограничи ја големината на снимката на 15 GB</string>
+    <string name="screenrecord_skip_time_label">Прескокни тајмер</string>
+    <string name="screenrecord_skip_time_summary">Отстрани го чекањето од 3 секунди</string>
+    <string name="screenrecord_hevc_switch_label">HEVC кодирање</string>
+    <string name="screenrecord_hevc_switch_summary">Користи поефикасен HEVC енкодер</string>
+    <string name="zen_alarm_warning_indef">"Нема да се вклучи следниот аларм <xliff:g id="WHEN">%1$s</xliff:g> освен ако претходно не го исклучите ова"</string>
+</resources>

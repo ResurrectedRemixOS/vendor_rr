@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="profile_name_glasses">dispositivu</string>
+    <string name="profile_name_generic">dispositivu</string>
+    <string name="consent_yes">Permite</string>
+    <string name="consent_back">In segus</string>
+    <string name="permission_phone">Telèfonu</string>
+    <string name="permission_contacts">Cuntatos</string>
+    <string name="permission_calendar">Calendàriu</string>
+    <string name="permission_microphone">Micròfonu</string>
+    <string name="permission_call_logs">Registru de mutidas</string>
+    <string name="permission_nearby_devices">Dispositivos acanta</string>
+    <string name="permission_notifications">Notìficas</string>
+    <string name="permission_microphone_summary">Registra àudio</string>
+    <string name="device_type" product="device">dispositivu</string>
+</resources>

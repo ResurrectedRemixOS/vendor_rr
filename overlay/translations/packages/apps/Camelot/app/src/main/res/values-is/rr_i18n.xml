@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF-skoðari</string>
+    <string name="find_in_page">Finna á síðu</string>
+    <string name="share">"Deila"</string>
+    <string name="open_with">Opna með…</string>
+    <string name="download">"Sækja"</string>
+    <string name="pdf_document">PDF-skjal</string>
+    <string name="print">"Prenta"</string>
+    <string name="download_successful">Niðurhal tókst</string>
+    <string name="download_error">Villa kom upp við niðurhal skráarinnar</string>
+</resources>

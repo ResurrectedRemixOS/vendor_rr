@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="install">Instali</string>
+    <string name="done">Farite</string>
+    <string name="cancel">Nuligi</string>
+    <string name="generic_error_dlg_title">Eraro</string>
+    <string name="app_name_unknown">Nekonata</string>
+    <string name="external_sources_settings">Agordoj</string>
+    <string name="unarchive_settings_button">Agordoj</string>
+    <string name="button_install">Instali</string>
+    <string name="button_done">Farite</string>
+    <string name="button_cancel">Nuligi</string>
+    <string name="button_uninstall">Malinstali</string>
+    <string name="button_delete">Forigi</string>
+    <string name="button_settings">Agordoj</string>
+    <string name="button_retry">Reprovi</string>
+</resources>

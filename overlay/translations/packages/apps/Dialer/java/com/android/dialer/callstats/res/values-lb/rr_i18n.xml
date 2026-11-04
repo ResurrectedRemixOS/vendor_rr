@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_filter_from">Startdatum</string>
+    <string name="call_stats_filter_to">Schlussdatum</string>
+    <string name="date_qs_lastmonth">Leschte Mount</string>
+</resources>

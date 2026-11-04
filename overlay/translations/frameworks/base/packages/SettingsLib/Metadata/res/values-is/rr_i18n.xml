@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Rökgildi.</string>
+    <string name="any_int_type_description">Heiltala.</string>
+    <string name="any_string_type_description">Strengur.</string>
+    <string name="display_id_type_description">Auðkenni skjás í kerfinu (getur verið innbyggt eða ytra eftir stillingum).</string>
+    <string name="installed_package_name_type_description">Sérhvert forrit sem er uppsett á tækinu.</string>
+    <string name="int_in_range_type_description_from">Heiltala sem er jöfn eða stærri en %1$d, með skrefi %2$d.</string>
+    <string name="int_in_range_type_description_to">Heiltala sem er jöfn eða minni en %1$d, með skrefi %2$d.</string>
+    <string name="int_in_range_type_description_between">Heiltala á bilinu [%1$d, %2$d], með skrefi %3$d.</string>
+    <string name="time_of_day_type_description">Tímasetning á sólarhring á sniðinu HH:mm (24 klst.).</string>
+    <string name="time_duration_type_description">Tímalengd sem heiltala með nákvæmni í sekúndum.</string>
+    <string name="sim_slot_id_type_description">Gilt SIM-raufarauðkenni.</string>
+    <string name="subscription_id_type_description">Gilt áskriftarauðkenni.</string>
+    <string name="wifi_ssid_type_description">SSID Wi-Fi nets.</string>
+</resources>

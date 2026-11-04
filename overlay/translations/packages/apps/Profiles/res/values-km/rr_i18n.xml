@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">អ្នកផ្តល់ទំនុកចិត្តទម្រង់ប្រវត្តិរូប</string>
+    <string name="profile_picker_title">"កម្រងព័ត៌មាន"</string>
+    <string name="profile_none">"គ្មាន"</string>
+    <string name="profile_trust_agent_title">ភ្នាក់ងារទុកចិត្តទម្រង់ប្រវត្តិរូប</string>
+    <string name="profile_trust_agent_summary">អនុញ្ញាតឱ្យទម្រង់ប្រវត្តិរូបបិទការការពារអេក្រង់ចាក់សោជាបណ្តោះអាសន្ន</string>
+    <string name="trust_by_profile">ទុកចិត្តដោយទម្រង់ប្រវត្តិរូប</string>
+</resources>

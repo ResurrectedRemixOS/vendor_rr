@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Encaboxar</string>
+    <string name="finish">Finar</string>
+    <string name="setup_datetime_section_date">Data</string>
+    <string name="setup_datetime_section_time">Hora</string>
+    <string name="setup_date_format">Formatiar</string>
+    <string name="date_format_day">Día</string>
+    <string name="date_format_month">Mes</string>
+    <string name="setup_time_zone">Fusu horariu</string>
+</resources>

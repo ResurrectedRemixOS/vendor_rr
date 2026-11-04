@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Diddymu</string>
+    <string name="finish">Gorffen</string>
+    <string name="device_info_serial">Rhif cyfres</string>
+    <string name="setup_datetime_section_date">Dyddiad</string>
+    <string name="setup_datetime_section_time">Amser</string>
+    <string name="setup_date_format">Fformatio</string>
+    <string name="date_format_day">Dydd</string>
+    <string name="date_format_month">Mis</string>
+    <string name="date_format_year">Blwyddyn</string>
+    <string name="setup_time_zone">Cylchfa amser</string>
+    <string name="setup_24_hour_format">Defnyddio fformat 24 awr</string>
+    <string name="location_access_title">Defnyddio lleoliad</string>
+    <string name="setup_theme">Thema</string>
+    <string name="light">Golau</string>
+    <string name="swipe_up_to_go_home">Llusga i fyny i fynd adref</string>
+</resources>

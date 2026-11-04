@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">පැතිකඩ විශ්වාස සපයන්නා</string>
+    <string name="profile_picker_title">"පැතිකඩවල්"</string>
+    <string name="profile_none">"කිසිවක් නැත"</string>
+    <string name="profile_trust_agent_title">පැතිකඩ විශ්වාස නියෝජිතයා</string>
+    <string name="profile_trust_agent_summary">පැතිකඩ වලට අගුලු තිර ආරක්ෂාව තාවකාලිකව අක්‍රිය කිරීමට ඉඩ දෙයි</string>
+    <string name="trust_by_profile">පැතිකඩ විසින් විශ්වාස කරන ලද</string>
+</resources>

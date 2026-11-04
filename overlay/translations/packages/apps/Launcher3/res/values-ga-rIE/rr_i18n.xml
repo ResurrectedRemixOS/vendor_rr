@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_added_to_taskbar">Aip curtha leis an Tascbharra</string>
+    <string name="app_removed_from_taskbar">Aip bainte den Tascbharra</string>
+    <string name="home_screen_files_context_menu_copy_label">Cóipeáil</string>
+    <string name="home_screen_files_context_menu_rename_label">Athainmnigh</string>
+    <string name="home_screen_files_context_menu_delete_permanently_label">Scrios go buan</string>
+    <string name="home_screen_files_context_menu_move_to_trash_label">Bog go bruscar</string>
+    <string name="actions_popup_menu_button">Gníomhartha</string>
+    <string name="shortcuts_popup_menu_button">Aicearraí</string>
+    <string name="create_new_folder_button_text">Fillteán nua</string>
+    <string name="default_new_folder_name">Fillteán nua</string>
+    <string name="home_screen_files_rename_dialog_neutral_button">Cealaigh</string>
+    <string name="home_screen_files_rename_dialog_positive_button">Athainmnigh</string>
+    <string name="something_went_wrong">Chuaigh rud éigin mícheart</string>
+</resources>

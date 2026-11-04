@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_methods_labels">
+        <item>"Известување"</item>
+        <item>"Е-пошта"</item>
+        <item>SMS</item>
+        <item>"Аларм"</item>
+    </string-array>
+    <string-array name="availability">
+        <item>"Зафатен"</item>
+        <item>"Достапна"</item>
+        <item>Привремено</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Без одговор</item>
+        <item>"Да"</item>
+        <item>Можеби</item>
+        <item>"Не"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Само овој настан</item>
+        <item>Овој и идни настани</item>
+        <item>Сите настани</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Само овој настан</item>
+        <item>Сите настани во серијата</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>"Ден"</item>
+        <item>"Седмица"</item>
+        <item>"Месец"</item>
+        <item>Агенда</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Само ако е одбиено</item>
+        <item>Ако е одбиено или нема одговор</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ПОВТОРУВАЈ ДНЕВНО</item>
+        <item>ПОВТОРУВАЈ НЕДЕЛНО</item>
+        <item>ПОВТОРУВАЈ МЕСЕЧНО</item>
+        <item>ПОВТОРУВАЈ ГОДИШНО</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>секоја прва недела</item>
+        <item>секоја втора недела</item>
+        <item>секоја трета недела</item>
+        <item>секоја четврта недела</item>
+        <item>секоја последна недела</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>секој прв понеделник</item>
+        <item>секој втор понеделник</item>
+        <item>секој трет понеделник</item>
+        <item>секој четврт понеделник</item>
+        <item>секој последен понеделник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>секој прв вторник</item>
+        <item>секој втор вторник</item>
+        <item>секој трет вторник</item>
+        <item>секој четврт вторник</item>
+        <item>секој последен вторник</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>секоја прва среда</item>
+        <item>секоја втора среда</item>
+        <item>секоја трета среда</item>
+        <item>секоја четврта среда</item>
+        <item>секоја последна среда</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>секој прв четврток</item>
+        <item>секој втор четврток</item>
+        <item>секој трет четврток</item>
+        <item>секој четврт четврток</item>
+        <item>секој последен четврток</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>секој прв петок</item>
+        <item>секој втор петок</item>
+        <item>секој трет петок</item>
+        <item>секој четврт петок</item>
+        <item>секој последен петок</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>секоја прва сабота</item>
+        <item>секоја втора сабота</item>
+        <item>секоја трета сабота</item>
+        <item>секоја четврта сабота</item>
+        <item>секоја последна сабота</item>
+    </string-array>
+    <string name="user_rejected_calendar_write_permission_lineage">Календарот бара дозволи за читање и пишување на календарот за правилно функционирање. Обидете се повторно.</string>
+    <string name="preferences_menu_about_lineage">За Календар</string>
+    <string name="app_label">"Календар"</string>
+    <string name="when_label">Кога</string>
+    <string name="today">"Денес"</string>
+    <string name="tomorrow">"Утре"</string>
+    <string name="today_at_time_fmt">\"Денес во <xliff:g id="time_interval">%s</xliff:g>\"</string>
+    <string name="tomorrow_at_time_fmt">\"Утре во <xliff:g id="time_interval">%s</xliff:g>\"</string>
+    <string name="no_title_label">"(Без наслов)"</string>
+    <string name="no_reminder_label">"Нема"</string>
+    <string name="no_snooze_label">"Нема"</string>
+    <string name="calendar_refresh">\"Освежи\"</string>
+    <string name="show_day_view">\"Прикажи ден\"</string>
+    <string name="agenda_view">\"Агенда\"</string>
+    <string name="day_view">\"Ден\"</string>
+    <string name="week_view">\"Недела\"</string>
+    <string name="month_view">\"Месец\"</string>
+    <string name="event_view">\"Прикажи настан\"</string>
+    <string name="event_create">\"Нов настан\"</string>
+    <string name="event_edit">\"Уреди настан\"</string>
+    <string name="event_delete">\"Избриши настан\"</string>
+    <string name="share_label">"Сподели"</string>
+    <string name="goto_today">\"Денес\"</string>
+    <string name="goto_date">Оди на…</string>
+    <string name="menu_preferences">\"Поставки\"</string>
+    <string name="menu_info">"Информации"</string>
+    <string name="search">\"Пребарај\"</string>
+    <string name="hide_controls">\"Сокриј контроли\"</string>
+    <string name="show_controls">\"Прикажи контроли\"</string>
+    <string name="view_settings">\"Прикажи поставки\"</string>
+    <string name="select_synced_calendars_button">Календари за синхронизација</string>
+    <string name="hint_what">\"Име на настанот\"</string>
+    <string name="hint_where">\"Локација\"</string>
+    <string name="hint_description">\"Опис\"</string>
+    <string name="hint_url">\"URL\"</string>
+    <string name="hint_attendees">\"Гости\"</string>
+    <string name="creating_event">\"Настанот е создаден.\"</string>
+    <string name="saving_event">\"Настанот е зачуван.\"</string>
+    <string name="empty_event">\"Празниот настан не е создаден.\"</string>
+    <string name="creating_event_with_guest">\"Ќе се испратат покани.\"</string>
+    <string name="saving_event_with_guest">\"Ќе се испратат ажурирања.\"</string>
+    <string name="rsvp_accepted">\"Одговорено со да.\"</string>
+    <string name="rsvp_tentative">\"Одговорено можеби.\"</string>
+    <string name="rsvp_declined">\"Одговорено со не.\"</string>
+    <string name="create_event_dialog_save">"Зачувај"</string>
+    <string name="alert_title">Известувања од календарот</string>
+    <string name="foreground_notification_title">Заказување нови потсетници…</string>
+    <string name="foreground_notification_channel_name">Позадински задачи</string>
+    <string name="foreground_notification_channel_description">Известувањата се потребни за внатрешна синхронизација. Овој канал безбедно можете да го сокриете.</string>
+    <string name="event_info_title">Прикажи настан</string>
+    <string name="event_info_title_invite">Покана за состанок</string>
+    <string name="edit_event_all_day_label">Цел ден</string>
+    <string name="edit_event_calendar_label">"Календар"</string>
+    <string name="presence_label">Прикажи me како</string>
+    <string name="privacy_label">"Приватност"</string>
+    <string name="reminders_label">Додај потсетник</string>
+    <string name="no_syncable_calendars">"Нема календари"</string>
+    <string name="no_calendars_found">Пред да додадете настан, мора да додадете барем еден календар на вашиот уред</string>
+    <string name="add_calendar">Додај календар</string>
+    <string name="view_event_calendar_label">Календар:</string>
+    <string name="view_event_organizer_label">Организатор:</string>
+    <string name="choose_event_color_label">Избери боја на настанот</string>
+    <string name="event_color_picker_dialog_title">Боја на настанот</string>
+    <string name="event_color_set_to_default">Постави на стандардна боја на календарот</string>
+    <string name="calendar_color_picker_dialog_title">Боја на календарот</string>
+    <string name="calendar_square_color_picker_description">"Избирач на бои"</string>
+    <string name="view_event_response_label">Присуствувате?</string>
+    <string name="response_yes">"Да"</string>
+    <string name="response_maybe">Можеби</string>
+    <string name="response_no">"Не"</string>
+    <string name="email_guests_label">Испрати е-пошта до гостите</string>
+    <string name="email_organizer_label">Испрати е-пошта до организаторот</string>
+    <string name="email_picker_label">Испрати е-пошта со</string>
+    <string name="event_not_found">\"Настанот не е пронајден.\"</string>
+    <string name="map_label">"Карта"</string>
+    <string name="no_map">Не е инсталирана апликација за мапи</string>
+    <string name="call_label">Повик</string>
+    <string name="quick_response_settings">"Брзи одговори"</string>
+    <string name="quick_response_settings_summary">Уреди стандардни одговори при испраќање е-пошта до гости</string>
+    <string name="quick_response_settings_edit_title">"Брз одговор"</string>
+    <string name="quick_response_dialog_title">Избери брз одговор</string>
+    <string name="quick_response_email_failed">Не е пронајдена програма за е-пошта</string>
+    <string-array name="quick_response_defaults">
+        <item>Ќе задоцнам неколку минути.</item>
+        <item>Ќе бидам таму за околу 10 минути.</item>
+        <item>Почнете без мене.</item>
+        <item>Извинете, не можам да дојдам. Ќе треба да го преоструктуираме.</item>
+    </string-array>
+    <string name="quick_response_custom_msg">Напиши свој…</string>
+    <string name="event_info_organizer">Организатор:</string>
+    <string name="event_info_reminders_label">"Потсетници"</string>
+    <string name="agenda_today">Денес, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_yesterday">Вчера, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_tomorrow">Утре, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">"Се вчитува…"</string>
+    <string name="show_older_events">Допрете за преглед на настани пред <xliff:g id="oldest_search_range">%1$s</xliff:g></string>
+    <string name="show_newer_events">Допрете за преглед на настани по <xliff:g id="newest_search_range">%1$s</xliff:g></string>
+    <string name="search_title">Пребарај ги моите календари</string>
+    <string name="edit_event_label">\"Детали\"</string>
+    <string name="edit_label">\"Уреди\"</string>
+    <string name="delete_label">\"Избриши\"</string>
+    <string name="duplicate_label">Дупликат</string>
+    <string name="save_label">"Готово"</string>
+    <string name="discard_label">"Откажи"</string>
+    <string name="dismiss_all_label">\"Отфрли ги сите\"</string>
+    <string name="snooze_label">\"Одложи\"</string>
+    <string name="does_not_repeat">Еднократен настан</string>
+    <string name="endByDate">; до <xliff:g id="date">%s</xliff:g></string>
+    <string name="every_weekday">\"Секој работен ден (пон–пет)\"</string>
+    <string name="monthly">"Месечно"</string>
+    <string name="yearly_plain">Годишно</string>
+    <string name="custom" product="default">\"Прилагодено (не може да се прилагоди на телефон)\"</string>
+    <string name="modify_event">Промени само овој настан</string>
+    <string name="modify_all">Промени ги сите настани во низата</string>
+    <string name="modify_all_following">Промени го овој и сите идни настани</string>
+    <string name="new_event_dialog_label">\"Нов настан\"</string>
+    <string name="new_event_dialog_option">\"Нов настан\"</string>
+    <string name="delete_this_event_title">Да се избрише овој настан?</string>
+    <string name="delete_recurring_event_title">Да се избрише <xliff:g id="eventtitle">%s</xliff:g>?</string>
+    <string name="change_response_title">Промени одговор</string>
+    <string name="preferences_title">\"Поставки\"</string>
+    <string name="preferences_general_title">Поставка за приказ на календар</string>
+    <string name="preferences_month_view_portrait">Распоред на приказ по месеци (портрет)</string>
+    <string name="preferences_month_view_landscape">Распоред на приказ по месеци (пејзаж)</string>
+    <string name="preferences_theme">"Тема"</string>
+    <string name="preferences_system_theme">"Стандарден за системот"</string>
+    <string name="preferences_light_theme">"Светла"</string>
+    <string name="preferences_dark_theme">Темна</string>
+    <string name="preferences_black_theme">"Црна"</string>
+    <string name="preferences_color">Основна боја</string>
+    <string name="preferences_color_pick">Основна боја</string>
+    <string name="preferences_real_event_colors">Користи вистински бои на настани</string>
+    <string name="preferences_pure_black_night_mode">Режим на ноќ со чисто црна боја</string>
+    <string name="preferences_reminder_title">Известувања и потсетници</string>
+    <string name="preferences_hide_declined_title">Скриј одбиени настани</string>
+    <string name="default_start_title">Стандарден приказ</string>
+    <string name="display_options">"Опции за екранот"</string>
+    <string name="display_time">Прикажи време</string>
+    <string name="display_location">Прикажи локација</string>
+    <string name="maximum_number_of_lines">Максимален број редови во настан</string>
+    <string name="default_start_last">Претходно користен приказ</string>
+    <string name="preferences_week_start_day_title">Неделата започнува со</string>
+    <string name="preferences_week_start_day_dialog">Неделата започнува со</string>
+    <string name="week_start_locale_default">Стандардно според локалот</string>
+    <string name="preferences_days_per_week_title">Денови по недела</string>
+    <string name="preferences_days_per_week_dialog">Денови по недела</string>
+    <string name="preferences_default_event_duration_title">Стандардно траење на настан</string>
+    <string name="preferences_clear_search_history_title">Исчисти историја на пребарување</string>
+    <string name="preferences_clear_search_history_summary">Отстрани ги сите пребарувања што си ги направил</string>
+    <string name="search_history_cleared">Историјата на пребарување е исчистена.</string>
+    <string name="preferences_alerts_title">"Известувања"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"Вибрации"</string>
+    <string name="preferences_alerts_ringtone_title">"Звук"</string>
+    <string name="preferences_alerts_popup_title">Скокачко известување</string>
+    <string name="preferences_default_reminder_title">Стандардно време за потсетник</string>
+    <string name="preferences_default_reminder_dialog">Стандардно време за потсетник</string>
+    <string name="preferences_use_home_tz_title">"Користи домашна временска зона"</string>
+    <string name="preferences_use_home_tz_descrip">Прикажува календари и времиња на настани во твојата домашна временска зона при патување</string>
+    <string name="preferences_home_tz_title">"Домашна временска зона"</string>
+    <string name="preferences_show_week_num_title">Прикажи број на недела</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">Прашај за одложување на потсетник</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Прашај за време на одложување секогаш при одложување на потсетници</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Секогаш користи стандардно време на одложување</string>
+    <string name="snooze_delay_dialog_title">Постави време на одложување</string>
+    <string name="preferences_default_snooze_delay_title">Стандардно време на одложување</string>
+    <string name="preferences_default_snooze_delay_dialog">Стандардно одложување</string>
+    <string name="preferences_staggered_display_title">Наизменичен приказ</string>
+    <string name="preferences_staggered_display_summary">Прикажи преклопени настани во наизменичен распоред</string>
+    <string name="app_copyright">© 2015-<xliff:g>%1$s</xliff:g> The Etar Project. Делови © 2005-<xliff:g>%1$s</xliff:g> The Android Open Source Project.</string>
+    <string name="authors">Автори</string>
+    <string name="changelog">Список на промени</string>
+    <string name="license">"Лиценца"</string>
+    <string name="preferences_build_version">"Верзија"</string>
+    <string name="preferences_issues">Пријавете проблеми</string>
+    <string name="source_code">Извор</string>
+    <string name="gadget_no_events">Нема претстојни настани во календарот</string>
+    <string name="preferences_experimental_category">"Експериментално"</string>
+    <string name="preferences_reminders_responded_label">Прескокни потсетници</string>
+    <string name="preferences_reminders_responded_dialog">Прескокни потсетници</string>
+    <string name="copy_db">Испрати база на податоци</string>
+    <string name="directory_searching_fmt">Пребарување на <xliff:g id="domain">%s</xliff:g>…</string>
+    <string name="accessibility_remove_attendee">Отстрани учесник</string>
+    <string name="accessibility_pick_start_date">Датум на почеток</string>
+    <string name="accessibility_pick_start_time">"Време на започнување"</string>
+    <string name="accessibility_pick_end_date">Датум на крај</string>
+    <string name="accessibility_pick_end_time">"Време на завршување"</string>
+    <string name="accessibility_pick_time_zone">"Временска зона"</string>
+    <string name="accessibility_pick_recurrence">Повтори настан</string>
+    <string name="accessibility_add_reminder">Додај потсетник</string>
+    <string name="accessibility_remove_reminder">Отстрани потсетник</string>
+    <string name="accessibility_add_attendee">Додај учесник</string>
+    <string name="accessibility_all_day">Настан за цел ден</string>
+    <string name="accessibility_reminder_time">Време на потсетник</string>
+    <string name="accessibility_reminder_type">Вид на потсетник</string>
+    <string name="accessibility_reminder_showmeas">Прикажи me како</string>
+    <string name="accessibility_reminder_privacy">"Приватност"</string>
+    <string name="day_view_new_event_hint">+ Нов настан</string>
+    <string name="template_announce_item_index">Настан <xliff:g id="item_index">%1$s</xliff:g> од <xliff:g id="item_count">%2$s</xliff:g>.</string>
+    <string name="acessibility_selected_marker_description">Избран настан</string>
+    <string name="recurrence_month_pattern_by_day">на истиот ден секој месец</string>
+    <string name="recurrence_end_continously">Засекогаш</string>
+    <string name="recurrence_end_date_label">До одреден датум</string>
+    <string name="recurrence_end_date">До <xliff:g id="date">%s</xliff:g></string>
+    <string name="recurrence_end_count_label">За одреден број настани</string>
+    <string name="acessibility_recurrence_choose_end_date_description">промени датум на завршување</string>
+    <string name="user_rejected_calendar_write_permission">Etar бара дозволи за читање и пишување во календарот за правилно functioning. Обиди се повторно.</string>
+    <string name="calendar_permission_not_granted">Потребните дозволи се одбиени; овозможи ги во апликацијата Поставки за да уредуваш настани</string>
+    <string name="visibility_default">"Стандардно"</string>
+    <string name="visibility_confidential">Доверливо</string>
+    <string name="visibility_private">"Приватно"</string>
+    <string name="visibility_public">Јавно</string>
+    <string name="two_days">2 дена</string>
+    <string name="three_days">3 дена</string>
+    <string name="four_days">4 дена</string>
+    <string name="five_days">5 дена</string>
+    <string name="six_days">6 дена</string>
+    <string name="seven_days">7 дена</string>
+    <string name="zero_minutes">0 минути</string>
+    <string name="fifteen_minutes">"15 минути"</string>
+    <string name="thirty_minutes">"30 минути"</string>
+    <string name="one_hour">"1 час"</string>
+    <string name="one_and_a_half_hours">1,5 часа</string>
+    <string name="two_hours">"2 часа"</string>
+    <string name="error_generating_ics">Настана проблем при споделување на настанот</string>
+    <string name="cal_share_intent_title">Испрати настан до:</string>
+    <string name="cal_export_event_title">Извези настан</string>
+    <string name="cal_export_success">Настанот е успешно извезен</string>
+    <string name="cal_export_error">Неуспешно извезување на настанот</string>
+    <string name="cal_export_succ_msg">Настанот е успешно извезен</string>
+    <string name="cal_import_menu_title">Увези настан</string>
+    <string name="cal_nothing_to_import">"Нема ништо за увезување"</string>
+    <string name="cal_import_error_msg">Увезувањето во календарот не успеа</string>
+    <string name="cal_import_error_time_zone_msg">Не може да се разбере временската зона: %s</string>
+    <string name="cal_import_error_date_msg">Не може да се разбере датумот: %s</string>
+    <string name="cal_pick_ics">Избери датотека за увоз</string>
+    <string name="show_time_no">Не прикажувај време</string>
+    <string name="show_time_start">Само почетно време</string>
+    <string name="show_time_start_end">Почетно и крајно време</string>
+    <string name="show_time_start_end_below">Почетно и крајно време под настанот</string>
+    <string name="preferences_calendar_no_display_name">Календар без име</string>
+    <string name="preferences_calendar_account">Сметка %1$s</string>
+    <string name="preferences_calendar_account_local">Офлајн календар</string>
+    <string name="preferences_calendar_configure_account">Конфигурирај календар во %1$s</string>
+    <string name="preferences_calendar_number_of_events">[plural]:other %1$d настани</string>
+    <string name="preferences_calendar_delete">Избриши календар</string>
+    <string name="preferences_calendar_display_name">"Сменете го името"</string>
+    <string name="preferences_calendar_info_category">Информации за календарот</string>
+    <string name="preferences_calendar_color">"Боја"</string>
+    <string name="preferences_calendar_visible">Прикажи настани</string>
+    <string name="preferences_manage_notifications">Управувај со известувања</string>
+    <string name="preferences_calendar_synchronize">Синхронизирај го овој календар</string>
+    <string name="preferences_calendar_color_warning_title">"Опомена"</string>
+    <string name="preferences_calendar_color_warning_message">Промената на бојата може да биде поништена кога календарот повторно ќе се синхронизира.\n\nВо DAVx⁵ може да се исклучи „Управувај со боите на календарот“ за да се спречи ова.</string>
+    <string name="preferences_calendar_color_warning_button">Разбрав</string>
+    <string name="preferences_calendar_delete_message">Дали навистина сакаш да го избришеш овој календар?</string>
+    <string name="preferences_calendar_delete_delete">Избриши календар</string>
+    <string name="preferences_calendar_delete_cancel">"Откажи"</string>
+    <string name="preferences_list_calendar_summary_sync_off">Не е синхронизиран</string>
+    <string name="preferences_list_calendar_summary_invisible">Настаните не се прикажуваат</string>
+    <string name="preferences_list_general">"Општи поставки"</string>
+    <string name="preferences_list_add_remote">Додај CalDAV календар</string>
+    <string name="preferences_list_add_remote_etesync">Додај EteSync календар</string>
+    <string name="preferences_list_add_offline">Додај офлајн календар</string>
+    <string name="preferences_list_add_offline_title">Додај офлајн календар</string>
+    <string name="preferences_list_add_offline_error_empty">Внеси име на календар!</string>
+    <string name="preferences_list_add_offline_message">Офлајн календарите НЕ се синхронизираат со облачна услуга и се достапни само на твојот телефон.</string>
+    <string name="preferences_list_add_offline_button">Додај календар</string>
+    <string name="preferences_list_add_offline_name">"Име"</string>
+    <string name="preferences_list_add_offline_cancel">"Откажи"</string>
+    <string name="preferences_menu_about">За Etar</string>
+    <string name="offline_account_name">Офлајн календар</string>
+    <string name="after_start_of_event">по почетокот на настанот</string>
+    <string name="preferences_do_not_check_battery_optimization">Не проверувај оптимизација на батеријата</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Користи на сопствен ризик! Известувањата повеќе нема да работат, виџетот нема да се ажурира, а позадинските услуги ќе паднат. Но нема повторно да те прашаме дали сакаш да ја овозможиш позадинската услуга.</string>
+    <string name="calendars">Календари</string>
+    <string name="discard_event_changes">Дали сакаш да ги отфрлиш промените?</string>
+    <string name="discard">"Отфрли"</string>
+    <string name="cancel">"Откажи"</string>
+    <string name="chips_action_cancel">"Откажи"</string>
+</resources>

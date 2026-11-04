@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"기본값"</item>
+        <item>섭씨</item>
+        <item>화씨</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"기본값"</item>
+        <item>일</item>
+        <item>월</item>
+        <item>화</item>
+        <item>수</item>
+        <item>목</item>
+        <item>금</item>
+        <item>토</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"기본값"</item>
+        <item>미터법</item>
+        <item>미국식</item>
+        <item>영국식</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"지정되지 않음"</item>
+        <item>"중성"</item>
+        <item>"여성"</item>
+        <item>"남성"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>프랑스어</item>
+        <item>스페인어</item>
+        <item>이탈리아어</item>
+        <item>독일어</item>
+    </string-array>
+    <string name="face_enrolling_close_to_continue">설정 중 기기 접기</string>
+    <string name="face_enrolling_close_to_continue_description">얼굴 인증을 설정하거나 사용하려면 기기를 접어야 합니다</string>
+    <string name="face_enrolling_do_it_later">"나중에"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM 툴킷</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion >= <xliff:g id="number" example="29">%d</xliff:g>인 경우 사용</string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

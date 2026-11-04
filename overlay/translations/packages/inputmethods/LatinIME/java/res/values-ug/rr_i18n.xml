@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_split_keyboard_summary">توغرىسىغىلا</string>
+    <string name="split_keyboard_duplicate_keys">ئوتتۇرا كۇنۇپكىنى نۇسخىلا</string>
+    <string name="split_keyboard_duplicate_keys_summary">ھەرپتاختىنىڭ ھەر ئىككى تەرىپىدە ئوتتۇرىغا يېقىن ھەرپلەرنى كۆرسىتىدۇ</string>
+    <string name="spoken_description_split_keyboard">بۆلۈنگەن ھەرپتاختا</string>
+    <string name="spoken_description_merge_keyboard">بىرلەشتۈرۈلگەن ھەرپتاختا</string>
+    <string name="spoken_description_float_keyboard">لەيلىمە ھەرپتاختا</string>
+    <string name="spoken_description_dock_keyboard">لەڭگەر ھەرپتاختا</string>
+    <string name="floating_keyboard_drag_handle">ھەرپتاختىنى يۆتكەيدۇ</string>
+    <string name="floating_keyboard_resize_handle">ھەرپتاختا چوڭلۇقىنى تەڭشەيدۇ</string>
+    <string name="floating_keyboard_reset">ئەسلىگە قايتۇر</string>
+    <string name="floating_keyboard_hide">ھەرپتاختىنى يوشۇر</string>
+    <string name="floating_keyboard_switch_ime">كىرگۈزگۈچ ئالماشتۇر</string>
+</resources>

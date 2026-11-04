@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">ନିକଟସ୍ଥ ସ୍ଥାନ</string>
+    <string name="lookup_settings_label">ଫୋନ ନମ୍ବର ଖୋଜନ୍ତୁ</string>
+    <string name="enable_forward_lookup_title">ଫରୱାର୍ଡ ଲୁକଅପ</string>
+    <string name="enable_forward_lookup_summary">ଡାଏଲରରେ ସନ୍ଧାନ କରିବା ସମୟରେ ନିକଟସ୍ଥ ସ୍ଥାନ ଦେଖାନ୍ତୁ</string>
+    <string name="enable_reverse_lookup_title">ରିଭର୍ସ ଲୁକଅପ</string>
+    <string name="enable_reverse_lookup_summary">ଅଜ୍ଞାତ ନମ୍ବରରୁ ଆସୁଥିବା କଲ ସମୟରେ ବ୍ୟକ୍ତି କିମ୍ବା ସ୍ଥାନ ବିଷୟରେ ସୂଚନା ଖୋଜନ୍ତୁ</string>
+    <string name="forward_lookup_provider_title">ଫରୱାର୍ଡ ଲୁକଅପ ପ୍ରଦାନକାରୀ</string>
+    <string name="reverse_lookup_provider_title">ରିଭର୍ସ ଲୁକଅପ ପ୍ରଦାନକାରୀ</string>
+    <string name="lookup_disclaimer">ସୂଚନା ସଂଗ୍ରହ ପାଇଁ ଲୁକଅପ୍ ସୁରକ୍ଷିତ ପ୍ରୋଟୋକଲ (https) ମାଧ୍ୟମରେ ଦୂରବର୍ତ୍ତୀ ୱେବସାଇଟକୁ ଅନୁରୋଧ ପଠାଇପାରେ। ଅନୁରୋଧରେ ଅନ୍ୟ ପକ୍ଷର ଫୋନ ନମ୍ବର କିମ୍ବା ସନ୍ଧାନ ଶବ୍ଦ ଅନ୍ତର୍ଭୁକ୍ତ ହୋଇପାରେ</string>
+</resources>

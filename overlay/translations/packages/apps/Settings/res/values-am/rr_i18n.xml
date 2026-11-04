@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ነባሪ"</item>
+        <item>ሴልሺየስ</item>
+        <item>ፋራናይት</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ነባሪ"</item>
+        <item>እሑድ</item>
+        <item>ሰኞ</item>
+        <item>ማክሰኞ</item>
+        <item>ረቡዕ</item>
+        <item>ሐሙስ</item>
+        <item>ዓርብ</item>
+        <item>ቅዳሜ</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ነባሪ"</item>
+        <item>ሜትሪክ</item>
+        <item>የአሜሪካ ስርዓት</item>
+        <item>የዩናይትድ ኪንግደም ስርዓት</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"አልተገለጸም"</item>
+        <item>"ገለልተኛ"</item>
+        <item>"እንስት"</item>
+        <item>"ተባዕታይ"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>ፈረንሳይኛ</item>
+        <item>ስፓኒሽ</item>
+        <item>ጣሊያንኛ</item>
+        <item>ጀርመንኛ</item>
+    </string-array>
+    <string name="keyboard_extras_title">ተጨማሪዎች</string>
+    <string name="advanced_keyboard_settings_title">"የላቁ ቅንብሮች"</string>
+    <string name="adb_enable_root">የስር ማረም</string>
+    <string name="adb_enable_summary_root">አንድሮይድ ማረሚያን እንደ ስር እንዲሄድ ፍቀድ</string>
+    <string name="backup_transport_setting_label">የምትኬ አቅራቢ ቀይር</string>
+    <string name="backup_transport_title">የምትኬ አቅራቢ ይምረጡ</string>
+    <string name="berry_black_theme_title">ንጹህ ጥቁር</string>
+    <string name="berry_black_theme_summary">ለጨለማ ገፅታ ንጹህ ጥቁር ዳራ</string>
+    <string name="lineagelicense_title">LineageOS ሕጋዊ</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {የገንቢ ቅንብሮችን ለማንቃት አሁን # ደረጃ ቀርቶዎታል።} other {የገንቢ ቅንብሮችን ለማንቃት አሁን # ደረጃዎች ቀርቶዎታል።} }</string>
+    <string name="show_dev_on_cm">የገንቢ ቅንብሮችን አንቅተዋል!</string>
+    <string name="show_dev_already_cm">አያስፈልግም፣ የገንቢ ቅንብሮችን ቀድመው አንቅተዋል።</string>
+    <string name="status_bar_double_tap_to_sleep_title">ለመተኛት ይንኩ</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ማሳያውን ለማጥፋት በሁኔታ አሞሌው ወይም በመቆለፊያ ማያ ገጹ ላይ ሁለት ጊዜ ይንኩ</string>
+    <string name="high_touch_polling_rate_title">ከፍተኛ የንክኪ ድግግሞሽ</string>
+    <string name="high_touch_polling_rate_summary">የንክኪ ማያ ገጽ ድግግሞሽን ጨምር</string>
+    <string name="heads_up_notifications_enabled_title">ቅድመ-ማሳወቂያ</string>
+    <string name="heads_up_notifications_enabled_summary">ቅድመ-ቅድሚያ ማሳወቂያዎችን በትንሽ ተንሳፋፊ መስኮት አሳይ</string>
+    <string name="high_touch_sensitivity_title">ከፍተኛ የንክኪ ስሜታዊነት</string>
+    <string name="high_touch_sensitivity_summary">ጓንት ሲለብሱ መጠቀም እንዲቻል የንክኪ ማያ ገጽ ስሜታዊነትን ጨምር</string>
+    <string name="tethering_allow_vpn_upstreams_title">ለተገናኙ መሣሪያዎች VPN ተጠቀም</string>
+    <string name="tethering_allow_vpn_upstreams_summary">ይህ መሣሪያ VPN በሚጠቀምበት ጊዜ ከመገናኛ ነጥቡ ጋር የተገናኙ ሁሉም መሣሪያዎች ተመሳሳይ VPN ይጠቀማሉ</string>
+    <string name="lock_settings_picker_pattern_size_message">የስርዓተ-ጥለት መጠን ይምረጡ</string>
+    <string name="lockpattern_settings_enable_error_path_title">የስርዓተ-ጥለት ስህተት አሳይ</string>
+    <string name="lockpattern_settings_enable_dots_title">የስርዓተ-ጥለት ነጥቦችን አሳይ</string>
+    <string name="max_refresh_rate_title">ከፍተኛ የማደስ ፍጥነት</string>
+    <string name="min_refresh_rate_title">ዝቅተኛ የማደስ ፍጥነት</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">የጣት አሻራ ዳሳሹን በጡባዊዎ ፊት ላይ ያግኙ።</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">የጣት አሻራ ዳሳሹን በመሣሪያዎ ፊት ላይ ያግኙ።</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">የጣት አሻራ ዳሳሹን በስልክዎ ፊት ላይ ያግኙ።</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">የጣት አሻራ ዳሳሹን በጡባዊዎ ጀርባ ላይ ያግኙ።</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">የጣት አሻራ ዳሳሹን በመሣሪያዎ ጀርባ ላይ ያግኙ።</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">የጣት አሻራ ዳሳሹን በስልክዎ ጀርባ ላይ ያግኙ።</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">የጣት አሻራ ዳሳሹን በጡባዊዎ ጎን ላይ ያግኙ።</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">የጣት አሻራ ዳሳሹን በመሣሪያዎ ጎን ላይ ያግኙ።</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">የጣት አሻራ ዳሳሹን በስልክዎ ጎን ላይ ያግኙ።</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">በጡባዊዎ ፊት ላይ ያለውን ዳሳሽ ይንኩ።</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">በመሣሪያዎ ፊት ላይ ያለውን ዳሳሽ ይንኩ።</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">በስልክዎ ፊት ላይ ያለውን ዳሳሽ ይንኩ።</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">በጡባዊዎ ጀርባ ላይ ያለውን ዳሳሽ ይንኩ።</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">በመሣሪያዎ ጀርባ ላይ ያለውን ዳሳሽ ይንኩ።</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">በስልክዎ ጀርባ ላይ ያለውን ዳሳሽ ይንኩ።</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">በጡባዊዎ ጎን ላይ ያለውን ዳሳሽ ይንኩ።</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">በመሣሪያዎ ጎን ላይ ያለውን ዳሳሽ ይንኩ።</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">በስልክዎ ጎን ላይ ያለውን ዳሳሽ ይንኩ።</string>
+    <string name="show_navbar_hint_title">የአሰሳ ፍንጭ</string>
+    <string name="show_navbar_hint_summary">በማያ ገጹ ግርጌ የአሰሳ ፍንጭ አሞሌን አሳይ</string>
+    <string name="auto_brightness_one_shot_title">የአንድ ጊዜ ራስ-ብሩህነት</string>
+    <string name="auto_brightness_one_shot_summary">የብሩህነት ማስተካከያ የሚከናወነው ማያ ገጹ በሚበራበት ቅጽበት ብቻ ነው</string>
+    <string name="data_usage_app_restrict_all">የአውታረ መረብ መዳረሻን ፍቀድ</string>
+    <string name="data_usage_app_restrict_all_summary">የአውታረ መረብ አጠቃቀምን አንቃ</string>
+    <string name="data_usage_app_restrict_mobile">"የተንቀሳቃሽ ስልክ ውሂብ"</string>
+    <string name="data_usage_app_restrict_mobile_summary">የሞባይል ዳታ አጠቃቀምን አንቃ</string>
+    <string name="data_usage_app_restrict_vpn">የVPN ዳታ</string>
+    <string name="data_usage_app_restrict_vpn_summary">የVPN ዳታ አጠቃቀምን አንቃ</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi ውሂብ"</string>
+    <string name="data_usage_app_restrict_wifi_summary">የWi‑Fi ዳታ አጠቃቀምን አንቃ</string>
+    <string name="unlock_scramble_pin_layout_title">አቀማመጥን ቀላቅል</string>
+    <string name="unlock_scramble_pin_layout_summary">መሣሪያውን ሲከፍቱ የPIN አቀማመጡን ቀላቅል</string>
+    <string name="proximity_wake_title">በድንገት መንቃትን ይከላከሉ</string>
+    <string name="proximity_wake_summary">ማያ ገጹን ከማንቃትዎ በፊት የቅርበት ዳሳሹን ያረጋግጡ</string>
+    <string name="touchscreen_hovering_title">የንክኪ ማያ ገጽ ማንዣበብ</string>
+    <string name="touchscreen_hovering_summary">እንደ መዳፊት በድር አሳሾች፣ የርቀት ዴስክቶፖች ወዘተ ላይ ማያ ገጹ ላይ እንዲያንዣብቡ ያስችልዎታል</string>
+    <string name="wake_when_plugged_or_unplugged_title">በመሰካት ንቃ</string>
+    <string name="wake_when_plugged_or_unplugged_summary">ኃይል ምንጭ ሲገናኝ ወይም ሲለያይ ማያ ገጹን ያብሩ</string>
+    <string name="storage_warning_internal">ማስጠንቀቂያ፦ ይህ አማራጭ በትክክል ላይሰራ ወይም የውሂብ መጥፋት ሊያስከትል ይችላል፣ ስለዚህ አይመከርም!</string>
+    <string name="assisted_gps">የታገዘ GPS ተጠቀም</string>
+    <string name="assisted_gps_summary">የGPS መጀመርን በእጅጉ ሊያሻሽል የሚችል የሳተላይት እገዛ ውሂብን ከበይነመረቡ ያውርዱ። ለአደጋ ጊዜ ጥሪዎች የታገዘ GPS ሁልጊዜ ይፈቀዳል።</string>
+    <string name="battery_technology">ቴክኖሎጂ</string>
+    <string name="battery_health">"ጤና"</string>
+    <string name="battery_health_good">"ጥሩ"</string>
+    <string name="battery_health_overheat">"ግሏል"</string>
+    <string name="battery_health_dead">"ባትሪ አልቋል"</string>
+    <string name="battery_health_over_voltage">"ከቮልቴጁ በላይ ነው"</string>
+    <string name="battery_health_unspecified_failure">ያልታወቀ ስህተት</string>
+    <string name="battery_health_cold">"ቀዝቃዛ"</string>
+    <string name="battery_health_unknown">"ያልታወቀ"</string>
+    <string name="battery_temperature">"የሙቀት መጠን"</string>
+    <string name="battery_voltage">ቮልቴጅ</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">የዲዛይን አቅም</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">ከፍተኛ አቅም</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">በማዋቀር ጊዜ ስልኩን እጠፍ</string>
+    <string name="face_enrolling_close_to_continue_description">ፊት ለይቶ መክፈትን ለማዋቀር ወይም ለመጠቀም ስልኩ መታጠፍ አለበት</string>
+    <string name="face_enrolling_do_it_later">"በኋላ ላይ ያድርጉት"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">የሲም መሳሪያ ሳጥን</string>
+    <string name="platform_compat_target_sdk_title">ለ targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> ነቅቷል</string>
+    <string name="personal_context_title">የግል አውድ አስተዳዳሪ</string>
+</resources>

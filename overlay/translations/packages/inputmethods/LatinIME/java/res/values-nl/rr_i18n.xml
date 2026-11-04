@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_password">Cijferrij voor wachtwoorden</string>
+    <string name="number_row_password_summary">Altijd een cijferrij tonen voor alle indelingen met vier rijen toetsen voor wachtwoordinvoer</string>
+    <string name="backspace_trackpad">Backspace-toets als trackpad</string>
+    <string name="backspace_trackpad_summary">Veeg op de backspace-toets om woorden te verwijderen</string>
+    <string name="enable_split_keyboard_summary">Alleen in liggende stand</string>
+    <string name="split_keyboard_duplicate_keys">Middentoetsen dupliceren</string>
+    <string name="split_keyboard_duplicate_keys_summary">Toetsen nabij het midden op beide helften tonen</string>
+    <string name="spoken_description_split_keyboard">Gesplitst toetsenbord</string>
+    <string name="spoken_description_merge_keyboard">Toetsenbord samenvoegen</string>
+    <string name="spoken_description_float_keyboard">Zwevend toetsenbord</string>
+    <string name="spoken_description_dock_keyboard">Toetsenbord docken</string>
+    <string name="floating_keyboard_drag_handle">Toetsenbord verplaatsen</string>
+    <string name="floating_keyboard_resize_handle">Toetsenbord formaat wijzigen</string>
+    <string name="floating_keyboard_reset">"Resetten"</string>
+    <string name="floating_keyboard_hide">Toetsenbord verbergen</string>
+    <string name="floating_keyboard_switch_ime">"Invoermethode wijzigen"</string>
+</resources>

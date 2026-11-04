@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="media_info_unknown">Anhysybys</string>
+    <string name="file_action_edit">Golygu</string>
+    <string name="file_action_empty_trash">Gwagu\u2019r sbwriel</string>
+    <string name="file_action_information">Gwybodaeth</string>
+    <string name="file_action_remove_from_favorites">Tynnu o\u2019r ffefrynnau</string>
+    <string name="file_action_share">Rhannu</string>
+    <string name="file_action_undo_action">Dad-wneud</string>
+    <string name="set_wallpaper_label">Papur wal</string>
+    <string name="set_wallpaper">Gosod papur wal</string>
+    <string name="set_wallpaper_dialog_title">Gosod papur wal ymlaen</string>
+    <string name="set_wallpaper_home_screen">Sgrin gartref</string>
+    <string name="set_wallpaper_lock_screen">Sgrin glo</string>
+    <string name="title_activity_settings">Gosodiadau</string>
+    <string name="general_header">Cyffredinol</string>
+</resources>

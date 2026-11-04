@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="none">Nissun</string>
+    <string name="stylus_panel_title">Pene</string>
+    <string name="stylus_screen_on_when_removed_title">Impie il schermi</string>
+    <string name="stylus_screen_off_when_inserted_title">Distude il schermi</string>
+    <string name="stylus_vibrate_title">Vibrazion</string>
+    <string name="popup_calibration_title">Calibradure</string>
+    <string name="popup_camera_tip">Atenzion</string>
+    <string name="popup_sound_mofa">Magjie</string>
+    <string name="doze_brightness_adaptive">Luminositât adative</string>
+    <string name="alert_slider_mode_none">Nissun</string>
+</resources>

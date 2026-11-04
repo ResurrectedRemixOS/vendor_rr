@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">پروفائلز ٹرسٹ فراہم کنندہ</string>
+    <string name="profile_picker_title">"پروفائلز"</string>
+    <string name="profile_none">"کوئی نہیں"</string>
+    <string name="profile_trust_agent_title">پروفائلز ٹرسٹ ایجنٹ</string>
+    <string name="profile_trust_agent_summary">پروفائلز کو مقفل اسکرین کی حفاظت عارضی طور پر غیر فعال کرنے کی اجازت دیتا ہے</string>
+    <string name="trust_by_profile">پروفائل کی طرف سے قابلِ اعتماد</string>
+</resources>

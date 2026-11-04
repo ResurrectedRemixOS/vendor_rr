@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"বাতিল কৰক"</string>
+    <string name="finish">সম্পূৰ্ণ কৰক</string>
+    <string name="done">"হ’ল"</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g> লৈ স্বাগতম</string>
+    <string name="setup_managed_profile_welcome_message">আপোনাৰ কৰ্মস্থানৰ প্ৰফাইল ছেট আপ কৰক</string>
+    <string name="accessibility_settings">"দিব্যাংগসকলৰ বাবে থকা সুবিধাসমূহৰ ছেটিং"</string>
+    <string name="device_info">"ডিভাইচ সম্পৰ্কীয় তথ্য"</string>
+    <string name="device_information">"ডিভাইচৰ তথ্য"</string>
+    <string name="device_info_serial">"ক্ৰমিক নম্বৰ"</string>
+    <string name="setup_locale">"ভাষা"</string>
+    <string name="setup_euicc">eSIM ছেট আপ কৰক</string>
+    <string name="esim_support_summary">eSIM ছেট আপ কৰক বা SIM কাৰ্ড ভৰাওক। SIM কাৰ্ড ভৰাবলৈ, আপোনাৰ ডিভাইচৰ সৈতে দিয়া নিৰ্দেশনাবোৰ পঢ়ক।</string>
+    <string name="sim_missing_skip_title">SIM ছেট আপ এৰিব?</string>
+    <string name="sim_missing_skip_message">এই পদক্ষেপটো এৰিলে, ছেটিঙত SIM ছেট আপ নকৰালৈকে আপুনি মোবাইল নেটৱৰ্কৰ সৈতে সংযোগ নহ’ব।</string>
+    <string name="setup_datetime_section_date">"তাৰিখ"</string>
+    <string name="setup_datetime_section_time">"সময়"</string>
+    <string name="setup_date_format">"ফৰ্মেট কৰক"</string>
+    <string name="date_format_day">"দিন"</string>
+    <string name="date_format_month">"মাহ"</string>
+    <string name="date_format_year">"বছৰ"</string>
+    <string name="setup_time_zone">"সময় মণ্ডল"</string>
+    <string name="setup_24_hour_format">"২৪ ঘণ্টীয়া ফৰমেট ব্যৱহাৰ কৰক"</string>
+    <string name="intro_restore_title">এপ্‌ আৰু তথ্য পুনঃস্থাপন কৰক</string>
+    <string name="intro_restore_subtitle">আপোনাৰ যদি <xliff:g id="name" example="LineageOS">%s</xliff:g> বা আন কোনো OS ৰ পৰা Seedvault বেকআপ থাকে, আপুনি ইয়াত সেয়া পুনঃস্থাপন কৰিব পাৰে।</string>
+    <string name="intro_restore_button">বেকআপৰ পৰা পুনঃস্থাপন কৰক</string>
+    <string name="location_summary">আপোনাৰ ডিভাইচে কেনেকৈ অৱস্থান পৰিচালনা কৰিব বাছনি কৰক</string>
+    <string name="location_access_title">"অৱস্থান ব্যৱহাৰ কৰক"</string>
+    <string name="location_agps_access_title">উন্নত অৱস্থান</string>
+    <string name="location_agps_access_summary">অৱস্থান অন হ’লে, ইণ্টাৰনেটৰ পৰা উপগ্ৰহ সহায়ক ডাটা ডাউনলোড কৰক, যিয়ে GPS আৰম্ভণিৰ কাৰ্যক্ষমতা যথেষ্ট উন্নত কৰিব পাৰে।</string>
+    <string name="update_recovery_title">Resurrected Remix ৰিকাৱাৰী আপডেট কৰক</string>
+    <string name="update_recovery_description">প্ৰতিটো আপডেটৰ পিছত প্ৰথমবাৰ বুটত Resurrected Remix ৰিকাৱাৰী আপডেট কৰে।</string>
+    <string name="update_recovery_warning">ছেট আপ সম্পূৰ্ণ হোৱাৰ লগে লগে ৰিকাৱাৰী আপডেট কৰা হ’ব। ইয়াক অক্ষুণ্ণ ৰাখিব বিচাৰিলে, এই বৈশিষ্ট্যটো অক্ষম কৰক।</string>
+    <string name="update_recovery_setting">OS ৰ সৈতে Resurrected Remix ৰিকাৱাৰী আপডেট কৰক</string>
+    <string name="setup_services">Resurrected Remix বৈশিষ্ট্যসমূহ</string>
+    <string name="services_pp_explanation">এই সেৱাসমূহে আপোনাৰ ডিভাইচৰ ক্ষমতা বৃদ্ধিৰ বাবে কাম কৰে। <xliff:g id="name" example="LineageOS">%1$s</xliff:g> ৰ গোপনীয়তা নীতি অনুসৰি তথ্য ব্যৱহাৰ কৰা হ’ব।</string>
+    <string name="services_find_privacy_policy">আন এটা ডিভাইচত এই ঠিকনাত গৈ গোপনীয়তা নীতি পঢ়িব পাৰে:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> উন্নত কৰাত সহায় কৰক</string>
+    <string name="services_metrics_label">স্বয়ংক্ৰিয়ভাৱে <xliff:g id="name" example="LineageOS">%2$s</xliff:g> লৈ ডায়গনষ্টিক আৰু ব্যৱহাৰৰ তথ্য পঠাই <xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g>। এই তথ্যৰ দ্বাৰা আপোনাক চিনাক্ত কৰিব নোৱাৰে আৰু ই বেটাৰীৰ আয়ু, এপৰ কাৰ্যক্ষমতা আৰু নতুন <xliff:g id="name" example="LineageOS">%3$s</xliff:g> বৈশিষ্ট্যৰ দৰে কামত কাম কৰা দলসমূহক সহায় কৰে।</string>
+    <string name="services_metrics_title">ডায়গনষ্টিক তথ্য অৰিহণা দিয়ক</string>
+    <string name="setup_navigation">নেভিগেশ্বন</string>
+    <string name="navigation_summary">পছন্দৰ নেভিগেশ্বন পদ্ধতি বাছনি কৰক</string>
+    <string name="gesture_navigation">"আঙুলিৰ স্পৰ্শৰ নিৰ্দেশেৰে কৰা নেভিগেশ্বন"</string>
+    <string name="navbar_navigation">"৩ টা বুটামেৰে কৰা নেভিগেশ্বন"</string>
+    <string name="gesture_navigation_short">ভঙ্গিমা</string>
+    <string name="hide_gesture_hint">ভঙ্গিমা নেভিগেশ্বনৰ ইংগিত লুকুৱাওক</string>
+    <string name="setup_theme">"থীম"</string>
+    <string name="theme_summary">ডাৰ্ক থীমে কিছুমান স্ক্ৰীনত বেটাৰী অধিক সময় ৰখাবলৈ ক’লা পটভূমি ব্যৱহাৰ কৰে</string>
+    <string name="dark">ক্বাঁৰ</string>
+    <string name="light">"পাতল"</string>
+    <string name="pure_black_theme">খাঁটি ক’লা পটভূমি ব্যৱহাৰ কৰক</string>
+    <string name="theme_preview">থীমৰ পূৰ্বদৰ্শন</string>
+    <string name="swipe_up_to_go_home">"গৃহ স্ক্ৰীনলৈ যাবলৈ ওপৰলৈ ছোৱাইপ কৰক"</string>
+    <string name="tap_home_to_go_home">ঘৰলৈ যাবলৈ মাজৰ নেভ আইকনত টিপক</string>
+    <string name="press_center_to_go_home">ঘৰলৈ যাবলৈ মাজৰ বুটামত টিপক</string>
+</resources>

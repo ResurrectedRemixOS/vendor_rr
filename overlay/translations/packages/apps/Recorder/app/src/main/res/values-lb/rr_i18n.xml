@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share">Deelen</string>
+    <string name="stop">Stopp</string>
+    <string name="resume">Weider</string>
+    <string name="delete">Läschen</string>
+    <string name="cancel">Ofbriechen</string>
+    <string name="rename">Ëmbenennen</string>
+    <string name="confirm">Bestätegen</string>
+    <string name="discard">Verwerfen</string>
+    <string name="sound_recording_title_working">Gëtt opgeholl</string>
+    <string name="settings_title">Astellungen</string>
+    <string name="dialog_permissions_title">Berechtegungen</string>
+    <string name="dialog_permissions_dismiss">Verwerfen</string>
+    <string name="list_edit_confirm">Änneren</string>
+</resources>

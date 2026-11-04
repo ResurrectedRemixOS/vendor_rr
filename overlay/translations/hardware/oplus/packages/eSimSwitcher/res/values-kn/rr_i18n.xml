@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="esim_toggle_title">eSIM</string>
+    <string name="esim_toggle_summary">ವರ್ಚುವಲ್ ಸಿಮ್ ಕಾರ್ಡ್ ಬಳಸಲು ಆಪರೇಟರ್ ಪ್ರೊಫೈಲ್ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ ಮತ್ತು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="esim_toggle_dialog_cancel">"ರದ್ದುಮಾಡಿ"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="background_shortcuts_save_action">Bewarje</string>
+    <string name="pref_start_page_autoload_enabled">Ynskeakele</string>
+    <string name="pref_start_page_autoload_disabled">Utskeakele</string>
+    <string name="location_dialog_allow">Tastean</string>
+    <string name="protected_media_dialog_deny">Wegerje</string>
+    <string name="media_session_destroy_action">Stopje</string>
+</resources>

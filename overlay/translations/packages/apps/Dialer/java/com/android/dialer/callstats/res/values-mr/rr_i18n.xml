@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hour">
+        <item quantity="one">%d तास</item>
+        <item quantity="two">%d तास</item>
+        <item quantity="few">%d तास</item>
+        <item quantity="many">%d तास</item>
+        <item quantity="other">%d तास</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="one">%d कॉल</item>
+        <item quantity="two">%d कॉल</item>
+        <item quantity="few">%d कॉल</item>
+        <item quantity="many">%d कॉल</item>
+        <item quantity="other">%d कॉल</item>
+    </plurals>
+    <string name="call_stats_detail_title">संपर्क आकडेवारीचा तपशील</string>
+    <string name="call_stats_incoming">येणारे: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">जाणारे: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">चुकलेले: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">ब्लॉक केलेले: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">एकूण: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">एकूण: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">प्रारंभ तारीख</string>
+    <string name="call_stats_filter_to">समाप्ती तारीख</string>
+    <string name="call_stats_filter_picker_title">श्रेणी फिल्टर करा</string>
+    <string name="date_quick_selection">जलद निवड</string>
+    <string name="date_qs_currentmonth">चालू महिना</string>
+    <string name="date_qs_currentquarter">चालू तिमाही</string>
+    <string name="date_qs_currentyear">चालू वर्ष</string>
+    <string name="date_qs_lastweek">"मागील आठवडा"</string>
+    <string name="date_qs_lastmonth">"मागील महिना"</string>
+    <string name="date_qs_lastquarter">गेली तिमाही</string>
+    <string name="date_qs_lastyear">"मागील वर्ष"</string>
+    <string name="call_stats_date_filter">वेळ मर्यादा समायोजित करा</string>
+    <string name="call_stats_reset_filter">वेळ मर्यादा रीसेट करा</string>
+    <string name="call_stats_sort_by_duration">कॉलच्या कालावधीनुसार क्रमवारी लावा</string>
+    <string name="call_stats_sort_by_count">कॉलच्या संख्येनुसार क्रमवारी लावा</string>
+    <string name="call_stats_title_for_number">हा नंबर</string>
+    <string name="call_stats_title_of_total">एकूणपैकी</string>
+    <string name="call_stats_title_durations">कॉलचा कालावधी</string>
+    <string name="call_stats_title_count">कॉलची संख्या</string>
+    <string name="call_stats_title_average_duration">सरासरी कॉल कालावधी</string>
+    <string name="recent_calls_no_items_in_range">निवडलेल्या वेळ मर्यादेत तुमच्या कॉल लॉगमध्ये कोणतेही कॉल नाहीत.</string>
+</resources>

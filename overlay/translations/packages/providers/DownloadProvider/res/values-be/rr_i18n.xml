@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="duration_minutes">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> хв</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> хв</item>
+        <item quantity="many"><xliff:g id="count">%d</xliff:g> хв</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> хв</item>
+    </plurals>
+    <string name="button_resume_download">"Узнавіць"</string>
+    <string name="button_pause_download">Паўза</string>
+    <string name="notif_summary_paused">%d прыпынена</string>
+</resources>

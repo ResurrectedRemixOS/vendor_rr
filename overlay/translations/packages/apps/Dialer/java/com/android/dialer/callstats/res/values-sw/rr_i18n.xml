@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Maelezo ya takwimu za mwasiliani</string>
+    <string name="call_stats_incoming">Zinazoingia: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Zinazotoka: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Zilizokosekana: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Zilizozuiwa: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Jumla: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Jumla: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"Tarehe ya kuanza"</string>
+    <string name="call_stats_filter_to">"Tarehe ya mwisho"</string>
+    <string name="call_stats_filter_picker_title">Kipindi cha muda</string>
+    <string name="date_quick_selection">Uteuzi wa haraka</string>
+    <string name="date_qs_currentmonth">Mwezi huu</string>
+    <string name="date_qs_currentquarter">Robo mwaka huu</string>
+    <string name="date_qs_currentyear">Mwaka huu</string>
+    <string name="date_qs_lastweek">"Wiki iliyopita"</string>
+    <string name="date_qs_lastmonth">"Mwezi uliopita"</string>
+    <string name="date_qs_lastquarter">Robo iliyopita</string>
+    <string name="date_qs_lastyear">"Mwaka uliopita"</string>
+    <string name="call_stats_date_filter">Rekebisha kipindi cha muda</string>
+    <string name="call_stats_reset_filter">Weka upya kipindi cha muda</string>
+    <string name="call_stats_sort_by_duration">Panga kwa muda wa simu</string>
+    <string name="call_stats_sort_by_count">Panga kwa idadi ya simu</string>
+    <string name="call_stats_title_for_number">Nambari hii</string>
+    <string name="call_stats_title_of_total">Kati ya jumla</string>
+    <string name="call_stats_title_durations">Muda wa simu</string>
+    <string name="call_stats_title_count">Idadi ya simu</string>
+    <string name="call_stats_title_average_duration">Wastani wa muda wa simu</string>
+    <string name="recent_calls_no_items_in_range">Rekodi yako ya simu haina simu zozote katika kipindi hiki cha muda.</string>
+</resources>

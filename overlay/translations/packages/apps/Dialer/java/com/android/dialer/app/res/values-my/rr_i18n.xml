@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">ဖုန်းခေါ်နေစဉ်</string>
+    <string name="incall_enable_dnd_title">ဖုန်းခေါ်ဆိုစဉ် မနှောင့်ယှက်ရ ဖွင့်ရန်</string>
+    <string name="incall_vibrate_outgoing_title">ဖြေသောအခါ တုန်ခါရန်</string>
+    <string name="incall_vibrate_call_waiting_title">ခေါ်ဆိုမှုစောင့်ဆိုင်းစဉ် တုန်ခါရန်</string>
+    <string name="incall_vibrate_hangup_title">ဖုန်းချသောအခါ တုန်ခါရန်</string>
+    <string name="incall_vibrate_45_title">မိနစ်တိုင်း တုန်ခါရန်</string>
+    <string name="incall_vibrate_45_summary">အထွက်ခေါ်ဆိုမှုအတွင်း မိနစ်တိုင်း၏ စက္ကန့် 45 တွင် တုန်ခါသည်</string>
+    <string name="incall_dnd_dialog_message">မနှောင့်ယှက်ရ ကို ဖွင့်ရန်အတွက် ဖုန်းအက်ပ်သည် မနှောင့်ယှက်ရ အခြေအနေကို ထိန်းချုပ်ခွင့်ရရှိရန် လိုအပ်ပါသည်။\nကျေးဇူးပြု၍ ခွင့်ပြုပေးပါ။</string>
+    <string name="allow">"ခွင့်ပြုရန်"</string>
+    <string name="deny">"ငြင်းပယ်ရန်"</string>
+    <string name="call_recording_category_title">ဖုန်းခေါ်ဆိုမှု မှတ်တမ်းတင်ခြင်း</string>
+    <string name="call_recording_format">အသံဖော်မတ်</string>
+    <string name="call_via">မှတစ်ဆင့် ခေါ်ရန်</string>
+    <string name="call_via_dialog_title">မှတစ်ဆင့် ခေါ်ရန်…</string>
+    <string name="call_log_stats_title">စာရင်းအင်းများ</string>
+    <string name="action_menu_helplines">အရေးပေါ်ဖုန်းနံပါတ်များ</string>
+    <string name="default_dialer_text">အသုံးပြုရန် Dialer ကို မူလဖုန်းအက်ပ်အဖြစ် သတ်မှတ်ရပါမည်။</string>
+    <string name="default_dialer_action">"မူရင်းအဖြစ် သတ်မှတ်ရန်"</string>
+</resources>

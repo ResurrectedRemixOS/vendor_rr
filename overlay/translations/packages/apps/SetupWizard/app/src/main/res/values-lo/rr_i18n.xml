@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ຕົວຊ່ວຍຕັ້ງຄ່າ</string>
+    <string name="cancel">"ຍົກເລີກ"</string>
+    <string name="next">ຖັດໄປ</string>
+    <string name="finish">ສຳເລັດ</string>
+    <string name="skip">ຂ້າມ</string>
+    <string name="start">"ເລີ່ມ"</string>
+    <string name="done">"ແລ້ວໆ"</string>
+    <string name="ok">"ຕົກລົງ"</string>
+    <string name="loading">"ກະລຸນາລໍຖ້າ…"</string>
+    <string name="setup_welcome_message">ຍິນດີຕ້ອນຮັບສູ່ <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">ຕັ້ງຄ່າໂປຣໄຟລ໌ງານຂອງທ່ານ</string>
+    <string name="emergency_call">"ໂທສຸກເສີນ"</string>
+    <string name="accessibility_settings">"ການຕັ້ງຄ່າກ່ຽວກັບການເຂົ້າເຖິງ"</string>
+    <string name="device_info">"ຂໍ້ມູນອຸປະກອນ"</string>
+    <string name="device_information">"ຂໍ້ມູນອຸປະກອນ"</string>
+    <string name="device_info_serial">"ໝາຍເລກຊີຣຽວ"</string>
+    <string name="setup_locale">"ພາສາ"</string>
+    <string name="sim_locale_changed">ກວດພົບຊິມ %1$s</string>
+    <string name="setup_euicc">ຕັ້ງຄ່າ eSIM</string>
+    <string name="setup_sim_missing">ບໍ່ພົບຊິມກາດ</string>
+    <string name="esim_support_summary">ຕັ້ງຄ່າ eSIM ຫຼື ໃສ່ຊິມກາດ. ເພື່ອໃສ່ຊິມກາດ ໃຫ້ອ່ານຄຳແນະນຳທີ່ມາພ້ອມອຸປະກອນຂອງທ່ານ.</string>
+    <string name="sim_missing_summary" product="tablet">ບໍ່ພົບຊິມກາດໃນແທັບເລັດຂອງທ່ານ. ເພື່ອໃສ່ຊິມກາດ ໃຫ້ອ່ານຄຳແນະນຳທີ່ມາພ້ອມອຸປະກອນຂອງທ່ານ.</string>
+    <string name="sim_missing_summary" product="default">ບໍ່ພົບຊິມກາດໃນໂທລະສັບຂອງທ່ານ. ເພື່ອໃສ່ຊິມກາດ ໃຫ້ອ່ານຄຳແນະນຳທີ່ມາພ້ອມອຸປະກອນຂອງທ່ານ.</string>
+    <string name="sim_missing_skip_title">ຂ້າມການຕັ້ງຄ່າຊິມບໍ?</string>
+    <string name="sim_missing_skip_message">ຫາກຂ້າມຂັ້ນຕອນນີ້ ທ່ານຈະບໍ່ເຊື່ອມຕໍ່ເຄືອຂ່າຍມືຖືຈົນກວ່າຈະຕັ້ງຄ່າຊິມໃນການຕັ້ງຄ່າ.</string>
+    <string name="setup_datetime">"ວັນ​ທີ ແລະ ເວ​ລາ"</string>
+    <string name="date_time_summary">ຕັ້ງເຂດເວລາ ແລະ ປັບວັນທີ ແລະ ເວລາປັດຈຸບັນຖ້າຈຳເປັນ</string>
+    <string name="setup_current_date">ວັນທີປັດຈຸບັນ</string>
+    <string name="setup_current_time">ເວລາປັດຈຸບັນ</string>
+    <string name="setup_datetime_section_date">"ວັນທີ"</string>
+    <string name="setup_datetime_section_time">"ເວລາ"</string>
+    <string name="setup_date_format">"ຟໍແມັດ"</string>
+    <string name="date_format_day">"ມື້"</string>
+    <string name="date_format_month">"ເດືອນ"</string>
+    <string name="date_format_year">"ປີ"</string>
+    <string name="setup_time_zone">"ເຂດເວລາ"</string>
+    <string name="setup_24_hour_format">"ໃຊ້ຮູບແບບ 24 ຊົ່ວໂມງ"</string>
+    <string name="intro_restore_title">ກູ້ຄືນແອັບ ແລະ ຂໍ້ມູນ</string>
+    <string name="intro_restore_subtitle">ຫາກທ່ານມີການສຳຮອງຂໍ້ມູນ Seedvault ຈາກ <xliff:g id="name" example="LineageOS">%s</xliff:g> ຫຼື OS ອື່ນ ທ່ານສາມາດກູ້ຄືນໄດ້ທີ່ນີ້.</string>
+    <string name="intro_restore_button">ກູ້ຄືນຈາກຂໍ້ມູນສຳຮອງ</string>
+    <string name="setup_location">"ບໍລິການສະຖານທີ່"</string>
+    <string name="location_summary">ເລືອກວິທີທີ່ອຸປະກອນຂອງທ່ານຈັດການຕຳແໜ່ງ</string>
+    <string name="location_access_title">"ໃຊ້ສະຖານທີ່"</string>
+    <string name="location_agps_access_title">ຕຳແໜ່ງແບບເສີມ</string>
+    <string name="location_access_summary">ອະນຸຍາດແອັບທີ່ໄດ້ຂໍສິດໃຊ້ຂໍ້ມູນຕຳແໜ່ງຂອງທ່ານ. ອາດລວມເຖິງຕຳແໜ່ງປັດຈຸບັນ ແລະ ຕຳແໜ່ງທີ່ຜ່ານມາ.</string>
+    <string name="location_agps_access_summary">ເມື່ອເປີດຕຳແໜ່ງ ໃຫ້ດາວໂຫຼດຂໍ້ມູນຊ່ວຍເຫຼືອດາວທຽມຈາກອິນເຕີເນັດ ເຊິ່ງຊ່ວຍປັບປຸງປະສິດທິພາບການເລີ່ມ GPS ໄດ້ຢ່າງຫຼວງຫຼາຍ.</string>
+    <string name="update_recovery_title">ອັບເດດ Recovery ຂອງ Resurrected Remix</string>
+    <string name="update_recovery_description">ອັບເດດ Recovery ຂອງ Resurrected Remix ໃນການບູດຄັ້ງທຳອິດຫຼັງຈາກທຸກການອັບເດດ.</string>
+    <string name="update_recovery_warning">Recovery ຈະຖືກອັບເດດທັນທີເມື່ອທ່ານຕັ້ງຄ່າສຳເລັດ. ຫາກຕ້ອງການຄົງໄວ້ ໃຫ້ປິດຄຸນສົມບັດນີ້.</string>
+    <string name="update_recovery_setting">ອັບເດດ Recovery ຂອງ Resurrected Remix ພ້ອມກັບ OS</string>
+    <string name="setup_services">ຄຸນສົມບັດ Resurrected Remix</string>
+    <string name="services_pp_explanation">ບໍລິການເຫຼົ່ານີ້ເຮັດວຽກເພື່ອຂະຫຍາຍຄວາມສາມາດຂອງອຸປະກອນຂອງທ່ານ. ຂໍ້ມູນຈະຖືກນຳໃຊ້ຕາມນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງ <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">ທ່ານສາມາດອ່ານນະໂຍບາຍຄວາມເປັນສ່ວນຕົວໃນອຸປະກອນອື່ນໂດຍເຂົ້າເບິ່ງ:</string>
+    <string name="services_help_improve_cm">ຊ່ວຍປັບປຸງ <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> ໂດຍອັດຕະໂນມັດສົ່ງຂໍ້ມູນການວິນິດໄສ ແລະ ການນຳໃຊ້ໄປຫາ <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. ຂໍ້ມູນນີ້ບໍ່ສາມາດໃຊ້ລະບຸຕົວທ່ານໄດ້ ແລະ ຊ່ວຍທີມງານທີ່ພັດທະນາດ້ານຕ່າງໆ ເຊັ່ນ ອາຍຸແບັດເຕີຣີ, ປະສິດທິພາບແອັບ ແລະ ຄຸນສົມບັດໃໝ່ຂອງ <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">ປະກອບສ່ວນຂໍ້ມູນການວິນິດໄສ</string>
+    <string name="services_os_nav_keys_label"><b>ໃຊ້ປຸ່ມນຳທາງເທິງໜ້າຈໍ</b> ແທນປຸ່ມຮາດແວ.</string>
+    <string name="setup_navigation">ການນຳທາງ</string>
+    <string name="navigation_summary">ເລືອກວິທີການນຳທາງທີ່ຕ້ອງການ</string>
+    <string name="gesture_navigation">"ການນຳທາງແບບທ່າທາງ"</string>
+    <string name="navbar_navigation">"ການນຳທາງແບບ 3 ປຸ່ມ"</string>
+    <string name="gesture_navigation_short">ທ່າທາງ</string>
+    <string name="hide_gesture_hint">ເຊື່ອງຄຳແນະນຳທ່າທາງການນຳທາງ</string>
+    <string name="setup_theme">"ຮູບແບບສີສັນ"</string>
+    <string name="theme_summary">ໂໝດມືດໃຊ້ພື້ນຫຼັງສີດຳເພື່ອຊ່ວຍຢືດອາຍຸແບັດເຕີຣີໃນບາງໜ້າຈໍ</string>
+    <string name="dark">ມືດ</string>
+    <string name="light">"ໜ້ອຍ"</string>
+    <string name="pure_black_theme">ໃຊ້ພື້ນຫຼັງສີດຳລ້ວນ</string>
+    <string name="theme_preview">ຕົວຢ່າງຮູບແບບສີສັນ</string>
+    <string name="swipe_up_to_go_home">"ປັດຂຶ້ນເພື່ອໄປຫາໜ້າຫຼັກ"</string>
+    <string name="tap_home_to_go_home">ແຕະໄອຄອນນຳທາງກາງເພື່ອກັບໄປໜ້າຫຼັກ</string>
+    <string name="press_center_to_go_home">ກົດປຸ່ມກາງເພື່ອກັບໄປໜ້າຫຼັກ</string>
+</resources>

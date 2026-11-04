@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">නැවත ආරම්භ කරන්න…</string>
+    <string name="global_action_restart_system">"පද්ධතිය"</string>
+    <string name="global_action_restart_recovery">"ප්‍රතිසාධනය"</string>
+    <string name="global_action_restart_bootloader">බූට්ලෝඩරය</string>
+    <string name="global_action_restart_download">"බාගන්න"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"යළි ආරම්භ කරමින්..."</string>
+    <string name="global_action_restart_recovery_progress">ප්‍රකෘතිමත් ප්‍රකෘතියට නැවත ආරම්භ වෙමින්…</string>
+    <string name="global_action_restart_bootloader_progress">bootloader ප්‍රකාරයට නැවත ආරම්භ වෙමින්…</string>
+    <string name="global_action_restart_download_progress">බාගත ප්‍රකාරයට නැවත ආරම්භ වෙමින්…</string>
+    <string name="global_action_restart_fastboot_progress">fastbootd ප්‍රකාරයට නැවත ආරම්භ වෙමින්…</string>
+    <string name="global_action_current_user">වත්මන්</string>
+    <string name="global_action_users">"පරිශීලකයින්"</string>
+    <string name="clock">"ඔරලෝසුව"</string>
+    <string name="accessibility_adaptive_brightness">"අනුවර්තක දීප්තිය"</string>
+    <string name="status_bar_icons_title">තත්ත්ව තීරු නිරූපක</string>
+    <string name="quick_settings_ambient_display_label">"ස්ථානික සංදර්ශකය"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">ඇම්බියන්ට් සංදර්ශකය අක්‍රියයි.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">ඇම්බියන්ට් සංදර්ශකය සක්‍රියයි.</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD අක්‍රියයි\nබැටරි සුරැකුම</string>
+    <string name="quick_settings_caffeine_label">"කැෆේන්"</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine අක්‍රියයි.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine සක්‍රියයි.</string>
+    <string name="quick_settings_heads_up_label">හිස ඉහළ</string>
+    <string name="accessibility_quick_settings_heads_up_off">හිස ඉහළ අක්‍රියයි.</string>
+    <string name="accessibility_quick_settings_heads_up_on">හිස ඉහළ සක්‍රියයි.</string>
+    <string name="quick_settings_powershare_label">රැහැන් රහිත PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">රැහැන් රහිත PowerShare අක්‍රියයි\nබැටරි සුරැකුම</string>
+    <string name="quick_settings_powershare_off_low_battery_label">රැහැන් රහිත PowerShare අක්‍රියයි\nබැටරිය ඉතා අඩුයි</string>
+    <string name="quick_settings_powershare_enabled_label">රැහැන් රහිත PowerShare සක්‍රියයි</string>
+    <string name="quick_settings_reading_mode">කියවීමේ ප්‍රකාරය</string>
+    <string name="accessibility_quick_settings_reading_mode_on">කියවීමේ ප්‍රකාරය සක්‍රියයි.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">කියවීමේ ප්‍රකාරය අක්‍රියයි.</string>
+    <string name="quick_settings_sync_label">"සමමුහුර්ත කිරීම"</string>
+    <string name="accessibility_quick_settings_sync_off">සමමුහුර්ත කිරීම අක්‍රියයි.</string>
+    <string name="accessibility_quick_settings_sync_on">සමමුහුර්ත කිරීම සක්‍රියයි.</string>
+    <string name="quick_settings_profiles_label">පද්ධති පැතිකඩ</string>
+    <string name="accessibility_quick_settings_profiles_off">පැතිකඩ අක්‍රියයි.</string>
+    <string name="accessibility_quick_settings_profiles">පැතිකඩ: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"USB ටෙදරින්"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">සම්බන්ධ වන්න…</string>
+    <string name="vpn_credentials_hint"><xliff:g id="name">%s</xliff:g> සමඟ සම්බන්ධ වීමට ඔබේ අක්තපත්‍ර ඇතුළත් කරන්න</string>
+    <string name="vpn_credentials_username">"පරිශීලක නාමය"</string>
+    <string name="vpn_credentials_password">"මුරපදය"</string>
+    <string name="vpn_credentials_dialog_connect">"සම්බන්ධ කරන්න"</string>
+    <string name="status_bar_firewall">ගිනි පවුර</string>
+    <string name="battery_notification_channel_tv">බැටරි අනතුර ඇඟවීම</string>
+    <string name="screenshot_delete_label">"මකන්න"</string>
+    <string name="screenshot_delete_description">තිර රුව මකන්න</string>
+    <string name="screenrecord_lowquality_label">අඩු ගුණාත්මකභාවය</string>
+    <string name="screenrecord_lowquality_summary">කුඩා ගොනු ප්‍රමාණය සඳහා</string>
+    <string name="screenrecord_longer_timeout_switch_label">විශාල ගොනු ප්‍රමාණ සීමාව</string>
+    <string name="screenrecord_longer_timeout_switch_summary">පටිගත කිරීමේ ප්‍රමාණය GB 15 ට සීමා කරන්න</string>
+    <string name="screenrecord_skip_time_label">කල් ඇරීමේ ටයිමරය</string>
+    <string name="screenrecord_skip_time_summary">තත්පර 3 ක රැඳී සිටීම ඉවත් කරන්න</string>
+    <string name="screenrecord_hevc_switch_label">HEVC කේතනය</string>
+    <string name="screenrecord_hevc_switch_summary">වඩා කාර්යක්ෂම HEVC කේතකය භාවිතා කරන්න</string>
+    <string name="zen_alarm_warning_indef">"ඔබට ඔබේ ඊළඟ එලාමය <xliff:g id="WHEN">%1$s</xliff:g> ඔබ එයට පෙර මෙය ක්‍රියාවිරහිත නොකළේ නම් නොඇසෙනු ඇත"</string>
+</resources>

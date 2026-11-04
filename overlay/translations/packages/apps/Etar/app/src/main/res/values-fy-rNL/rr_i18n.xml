@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="no_reminder_label">Gjin</string>
+    <string name="no_snooze_label">Gjin</string>
+    <string name="menu_info">Ynformaasje</string>
+    <string name="edit_event_calendar_label">Aginda</string>
+    <string name="response_yes">Ja</string>
+    <string name="response_maybe">Miskien</string>
+    <string name="response_no">Nee</string>
+    <string name="loading">Lade\u2026</string>
+    <string name="save_label">Foltôge</string>
+    <string name="discard_label">Annulearje</string>
+    <string name="new_event_dialog_label">"Nije ôfspraak"</string>
+    <string name="new_event_dialog_option">"Nije ôfspraak"</string>
+    <string name="preferences_title">"Ynstellingen"</string>
+    <string name="preferences_system_theme">Systeemstandert</string>
+    <string name="preferences_alerts_vibrateWhen_title">Trille</string>
+    <string name="accessibility_pick_start_date">Startdatum</string>
+    <string name="accessibility_pick_end_date">Eindatum</string>
+    <string name="visibility_default">Standert</string>
+    <string name="visibility_public">Iepenbier</string>
+    <string name="fifteen_minutes">15 minuten</string>
+    <string name="thirty_minutes">30 minuten</string>
+    <string name="one_hour">1 oere</string>
+    <string name="preferences_calendar_color_warning_title">Warskôging</string>
+    <string name="preferences_calendar_delete_cancel">Annulearje</string>
+    <string name="preferences_list_add_offline_name">Namme</string>
+    <string name="preferences_list_add_offline_cancel">Annulearje</string>
+    <string name="discard">Fuortsmite</string>
+    <string name="cancel">Annulearje</string>
+    <string name="chips_action_cancel">Annulearje</string>
+</resources>

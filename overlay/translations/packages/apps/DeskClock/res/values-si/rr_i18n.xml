@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">උපාංග පෙරළීමේ ක්‍රියාව</string>
+    <string name="shake_action_title">උපාංග සෙලවීමේ ක්‍රියාව</string>
+    <string-array name="action_setting_entries">
+        <item>යළි සිහි කැඳවන්න</item>
+        <item>"ඉවත ලන්න"</item>
+        <item>"කිසිවක් නැත"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">එළවෙන එලාම &amp; ටයිමර</string>
+    <string name="alarm_missed_channel">මග හැරුණු එලාම</string>
+    <string name="alarm_snooze_channel">කල් දැමූ එලාම</string>
+    <string name="alarm_upcoming_channel">එළඹෙන එලාම</string>
+    <string name="stopwatch_channel">විරාම ඝටිකාව</string>
+    <string name="timer_channel">කාලමාපකය</string>
+    <string name="add_label">ලේබලය එක් කරන්න</string>
+    <string name="dialog_permissions_title">"අවසර"</string>
+    <string name="dialog_permissions_ask">නැවත අසන්න</string>
+    <string name="dialog_permissions_dismiss">"ඉවත ලන්න"</string>
+    <string name="dialog_permissions_settings">"සැකසීම්"</string>
+    <string name="dialog_permissions_power_off_alarm">මෙම අවසරය නොමැතිව ඔබේ උපාංගයට එලාමයක් නාද කිරීමට බලය ලබා ගත නොහැක</string>
+    <string name="dialog_permissions_no_permission">අවශ්‍ය අවසර ප්‍රතික්ෂේප කර ඇත, සැකසීම් යෙදුමෙන් ඒවා සක්‍රිය කරන්න</string>
+    <string name="dialog_permissions_post_notifications">මෙම යෙදුම දැනුම්දීම් මත රඳා පවතී. ඒවා නොමැතිව එය ක්‍රියාත්මක කළ නොහැක!</string>
+    <string name="selected">"තේරිණි"</string>
+    <string name="more_options">"තවත් විකල්ප"</string>
+    <string name="widget_choice_title">ඔබේ විලාසය තෝරන්න</string>
+    <string name="widget_name_transparent">අනුබද්ධ නොවූ</string>
+    <string name="widget_name_solid">අනුබද්ධ</string>
+    <string name="night_mode_enabled_title">"සබලයි"</string>
+    <string name="night_mode_dnd_title">බාධා නොකරන්න තත්ත්වය අනුගමනය කරන්න</string>
+    <string name="night_mode_dnd_summary">රාත්‍රී මාදිලිය බාධා නොකරන්න තත්ත්වය අනුගමනය කරයි</string>
+    <string name="show_ampm_title">AM/PM දර්ශකය පෙන්වන්න</string>
+    <string name="bold_text_title">ඝණ ඔරලෝසු අකුරු</string>
+    <string name="night_mode_brightness_text_title">"දීප්තිමත් බව"</string>
+    <string name="clock_color_title">"වර්ණය"</string>
+    <string-array name="clock_color_entries">
+        <item>"සුදු"</item>
+        <item>"රතු"</item>
+        <item>"කොළ"</item>
+        <item>"නිල්"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"තිර සුරැකුම"</string>
+    <string name="screensaver_preview">"පෙරදසුන"</string>
+    <string name="screensaver_preview_summary">තිර සුරැකුම වහාම ආරම්භ කරයි</string>
+    <string name="screensaver_change_settings">"සැකසීම්"</string>
+    <string name="screensaver_change_settings_summary">ඔරලෝසුවේ තිර සුරැකුම් සැකසීම් විවෘත කරයි</string>
+    <string name="screensaver_daydream_settings">තිර සුරැකුම තෝරන්න/සක්‍රිය කරන්න</string>
+    <string name="screensaver_daydream_settings_summary">ප්‍රධාන තිර සුරැකුම් සැකසීම් විවෘත කරයි</string>
+</resources>

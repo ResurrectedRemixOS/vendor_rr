@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="swipe_to_delete_conversation_pref_title">ປັດເພື່ອລຶບ</string>
+    <string name="swipe_to_delete_conversation_pref_summary">ປັດໄປທາງຂວາເພື່ອລຶບການສົນທະນາ</string>
+    <string name="notification_channel_messages_title">"ຂໍ້​ຄວາມ"</string>
+    <string name="start_chat">ເລີ່ມແຊັດ</string>
+</resources>

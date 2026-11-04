@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">Radnja okretanja uređaja</string>
+    <string name="shake_action_title">Radnja protresanja uređaja</string>
+    <string-array name="action_setting_entries">
+        <item>Odloži</item>
+        <item>"Odbaci"</item>
+        <item>"Ništa"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">Alarmi i tajmeri koji se aktiviraju</string>
+    <string name="alarm_missed_channel">Propušteni alarmi</string>
+    <string name="alarm_snooze_channel">Alarmi odloženi za kasnije</string>
+    <string name="alarm_upcoming_channel">Predstojeći alarmi</string>
+    <string name="stopwatch_channel">Štoperica</string>
+    <string name="timer_channel">Tajmer</string>
+    <string name="add_label">Dodaj oznaku</string>
+    <string name="dialog_permissions_title">"Odobrenja"</string>
+    <string name="dialog_permissions_ask">Pitaj ponovo</string>
+    <string name="dialog_permissions_dismiss">"Odbaci"</string>
+    <string name="dialog_permissions_settings">"Postavke"</string>
+    <string name="dialog_permissions_power_off_alarm">Bez ove dozvole uređaj se neće moći sam uključiti da aktivira alarm</string>
+    <string name="dialog_permissions_no_permission">Potrebne dozvole su odbijene. Omogući ih u aplikaciji Postavke.</string>
+    <string name="dialog_permissions_post_notifications">Ova aplikacija zavisi od obavještenja. Bez njih ne može da radi!</string>
+    <string name="selected">"Odabrano"</string>
+    <string name="more_options">"Više opcija"</string>
+    <string name="widget_choice_title">Odaberi svoj stil</string>
+    <string name="widget_name_transparent">Bez sigurnosne kopije</string>
+    <string name="widget_name_solid">Sa sigurnosnom kopijom</string>
+    <string name="night_mode_enabled_title">"Omogućeno"</string>
+    <string name="night_mode_dnd_title">Prati stanje Ne ometaj</string>
+    <string name="night_mode_dnd_summary">Noćni režim prati stanje Ne ometaj</string>
+    <string name="show_ampm_title">Prikaži oznaku AM/PM</string>
+    <string name="bold_text_title">Podebljaj tekst sata</string>
+    <string name="night_mode_brightness_text_title">"Osvijetljenost"</string>
+    <string name="clock_color_title">"Boja"</string>
+    <string-array name="clock_color_entries">
+        <item>"Bijela"</item>
+        <item>"Crvena"</item>
+        <item>"Zelena"</item>
+        <item>"Plava"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"Čuvar ekrana"</string>
+    <string name="screensaver_preview">"Pregled"</string>
+    <string name="screensaver_preview_summary">Odmah pokreni čuvar ekrana</string>
+    <string name="screensaver_change_settings">"Postavke"</string>
+    <string name="screensaver_change_settings_summary">Otvara postavke čuvara ekrana sata</string>
+    <string name="screensaver_daydream_settings">Odaberi/omogući čuvar ekrana</string>
+    <string name="screensaver_daydream_settings_summary">Otvara glavne postavke čuvara ekrana</string>
+</resources>

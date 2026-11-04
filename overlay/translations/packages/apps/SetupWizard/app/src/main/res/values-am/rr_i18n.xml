@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">የማዋቀር አዋቂ</string>
+    <string name="cancel">"ይቅር"</string>
+    <string name="next">ቀጣይ</string>
+    <string name="finish">ጨርስ</string>
+    <string name="skip">ዝለል</string>
+    <string name="start">"ጀምር"</string>
+    <string name="done">"ተከናውኗል"</string>
+    <string name="ok">"እሺ"</string>
+    <string name="loading">"አንድ ሰከንድ ይቆዩ…"</string>
+    <string name="setup_welcome_message">እንኳን ወደ <xliff:g id="name" example="LineageOS">%1$s</xliff:g> በደህና መጡ</string>
+    <string name="setup_managed_profile_welcome_message">የሥራ መገለጫዎን ያዋቅሩ</string>
+    <string name="emergency_call">"የአደጋ ጊዜ ጥሪ"</string>
+    <string name="accessibility_settings">"ተደራሽነት ቅንብሮች"</string>
+    <string name="device_info">"የመሣሪያ መረጃ"</string>
+    <string name="device_information">"የመሣሪያ መረጃ"</string>
+    <string name="device_info_serial">"መለያ ቁጥር"</string>
+    <string name="setup_locale">"ቋንቋ"</string>
+    <string name="sim_locale_changed">%1$s ሲም ተገኝቷል</string>
+    <string name="setup_euicc">eSIM ያዋቅሩ</string>
+    <string name="setup_sim_missing">ሲም ካርድ የለም</string>
+    <string name="esim_support_summary">eSIM ያዋቅሩ ወይም ሲም ካርድ ያስገቡ። ሲም ካርድ ለማስገባት በመሣሪያዎ ውስጥ የመጡትን መመሪያዎች ያንብቡ።</string>
+    <string name="sim_missing_summary" product="tablet">በታብሌትዎ ውስጥ ሲም ካርድ አልተገኘም። ሲም ካርድ ለማስገባት በመሣሪያዎ ውስጥ የመጡትን መመሪያዎች ያንብቡ።</string>
+    <string name="sim_missing_summary" product="default">በስልክዎ ውስጥ ሲም ካርድ አልተገኘም። ሲም ካርድ ለማስገባት በመሣሪያዎ ውስጥ የመጡትን መመሪያዎች ያንብቡ።</string>
+    <string name="sim_missing_skip_title">ሲም ማዋቀርን መዝለል ይፈልጋሉ?</string>
+    <string name="sim_missing_skip_message">ይህን ደረጃ ከዘለሉ በቅንብሮች ውስጥ ሲም እስኪያዋቅሩ ድረስ ከሞባይል አውታረ መረብ ጋር አይገናኙም።</string>
+    <string name="setup_datetime">"ቀን እና ሰዓት"</string>
+    <string name="date_time_summary">የሰዓት ዞንዎን ያዘጋጁ እና አስፈላጊ ከሆነ የአሁኑን ቀን እና ሰዓት ያስተካክሉ</string>
+    <string name="setup_current_date">የአሁኑ ቀን</string>
+    <string name="setup_current_time">የአሁኑ ሰዓት</string>
+    <string name="setup_datetime_section_date">"ቀን"</string>
+    <string name="setup_datetime_section_time">"ሰዓት"</string>
+    <string name="setup_date_format">"ቅርጸት"</string>
+    <string name="date_format_day">"ቀን"</string>
+    <string name="date_format_month">"ወር"</string>
+    <string name="date_format_year">"ዓመት"</string>
+    <string name="setup_time_zone">"የሰዓት ሰቅ"</string>
+    <string name="setup_24_hour_format">"የ24-ሰዓት ቅርጸት ተጠቀም"</string>
+    <string name="intro_restore_title">መተግበሪያዎችን እና ውሂብን ወደነበረበት መልስ</string>
+    <string name="intro_restore_subtitle">ከ<xliff:g id="name" example="LineageOS">%s</xliff:g> ወይም ከሌላ ማንኛውም ኦኤስ የSeedvault ምትኬ ካለዎት እዚህ ወደነበረበት መመለስ ይችላሉ።</string>
+    <string name="intro_restore_button">ከምትኬ ወደነበረበት መልስ</string>
+    <string name="setup_location">"የአካባቢ አገልግሎቶች"</string>
+    <string name="location_summary">መሣሪያዎ አካባቢውን እንዴት እንደሚያስተዳድር ይምረጡ</string>
+    <string name="location_access_title">"አካባቢን ተጠቀም"</string>
+    <string name="location_agps_access_title">የተሻሻለ አካባቢ</string>
+    <string name="location_access_summary">የአካባቢ መረጃዎን ለመጠቀም ፈቃድዎን የጠየቁ መተግበሪያዎች እንዲጠቀሙ ይፍቀዱ። ይህ የአሁኑን አካባቢዎን እና ያለፉ አካባቢዎችን ሊያካትት ይችላል።</string>
+    <string name="location_agps_access_summary">አካባቢ በሚበራበት ጊዜ የሳተላይት እገዛ ውሂብን ከኢንተርኔት ያውርዱ፤ ይህም የGPS የመጀመሪያ ጅምር አፈጻጸምን በእጅጉ ሊያሻሽል ይችላል።</string>
+    <string name="update_recovery_title">የResurrected Remix መልሶ ማግኛን ያዘምኑ</string>
+    <string name="update_recovery_description">ከእያንዳንዱ ዝማኔ በኋላ በመጀመሪያ ጅምር የResurrected Remix መልሶ ማግኛን ያዘምናል።</string>
+    <string name="update_recovery_warning">ማዋቀሩን እንደጨረሱ መልሶ ማግኛው ይዘመናል። ሳይነካ እንዲቆይ ከፈለጉ ይህን ባህሪ ያጥፉ።</string>
+    <string name="update_recovery_setting">ከስርዓተ ክወናው ጋር አብሮ የResurrected Remix መልሶ ማግኛን አዘምን</string>
+    <string name="setup_services">የResurrected Remix ባህሪያት</string>
+    <string name="services_pp_explanation">እነዚህ አገልግሎቶች የመሣሪያዎን አቅም ለማስፋት ይሠራሉ። ውሂብ በ<xliff:g id="name" example="LineageOS">%1$s</xliff:g> የግላዊነት ፖሊሲ መሠረት ጥቅም ላይ ይውላል።</string>
+    <string name="services_find_privacy_policy">የግላዊነት ፖሊሲውን በሌላ መሣሪያ ላይ በመጎብኘት ማንበብ ይችላሉ፦</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>ን ለማሻሻል ያግዙ</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> የምርመራ እና የአጠቃቀም ውሂብን በራስ-ሰር ወደ <xliff:g id="name" example="LineageOS">%2$s</xliff:g> በመላክ። ይህ መረጃ እርስዎን ለመለየት ጥቅም ላይ አይውልም እና እንደ የባትሪ ዕድሜ፣ የመተግበሪያ አፈጻጸም እና አዳዲስ <xliff:g id="name" example="LineageOS">%3$s</xliff:g> ባህሪያት ባሉ ነገሮች ላይ ለሚሰሩ ቡድኖች ያግዛል።</string>
+    <string name="services_metrics_title">የምርመራ ውሂብ አበርክት</string>
+    <string name="services_os_nav_keys_label"><b>በስክሪን ላይ የአሰሳ ቁልፎችን ተጠቀም</b> በሃርድዌር ቁልፎች ፈንታ።</string>
+    <string name="setup_navigation">አሰሳ</string>
+    <string name="navigation_summary">የሚመርጡትን የአሰሳ ዘዴ ይምረጡ</string>
+    <string name="gesture_navigation">"የእጅ ውዝዋዜ ዳሰሳ"</string>
+    <string name="navbar_navigation">"3-አዝራር ዳሰሳ"</string>
+    <string name="gesture_navigation_short">የእጅ ምልክት</string>
+    <string name="hide_gesture_hint">የእጅ ምልክት ፍንጭን ደብቅ</string>
+    <string name="setup_theme">"ገፅታ"</string>
+    <string name="theme_summary">ጨለማ ገፅታ በአንዳንድ ማያ ገጾች ላይ ባትሪን ረዘም ላለ ጊዜ ለማቆየት ጥቁር ዳራ ይጠቀማል</string>
+    <string name="dark">ጨለማ</string>
+    <string name="light">"ቀላል"</string>
+    <string name="pure_black_theme">ንጹህ ጥቁር ዳራ ተጠቀም</string>
+    <string name="theme_preview">የገፅታ ቅድመ-እይታ</string>
+    <string name="swipe_up_to_go_home">"ወደ መነሻ ለመሄድ በጣት ወደ ላይ ይጥረጉ"</string>
+    <string name="tap_home_to_go_home">ወደ መነሻ ለመሄድ መሃል ያለውን የአሰሳ አዶ ንካ</string>
+    <string name="press_center_to_go_home">ወደ መነሻ ለመሄድ መሃል ያለውን ቁልፍ ተጫን</string>
+</resources>

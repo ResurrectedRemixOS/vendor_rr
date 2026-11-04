@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_summary">Näytä aina numerorivi kaikille asetteluille, joissa on 4 näppäinriviä</string>
+    <string name="number_row_password">Numerorivi salasanoille</string>
+    <string name="number_row_password_summary">Näytä aina numerorivi kaikille asetteluille, joissa on 4 näppäinriviä salasanan syöttöä varten</string>
+    <string name="space_trackpad">Välilyöntinäppäimen kosketuslevy</string>
+    <string name="space_trackpad_summary">Pyyhkäise välilyöntinäppäintä siirtääksesi kohdistinta</string>
+    <string name="backspace_trackpad">Askelpalautusnäppäimen kosketuslevy</string>
+    <string name="backspace_trackpad_summary">Pyyhkäise askelpalautusnäppäintä poistaaksesi sanoja</string>
+    <string name="show_longpress_hints">Näytä pitkän painalluksen vihjeet</string>
+    <string name="show_longpress_hints_summary">Näyttää pitkän painalluksen vihjeet tuetuille näppäimille</string>
+    <string name="show_emoji_key_summary">Näytä aina hymiönäppäin. Kun tämä on käytössä, kielenvaihtonäppäintä ei voi näyttää</string>
+    <string name="enable_split_keyboard_summary">Vain vaakatilassa</string>
+    <string name="split_keyboard_duplicate_keys">Kaksinkertaista keskinäppäimet</string>
+    <string name="split_keyboard_duplicate_keys_summary">Näytä lähellä keskikohtaa olevat näppäimet molemmissa puolissa</string>
+    <string name="spoken_description_split_keyboard">Jaa näppäimistö</string>
+    <string name="spoken_description_merge_keyboard">Yhdistä näppäimistö</string>
+    <string name="spoken_description_float_keyboard">Kelluva näppäimistö</string>
+    <string name="spoken_description_dock_keyboard">Telakoi näppäimistö</string>
+    <string name="floating_keyboard_drag_handle">Siirrä näppäimistö</string>
+    <string name="floating_keyboard_resize_handle">Muuta näppäimistön kokoa</string>
+    <string name="floating_keyboard_reset">"Nollaa"</string>
+    <string name="floating_keyboard_hide">Piilota näppäimistö</string>
+    <string name="floating_keyboard_switch_ime">"Vaihda syöttötapaa"</string>
+</resources>

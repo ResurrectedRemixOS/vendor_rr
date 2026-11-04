@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hint_url">\"URL\"</string>
+    <string name="week_start_locale_default">Sjálfgefið staðarmál</string>
+    <string name="preferences_staggered_display_title">Stigskipt birting</string>
+    <string name="preferences_staggered_display_summary">Birta skarandi viðburði í stigskiptu skipulagi</string>
+    <string name="user_rejected_calendar_write_permission">Etar þarf lesréttindi og skrifréttindi fyrir dagatal til að virka rétt. Reyndu aftur.</string>
+    <string name="cal_export_event_title">Flytja út viðburð</string>
+    <string name="cal_export_success">Viðburði flutt út</string>
+    <string name="cal_export_error">Ekki tókst að flytja út viðburð</string>
+    <string name="cal_export_succ_msg">Viðburði flutt út</string>
+    <string name="preferences_menu_about">Um Etar</string>
+    <string name="discard_event_changes">Viltu henda breytingunum?</string>
+    <string name="discard">"Fleygja"</string>
+</resources>

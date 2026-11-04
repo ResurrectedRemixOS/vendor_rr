@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="week_start_locale_default">Parazgjedhja e gjuhës</string>
+    <string name="preferences_staggered_display_title">Ekran i shkallëzuar</string>
+    <string name="preferences_staggered_display_summary">Shfaq ngjarjet e mbivendosura në një pamje të shkallëzuar</string>
+    <string name="cal_export_event_title">Eksporto ngjarjen</string>
+    <string name="cal_export_success">Ngjarja u eksportua me sukses</string>
+    <string name="cal_export_error">Eksportimi i ngjarjes dështoi</string>
+    <string name="cal_export_succ_msg">Ngjarja u eksportua me sukses</string>
+</resources>

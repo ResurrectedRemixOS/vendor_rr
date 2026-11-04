@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"προεπιλογή"</item>
+        <item>Κελσίου</item>
+        <item>Φαρενάιτ</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"προεπιλογή"</item>
+        <item>Κυρ</item>
+        <item>Δευ</item>
+        <item>Τρι</item>
+        <item>Τετ</item>
+        <item>Πεμ</item>
+        <item>Παρ</item>
+        <item>Σάβ</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"προεπιλογή"</item>
+        <item>μετρικό</item>
+        <item>σύστημα ΗΠΑ</item>
+        <item>σύστημα ΗΒ</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Δεν έχει καθοριστεί"</item>
+        <item>"Ουδέτερα"</item>
+        <item>"Θηλυκό"</item>
+        <item>"Αρσενικό"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>γαλλικά</item>
+        <item>ισπανικά</item>
+        <item>ιταλικά</item>
+        <item>γερμανικά</item>
+    </string-array>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM toolkit</string>
+    <string name="platform_compat_target_sdk_title">Ενεργοποιημένο για targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

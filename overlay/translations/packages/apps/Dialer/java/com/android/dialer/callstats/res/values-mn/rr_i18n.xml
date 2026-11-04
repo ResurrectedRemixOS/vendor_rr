@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Холбоо барих статистикийн дэлгэрэнгүй</string>
+    <string name="call_stats_incoming">Ирсэн: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Гарсан: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Алдсан: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Хориглосон: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Нийт: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Нийт: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">Эхлэх огноо</string>
+    <string name="call_stats_filter_to">Дуусах огноо</string>
+    <string name="call_stats_filter_picker_title">Хугацааны шүүлт</string>
+    <string name="date_quick_selection">Шуурхай сонголт</string>
+    <string name="date_qs_currentmonth">Энэ сар</string>
+    <string name="date_qs_currentquarter">Энэ улирал</string>
+    <string name="date_qs_currentyear">Энэ жил</string>
+    <string name="date_qs_lastweek">"Өнгөрсөн долоо хоног"</string>
+    <string name="date_qs_lastmonth">"Өнгөрсөн сар"</string>
+    <string name="date_qs_lastquarter">Өнгөрсөн улирал</string>
+    <string name="date_qs_lastyear">"Өнгөрсөн жил"</string>
+    <string name="call_stats_date_filter">Хугацааны хүрээг тохируулах</string>
+    <string name="call_stats_reset_filter">Хугацааны хүрээг шинэчлэх</string>
+    <string name="call_stats_sort_by_duration">Дуудлагын үргэлжлэх хугацаагаар эрэмбэлэх</string>
+    <string name="call_stats_sort_by_count">Дуудлагын тоогоор эрэмбэлэх</string>
+    <string name="call_stats_title_for_number">Энэ дугаар</string>
+    <string name="call_stats_title_of_total">Нийтээс</string>
+    <string name="call_stats_title_durations">Дуудлагын хугацаа</string>
+    <string name="call_stats_title_count">Дуудлагын тоо</string>
+    <string name="call_stats_title_average_duration">Дуудлагын дундаж хугацаа</string>
+    <string name="recent_calls_no_items_in_range">Таны дуудлагын бүртгэлд сонгосон хугацаанд дуудлага байхгүй байна.</string>
+</resources>

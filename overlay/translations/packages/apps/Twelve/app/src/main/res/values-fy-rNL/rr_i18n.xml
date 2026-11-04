@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Muzyk</string>
+    <string name="main_fragment_section_search">Sykje</string>
+    <string name="rename_playlist_positive">Namme wizigje</string>
+    <string name="audio_file_type_unknown">Unbekend</string>
+    <string name="audio_sample_rate_unknown">Unbekend</string>
+    <string name="audio_channel_count_unknown">Unbekend</string>
+    <string name="audio_encoding_unknown">Unbekend</string>
+    <string name="audio_output_mode_unknown">Unbekend</string>
+    <string name="audio_bitrate_unknown">Unbekend</string>
+    <string name="audio_output_device_name">Namme</string>
+    <string name="audio_output_device_name_unknown">Unbekend</string>
+    <string name="audio_output_device_type_unknown">Unbekend</string>
+    <string name="audio_format_compression_unknown">Unbekend</string>
+    <string name="provider_argument_username">Brûkersnamme</string>
+    <string name="provider_argument_password">Wachtwurd</string>
+    <string name="save_provider_action">Bewarje</string>
+    <string name="delete_provider_action">Fuortsmite</string>
+    <string name="provider_name">Namme</string>
+    <string name="provider_name_error">Namme ynfiere</string>
+    <string name="title_activity_settings">Ynstellingen</string>
+    <string name="general_header">Algemien</string>
+    <string name="reset_local_stats_confirm_positive">Opnij ynstelle</string>
+    <string name="now_playing_widget_dummy_title">Titel</string>
+    <string name="sort_by_name">Namme</string>
+    <string name="sort_by_title">Titel</string>
+    <string name="sort_by_unknown">Unbekend</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nee</string>
+    <string name="unknown">Unbekend</string>
+    <string name="jellyfin_version">Ferzje</string>
+    <string name="ampache_version">Ferzje</string>
+    <string name="playlist_name">Namme</string>
+    <string name="favorites_playlist">Blêdwizers</string>
+    <string name="add_to_favorites">Oan blêdwizers Tafoegje</string>
+</resources>

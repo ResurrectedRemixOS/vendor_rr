@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">មិនអាចចាប់ផ្តើមថតការហៅបានទេ</string>
+    <string name="call_recording_file_location">បានរក្សាទុកការថតការហៅទៅ <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">ថតការហៅ</string>
+    <string name="onscreenCallRecordingText">កំពុងថតការហៅ - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"ឈប់ថត"</string>
+    <string name="recording_warning_title">បើកការថតការហៅឬ?</string>
+    <string name="recording_warning_text">ការជូនដំណឹង៖ អ្នកទទួលខុសត្រូវក្នុងការអនុលោមតាមច្បាប់ បទប្បញ្ញត្តិ និងច្បាប់ណាមួយដែលអនុវត្តចំពោះការប្រើប្រាស់មុខងារថតការហៅ និងការប្រើប្រាស់ ឬចែកចាយការថតទាំងនោះ។</string>
+</resources>

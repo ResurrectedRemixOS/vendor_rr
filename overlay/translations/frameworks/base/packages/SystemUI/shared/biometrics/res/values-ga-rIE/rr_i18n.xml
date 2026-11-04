@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="udfps_accessibility_touch_hints_left">Bog ar chlé</string>
+    <string name="udfps_accessibility_touch_hints_down">Bog síos</string>
+    <string name="udfps_accessibility_touch_hints_right">Bog ar dheis</string>
+    <string name="udfps_accessibility_touch_hints_up">Bog suas</string>
+</resources>

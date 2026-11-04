@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_methods_labels">
+        <item>"Obavještenje"</item>
+        <item>"E-pošta"</item>
+        <item>SMS</item>
+        <item>Alarm</item>
+    </string-array>
+    <string-array name="availability">
+        <item>"Zauzeto"</item>
+        <item>"Dostupno"</item>
+        <item>Privremeno</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Bez odgovora</item>
+        <item>"Da"</item>
+        <item>Možda</item>
+        <item>"Ne"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Samo ovaj događaj</item>
+        <item>Ovaj i budući događaji</item>
+        <item>Svi događaji</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Samo ovaj događaj</item>
+        <item>Svi događaji u seriji</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>"Dan"</item>
+        <item>"Sedmica"</item>
+        <item>"Mjesec"</item>
+        <item>Agenda</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Samo ako je odbijeno</item>
+        <item>Ako je odbijeno ili nije odgovoreno</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>PONAVLJAJ DNEVNO</item>
+        <item>PONAVLJAJ SEDMIČNO</item>
+        <item>PONAVLJAJ MJESEČNO</item>
+        <item>PONAVLJAJ GODIŠNJE</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>svake prve nedjelje</item>
+        <item>svake druge nedjelje</item>
+        <item>svake treće nedjelje</item>
+        <item>svake četvrte nedjelje</item>
+        <item>svake posljednje nedjelje</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>svakog prvog ponedjeljka</item>
+        <item>svakog drugog ponedjeljka</item>
+        <item>svakog trećeg ponedjeljka</item>
+        <item>svakog četvrtog ponedjeljka</item>
+        <item>svakog posljednjeg ponedjeljka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>svakog prvog utorka</item>
+        <item>svakog drugog utorka</item>
+        <item>svakog trećeg utorka</item>
+        <item>svakog četvrtog utorka</item>
+        <item>svakog posljednjeg utorka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>svake prve srijede</item>
+        <item>svake druge srijede</item>
+        <item>svake treće srijede</item>
+        <item>svake četvrte srijede</item>
+        <item>svake posljednje srijede</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>svakog prvog četvrtka</item>
+        <item>svakog drugog četvrtka</item>
+        <item>svakog trećeg četvrtka</item>
+        <item>svakog četvrtog četvrtka</item>
+        <item>svakog posljednjeg četvrtka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>svakog prvog petka</item>
+        <item>svakog drugog petka</item>
+        <item>svakog trećeg petka</item>
+        <item>svakog četvrtog petka</item>
+        <item>svakog posljednjeg petka</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>svake prve subote</item>
+        <item>svake druge subote</item>
+        <item>svake treće subote</item>
+        <item>svake četvrte subote</item>
+        <item>svake posljednje subote</item>
+    </string-array>
+    <string name="user_rejected_calendar_write_permission_lineage">Kalendar zahtijeva dozvole za čitanje i pisanje kalendara da bi ispravno radio. Pokušajte ponovo.</string>
+    <string name="preferences_menu_about_lineage">O aplikaciji Kalendar</string>
+    <string name="app_label">"Kalendar"</string>
+    <string name="when_label">Kada</string>
+    <string name="today">"Danas"</string>
+    <string name="tomorrow">Sutra</string>
+    <string name="today_at_time_fmt">\"Danas u <xliff:g id="time_interval">%s</xliff:g>\"</string>
+    <string name="tomorrow_at_time_fmt">\"Sutra u <xliff:g id="time_interval">%s</xliff:g>\"</string>
+    <string name="no_title_label">"(Bez naslova)"</string>
+    <string name="no_reminder_label">"Ništa"</string>
+    <string name="no_snooze_label">"Ništa"</string>
+    <plurals name="Nminutes">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> minut</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> minuta</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> minuta</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> min</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> min</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> min</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> sat</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> sata</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> sati</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> dan</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> dana</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> dana</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> sedmica</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> sedmice</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> sedmica</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="one">Sedmica <xliff:g id="count">%d</xliff:g></item>
+        <item quantity="few">Sedmica <xliff:g id="count">%d</xliff:g></item>
+        <item quantity="other">Sedmica <xliff:g id="count">%d</xliff:g></item>
+    </plurals>
+    <string name="calendar_refresh">\"Osvježi\"</string>
+    <string name="show_day_view">\"Prikaži dan\"</string>
+    <string name="agenda_view">\"Agenda\"</string>
+    <string name="day_view">\"Dan\"</string>
+    <string name="week_view">\"Sedmica\"</string>
+    <string name="month_view">\"Mjesec\"</string>
+    <string name="event_view">\"Prikaži događaj\"</string>
+    <string name="event_create">\"Novi događaj\"</string>
+    <string name="event_edit">\"Uredi događaj\"</string>
+    <string name="event_delete">\"Obriši događaj\"</string>
+    <string name="share_label">"Dijeli"</string>
+    <string name="goto_today">\"Danas\"</string>
+    <string name="goto_date">Idi na…</string>
+    <string name="menu_preferences">\"Postavke\"</string>
+    <string name="menu_info">"Informacije"</string>
+    <string name="search">\"Pretraga\"</string>
+    <string name="hide_controls">\"Sakrij kontrole\"</string>
+    <string name="show_controls">\"Prikaži kontrole\"</string>
+    <string name="view_settings">\"Prikaži postavke\"</string>
+    <string name="select_synced_calendars_button">Kalendari za sinhronizaciju</string>
+    <string name="hint_what">\"Naziv događaja\"</string>
+    <string name="hint_where">\"Lokacija\"</string>
+    <string name="hint_description">\"Opis\"</string>
+    <string name="hint_url">\"URL\"</string>
+    <string name="hint_attendees">\"Gosti\"</string>
+    <string name="creating_event">\"Događaj je kreiran.\"</string>
+    <string name="saving_event">\"Događaj je sačuvan.\"</string>
+    <string name="empty_event">\"Prazan događaj nije kreiran.\"</string>
+    <string name="creating_event_with_guest">\"Pozivnice će biti poslane.\"</string>
+    <string name="saving_event_with_guest">\"Ažuriranja će biti poslana.\"</string>
+    <string name="rsvp_accepted">\"Odgovoreno: da.\"</string>
+    <string name="rsvp_tentative">\"Odgovoreno: možda.\"</string>
+    <string name="rsvp_declined">\"Odgovoreno: ne.\"</string>
+    <string name="create_event_dialog_save">"Sačuvaj"</string>
+    <string name="alert_title">Obavještenja kalendara</string>
+    <string name="foreground_notification_title">Zakazivanje novih podsjetnika…</string>
+    <string name="foreground_notification_channel_name">Pozadinski zadaci</string>
+    <string name="foreground_notification_channel_description">Obavještenja potrebna za internu sinhronizaciju. Ovaj kanal možete sigurno sakriti.</string>
+    <string name="event_info_title">Prikaži događaj</string>
+    <string name="event_info_title_invite">Pozivnica za sastanak</string>
+    <string name="edit_event_all_day_label">Cijeli dan</string>
+    <string name="edit_event_calendar_label">"Kalendar"</string>
+    <string name="presence_label">Prikaži me kao</string>
+    <string name="privacy_label">"Privatnost"</string>
+    <string name="reminders_label">Dodaj podsjetnik</string>
+    <string name="no_syncable_calendars">"Nema kalendara"</string>
+    <string name="no_calendars_found">Prije dodavanja događaja morate dodati barem jedan kalendar na uređaj</string>
+    <string name="add_calendar">Dodaj kalendar</string>
+    <string name="view_event_calendar_label">Kalendar:</string>
+    <string name="view_event_organizer_label">Organizator:</string>
+    <string name="choose_event_color_label">Odaberite boju događaja</string>
+    <string name="event_color_picker_dialog_title">Boja događaja</string>
+    <string name="event_color_set_to_default">Postavi na zadanu boju kalendara</string>
+    <string name="calendar_color_picker_dialog_title">Boja kalendara</string>
+    <string name="calendar_square_color_picker_description">"Birač boje"</string>
+    <string name="view_event_response_label">Dolazite?</string>
+    <string name="response_yes">"Da"</string>
+    <string name="response_maybe">Možda</string>
+    <string name="response_no">"Ne"</string>
+    <string name="email_guests_label">Pošalji e-poštu gostima</string>
+    <string name="email_organizer_label">Pošalji e-poštu organizatoru</string>
+    <string name="email_picker_label">Pošalji e-poštu s</string>
+    <string name="event_not_found">\"Događaj nije pronađen.\"</string>
+    <string name="map_label">"Mapa"</string>
+    <string name="no_map">Nije instalirana aplikacija za karte</string>
+    <string name="call_label">Poziv</string>
+    <string name="quick_response_settings">"Brzi odgovori"</string>
+    <string name="quick_response_settings_summary">Uredi zadane odgovore pri slanju e-pošte gostima</string>
+    <string name="quick_response_settings_edit_title">"Brzi odgovor"</string>
+    <string name="quick_response_dialog_title">Odaberite brz odgovor</string>
+    <string name="quick_response_email_failed">Nije pronađen program za e-poštu</string>
+    <string-array name="quick_response_defaults">
+        <item>Kasnim samo nekoliko minuta.</item>
+        <item>Stižem za otprilike 10 minuta.</item>
+        <item>Počnite bez mene.</item>
+        <item>Žao mi je, ne mogu doći. Morat ćemo zakazati novi termin.</item>
+    </string-array>
+    <string name="quick_response_custom_msg">Napišite vlastiti…</string>
+    <string name="event_info_organizer">Organizator:</string>
+    <string name="event_info_reminders_label">"Podsjetnici"</string>
+    <string name="agenda_today">Danas, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_yesterday">Juče, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_tomorrow">Sutra, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">"Učitavanje…"</string>
+    <string name="show_older_events">Dodirnite za prikaz događaja prije <xliff:g id="oldest_search_range">%1$s</xliff:g></string>
+    <string name="show_newer_events">Dodirnite za prikaz događaja poslije <xliff:g id="newest_search_range">%1$s</xliff:g></string>
+    <string name="search_title">Pretraži moje kalendare</string>
+    <string name="edit_event_label">\"Detalji\"</string>
+    <string name="edit_label">\"Uredi\"</string>
+    <string name="delete_label">\"Obriši\"</string>
+    <string name="duplicate_label">Dupliraj</string>
+    <string name="save_label">"Gotovo"</string>
+    <string name="discard_label">"Otkaži"</string>
+    <string name="dismiss_all_label">\"Odbaci sve\"</string>
+    <string name="snooze_label">\"Odgodi\"</string>
+    <string name="does_not_repeat">Jednokratni događaj</string>
+    <string name="endByDate">; do <xliff:g id="date">%s</xliff:g></string>
+    <string name="every_weekday">\"Svakog radnog dana (pon–pet)\"</string>
+    <string name="monthly">"Mjesečno"</string>
+    <string name="yearly_plain">Godišnje</string>
+    <string name="custom" product="default">\"Prilagođeno (nije moguće prilagoditi na telefonu)\"</string>
+    <string name="modify_event">Promijeni samo ovaj događaj</string>
+    <string name="modify_all">Promijeni sve događaje u seriji</string>
+    <string name="modify_all_following">Promijeni ovaj i sve buduće događaje</string>
+    <string name="new_event_dialog_label">\"Novi događaj\"</string>
+    <string name="new_event_dialog_option">\"Novi događaj\"</string>
+    <string name="delete_this_event_title">Obrisati ovaj događaj?</string>
+    <string name="delete_recurring_event_title">Obrisati <xliff:g id="eventtitle">%s</xliff:g>?</string>
+    <string name="change_response_title">Promijeni odgovor</string>
+    <string name="preferences_title">\"Postavke\"</string>
+    <string name="preferences_general_title">Postavka prikaza kalendara</string>
+    <string name="preferences_month_view_portrait">Raspored prikaza mjeseca (uspravno)</string>
+    <string name="preferences_month_view_landscape">Raspored prikaza mjeseca (vodoravno)</string>
+    <string name="preferences_theme">"Tema"</string>
+    <string name="preferences_system_theme">"Sistemski zadano"</string>
+    <string name="preferences_light_theme">"Slabo"</string>
+    <string name="preferences_dark_theme">Tamno</string>
+    <string name="preferences_black_theme">"Crna"</string>
+    <string name="preferences_color">Primarna boja</string>
+    <string name="preferences_color_pick">Primarna boja</string>
+    <string name="preferences_real_event_colors">Koristi stvarne boje događaja</string>
+    <string name="preferences_pure_black_night_mode">Tamni način rada potpuno crn</string>
+    <string name="preferences_reminder_title">Obavještenja i podsjetnici</string>
+    <string name="preferences_hide_declined_title">Sakrij odbijene događaje</string>
+    <string name="default_start_title">Zadani prikaz</string>
+    <string name="display_options">"Opcije ekrana"</string>
+    <string name="display_time">Prikaži vrijeme</string>
+    <string name="display_location">Prikaži lokaciju</string>
+    <string name="maximum_number_of_lines">Maksimalan broj redova u događaju</string>
+    <string name="default_start_last">Prethodno korišteni prikaz</string>
+    <string name="preferences_week_start_day_title">Sedmica počinje</string>
+    <string name="preferences_week_start_day_dialog">Sedmica počinje</string>
+    <string name="week_start_locale_default">Zadano prema jeziku</string>
+    <string name="preferences_days_per_week_title">Dana u sedmici</string>
+    <string name="preferences_days_per_week_dialog">Dana u sedmici</string>
+    <string name="preferences_default_event_duration_title">Zadano trajanje događaja</string>
+    <string name="preferences_clear_search_history_title">Obriši historiju pretrage</string>
+    <string name="preferences_clear_search_history_summary">Ukloni sve pretrage koje ste izvršili</string>
+    <string name="search_history_cleared">Historija pretrage je obrisana.</string>
+    <string name="preferences_alerts_title">"Obavještenja"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"Vibracija"</string>
+    <string name="preferences_alerts_ringtone_title">"Zvuk"</string>
+    <string name="preferences_alerts_popup_title">Skočno obavještenje</string>
+    <string name="preferences_default_reminder_title">Zadano vrijeme podsjetnika</string>
+    <string name="preferences_default_reminder_dialog">Zadano vrijeme podsjetnika</string>
+    <string name="preferences_use_home_tz_title">"Koristi matičnu vremensku zonu"</string>
+    <string name="preferences_use_home_tz_descrip">Prikazuje kalendare i vremena događaja u vašoj matičnoj vremenskoj zoni tokom putovanja</string>
+    <string name="preferences_home_tz_title">"Matična vremenska zona"</string>
+    <string name="preferences_show_week_num_title">Prikaži broj sedmice</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">Pitaj za vrijeme odgode podsjetnika</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Pitaj za vrijeme odgode svaki put kada odgađate podsjetnike</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Uvijek koristi zadano vrijeme odgode</string>
+    <string name="snooze_delay_dialog_title">Postavi vrijeme odgode</string>
+    <string name="preferences_default_snooze_delay_title">Zadano vrijeme odgode</string>
+    <string name="preferences_default_snooze_delay_dialog">Zadana odgoda</string>
+    <string name="preferences_staggered_display_title">Raspoređeni prikaz</string>
+    <string name="preferences_staggered_display_summary">Prikaži preklapajuće događaje u rasporedu s pomakom</string>
+    <string name="app_copyright">© 2015-<xliff:g>%1$s</xliff:g> The Etar Project. Dijelovi © 2005-<xliff:g>%1$s</xliff:g> The Android Open Source Project.</string>
+    <string name="authors">Autori</string>
+    <string name="changelog">Dnevnik promjena</string>
+    <string name="license">"Licenca"</string>
+    <string name="preferences_build_version">"Podverzija"</string>
+    <string name="preferences_issues">Prijavi probleme</string>
+    <string name="source_code">Izvor</string>
+    <string name="gadget_no_events">Nema nadolazećih događaja u kalendaru</string>
+    <string name="preferences_experimental_category">"Eksperimentalno"</string>
+    <string name="preferences_reminders_responded_label">Preskoči podsjetnike</string>
+    <string name="preferences_reminders_responded_dialog">Preskoči podsjetnike</string>
+    <string name="copy_db">Pošalji bazu podataka</string>
+    <string name="directory_searching_fmt">Pretraga <xliff:g id="domain">%s</xliff:g>…</string>
+    <string name="accessibility_remove_attendee">Ukloni učesnika</string>
+    <string name="accessibility_pick_start_date">Datum početka</string>
+    <string name="accessibility_pick_start_time">"Vrijeme početka"</string>
+    <string name="accessibility_pick_end_date">Datum završetka</string>
+    <string name="accessibility_pick_end_time">"Vrijeme završetka"</string>
+    <string name="accessibility_pick_time_zone">"Vremenska zona"</string>
+    <string name="accessibility_pick_recurrence">Ponovi događaj</string>
+    <string name="accessibility_add_reminder">Dodaj podsjetnik</string>
+    <string name="accessibility_remove_reminder">Ukloni podsjetnik</string>
+    <string name="accessibility_add_attendee">Dodaj učesnika</string>
+    <string name="accessibility_all_day">Događaj za cijeli dan</string>
+    <string name="accessibility_reminder_time">Vrijeme podsjetnika</string>
+    <string name="accessibility_reminder_type">Vrsta podsjetnika</string>
+    <string name="accessibility_reminder_showmeas">Prikaži me kao</string>
+    <string name="accessibility_reminder_privacy">"Privatnost"</string>
+    <string name="day_view_new_event_hint">+ Novi događaj</string>
+    <string name="template_announce_item_index">Događaj <xliff:g id="item_index">%1$s</xliff:g> od <xliff:g id="item_count">%2$s</xliff:g>.</string>
+    <string name="acessibility_selected_marker_description">Odabrani događaj</string>
+    <string name="recurrence_month_pattern_by_day">istog dana svakog mjeseca</string>
+    <string name="recurrence_end_continously">Zauvijek</string>
+    <string name="recurrence_end_date_label">Do datuma</string>
+    <string name="recurrence_end_date">Do <xliff:g id="date">%s</xliff:g></string>
+    <string name="recurrence_end_count_label">Za određeni broj događaja</string>
+    <string name="acessibility_recurrence_choose_end_date_description">promijeni datum završetka</string>
+    <string name="user_rejected_calendar_write_permission">Etar za ispravan rad zahtijeva dozvole za čitanje i pisanje kalendara. Pokušajte ponovo.</string>
+    <string name="calendar_permission_not_granted">Tražene dozvole su odbijene. Omogućite ih u aplikaciji Postavke da biste uređivali događaje</string>
+    <string name="visibility_default">"Zadano"</string>
+    <string name="visibility_confidential">Povjerljivo</string>
+    <string name="visibility_private">"Privatno"</string>
+    <string name="visibility_public">Javno</string>
+    <string name="two_days">2 dana</string>
+    <string name="three_days">3 dana</string>
+    <string name="four_days">4 dana</string>
+    <string name="five_days">5 dana</string>
+    <string name="six_days">6 dana</string>
+    <string name="seven_days">7 dana</string>
+    <string name="zero_minutes">0 minuta</string>
+    <string name="fifteen_minutes">"15 minuta"</string>
+    <string name="thirty_minutes">"30 minuta"</string>
+    <string name="one_hour">"1 sat"</string>
+    <string name="one_and_a_half_hours">1,5 sati</string>
+    <string name="two_hours">"2 sata"</string>
+    <string name="error_generating_ics">Pojavio se problem pri dijeljenju događaja</string>
+    <string name="cal_share_intent_title">Pošalji događaj:</string>
+    <string name="cal_export_event_title">Izvezi događaj</string>
+    <string name="cal_export_success">Događaj je uspješno izvezen</string>
+    <string name="cal_export_error">Izvoz događaja nije uspio</string>
+    <string name="cal_export_succ_msg">Događaj je uspješno izvezen</string>
+    <string name="cal_import_menu_title">Uvezi događaj</string>
+    <string name="cal_nothing_to_import">"Nema ništa za uvoz"</string>
+    <string name="cal_import_error_msg">Uvoz u kalendar nije uspio</string>
+    <string name="cal_import_error_time_zone_msg">Nije moguće razumjeti navedenu vremensku zonu: %s</string>
+    <string name="cal_import_error_date_msg">Nije moguće razumjeti navedeni datum: %s</string>
+    <string name="cal_pick_ics">Odaberite datoteku za uvoz</string>
+    <string name="show_time_no">Ne prikazuj vrijeme</string>
+    <string name="show_time_start">Samo vrijeme početka</string>
+    <string name="show_time_start_end">Vrijeme početka i završetka</string>
+    <string name="show_time_start_end_below">Vrijeme početka i završetka ispod događaja</string>
+    <string name="preferences_calendar_no_display_name">Kalendar bez naziva</string>
+    <string name="preferences_calendar_account">Račun %1$s</string>
+    <string name="preferences_calendar_account_local">Offline kalendar</string>
+    <string name="preferences_calendar_configure_account">Konfigurišite kalendar u aplikaciji %1$s</string>
+    <string name="preferences_calendar_number_of_events">%1$d događaja</string>
+    <string name="preferences_calendar_delete">Obriši kalendar</string>
+    <string name="preferences_calendar_display_name">"Promjena imena"</string>
+    <string name="preferences_calendar_info_category">Informacije o kalendaru</string>
+    <string name="preferences_calendar_color">"Boja"</string>
+    <string name="preferences_calendar_visible">Prikaži događaje</string>
+    <string name="preferences_manage_notifications">Upravljaj obavještenjima</string>
+    <string name="preferences_calendar_synchronize">Sinhroniziraj ovaj kalendar</string>
+    <string name="preferences_calendar_color_warning_title">"Upozorenje"</string>
+    <string name="preferences_calendar_color_warning_message">Promjena boje može biti poništena kada se kalendar ponovo sinhronizira.\n\nU aplikaciji DAVx⁵ možete onemogućiti „Upravljaj bojama kalendara“ da to spriječite.</string>
+    <string name="preferences_calendar_color_warning_button">Razumijem</string>
+    <string name="preferences_calendar_delete_message">Zaista želite obrisati ovaj kalendar?</string>
+    <string name="preferences_calendar_delete_delete">Obriši kalendar</string>
+    <string name="preferences_calendar_delete_cancel">"Otkaži"</string>
+    <string name="preferences_list_calendar_summary_sync_off">Nije sinhronizovano</string>
+    <string name="preferences_list_calendar_summary_invisible">Događaji se ne prikazuju</string>
+    <string name="preferences_list_general">"Opće postavke"</string>
+    <string name="preferences_list_add_remote">Dodaj CalDAV kalendar</string>
+    <string name="preferences_list_add_remote_etesync">Dodaj EteSync kalendar</string>
+    <string name="preferences_list_add_offline">Dodaj offline kalendar</string>
+    <string name="preferences_list_add_offline_title">Dodaj offline kalendar</string>
+    <string name="preferences_list_add_offline_error_empty">Unesite naziv kalendara!</string>
+    <string name="preferences_list_add_offline_message">Offline kalendari NISU sinhronizovani s oblakom i dostupni su samo na vašem telefonu.</string>
+    <string name="preferences_list_add_offline_button">Dodaj kalendar</string>
+    <string name="preferences_list_add_offline_name">"Ime"</string>
+    <string name="preferences_list_add_offline_cancel">"Otkaži"</string>
+    <string name="preferences_menu_about">O aplikaciji Etar</string>
+    <string name="offline_account_name">Offline kalendar</string>
+    <string name="after_start_of_event">nakon početka događaja</string>
+    <string name="preferences_do_not_check_battery_optimization">Ne provjeravaj optimizaciju baterije</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Koristite na vlastiti rizik! Obavještenja više neće raditi, widget se neće ažurirati, a pozadinske usluge će se rušiti. Ali nećete ponovo biti pitani želite li omogućiti pozadinsku uslugu.</string>
+    <string name="calendars">Kalendari</string>
+    <string name="discard_event_changes">Želite li odbaciti promjene?</string>
+    <string name="discard">"Odbaci"</string>
+    <string name="cancel">"Otkaži"</string>
+    <string name="chips_action_cancel">"Otkaži"</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">سیٹ اپ وزرڈ</string>
+    <string name="cancel">"منسوخ کریں"</string>
+    <string name="next">اگلا</string>
+    <string name="finish">ہو گیا</string>
+    <string name="skip">چھوڑیں</string>
+    <string name="start">"شروع کریں"</string>
+    <string name="done">"ہو گیا"</string>
+    <string name="ok">"ٹھیک ہے"</string>
+    <string name="loading">"بس ایک سیکنڈ…"</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g> میں خوش آمدید</string>
+    <string name="setup_managed_profile_welcome_message">اپنا ورک پروفائل سیٹ اپ کریں</string>
+    <string name="emergency_call">"ایمرجنسی کال"</string>
+    <string name="accessibility_settings">"ایکسیسبیلٹی ترتیبات"</string>
+    <string name="device_info">"آلہ کی معلومات"</string>
+    <string name="device_information">"آلہ کی معلومات"</string>
+    <string name="device_info_serial">"نمبر شمار"</string>
+    <string name="setup_locale">"زبان"</string>
+    <string name="sim_locale_changed">%1$s SIM کا پتا چلا</string>
+    <string name="setup_euicc">eSIM سیٹ اپ کریں</string>
+    <string name="setup_sim_missing">SIM کارڈ موجود نہیں</string>
+    <string name="esim_support_summary">ایک eSIM سیٹ اپ کریں یا SIM کارڈ داخل کریں۔ SIM کارڈ داخل کرنے کے لیے، آپ کے آلے کے ساتھ آئی ہدایات پڑھیں۔</string>
+    <string name="sim_missing_summary" product="tablet">آپ کے ٹیبلیٹ میں SIM کارڈ کا پتا نہیں چل سکا۔ SIM کارڈ داخل کرنے کے لیے، آپ کے آلے کے ساتھ آئی ہدایات پڑھیں۔</string>
+    <string name="sim_missing_summary" product="default">آپ کے فون میں SIM کارڈ کا پتا نہیں چل سکا۔ SIM کارڈ داخل کرنے کے لیے، آپ کے آلے کے ساتھ آئی ہدایات پڑھیں۔</string>
+    <string name="sim_missing_skip_title">SIM سیٹ اپ چھوڑیں؟</string>
+    <string name="sim_missing_skip_message">اگر آپ یہ مرحلہ چھوڑ دیتے ہیں تو ترتیبات میں SIM سیٹ اپ کرنے تک آپ موبائل نیٹ ورک سے منسلک نہیں ہوں گے۔</string>
+    <string name="setup_datetime">"تاریخ اور وقت"</string>
+    <string name="date_time_summary">ٹائم زون سیٹ کریں اور ضرورت ہو تو موجودہ تاریخ اور وقت ایڈجسٹ کریں</string>
+    <string name="setup_current_date">موجودہ تاریخ</string>
+    <string name="setup_current_time">موجودہ وقت</string>
+    <string name="setup_datetime_section_date">"تاریخ"</string>
+    <string name="setup_datetime_section_time">"وقت"</string>
+    <string name="setup_date_format">"فارمیٹ کریں"</string>
+    <string name="date_format_day">"دن"</string>
+    <string name="date_format_month">"مہینہ"</string>
+    <string name="date_format_year">"سال"</string>
+    <string name="setup_time_zone">"ٹائم زون"</string>
+    <string name="setup_24_hour_format">"24 گھنٹے کا فارمیٹ استعمال کریں"</string>
+    <string name="intro_restore_title">ایپس اور ڈیٹا بحال کریں</string>
+    <string name="intro_restore_subtitle">اگر آپ کے پاس <xliff:g id="name" example="LineageOS">%s</xliff:g> یا کسی دوسرے OS کا Seedvault بیک اپ ہے تو آپ اسے یہاں بحال کر سکتے ہیں۔</string>
+    <string name="intro_restore_button">بیک اپ سے بحال کریں</string>
+    <string name="setup_location">"مقام کی سروسز"</string>
+    <string name="location_summary">منتخب کریں کہ آپ کا آلہ مقام کا انتظام کیسے کرے</string>
+    <string name="location_access_title">"مقام استعمال کریں"</string>
+    <string name="location_agps_access_title">بہتر مقام</string>
+    <string name="location_access_summary">ان ایپس کو مقام کی معلومات استعمال کرنے کی اجازت دیں جنہوں نے آپ سے اجازت مانگی ہے۔ اس میں آپ کا موجودہ مقام اور پچھلے مقامات شامل ہو سکتے ہیں۔</string>
+    <string name="location_agps_access_summary">جب مقام آن ہو، تو انٹرنیٹ سے سیٹلائٹ معاونت کا ڈیٹا ڈاؤن لوڈ کریں، جس سے GPS کی شروعاتی کارکردگی نمایاں طور پر بہتر ہو سکتی ہے۔</string>
+    <string name="update_recovery_title">Resurrected Remix ریکوری اپ ڈیٹ کریں</string>
+    <string name="update_recovery_description">ہر اپ ڈیٹ کے بعد پہلی بار بوٹ ہونے پر Resurrected Remix ریکوری اپ ڈیٹ کرتا ہے۔</string>
+    <string name="update_recovery_warning">سیٹ اپ مکمل ہوتے ہی ریکوری اپ ڈیٹ ہو جائے گی۔ اگر آپ اسے جوں کا توں رکھنا چاہتے ہیں تو یہ فیچر بند کر دیں۔</string>
+    <string name="update_recovery_setting">OS کے ساتھ Resurrected Remix ریکوری اپ ڈیٹ کریں</string>
+    <string name="setup_services">Resurrected Remix کے فیچرز</string>
+    <string name="services_pp_explanation">یہ سروسز آپ کے آلے کی صلاحیتوں کو بڑھانے کے لیے کام کرتی ہیں۔ ڈیٹا <xliff:g id="name" example="LineageOS">%1$s</xliff:g> کی پرائیویسی پالیسی کے مطابق استعمال ہوگا۔</string>
+    <string name="services_find_privacy_policy">آپ پرائیویسی پالیسی کسی اور آلے پر یہاں جا کر پڑھ سکتے ہیں:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> کو بہتر بنانے میں مدد کریں</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> خودکار طور پر تشخیصی اور استعمال کا ڈیٹا <xliff:g id="name" example="LineageOS">%2$s</xliff:g> کو بھیج کر مدد کرتا ہے۔ اس معلومات سے آپ کی شناخت نہیں ہو سکتی اور یہ بیٹری لائف، ایپ کی کارکردگی اور نئے <xliff:g id="name" example="LineageOS">%3$s</xliff:g> فیچرز پر کام کرنے والی ٹیموں کی مدد کرتی ہے۔</string>
+    <string name="services_metrics_title">تشخیصی ڈیٹا فراہم کریں</string>
+    <string name="services_os_nav_keys_label">ہارڈ ویئر کیز کے بجائے <b>اسکرین پر نیویگیشن کیز استعمال کریں</b>۔</string>
+    <string name="setup_navigation">سمت شناسی</string>
+    <string name="navigation_summary">ترجیحی نیویگیشن طریقہ منتخب کریں</string>
+    <string name="gesture_navigation">"اشاروں والی نیویگیشن"</string>
+    <string name="navbar_navigation">"3 بٹن والی نیویگیشن"</string>
+    <string name="gesture_navigation_short">اشارہ</string>
+    <string name="hide_gesture_hint">اشاروں والے نیویگیشن کا اشارہ چھپائیں</string>
+    <string name="setup_theme">"تھیم"</string>
+    <string name="theme_summary">ڈارک تھیم کا پس منظر سیاہ ہوتا ہے، جس سے کچھ اسکرینز پر بیٹری زیادہ دیر چلتی ہے</string>
+    <string name="dark">گہرا</string>
+    <string name="light">"ہلکا"</string>
+    <string name="pure_black_theme">خالص سیاہ پس منظر استعمال کریں</string>
+    <string name="theme_preview">تھیم کا پیش نظارہ</string>
+    <string name="swipe_up_to_go_home">"ہوم پر جانے کے لیے اوپر سوائپ کریں"</string>
+    <string name="tap_home_to_go_home">گھر جانے کے لیے درمیانی نیویگیشن آئیکن پر ٹیپ کریں</string>
+    <string name="press_center_to_go_home">گھر جانے کے لیے درمیانی بٹن دبائیں</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_hu_ZZ">હંગેરિયન (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">મટીરિયલ - સિસ્ટમ સેટિંગ્સ અનુસરો</string>
+    <string name="prefs_keyboard_height_scale">કીબોર્ડની ઊંચાઈનો સ્કેલ</string>
+    <string name="number_row">નંબર રો</string>
+    <string name="number_row_summary">ચાર રોવાળા કી લેઆઉટ માટે હંમેશા નંબર રો બતાવો</string>
+    <string name="number_row_password">પાસવર્ડ માટે નંબર રો</string>
+    <string name="number_row_password_summary">પાસવર્ડ ઇનપુટ માટે ચાર રોવાળા કી લેઆઉટ માટે હંમેશા નંબર રો બતાવો</string>
+    <string name="space_trackpad">સ્પેસ બાર ટ્રૅકપૅડ</string>
+    <string name="space_trackpad_summary">કર્સર ખસેડવા માટે સ્પેસ બાર પર સ્વાઇપ કરો</string>
+    <string name="backspace_trackpad">બૅકસ્પેસ કી ટ્રૅકપૅડ</string>
+    <string name="backspace_trackpad_summary">શબ્દો ડિલીટ કરવા માટે બૅકસ્પેસ કી પર સ્વાઇપ કરો</string>
+    <string name="show_longpress_hints">લાંબા દબાવના સંકેતો બતાવો</string>
+    <string name="show_longpress_hints_summary">સપોર્ટેડ કી માટે લાંબા દબાવના સંકેત બતાવે છે</string>
+    <string name="show_emoji_key">ઇમોજી કી બતાવો</string>
+    <string name="show_emoji_key_summary">ઇમોજી કી હંમેશા બતાવો. આ વિકલ્પ ચાલુ હોય ત્યારે ભાષા સ્વિચ કી બતાવી શકાતી નથી</string>
+    <string name="enable_split_keyboard_summary">ફક્ત લૅન્ડસ્કેપમાં</string>
+    <string name="split_keyboard_duplicate_keys">મધ્યની કી ડુપ્લિકેટ કરો</string>
+    <string name="split_keyboard_duplicate_keys_summary">બંને ભાગોમાં મધ્યની નજીકની કી બતાવો</string>
+    <string name="spoken_description_split_keyboard">કીબોર્ડ વિભાજિત કરો</string>
+    <string name="spoken_description_merge_keyboard">કીબોર્ડ મર્જ કરો</string>
+    <string name="spoken_description_float_keyboard">કીબોર્ડ ફ્લોટ કરો</string>
+    <string name="spoken_description_dock_keyboard">કીબોર્ડ ડૉક કરો</string>
+    <string name="floating_keyboard_drag_handle">કીબોર્ડ ખસેડો</string>
+    <string name="floating_keyboard_resize_handle">કીબોર્ડનું કદ બદલો</string>
+    <string name="floating_keyboard_reset">"રીસેટ કરો"</string>
+    <string name="floating_keyboard_hide">કીબોર્ડ છુપાવો</string>
+    <string name="floating_keyboard_switch_ime">"ઇનપુટ પદ્ધતિ સ્વિચ કરો"</string>
+</resources>

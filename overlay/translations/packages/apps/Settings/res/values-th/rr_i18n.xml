@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kbps</item>
+        <item>256 kbps</item>
+        <item>1 Mbps</item>
+        <item>5 Mbps</item>
+        <item>15 Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ค่าเริ่มต้น"</item>
+        <item>เซลเซียส</item>
+        <item>ฟาเรนไฮต์</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ค่าเริ่มต้น"</item>
+        <item>อา</item>
+        <item>จ</item>
+        <item>อ</item>
+        <item>พ</item>
+        <item>พฤ</item>
+        <item>ศ</item>
+        <item>ส</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ค่าเริ่มต้น"</item>
+        <item>เมตริก</item>
+        <item>ระบบ US</item>
+        <item>ระบบ UK</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"ไม่ได้ระบุ"</item>
+        <item>"กลางๆ"</item>
+        <item>"เพศหญิง"</item>
+        <item>"เพศชาย"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>ฝรั่งเศส</item>
+        <item>สเปน</item>
+        <item>อิตาลี</item>
+        <item>เยอรมัน</item>
+    </string-array>
+    <string name="backup_transport_setting_label">เปลี่ยนผู้ให้บริการสำรองข้อมูล</string>
+    <string name="backup_transport_title">เลือกผู้ให้บริการสำรองข้อมูล</string>
+    <string name="show_dev_countdown_cm">{count, plural, other {อีก # ขั้นตอนจะเปิดใช้การตั้งค่านักพัฒนาได้}}</string>
+    <string name="high_touch_polling_rate_title">อัตราการสุ่มข้อมูลการสัมผัสสูง</string>
+    <string name="high_touch_polling_rate_summary">เพิ่มอัตราการสุ่มข้อมูลของหน้าจอสัมผัส</string>
+    <string name="heads_up_notifications_enabled_summary">แสดงการแจ้งเตือนสำคัญในหน้าต่างลอยขนาดเล็ก</string>
+    <string name="tethering_allow_vpn_upstreams_title">ใช้ VPN สำหรับอุปกรณ์ที่เชื่อมต่อ</string>
+    <string name="tethering_allow_vpn_upstreams_summary">เมื่ออุปกรณ์นี้ใช้ VPN อุปกรณ์ทั้งหมดที่เชื่อมต่อกับฮอตสปอตจะใช้ VPN เดียวกัน</string>
+    <string name="max_refresh_rate_title">อัตราการรีเฟรชสูงสุด</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">ระบุตำแหน่งเซนเซอร์ลายนิ้วมือที่ด้านหน้าของแท็บเล็ต</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">ระบุตำแหน่งเซนเซอร์ลายนิ้วมือที่ด้านหน้าของอุปกรณ์</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">ระบุตำแหน่งเซนเซอร์ลายนิ้วมือที่ด้านหน้าของโทรศัพท์</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">ระบุตำแหน่งเซนเซอร์ลายนิ้วมือที่ด้านหลังของแท็บเล็ต</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">ระบุตำแหน่งเซนเซอร์ลายนิ้วมือที่ด้านหลังของอุปกรณ์</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">ระบุตำแหน่งเซนเซอร์ลายนิ้วมือที่ด้านหลังของโทรศัพท์</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">ระบุตำแหน่งเซนเซอร์ลายนิ้วมือที่ด้านข้างของแท็บเล็ต</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">ระบุตำแหน่งเซนเซอร์ลายนิ้วมือที่ด้านข้างของอุปกรณ์</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">ระบุตำแหน่งเซนเซอร์ลายนิ้วมือที่ด้านข้างของโทรศัพท์</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">แตะเซนเซอร์ที่ด้านหน้าของแท็บเล็ต</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">แตะเซนเซอร์ที่ด้านหน้าของอุปกรณ์</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">แตะเซนเซอร์ที่ด้านหน้าของโทรศัพท์</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">แตะเซนเซอร์ที่ด้านหลังของแท็บเล็ต</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">แตะเซนเซอร์ที่ด้านหลังของอุปกรณ์</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">แตะเซนเซอร์ที่ด้านหลังของโทรศัพท์</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">แตะเซนเซอร์ที่ด้านข้างของแท็บเล็ต</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">แตะเซนเซอร์ที่ด้านข้างของอุปกรณ์</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">แตะเซนเซอร์ที่ด้านข้างของโทรศัพท์</string>
+    <string name="show_navbar_hint_title">คำแนะนำการนำทาง</string>
+    <string name="show_navbar_hint_summary">แสดงแถบคำแนะนำการนำทางที่ด้านล่างของหน้าจอ</string>
+    <string name="auto_brightness_one_shot_title">ปรับความสว่างอัตโนมัติครั้งเดียว</string>
+    <string name="auto_brightness_one_shot_summary">การปรับความสว่างจะเกิดขึ้นเฉพาะตอนที่เปิดหน้าจอเท่านั้น</string>
+    <string name="data_usage_app_restrict_all">อนุญาตการเข้าถึงเครือข่าย</string>
+    <string name="data_usage_app_restrict_all_summary">เปิดใช้การใช้งานเครือข่าย</string>
+    <string name="storage_warning_internal">คำเตือน: ตัวเลือกนี้อาจทำงานไม่ถูกต้องหรือทำให้ข้อมูลสูญหายได้ จึงไม่แนะนำ</string>
+    <string name="assisted_gps">ใช้ GPS แบบช่วยเหลือ</string>
+    <string name="assisted_gps_summary">ดาวน์โหลดข้อมูลช่วยเหลือดาวเทียมจากอินเทอร์เน็ตซึ่งช่วยเพิ่มประสิทธิภาพการเริ่มต้น GPS ได้มาก สำหรับการโทรฉุกเฉิน GPS แบบช่วยเหลือจะถูกอนุญาตเสมอ</string>
+    <string name="battery_technology">เทคโนโลยี</string>
+    <string name="battery_health">"ประสิทธิภาพ"</string>
+    <string name="battery_health_good">"ดี"</string>
+    <string name="battery_health_overheat">"ร้อนเกินไป"</string>
+    <string name="battery_health_dead">"หมด"</string>
+    <string name="battery_health_over_voltage">"แรงดันไฟฟ้าเกิน"</string>
+    <string name="battery_health_unspecified_failure">ความล้มเหลวที่ไม่ระบุ</string>
+    <string name="battery_health_cold">"เย็น"</string>
+    <string name="battery_health_unknown">"ไม่ทราบ"</string>
+    <string name="battery_temperature">"อุณหภูมิ"</string>
+    <string name="battery_voltage">แรงดันไฟฟ้า</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">ความจุออกแบบ</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">ความจุสูงสุด</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">พับโทรศัพท์ระหว่างการตั้งค่า</string>
+    <string name="face_enrolling_close_to_continue_description">ต้องพับโทรศัพท์เพื่อตั้งค่าหรือใช้การปลดล็อกด้วยใบหน้า</string>
+    <string name="face_enrolling_do_it_later">"ข้ามไปก่อน"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">ชุดเครื่องมือซิม</string>
+    <string name="platform_compat_target_sdk_title">เปิดใช้สำหรับ targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">ตัวจัดการบริบทส่วนบุคคล</string>
+</resources>

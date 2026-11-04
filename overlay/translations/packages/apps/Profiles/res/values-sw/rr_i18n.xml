@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Mtoa wasifu anayeaminika</string>
+    <string name="profile_picker_title">"Maelezo"</string>
+    <string name="profile_none">"Hamna"</string>
+    <string name="profile_trust_agent_title">Wakala wa wasifu anayeaminika</string>
+    <string name="profile_trust_agent_summary">Inaruhusu Wasifu kuzima kwa muda ulinzi wa skrini iliyofungwa</string>
+    <string name="trust_by_profile">Inaaminiwa na Wasifu</string>
+</resources>

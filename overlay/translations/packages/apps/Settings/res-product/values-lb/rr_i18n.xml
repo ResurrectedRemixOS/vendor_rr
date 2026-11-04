@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="status_number" product="default">Telefonsnummer</string>
+    <string name="main_clear_button_text" product="tablet">All Date läschen</string>
+    <string name="main_clear_button_text" product="default">All Date läschen</string>
+    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Weckeren</string>
+    <string name="activity_not_found" product="default">D\'App ass net op dengem Telefon installéiert.</string>
+    <string name="sound_settings" product="desktop">Toun</string>
+</resources>

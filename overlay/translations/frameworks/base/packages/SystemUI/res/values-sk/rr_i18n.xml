@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="clock">"Hodiny"</string>
+    <string name="accessibility_adaptive_brightness">"Adaptácia jasu"</string>
+    <string name="status_bar_icons_title">Ikony stavového riadku</string>
+    <string name="status_bar_firewall">Firewall</string>
+    <string name="battery_notification_channel_tv">Upozornenie na batériu</string>
+    <string name="screenshot_delete_label">"Odstrániť"</string>
+    <string name="screenshot_delete_description">Odstrániť snímku obrazovky</string>
+    <string name="screenrecord_lowquality_label">Nižšia kvalita</string>
+    <string name="screenrecord_lowquality_summary">Pre menšiu veľkosť súboru</string>
+    <string name="screenrecord_longer_timeout_switch_label">Väčší limit veľkosti súboru</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Obmedziť veľkosť nahrávky na 15 GB</string>
+    <string name="screenrecord_skip_time_label">Preskočiť časovač</string>
+    <string name="screenrecord_skip_time_summary">Odstrániť 3-sekundové čakanie</string>
+    <string name="screenrecord_hevc_switch_label">Kódovanie HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Použiť efektívnejší kodér HEVC</string>
+    <string name="zen_alarm_warning_indef">"Ak toto nastavenie nevypnete, váš budík o <xliff:g id="WHEN">%1$s</xliff:g> sa nespustí"</string>
+</resources>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="hdcp_checking_titles">
+        <item>Ni iwwerpréiwen</item>
+        <item>Just op DRM-Inhalter iwwerpréiwen</item>
+        <item>Ëmmer iwwerpréiwen</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Aus</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Aus</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animatioun aus</item>
+        <item>Animatiounsskala 0,5x</item>
+        <item>Animatiounsskala 1x</item>
+        <item>Animatiounsskala 1,5x</item>
+        <item>Animatiounsskala 2x</item>
+        <item>Animatiounsskala 5x</item>
+        <item>Animatiounsskala 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animatioun aus</item>
+        <item>Animatiounsskala 0,5x</item>
+        <item>Animatiounsskala 1x</item>
+        <item>Animatiounsskala 1,5x</item>
+        <item>Animatiounsskala 2x</item>
+        <item>Animatiounsskala 5x</item>
+        <item>Animatiounsskala 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animatioun aus</item>
+        <item>Animatiounsskala 0,5x</item>
+        <item>Animatiounsskala 1x</item>
+        <item>Animatiounsskala 1,5x</item>
+        <item>Animatiounsskala 2x</item>
+        <item>Animatiounsskala 5x</item>
+        <item>Animatiounsskala 10x</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standardlimitt</item>
+        <item>Keng Hannergrondprozesser</item>
+        <item>Héchstens 1 Prozess</item>
+        <item>Héchstens 2 Prozesser</item>
+        <item>Héchstens 3 Prozesser</item>
+        <item>Héchstens 4 Prozesser</item>
+    </string-array>
+    <string name="wifi_security_none">Keen</string>
+    <string name="wifi_disconnected">Connectioun getrennt</string>
+    <string name="wifi_disabled_generic">Desaktivéiert</string>
+    <string name="bluetooth_disconnected">Connectioun getrennt</string>
+    <string name="bluetooth_connecting">Connectioun gëtt hiergestallt\u2026</string>
+    <string name="bluetooth_profile_hearing_aid">Héierapparater</string>
+    <string name="bluetooth_pairing_accept">Koppelen</string>
+    <string name="bluetooth_pairing_decline">Ofbriechen</string>
+    <string name="bluetooth_talkback_headset">Kopfhörer</string>
+    <string name="bluetooth_talkback_phone">Telefon</string>
+    <string name="bluetooth_talkback_headphone">Kopfhörer</string>
+    <string name="data_usage_uninstalled_apps">Geläscht Appen</string>
+    <string name="data_usage_uninstalled_apps_users">Geläscht Appen a Benotzer</string>
+    <string name="data_usage_ota">Systemaktualiséierungen</string>
+    <string name="tether_settings_title_usb">USB-Tethering</string>
+    <string name="tether_settings_title_wifi">Mobillen Zougankspunkt</string>
+    <string name="tether_settings_title_bluetooth">Bluetooth-Tethering</string>
+    <string name="tether_settings_title_usb_bluetooth">Tethering</string>
+    <string name="unknown">Onbekannt</string>
+    <string name="running_process_item_user_label">Benotzer: <xliff:g id="user_name">%1$s</xliff:g></string>
+    <string name="tts_default_rate_title">Virliesvitess</string>
+    <string name="tts_default_lang_title">Sprooch</string>
+    <string name="tts_install_data_title">Sproochendaten installéieren</string>
+    <string name="tts_engine_preference_section_title">Preferéiert Maschinn</string>
+    <string name="tts_general_section_title">Allgemeng</string>
+    <string name="category_personal">Perséinlech</string>
+    <string name="category_work">Aarbecht</string>
+    <string name="development_settings_title">Entwéckleroptiounen</string>
+    <string name="enable_adb">Feelersich iwwer USB</string>
+    <string name="adb_wireless_error">Feeler</string>
+    <string name="adb_device_forget">Vergiessen</string>
+    <string name="keep_screen_on">Waakreg bleiwen</string>
+    <string name="private_dns_mode_off">Aus</string>
+    <string name="private_dns_mode_opportunistic">Automatesch</string>
+    <string name="allow_mock_location">Simuléiert Standuerter erlaben</string>
+    <string name="allow_mock_location_summary">Simuléiert Standuerter erlaben</string>
+    <string name="adb_warning_title">USB-Debugging erlaben?</string>
+    <string name="verify_apps_over_usb_title">Appen iwwer USB verifizéieren</string>
+    <string name="hdcp_checking_title">HDCP-Iwwerpréiwung</string>
+    <string name="debug_app">Debug-App auswielen</string>
+    <string name="no_application">Näischt</string>
+    <string name="wait_for_debugger">Op den Debugger waarden</string>
+    <string name="wait_for_debugger_summary">Ier d\'App ausgefouert gëtt, gëtt den Debugger gestart</string>
+    <string name="debug_input_category">Agang</string>
+    <string name="debug_drawing_category">Zeechnen</string>
+    <string name="media_category">Medien</string>
+    <string name="debug_monitoring_category">Iwwerwaachung</string>
+    <string name="strict_mode_summary">Bei méi laangen Aktiounen am Haaptthread de Schirm blénke loossen</string>
+    <string name="pointer_location">Cursorpositioun</string>
+    <string name="show_screen_updates">Flächenaktualiséierungen uweisen</string>
+    <string name="show_screen_updates_summary">Ganz Fënsterflächen opliichte loosse wa s\'aktualiséiert ginn</string>
+    <string name="show_hw_layers_updates_summary">Hardware-Layere gréng opliichte loosse wa s\'aktualiséiert ginn</string>
+    <string name="debug_layout">Layout-Grenzen uweisen</string>
+    <string name="debug_layout_summary">Clip-Begrenzungen, Ränner, etc. uweisen.</string>
+    <string name="window_animation_scale_title">Skaléierung vun de Fënsteranimatiounen</string>
+    <string name="transition_animation_scale_title">Skaléierung vun den Transitiounen</string>
+    <string name="animator_duration_scale_title">Skaléierung vun der Animateurszäit</string>
+    <string name="debug_applications_category">Appen</string>
+    <string name="app_process_limit_title">Limitt fir Hannergrondprozesser</string>
+    <string name="loading_injected_setting_summary">Gëtt gelueden\u2026</string>
+    <string name="daltonizer_mode_disabled">Desaktivéiert</string>
+    <string name="battery_info_status_unknown">Onbekannt</string>
+    <string name="disabled">Desaktivéiert</string>
+    <string name="enabled">Aktivéiert</string>
+    <string name="external_source_trusted">Erlaabt</string>
+    <string name="external_source_untrusted">Refuséiert</string>
+    <string name="screen_zoom_summary_small">Kleng</string>
+    <string name="screen_zoom_summary_default">Standard</string>
+    <string name="screen_zoom_summary_large">Grouss</string>
+    <string name="content_description_menu_button">Menü</string>
+    <string name="status_unavailable">Net disponibel</string>
+    <string name="accessibility_manual_zen_more_time">Méi Zäit.</string>
+    <string name="accessibility_manual_zen_less_time">Manner Zäit.</string>
+    <string name="cancel">Ofbriechen</string>
+    <string name="back">Zréck</string>
+    <string name="save">Späicheren</string>
+    <string name="done">Fäerdeg</string>
+    <string name="zen_mode_enable_dialog_turn_on">Uschalten</string>
+    <string name="zen_mode_settings_summary_off">Ni</string>
+    <string name="zen_mode_duration_settings_title">Dauer</string>
+    <string name="zen_mode_duration_always_prompt_title">All Kéier froen</string>
+    <string name="tv_media_transfer_connected">Verbonnen</string>
+    <string name="help_label">Hëllef a Feedback</string>
+    <string name="storage_category">Späicher</string>
+    <string name="user_add_user_item_title">Benotzer</string>
+    <string name="user_add_profile_item_title">Ageschränkte Profil</string>
+    <string name="user_setup_button_setup_later">Net elo</string>
+    <string name="user_nickname">Spëtznumm</string>
+    <string name="guest_reset_guest_confirm_button">Zrécksetzen</string>
+    <string name="guest_exit_dialog_button">Verloossen</string>
+    <string name="guest_exit_clear_data_button">Läschen</string>
+    <string name="guest_exit_save_data_button">Späicheren</string>
+    <string name="user_image_photo_selector">Foto auswielen</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Verwerfen</string>
+    <string name="cached_apps_freezer_disabled">Desaktivéiert</string>
+    <string name="cached_apps_freezer_enabled">Aktivéiert</string>
+    <string name="wifi_hotspot_switch_on_text">Un</string>
+    <string name="wifi_hotspot_switch_off_text">Aus</string>
+</resources>

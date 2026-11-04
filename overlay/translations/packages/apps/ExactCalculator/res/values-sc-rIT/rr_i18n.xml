@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_history">Cronologia</string>
+    <string name="title_history">Cronologia</string>
+    <string name="desc_navigate_up">Moe·ti fache a susu</string>
+    <string name="dialog_timeout">Tempus iscadidu</string>
+</resources>

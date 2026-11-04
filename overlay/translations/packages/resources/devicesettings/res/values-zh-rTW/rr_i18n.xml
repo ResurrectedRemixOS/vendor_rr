@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="none">"無"</string>
+    <string name="stylus_panel_title">"觸控筆"</string>
+    <string name="stylus_screen_on_when_removed_title">"開啟螢幕"</string>
+    <string name="stylus_screen_off_when_inserted_title">關閉螢幕</string>
+    <string name="stylus_vibrate_title">"震動"</string>
+    <string name="popup_calibration_title">"校正"</string>
+    <string name="popup_camera_tip">警告</string>
+    <string name="popup_sound_title">"音效"</string>
+    <string name="popup_sound_mofa">"魔術"</string>
+    <string name="doze_brightness_adaptive">"自動調整亮度"</string>
+    <string name="alert_slider_mode_none">"無"</string>
+    <string name="alert_slider_mode_torch_on">"手電筒已開啟"</string>
+    <string name="alert_slider_mode_torch_off">"手電筒已關閉"</string>
+</resources>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"e parazgjedhur"</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"e parazgjedhur"</item>
+        <item>die</item>
+        <item>hën</item>
+        <item>mar</item>
+        <item>mër</item>
+        <item>enj</item>
+        <item>pre</item>
+        <item>sht</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"e parazgjedhur"</item>
+        <item>metrik</item>
+        <item>sistemi amerikan</item>
+        <item>sistemi britanik</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"E papërcaktuar"</item>
+        <item>"Asnjanës"</item>
+        <item>"Femërore"</item>
+        <item>"Mashkullore"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="tethering_allow_vpn_upstreams_title">Përdor VPN për pajisjet e lidhura</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Kur kjo pajisje përdor një VPN, të gjitha pajisjet e lidhura me hotspot-in do të përdorin të njëjtin VPN</string>
+    <string name="face_enrolling_close_to_continue">Palose telefonin gjatë konfigurimit</string>
+    <string name="face_enrolling_close_to_continue_description">Telefoni duhet të palosët për të konfiguruar ose përdorur Face Unlock</string>
+    <string name="face_enrolling_do_it_later">"Bëje më vonë"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">Veglat e SIM-it</string>
+    <string name="platform_compat_target_sdk_title">Aktivizuar për targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Menaxher i kontekstit personal</string>
+</resources>

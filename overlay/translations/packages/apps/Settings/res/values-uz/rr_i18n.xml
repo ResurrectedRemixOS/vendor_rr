@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kbit/s</item>
+        <item>256 kbit/s</item>
+        <item>1 Mbit/s</item>
+        <item>5 Mbit/s</item>
+        <item>15 Mbit/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"birlamchi"</item>
+        <item>Selsiy</item>
+        <item>Farengeyt</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"birlamchi"</item>
+        <item>Yak</item>
+        <item>Dush</item>
+        <item>Sesh</item>
+        <item>Chor</item>
+        <item>Pay</item>
+        <item>Juma</item>
+        <item>Shan</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"birlamchi"</item>
+        <item>Metrik</item>
+        <item>AQSh tizimi</item>
+        <item>Britaniya tizimi</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Koʻrsatilmagan"</item>
+        <item>"Oʻrtacha"</item>
+        <item>"Ayollar uchun"</item>
+        <item>"Erkaklar uchun"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">Qo‘shimchalar</string>
+    <string name="advanced_keyboard_settings_title">"Kengaytirilgan sozlamalar"</string>
+    <string name="adb_enable_root">Root bilan nosozliklarni tuzatish</string>
+    <string name="adb_enable_summary_root">Android nosozliklarni tuzatishni root huquqi bilan ishga tushirishga ruxsat berish</string>
+    <string name="backup_transport_setting_label">Zaxiralash provayderini o‘zgartirish</string>
+    <string name="backup_transport_title">Zaxiralash provayderini tanlang</string>
+    <string name="berry_black_theme_title">Sof qora</string>
+    <string name="berry_black_theme_summary">Qorong‘i mavzu uchun sof qora fon</string>
+    <string name="lineagelicense_title">LineageOS huquqiy ma‘lumotlari</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Ishlab chiquvchi sozlamalarini yoqishga endi # qadam qoldi.} other {Ishlab chiquvchi sozlamalarini yoqishga endi # qadam qoldi.} }</string>
+    <string name="show_dev_on_cm">Siz ishlab chiquvchi sozlamalarini yoqdingiz!</string>
+    <string name="show_dev_already_cm">Kerak emas, ishlab chiquvchi sozlamalari allaqachon yoqilgan.</string>
+    <string name="status_bar_double_tap_to_sleep_title">Uyqu uchun teging</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Displeyni o‘chirish uchun holat qatori yoki ekran qulfini ikki marta bosing</string>
+    <string name="high_touch_polling_rate_title">Yuqori sensor so‘rov tezligi</string>
+    <string name="high_touch_polling_rate_summary">Sensorli ekranning so‘rov tezligini oshirish</string>
+    <string name="heads_up_notifications_enabled_title">Yuqori ogohlantirish</string>
+    <string name="heads_up_notifications_enabled_summary">Muhim bildirishnomalarni kichik suzuvchi oynada ko‘rsatish</string>
+    <string name="high_touch_sensitivity_title">Yuqori sensorlik sezgirligi</string>
+    <string name="high_touch_sensitivity_summary">Qo‘lqop kiyilganda ham ishlashi uchun sensorli ekran sezgirligini oshirish</string>
+    <string name="tethering_allow_vpn_upstreams_title">Ulangan qurilmalar uchun VPN‘dan foydalanish</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Bu qurilma VPN‘dan foydalanganda, nuqtaga ulangan barcha qurilmalar xuddi shu VPN‘dan foydalanadi</string>
+    <string name="lock_settings_picker_pattern_size_message">Chizma o‘lchamini tanlang</string>
+    <string name="lockpattern_settings_enable_error_path_title">Chizma xatosini ko‘rsatish</string>
+    <string name="lockpattern_settings_enable_dots_title">Chizma nuqtalarini ko‘rsatish</string>
+    <string name="max_refresh_rate_title">Eng yuqori yangilanish chastotasi</string>
+    <string name="min_refresh_rate_title">Eng past yangilanish chastotasi</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Barmoq izi sensorini planshetingizning old tomonida toping.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Barmoq izi sensorini qurilmangizning old tomonida toping.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Barmoq izi sensorini telefoningizning old tomonida toping.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Barmoq izi sensorini planshetingizning orqa tomonida toping.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Barmoq izi sensorini qurilmangizning orqa tomonida toping.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Barmoq izi sensorini telefoningizning orqa tomonida toping.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Barmoq izi sensorini planshetingizning yon tomonida toping.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Barmoq izi sensorini qurilmangizning yon tomonida toping.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Barmoq izi sensorini telefoningizning yon tomonida toping.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Planshetingizning old tomonidagi sensorga teging.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Qurilmangizning old tomonidagi sensorga teging.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Telefoningizning old tomonidagi sensorga teging.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Planshetingizning orqa tomonidagi sensorga teging.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Qurilmangizning orqa tomonidagi sensorga teging.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Telefoningizning orqa tomonidagi sensorga teging.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Planshetingizning yon tomonidagi sensorga teging.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Qurilmangizning yon tomonidagi sensorga teging.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Telefoningizning yon tomonidagi sensorga teging.</string>
+    <string name="show_navbar_hint_title">Navigatsiya maslahati</string>
+    <string name="show_navbar_hint_summary">Ekranning pastki qismida navigatsiya maslahat panelini ko‘rsatish</string>
+    <string name="auto_brightness_one_shot_title">Bir martalik avtomatik yorqinlik</string>
+    <string name="auto_brightness_one_shot_summary">Yorqinlik faqat ekran yoqilgan paytda sozlanadi</string>
+    <string name="data_usage_app_restrict_all">Tarmoqqa kirishga ruxsat berish</string>
+    <string name="data_usage_app_restrict_all_summary">Tarmoqdan foydalanishni yoqish</string>
+    <string name="data_usage_app_restrict_mobile">"Mobil internet"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Mobil ma‘lumotlardan foydalanishni yoqish</string>
+    <string name="data_usage_app_restrict_vpn">VPN ma‘lumotlari</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN ma‘lumotlaridan foydalanishni yoqish</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi trafik"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi ma‘lumotlaridan foydalanishni yoqish</string>
+    <string name="unlock_scramble_pin_layout_title">Tartibni aralashtirish</string>
+    <string name="unlock_scramble_pin_layout_summary">Qurilmani qulfdan chiqarishda PIN tartibini aralashtirish</string>
+    <string name="proximity_wake_title">Tasodifiy uyg‘onishning oldini olish</string>
+    <string name="proximity_wake_summary">Ekranni uyg‘otishdan oldin yaqinlik sensorini tekshirish</string>
+    <string name="touchscreen_hovering_title">Sensorli ekranda suzish</string>
+    <string name="touchscreen_hovering_summary">Veb-brauzerlar, masofaviy ish stollari va boshqalarda ekranni sichqonchadek suzib o‘tkazish imkonini beradi</string>
+    <string name="wake_when_plugged_or_unplugged_title">Ulanganda uyg‘otish</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Quvvat manbai ulanganda yoki uzilganda ekranni yoqish</string>
+    <string name="storage_warning_internal">Ogohlantirish: Bu variant to‘g‘ri ishlamasligi yoki ma‘lumotlar yo‘qolishiga olib kelishi mumkin, shuning uchun tavsiya etilmaydi!</string>
+    <string name="assisted_gps">Yordamchi GPS‘dan foydalanish</string>
+    <string name="assisted_gps_summary">Internetdan sun’iy yo‘ldosh yordam ma’lumotlarini yuklab oling, bu GPS’ning ishga tushish tezligini sezilarli darajada oshiradi. Favqulodda qo‘ng‘iroqlar uchun yordamchi GPS doim ruxsat etiladi.</string>
+    <string name="battery_technology">Texnologiya</string>
+    <string name="battery_health">"Ahvoli"</string>
+    <string name="battery_health_good">"Yaxshi"</string>
+    <string name="battery_health_overheat">"Issiq"</string>
+    <string name="battery_health_dead">"Quvvati tugagan"</string>
+    <string name="battery_health_over_voltage">"Juda yuqori kuchlanish"</string>
+    <string name="battery_health_unspecified_failure">Noma’lum xato</string>
+    <string name="battery_health_cold">"Sovuq"</string>
+    <string name="battery_health_unknown">"Noma’lum"</string>
+    <string name="battery_temperature">"Harorat"</string>
+    <string name="battery_voltage">Kuchlanish</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Loyihalashtirilgan sig‘im</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Maksimal sig‘im</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Sozlash vaqtida telefonni burang</string>
+    <string name="face_enrolling_close_to_continue_description">Yuzni tanitish sozlanishi yoki ishlatilishi uchun telefon burab qo‘yilishi kerak</string>
+    <string name="face_enrolling_do_it_later">"Keyinroq bajarish"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM asboblar to‘plami</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> uchun yoqilgan</string>
+    <string name="personal_context_title">Shaxsiy kontekst boshqaruvchisi</string>
+</resources>

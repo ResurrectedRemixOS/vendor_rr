@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">ლავანდა</string>
+    <string name="red_color_name">მოცვი</string>
+    <string name="wht_color_name">ნისლი</string>
+    <string name="indigo_color_name">"მუქი ლურჯი"</string>
+    <string name="iris_color_name">ირისი</string>
+    <string name="jade_color_name">ჟადე</string>
+    <string name="lemongrass_color_name">ლიმონჭამა</string>
+    <string name="moonstone_color_name">მთვარის ქვა</string>
+    <string name="obsidian_color_name">ობსიდიანი</string>
+    <string name="peony_color_name">ბაიბერი</string>
+    <string name="porcelain_color_name">ფაიფური</string>
+    <string name="fruit1_color_name">ყვითელ-წითელი ორფერა პალიტრა</string>
+    <string name="fruit2_color_name">მწვანე-narინჯისფერი ორფერა პალიტრა</string>
+    <string name="fruit3_color_name">ლურჯ-მწვანე ორფერა პალიტრა</string>
+    <string name="fruit4_color_name">ღია იისფერი და ლურჯი ორფერა პალიტრა</string>
+    <string name="fruit5_color_name">ვარდისფერი და ინდიგო ორფერა პალიტრა</string>
+</resources>

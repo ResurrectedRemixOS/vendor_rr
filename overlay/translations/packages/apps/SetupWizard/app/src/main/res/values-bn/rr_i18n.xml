@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"বাতিল করুন"</string>
+    <string name="finish">শেষ</string>
+    <string name="setup_managed_profile_welcome_message">আপনার ওয়ার্ক প্রোফাইল সেট আপ করুন</string>
+    <string name="accessibility_settings">"সহজ ব্যবহার সেটিংস"</string>
+    <string name="device_info">"ডিভাইসের তথ্য"</string>
+    <string name="device_information">"ডিভাইসের তথ্য"</string>
+    <string name="device_info_serial">"সিরিয়াল নম্বর"</string>
+    <string name="sim_locale_changed">%1$s SIM শনাক্ত হয়েছে</string>
+    <string name="setup_euicc">eSIM সেট আপ করুন</string>
+    <string name="esim_support_summary">একটি eSIM সেট আপ করুন বা একটি SIM কার্ড ঢোকান। SIM কার্ড ঢোকাতে আপনার ডিভাইসের সঙ্গে আসা নির্দেশাবলি পড়ুন।</string>
+    <string name="sim_missing_skip_title">SIM সেট আপ এড়িয়ে যাবেন?</string>
+    <string name="sim_missing_skip_message">এই ধাপ এড়িয়ে গেলে সেটিংসে SIM সেট আপ না করা পর্যন্ত আপনি মোবাইল নেটওয়ার্কে সংযুক্ত হবেন না।</string>
+    <string name="setup_datetime_section_date">"তারিখ"</string>
+    <string name="setup_datetime_section_time">"সময়"</string>
+    <string name="setup_date_format">"ফর্ম্যাট করুন"</string>
+    <string name="date_format_day">"দিনের"</string>
+    <string name="date_format_month">"মাসের"</string>
+    <string name="date_format_year">"বছর"</string>
+    <string name="setup_time_zone">"টাইম জোন"</string>
+    <string name="setup_24_hour_format">"২৪ ঘন্টার ফর্ম্যাট ব্যবহার করুন"</string>
+    <string name="intro_restore_title">অ্যাপ ও ডেটা পুনরুদ্ধার করুন</string>
+    <string name="intro_restore_subtitle"><xliff:g id="name" example="LineageOS">%s</xliff:g> বা অন্য কোনো OS থেকে যদি আপনার কাছে Seedvault ব্যাক-আপ থাকে, তবে এখান থেকে এটি পুনরুদ্ধার করতে পারেন।</string>
+    <string name="intro_restore_button">ব্যাক-আপ থেকে পুনরুদ্ধার করুন</string>
+    <string name="location_summary">আপনার ডিভাইস কীভাবে অবস্থান পরিচালনা করবে তা বেছে নিন</string>
+    <string name="location_access_title">"লোকেশন ব্যবহার করুন"</string>
+    <string name="location_agps_access_title">উন্নত অবস্থান</string>
+    <string name="location_access_summary">যেসব অ্যাপ আপনার অনুমতি চেয়েছে তাদের আপনার অবস্থানের তথ্য ব্যবহারের অনুমতি দিন। এতে বর্তমান অবস্থান ও আগের অবস্থানও অন্তর্ভুক্ত হতে পারে।</string>
+    <string name="location_agps_access_summary">অবস্থান চালু থাকলে ইন্টারনেট থেকে স্যাটেলাইট সহায়তা ডেটা ডাউনলোড করা হবে, যা GPS চালু হওয়ার গতি অনেক বাড়াতে পারে।</string>
+    <string name="services_pp_explanation">এই সেবাগুলো আপনার ডিভাইসের সক্ষমতা বাড়াতে কাজ করে। <xliff:g id="name" example="LineageOS">%1$s</xliff:g>-এর গোপনীয়তা নীতি অনুযায়ী ডেটা ব্যবহার করা হবে।</string>
+    <string name="services_find_privacy_policy">অন্য ডিভাইসে গোপনীয়তা নীতি পড়তে এই ঠিকানায় যান:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>-এর উন্নতিতে সাহায্য করুন</string>
+    <string name="services_metrics_title">ডায়াগনস্টিক ডেটা অবদান রাখুন</string>
+    <string name="services_os_nav_keys_label">হার্ডওয়্যার কী-এর বদলে <b>স্ক্রিনের নেভিগেশন কী ব্যবহার করুন</b>।</string>
+    <string name="gesture_navigation_short">আকৃতি</string>
+    <string name="hide_gesture_hint">আকৃতি-ভিত্তিক নেভিগেশনের ইঙ্গিত লুকান</string>
+    <string name="setup_theme">"থিম"</string>
+    <string name="theme_summary">ডার্ক থিমে কিছু স্ক্রিনে ব্যাটারি বেশিক্ষণ টিকিয়ে রাখতে কালো ব্যাকগ্রাউন্ড ব্যবহার করা হয়</string>
+    <string name="dark">গাঢ়</string>
+    <string name="light">"হাল্কা"</string>
+    <string name="pure_black_theme">বিশুদ্ধ কালো ব্যাকগ্রাউন্ড ব্যবহার করুন</string>
+    <string name="theme_preview">থিম প্রিভিউ</string>
+    <string name="swipe_up_to_go_home">"হোম স্ক্রিনে যেতে উপরের দিকে সোয়াইপ করুন"</string>
+    <string name="tap_home_to_go_home">হোমে যেতে কেন্দ্রের নেভ আইকনে ট্যাপ করুন</string>
+    <string name="press_center_to_go_home">হোমে যেতে কেন্দ্রের বোতাম চাপুন</string>
+</resources>

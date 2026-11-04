@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dialog_permissions_settings">Agordoj</string>
+    <string name="more_options">Pli opcioj</string>
+    <string name="clock_color_title">Koloro</string>
+    <string name="screensaver_change_settings">Agordoj</string>
+    <string name="alarm_vibrate">Vibri</string>
+    <string name="loading_widget">Ŝarĝado</string>
+    <string name="unknown_ringtone_title">Nekonata</string>
+    <string name="menu_clock">Horloĝo</string>
+    <string name="clock_settings">Horloĝo</string>
+    <string name="clock_style">Stilo</string>
+    <string name="home_time_zone">Hejma horzono</string>
+    <string name="home_time_zone_title">Hejma horzono</string>
+</resources>

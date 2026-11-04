@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Tühista"</string>
+    <string name="finish">Lõpeta</string>
+    <string name="done">"Valmis"</string>
+    <string name="setup_welcome_message">Tere tulemast, <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Seadista oma tööprofiil</string>
+    <string name="accessibility_settings">"Juurdepääsetavuse seaded"</string>
+    <string name="device_info">"Seadme teave"</string>
+    <string name="device_information">"Seadme teave"</string>
+    <string name="device_info_serial">"Seerianumber"</string>
+    <string name="setup_locale">"Keel"</string>
+    <string name="sim_locale_changed">Tuvastati %1$s SIM-kaart</string>
+    <string name="setup_euicc">Seadista eSIM</string>
+    <string name="esim_support_summary">Seadista eSIM või sisesta SIM-kaart. SIM-kaardi sisestamiseks loe seadmega kaasas olnud juhiseid.</string>
+    <string name="sim_missing_skip_title">Kas jätta SIM-kaardi seadistamine vahele?</string>
+    <string name="sim_missing_skip_message">Kui jätad selle sammu vahele, ei ühendu sa mobiilivõrguga enne, kui seadistad SIM-kaardi seadetes.</string>
+    <string name="setup_datetime_section_date">"Kuupäev"</string>
+    <string name="setup_datetime_section_time">"Kellaaeg"</string>
+    <string name="setup_date_format">"Vorminda"</string>
+    <string name="date_format_day">Päev</string>
+    <string name="date_format_month">"Kuu"</string>
+    <string name="date_format_year">"Aasta"</string>
+    <string name="setup_time_zone">"Ajavöönd"</string>
+    <string name="setup_24_hour_format">"Kasuta 24-tunni vormingut"</string>
+    <string name="intro_restore_subtitle">Kui sul on varukoopia Seedvaultist versioonist <xliff:g id="name" example="LineageOS">%s</xliff:g> või mõnest muust operatsioonisüsteemist, saad selle siin taastada.</string>
+    <string name="location_summary">Vali, kuidas su seade asukohta haldab</string>
+    <string name="location_access_title">"Kasuta asukohta"</string>
+    <string name="location_agps_access_title">Täiustatud asukoht</string>
+    <string name="location_agps_access_summary">Kui asukoht on sisse lülitatud, laaditakse internetist alla satelliitide abiandmed, mis võivad oluliselt parandada GPS-i käivitumist.</string>
+    <string name="update_recovery_description">Uuendab Resurrected Remixi taastamist esimesel käivitusel pärast iga uuendust.</string>
+    <string name="update_recovery_warning">Taastamine uuendatakse kohe, kui seadistus on lõppenud. Kui soovid selle puutumata jätta, lülita see funktsioon välja.</string>
+    <string name="setup_services">Resurrected Remixi funktsioonid</string>
+    <string name="services_pp_explanation">Need teenused töötavad selleks, et laiendada su seadme võimalusi. Andmeid kasutatakse vastavalt teenuse <xliff:g id="name" example="LineageOS">%1$s</xliff:g> privaatsuspoliitikale.</string>
+    <string name="services_find_privacy_policy">Privaatsuspoliitikaga saad tutvuda teisest seadmest, külastades aadressi:</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> aitab, saates automaatselt diagnostika- ja kasutusandmeid teenusesse <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Neid andmeid ei saa kasutada sinu tuvastamiseks ning need aitavad meeskondi, kes tegelevad näiteks aku kestvuse, rakenduste jõudluse ja uute <xliff:g id="name" example="LineageOS">%3$s</xliff:g> funktsioonidega.</string>
+    <string name="services_metrics_title">Jaga diagnostikaandmeid</string>
+    <string name="setup_navigation">Navigeerimine</string>
+    <string name="navigation_summary">Vali eelistatud navigeerimisviis</string>
+    <string name="gesture_navigation">"Liigutustega navigeerimine"</string>
+    <string name="navbar_navigation">"Kolme nupuga navigeerimine"</string>
+    <string name="gesture_navigation_short">Žest</string>
+    <string name="hide_gesture_hint">Peida žestinavigeerimise vihje</string>
+    <string name="setup_theme">"Teema"</string>
+    <string name="theme_summary">Tume teema kasutab musta taustavärvi, mis aitab mõnel ekraanil akut kauem säilitada</string>
+    <string name="dark">Tume</string>
+    <string name="light">Hele</string>
+    <string name="pure_black_theme">Kasuta puhast musta taustavärvi</string>
+    <string name="theme_preview">Teema eelvaade</string>
+    <string name="swipe_up_to_go_home">"Avalehele liikumiseks pühkige üles"</string>
+    <string name="tap_home_to_go_home">Puuduta keskmist navigeerimisikooni, et avakuvale minna</string>
+    <string name="press_center_to_go_home">Vajuta avakuvale minekuks keskmist nuppu</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_show_system">Seall feadhainn an t-siostaim</string>
+    <string name="menu_hide_system">Falaich feadhainn an t-siostaim</string>
+    <string name="app_permission_summary_allowed">Ceadaichte</string>
+    <string name="app_permission_summary_not_allowed">Gun chead</string>
+    <string name="version_text">tionndadh <xliff:g id="version_num">%1$s</xliff:g></string>
+</resources>

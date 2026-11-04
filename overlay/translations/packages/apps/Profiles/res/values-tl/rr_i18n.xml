@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Profiles Trust Provider</string>
+    <string name="profile_picker_title">"Mga Profile"</string>
+    <string name="profile_none">"Wala"</string>
+    <string name="profile_trust_agent_title">Profiles Trust Agent</string>
+    <string name="profile_trust_agent_summary">Nagpapahintulot sa Profiles na pansamantalang i-disable ang proteksyon ng lock screen</string>
+    <string name="trust_by_profile">Pinagkakatiwalaan ng Profile</string>
+</resources>

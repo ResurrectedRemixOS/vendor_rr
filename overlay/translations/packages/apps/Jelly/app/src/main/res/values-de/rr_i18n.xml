@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_desktop_shortcuts">Desktop-Verknüpfungen</string>
+    <string name="desktop_shortcuts_title">Desktop-Verknüpfungen</string>
+    <string name="pref_web_debugging_title">Web-Debugging</string>
+    <string name="pref_web_debugging_summary">Untersuchen von Webseiten über chrome://inspect per USB-Debugging erlauben</string>
+    <string name="pref_fullscreen_shortcuts_title">Vollbild-Verknüpfungen</string>
+    <string name="pref_fullscreen_shortcuts_summary">Verknüpfungen immer im Vollbildmodus öffnen</string>
+</resources>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="kg_prompt_subtitle_for_secure_lock_device_biometric_auth_face">Usar el desbloquéu facial</string>
+</resources>

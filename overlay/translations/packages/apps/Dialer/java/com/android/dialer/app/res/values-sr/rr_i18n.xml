@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_menu_helplines">Линије за помоћ</string>
+    <string name="default_dialer_text">Морате поставити Телефон као подразумевану апликацију за телефон да бисте је користили.</string>
+    <string name="default_dialer_action">"Подеси као подразумевано"</string>
+</resources>

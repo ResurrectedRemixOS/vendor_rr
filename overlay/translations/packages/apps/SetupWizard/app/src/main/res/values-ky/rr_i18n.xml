@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Орнотуу сеттери</string>
+    <string name="cancel">"Жок"</string>
+    <string name="next">Кийинки</string>
+    <string name="finish">Бүттү</string>
+    <string name="skip">Өткөрүп жиберүү</string>
+    <string name="start">"Баштоо"</string>
+    <string name="done">"Бүттү"</string>
+    <string name="ok">"Жарайт"</string>
+    <string name="loading">"Бир секунд…"</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g> системасына кош келдиңиз</string>
+    <string name="setup_managed_profile_welcome_message">Жумуш профилин орнотуңуз</string>
+    <string name="emergency_call">"Шашылыш чалуу"</string>
+    <string name="accessibility_settings">"Атайын мүмкүнчүлүктөрдүн параметрлери"</string>
+    <string name="device_info">"Түзмөк тууралуу маалымат"</string>
+    <string name="device_information">"Түзмөк тууралуу маалымат"</string>
+    <string name="device_info_serial">"Сериялык номер"</string>
+    <string name="setup_locale">"Тил"</string>
+    <string name="sim_locale_changed">%1$s SIM аныкталды</string>
+    <string name="setup_euicc">eSIM орнотуу</string>
+    <string name="setup_sim_missing">SIM карта табылган жок</string>
+    <string name="esim_support_summary">eSIM орнотуңуз же SIM картаны салыңыз. SIM картаны салуу үчүн түзмөк менен кошо берилген колдонмону окуңуз.</string>
+    <string name="sim_missing_summary" product="tablet">Планшетиңизде SIM карта аныкталган жок. SIM картаны салуу үчүн түзмөк менен кошо берилген колдонмону окуңуз.</string>
+    <string name="sim_missing_summary" product="default">Телефонуңузда SIM карта аныкталган жок. SIM картаны салуу үчүн түзмөк менен кошо берилген колдонмону окуңуз.</string>
+    <string name="sim_missing_skip_title">SIM орнотууну өткөрүп жибересизби?</string>
+    <string name="sim_missing_skip_message">Бул кадамды өткөрүп жиберсеңиз, Параметрлерде SIM орнотмоюнча уюлдук тармакка туташпайсыз.</string>
+    <string name="setup_datetime">"Күн жана убакыт"</string>
+    <string name="date_time_summary">Убакыт алкагын тандаңыз жана керек болсо учурдагы күндү жана убакытты тууралаңыз</string>
+    <string name="setup_current_date">Учурдагы күн</string>
+    <string name="setup_current_time">Учурдагы убакыт</string>
+    <string name="setup_datetime_section_date">"Дата"</string>
+    <string name="setup_datetime_section_time">"Убакыт"</string>
+    <string name="setup_date_format">"Форматтоо"</string>
+    <string name="date_format_day">"Күн"</string>
+    <string name="date_format_month">"Ай"</string>
+    <string name="date_format_year">"Жыл"</string>
+    <string name="setup_time_zone">"Убакыт алкагы"</string>
+    <string name="setup_24_hour_format">"24 сааттык форматты колдонуу"</string>
+    <string name="intro_restore_title">Колдонмолорду жана маалыматтарды калыбына келтирүү</string>
+    <string name="intro_restore_subtitle">Эгер <xliff:g id="name" example="LineageOS">%s</xliff:g> же башка ОСтен Seedvault камдык көчүрмөңүз болсо, аны бул жерден калыбына келтирсеңиз болот.</string>
+    <string name="intro_restore_button">Камдык көчүрмөдөн калыбына келтирүү</string>
+    <string name="setup_location">"Жайгашкан жерди аныктоо кызматтары"</string>
+    <string name="location_summary">Түзмөгүңүз жайгашууну кантип башкарарын тандаңыз</string>
+    <string name="location_access_title">"Жайгашкан жерди аныктоо"</string>
+    <string name="location_agps_access_title">Өркүндөтүлгөн жайгашуу</string>
+    <string name="location_access_summary">Жайгашуу маалыматыңызды пайдаланууга уруксат сураган колдонмолорго уруксат бериңиз. Бул учурдагы жана мурунку жайгашууңузду камтышы мүмкүн.</string>
+    <string name="location_agps_access_summary">Жайгашуу иштеп турганда, GPS ишке киргизүүнүн ылдамдыгын кыйла жакшырта турган спутниктик жардам маалыматтарын интернеттен жүктөө.</string>
+    <string name="update_recovery_title">Resurrected Remix калыбына келтирүү режимин жаңыртуу</string>
+    <string name="update_recovery_description">Ар бир жаңыртуудан кийин биринчи жүктөөдө Resurrected Remix калыбына келтирүү режимин жаңыртат.</string>
+    <string name="update_recovery_warning">Орнотууну бүтөрүңүз менен калыбына келтирүү режими жаңыртылат. Аны өзгөрүүсүз калтыруу үчүн бул функцияны өчүрүңүз.</string>
+    <string name="update_recovery_setting">Операциялык система менен бирге Resurrected Remix калыбына келтирүү режимин жаңыртуу</string>
+    <string name="setup_services">Resurrected Remix функциялары</string>
+    <string name="services_pp_explanation">Бул кызматтар түзмөгүңүздүн мүмкүнчүлүктөрүн кеңейтет. Маалыматтар <xliff:g id="name" example="LineageOS">%1$s</xliff:g> купуялуулук саясатына ылайык колдонулат.</string>
+    <string name="services_find_privacy_policy">Купуялуулук саясатын башка түзмөктөн ушул дарек боюнча окуй аласыз:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> системасын жакшыртууга жардам бериңиз</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> диагностикалык жана колдонуу маалыматын <xliff:g id="name" example="LineageOS">%2$s</xliff:g> кызматына автоматтык түрдө жөнөтөт. Бул маалымат сизди аныктоо үчүн колдонулбайт жана батареянын иштөө убактысы, колдонмолордун ылдамдыгы жана жаңы <xliff:g id="name" example="LineageOS">%3$s</xliff:g> функциялары сыяктуу нерселерди иштеп чыккан топтарга жардам берет.</string>
+    <string name="services_metrics_title">Диагностикалык маалыматты жөнөтүү</string>
+    <string name="services_os_nav_keys_label">Аппараттык баскычтардын ордуна <b>экрандагы чабыттоо баскычтарын колдонуу</b>.</string>
+    <string name="setup_navigation">Чабыттоо</string>
+    <string name="navigation_summary">Артыкчылыктуу чабыттоо ыкмасын тандаңыз</string>
+    <string name="gesture_navigation">"Жаңсап чабыттоо"</string>
+    <string name="navbar_navigation">"3 баскыч менен чабыттоо"</string>
+    <string name="gesture_navigation_short">Жаңсоо</string>
+    <string name="hide_gesture_hint">Жаңсоо боюнча кеңешти жашыруу</string>
+    <string name="setup_theme">"Тема"</string>
+    <string name="theme_summary">Кара тема айрым экрандарда батареянын узагыраак иштеши үчүн кара фонду колдонот</string>
+    <string name="dark">Караңгы</string>
+    <string name="light">"Жарык"</string>
+    <string name="pure_black_theme">Таза кара фонду колдонуу</string>
+    <string name="theme_preview">Теманын алдын ала көрүнүшү</string>
+    <string name="swipe_up_to_go_home">"Башкы бетке өтүү үчүн экранды өйдө сүрүңүз"</string>
+    <string name="tap_home_to_go_home">Башкы бетке өтүү үчүн борборундагы чабыттоо сүрөтчөсүн басыңыз</string>
+    <string name="press_center_to_go_home">Башкы бетке өтүү үчүн борбордогу баскычты басыңыз</string>
+</resources>

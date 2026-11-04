@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF үзэгч</string>
+    <string name="find_in_page">Хуудаснаас хайх</string>
+    <string name="share">"Хуваалцах"</string>
+    <string name="open_with">Нээх…</string>
+    <string name="download">"Татаж авах"</string>
+    <string name="pdf_document">PDF баримт</string>
+    <string name="print">"Хэвлэх"</string>
+    <string name="download_successful">Татаж авалт амжилттай</string>
+    <string name="download_error">Файл татахад алдаа гарлаа</string>
+</resources>

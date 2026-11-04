@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"kuyazenzakalela"</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"kuyazenzakalela"</item>
+        <item>isonto</item>
+        <item>msombuluko</item>
+        <item>lwesibili</item>
+        <item>lwesithathu</item>
+        <item>lwesine</item>
+        <item>lwesihlanu</item>
+        <item>mgqibelo</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"kuyazenzakalela"</item>
+        <item>metric</item>
+        <item>ussystem</item>
+        <item>uksystem</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Akucacisiwe"</item>
+        <item>"Maphakathi nendawo"</item>
+        <item>"Okwabesifazane"</item>
+        <item>"Okwabesilisa"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">Okwengeziwe</string>
+    <string name="advanced_keyboard_settings_title">"Izilungiselelo ezithuthukisiwe"</string>
+    <string name="adb_enable_root">Ukulungisa iphutha lomsizi wengcuphe</string>
+    <string name="adb_enable_summary_root">Vumela ukusebenzisa ukulungisa iphutha le-Android njengomsebenzisi wengcuphe</string>
+    <string name="backup_transport_setting_label">Shintsha umhlinzeki wokwenza isipele</string>
+    <string name="backup_transport_title">Khetha umhlinzeki wokwenza isipele</string>
+    <string name="berry_black_theme_title">Mnyama uphelele</string>
+    <string name="berry_black_theme_summary">Ingemuva elimnyama uphelele kwitimu emnyama</string>
+    <string name="lineagelicense_title">Imvume ye-LineageOS</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Useduze kakhulu nokuvula izilungiselelo zokuthuthukisa, usele isinyathelo esingu-#.} other {Useduze kakhulu nokuvula izilungiselelo zokuthuthukisa, usele izinyathelo ezingu-#.} }</string>
+    <string name="show_dev_on_cm">Uvule izilungiselelo zokuthuthukisa!</string>
+    <string name="show_dev_already_cm">Akudingeki, usuvele uvule izilungiselelo zokuthuthukisa.</string>
+    <string name="status_bar_double_tap_to_sleep_title">Thepha ukuze ulale</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Thepha kabili ibha yesimo noma ukhiye wesikrini ukuze ucime isibonisi</string>
+    <string name="high_touch_polling_rate_title">Izinga eliphezulu lokubhodla kokuthinta</string>
+    <string name="high_touch_polling_rate_summary">Khulisa izinga lokubhodla kwesikrini sokuthinta</string>
+    <string name="heads_up_notifications_enabled_title">Isaziso esiphakamayo</string>
+    <string name="heads_up_notifications_enabled_summary">Bonisa izaziso ezibalulekile kuwindi elincane elindizayo</string>
+    <string name="high_touch_sensitivity_title">Ukuzwela okuphezulu kokuthinta</string>
+    <string name="high_touch_sensitivity_summary">Khulisa ukuzwela kwesikrini sokuthinta ukuze sisebenze uma ugqoke izigqoko zezandla</string>
+    <string name="tethering_allow_vpn_upstreams_title">Sebenzisa i-VPN wezidivayisi ezixhunyiwe</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Lapho le divayisi isebenzisa i-VPN, zonke izidivayisi ezixhunyiwe kuhotspot zizosebenzisa i-VPN efanayo</string>
+    <string name="lock_settings_picker_pattern_size_message">Khetha usayizi wephethini</string>
+    <string name="lockpattern_settings_enable_error_path_title">Bonisa iphutha lephethini</string>
+    <string name="lockpattern_settings_enable_dots_title">Bonisa amachashaza ephethini</string>
+    <string name="max_refresh_rate_title">Izinga eliphezulu lokuvuselela</string>
+    <string name="min_refresh_rate_title">Izinga elincane lokuvuselela</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Thola inzwa yesigxivizo somunwe ngaphambili ethebhulethini yakho.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Thola inzwa yesigxivizo somunwe ngaphambili kudivayisi yakho.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Thola inzwa yesigxivizo somunwe ngaphambili kufoni yakho.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Thola inzwa yesigxivizo somunwe ngemuva kwethebhulethi yakho.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Thola inzwa yesigxivizo somunwe ngemuva kwedivayisi yakho.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Thola inzwa yesigxivizo somunwe ngemuva kwefoni yakho.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Thola inzwa yesigxivizo somunwe ohlangothini lwethebhulethi yakho.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Thola inzwa yesigxivizo somunwe ohlangothini ledivayisi yakho.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Thola inzwa yesigxivizo somunwe ohlangothini lwefoni yakho.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Thinta inzwa ngaphambili kwethebhulethi yakho.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Thinta inzwa ngaphambili kudivayisi yakho.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Thinta inzwa ngaphambili kufoni yakho.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Thinta inzwa ngemuva kwethebhulethi yakho.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Thinta inzwa ngemuva kwedivayisi yakho.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Thinta inzwa ngemuva kwefoni yakho.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Thinta inzwa ohlangothini lwethebhulethi yakho.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Thinta inzwa ohlangothini ledivayisi yakho.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Thinta inzwa ohlangothini lwefoni yakho.</string>
+    <string name="show_navbar_hint_title">Isiphakamiso sokuzula</string>
+    <string name="show_navbar_hint_summary">Bonisa ibha yesiphakamiso sokuzula ngaphansi kwesikrini</string>
+    <string name="auto_brightness_one_shot_title">Ukulungisa ukukhanya ngesikhathi esisodwa</string>
+    <string name="auto_brightness_one_shot_summary">Ukulungisa ukukhanya kuzokwenzeka kuphela ngalesi sikhathi isikrini sivulwa</string>
+    <string name="data_usage_app_restrict_all">Vumela ukufinyelela kunethiwekhi</string>
+    <string name="data_usage_app_restrict_all_summary">Vumela ukusetshenziswa kwenethiwekhi</string>
+    <string name="data_usage_app_restrict_mobile">"Idatha yeselula"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Vumela ukusetshenziswa kwedatha yeselula</string>
+    <string name="data_usage_app_restrict_vpn">Idatha ye-VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">Vumela ukusetshenziswa kwedatha ye-VPN</string>
+    <string name="data_usage_app_restrict_wifi">"Idatha ye-Wi-Fi"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Vumela ukusetshenziswa kwedatha ye-Wi‑Fi</string>
+    <string name="unlock_scramble_pin_layout_title">Xuba isakhiwo</string>
+    <string name="unlock_scramble_pin_layout_summary">Xuba isakhiwo sePIN lapho uvula idivayisi</string>
+    <string name="proximity_wake_title">Vimbela ukuvuka ngephutha</string>
+    <string name="proximity_wake_summary">Hlola inzwa yokusondela ngaphambi kokuvusa isikrini</string>
+    <string name="touchscreen_hovering_title">Ukuphaphatheka kwesikrini sokuthinta</string>
+    <string name="touchscreen_hovering_summary">Ikuvumela ukuphaphatheka kwesikrini njengemshini wesandulela kumawebhusayithi, ama-desktop akude, njll.</string>
+    <string name="wake_when_plugged_or_unplugged_title">Vusa ngokuxhuma</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Vula isikrini lapho uxhuma noma unqamula umthombo wamandla</string>
+    <string name="storage_warning_internal">Isexwayiso: le nketho ingase ingasebenzi kahle noma iholele ekulahlekeni kwedatha, ngakho ayincomeki!</string>
+    <string name="assisted_gps">Sebenzisa i-GPS esizwe</string>
+    <string name="assisted_gps_summary">Landa idatha yosizo lwesethelayithi ku-inthanethi engathuthukisa kakhulu ukuqala kwe-GPS. Kumakholi ezimo eziphuthumayo, i-GPS esizwe ivunyelwe njalo.</string>
+    <string name="battery_technology">Ubuchwepheshe</string>
+    <string name="battery_health">"Ezempilo"</string>
+    <string name="battery_health_good">"Kuhle"</string>
+    <string name="battery_health_overheat">"Ishisa kakhulu"</string>
+    <string name="battery_health_dead">"Ifile"</string>
+    <string name="battery_health_over_voltage">"Phezu kwamandla"</string>
+    <string name="battery_health_unspecified_failure">Akwaziwa imbangela yokwehluleka</string>
+    <string name="battery_health_cold">"Kuyabanda"</string>
+    <string name="battery_health_unknown">"Akwaziwa"</string>
+    <string name="battery_temperature">"Izinga lokushisa"</string>
+    <string name="battery_voltage">Ivolthi</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Umthamo owaklelwa wona</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Umthamo omkhulu</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Goqa ifoni ngesikhathi sokusetha</string>
+    <string name="face_enrolling_close_to_continue_description">Ifoni kumele igoqwe ukuze kusethwe noma kusetshenziswe Ukuvula ngobuso</string>
+    <string name="face_enrolling_do_it_later">"Yenza kamuva"</string>
+    <string name="status_iccid">I-ICCID</string>
+    <string name="testing_sim_toolkit">Amathuluzi e-SIM</string>
+    <string name="platform_compat_target_sdk_title">Inikwe amandla ye-targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Umphathi Wombhalo Womuntu Siqu</string>
+</resources>

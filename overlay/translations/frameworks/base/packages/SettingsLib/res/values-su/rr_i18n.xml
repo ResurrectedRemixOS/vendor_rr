@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="select_logd_size_titles">
+        <item>Pareum</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Pareum</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string name="speed_label_okay">Okéh</string>
+    <string name="bluetooth_talkback_phone">Telepon</string>
+    <string name="unknown">Teu dipikanyaho</string>
+    <string name="category_personal">Pribadi</string>
+    <string name="private_dns_mode_off">Pareum</string>
+    <string name="battery_info_status_unknown">Teu dipikanyaho</string>
+    <string name="okay">Okéh</string>
+    <string name="wifi_hotspot_switch_off_text">Pareum</string>
+</resources>

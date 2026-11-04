@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Kitazamaji cha PDF</string>
+    <string name="find_in_page">Tafuta kwenye ukurasa</string>
+    <string name="share">"Shiriki"</string>
+    <string name="open_with">Fungua kwa…</string>
+    <string name="download">"Pakua"</string>
+    <string name="pdf_document">Hati ya PDF</string>
+    <string name="print">"Chapisha"</string>
+    <string name="download_successful">Upakuaji umefanikiwa</string>
+    <string name="download_error">Hitilafu imetokea wakati wa kupakua faili</string>
+</resources>

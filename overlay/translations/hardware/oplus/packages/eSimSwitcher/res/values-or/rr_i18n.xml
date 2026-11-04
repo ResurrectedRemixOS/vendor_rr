@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM ସେଟିଂସ</string>
+    <string name="esim_toggle_title">eSIM</string>
+    <string name="esim_toggle_summary">ଭର୍ଚୁଆଲ ସିମ କାର୍ଡ ବ୍ୟବହାର ପାଇଁ ଏକ ଅପରେଟର ପ୍ରୋଫାଇଲ ଡାଉନଲୋଡ ଓ ସକ୍ରିୟ କରନ୍ତୁ</string>
+    <string name="esim_toggle_dialog_cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+</resources>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"గ్యాలరీ"</string>
+    <string name="app_permissions_toast">వినియోగదారు అనుమతి ఇవ్వని అనుమతులు.</string>
+    <string name="reels_title">రీల్స్</string>
+    <string name="albums_title">"ఆల్బమ్‌లు"</string>
+    <string name="categories_title">"కేటగిరీలు"</string>
+    <string name="library_title">లైబ్రరీ</string>
+    <string name="album_favorites">"ఫేవరెట్స్"</string>
+    <string name="album_trash">"ట్రాష్"</string>
+    <string name="album_reels">రీల్స్</string>
+    <string name="album_photos">"ఫోటోలు"</string>
+    <string name="album_videos">"వీడియోలు"</string>
+    <plurals name="album_thumbnail_items">
+        <item quantity="one">%d అంశం</item>
+        <item quantity="other">%d అంశాలు</item>
+    </plurals>
+    <plurals name="delete_file_forever_confirm_message">
+        <item quantity="one">మీరు %d ఫైల్‌ను శాశ్వతంగా తొలగించాలనుకుంటున్నారని ఖచ్చితంగా అనుకుంటున్నారా?</item>
+        <item quantity="other">మీరు %d ఫైళ్లను శాశ్వతంగా తొలగించాలనుకుంటున్నారని ఖచ్చితంగా అనుకుంటున్నారా?</item>
+    </plurals>
+    <plurals name="delete_file_forever_successful">
+        <item quantity="one">%d ఫైల్ శాశ్వతంగా తొలగించబడింది</item>
+        <item quantity="other">%d ఫైళ్లు శాశ్వతంగా తొలగించబడ్డాయి</item>
+    </plurals>
+    <plurals name="delete_file_forever_unsuccessful">
+        <item quantity="one">%d ఫైల్‌ను శాశ్వతంగా తొలగించడం సాధ్యపడలేదు</item>
+        <item quantity="other">%d ఫైళ్లను శాశ్వతంగా తొలగించడం సాధ్యపడలేదు</item>
+    </plurals>
+    <plurals name="move_file_to_trash_confirm_message">
+        <item quantity="one">మీరు %d ఫైల్‌ను ట్రాష్‌కు తరలించాలనుకుంటున్నారని ఖచ్చితంగా అనుకుంటున్నారా?</item>
+        <item quantity="other">మీరు %d ఫైళ్లను ట్రాష్‌కు తరలించాలనుకుంటున్నారని ఖచ్చితంగా అనుకుంటున్నారా?</item>
+    </plurals>
+    <plurals name="move_file_to_trash_successful">
+        <item quantity="one">%d ఫైల్ ట్రాష్‌కు తరలించబడింది</item>
+        <item quantity="other">%d ఫైళ్లు ట్రాష్‌కు తరలించబడ్డాయి</item>
+    </plurals>
+    <plurals name="move_file_to_trash_unsuccessful">
+        <item quantity="one">%d ఫైల్‌ను ట్రాష్‌కు తరలించడం సాధ్యపడలేదు</item>
+        <item quantity="other">%d ఫైళ్లను ట్రాష్‌కు తరలించడం సాధ్యపడలేదు</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_confirm_message">
+        <item quantity="one">ట్రాష్ నుండి %d ఫైల్‌ను పునరుద్ధరించాలని మీరు ఖచ్చితంగా అనుకుంటున్నారా?</item>
+        <item quantity="other">ట్రాష్ నుండి %d ఫైళ్లను పునరుద్ధరించాలని మీరు ఖచ్చితంగా అనుకుంటున్నారా?</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_successful">
+        <item quantity="one">ట్రాష్ నుండి %d ఫైల్ పునరుద్ధరించబడింది</item>
+        <item quantity="other">ట్రాష్ నుండి %d ఫైళ్లు పునరుద్ధరించబడ్డాయి</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_unsuccessful">
+        <item quantity="one">ట్రాష్ నుండి %d ఫైల్‌ను పునరుద్ధరించడం సాధ్యపడలేదు</item>
+        <item quantity="other">ట్రాష్ నుండి %d ఫైళ్లను పునరుద్ధరించడం సాధ్యపడలేదు</item>
+    </plurals>
+    <string name="manage_media_permission_title">మీడియా అనుమతిని నిర్వహించు</string>
+    <string name="manage_media_permission_message">మీ చిత్రాలు మరియు వీడియోలను మెరుగ్గా నిర్వహించడానికి, మీ మీడియా ఫైళ్లను నిర్వహించడానికి యాప్‌ను అనుమతించండి</string>
+    <string name="media_info_unknown">"తెలియదు"</string>
+    <string name="media_info_add_description_hint">వివరణ జోడించు</string>
+    <string name="media_info_write_description_failed">మీడియా వివరణను మార్చడం విఫలమైంది</string>
+    <string name="media_info_location_loading_placeholder">లోడ్ అవుతోంది…</string>
+    <string name="media_info_location_open_with">దీనితో స్థానాన్ని చూడు</string>
+    <string name="intent_action_not_supported">చర్యకు మద్దతు లేదు</string>
+    <string name="intent_media_not_found">మీడియా కనుగొనబడలేదు</string>
+    <string name="intent_media_type_not_found">మీడియా రకం కనుగొనబడలేదు</string>
+    <string name="intent_media_type_not_supported">మీడియా రకానికి మద్దతు లేదు</string>
+    <string name="intent_no_system_wallpaper_cropper_available">సిస్టమ్ క్రాపర్ అందుబాటులో లేదు</string>
+    <string name="intent_wallpaper_cannot_be_changed">వాల్‌పేపర్‌ను మార్చడం సాధ్యం కాదు</string>
+    <string name="file_action_add_to_favorites">"ఫేవరెట్స్‌కు జోడించండి"</string>
+    <string name="file_action_delete_forever">"శాశ్వతంగా తొలగించు"</string>
+    <string name="file_action_edit">"ఎడిట్ చేయండి"</string>
+    <string name="file_action_empty_trash">"ట్రాష్‌ని ఖాళీ చేయి"</string>
+    <string name="file_action_information">"సమాచారం"</string>
+    <string name="file_action_move_to_trash">"ట్రాష్‌కు తరలించండి"</string>
+    <string name="file_action_remove_from_favorites">ఇష్టమైనవాటి నుండి తీసివేయండి</string>
+    <string name="file_action_restore_from_trash">ట్రాష్ నుండి పునరుద్ధరించు</string>
+    <string name="file_action_share">"షేర్ చేయండి"</string>
+    <string name="file_action_use_as">ఇలా ఉపయోగించు</string>
+    <string name="file_action_undo_action">"చర్య రద్దు చేయండి"</string>
+    <string name="no_media">మీడియా లేదు</string>
+    <plurals name="thumbnail_selection_count">
+        <item quantity="one">%d ఎంచుకోబడింది</item>
+        <item quantity="other">%d ఎంచుకోబడ్డాయి</item>
+    </plurals>
+    <string name="pick_a_photo">ఫోటోను ఎంచుకో</string>
+    <string name="pick_a_video">వీడియోను ఎంచుకో</string>
+    <string name="pick_a_media">మీడియాను ఎంచుకో</string>
+    <string name="picker_done">"పూర్తయింది"</string>
+    <string name="set_wallpaper_label">"వాల్‌పేపర్"</string>
+    <string name="set_wallpaper">"వాల్‌పేపర్‌ను సెట్ చేయండి"</string>
+    <string name="set_wallpaper_dialog_title">"వీటిలో వాల్‌పేపర్‌ను సెట్ చేయండి"</string>
+    <string name="set_wallpaper_home_screen">"మొదటి స్క్రీన్"</string>
+    <string name="set_wallpaper_lock_screen">"లాక్ స్క్రీన్"</string>
+    <string name="set_wallpaper_both">హోమ్ మరియు లాక్ స్క్రీన్</string>
+    <string name="warning_bin_time_period">ఫైళ్లు 30 రోజుల తర్వాత శాశ్వతంగా తొలగించబడతాయి.</string>
+    <string name="motion_photo_show_video">వీడియోను చూపించు</string>
+    <string name="motion_photo_show_photo">ఫోటోను చూపించు</string>
+    <string name="title_activity_settings">"సెట్టింగ్‌లు"</string>
+    <string name="general_header">"సాధారణం"</string>
+    <string name="video_header">వీడియో</string>
+    <string name="edge_tap_navigation_enable_title">అంచు ట్యాప్ నావిగేషన్</string>
+    <string name="edge_tap_navigation_enabled_description">మీడియా మధ్య నావిగేట్ చేయడానికి స్క్రీన్ ఎడమ లేదా కుడి అంచును ట్యాప్ చేయండి</string>
+    <string name="double_tap_to_seek_enabled_title">డబుల్-ట్యాప్ సీక్ ప్రారంభించు</string>
+    <string name="double_tap_to_seek_enabled_description">వీడియో ఎడమ లేదా కుడి వైపును డబుల్-ట్యాప్ చేసి వెనక్కి లేదా ముందుకు దాటవేయండి</string>
+    <string name="double_tap_to_seek_seconds_title">డబుల్-ట్యాప్ సీక్ దాటవేత వ్యవధి</string>
+    <string name="double_tap_to_seek_seconds_description">వీడియోను డబుల్-ట్యాప్ చేసినప్పుడు దాటవేయాల్సిన సెకన్లు</string>
+    <string name="hide_native_seek_buttons_title">స్థానిక సీక్ బటన్‌లను దాచు</string>
+    <string name="hide_native_seek_buttons_description">వీడియో ప్లేయర్ నియంత్రణల నుండి రివైండ్ మరియు ఫాస్ట్-ఫార్వర్డ్ బటన్‌లను దాచు</string>
+    <string name="remember_video_playback_position_enabled_title">ప్లేబ్యాక్ స్థానాన్ని గుర్తుంచుకో</string>
+    <string name="remember_video_playback_position_enabled_description">చివరిసారి ఆపిన స్థానం నుండి వీడియోలను కొనసాగించు</string>
+</resources>

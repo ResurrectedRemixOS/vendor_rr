@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="settingslib_action_label_resume">फिर से शुरू करें</string>
+    <string name="settingslib_action_label_pause">रोकें</string>
+    <string name="settingslib_illustration_content_description">एनिमेशन</string>
+</resources>

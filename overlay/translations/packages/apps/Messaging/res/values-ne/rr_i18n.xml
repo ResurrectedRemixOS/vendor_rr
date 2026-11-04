@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="swipe_to_delete_conversation_pref_title">स्वाइप गरेर मेटाउनुहोस्</string>
+    <string name="swipe_to_delete_conversation_pref_summary">कुराकानी मेटाउन दायाँतर्फ स्वाइप गर्नुहोस्</string>
+    <string name="notification_channel_messages_title">"म्यासेजहरू"</string>
+    <string name="start_chat">च्याट सुरु गर्नुहोस्</string>
+</resources>

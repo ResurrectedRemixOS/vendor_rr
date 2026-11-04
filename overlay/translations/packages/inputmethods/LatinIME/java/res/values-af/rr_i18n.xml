@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material - volg stelselinstellings</string>
+    <string name="prefs_keyboard_height_scale">Sleutelbordhoogteskaal</string>
+    <string name="number_row">Getalreeks</string>
+    <string name="number_row_summary">Wys altyd \'n getalreeks vir alle uitlegte wat 4 rye sleutels het</string>
+    <string name="number_row_password">Getalreeks vir wagwoorde</string>
+    <string name="number_row_password_summary">Wys altyd \'n getalreeks vir alle uitlegte met 4 rye sleutels vir wagwoordinvoer</string>
+    <string name="space_trackpad">Spasiebalk-sleepbord</string>
+    <string name="space_trackpad_summary">Swiep op die spasiebalk om die kursor te skuif</string>
+    <string name="backspace_trackpad">Terugspoorsleutel-sleepbord</string>
+    <string name="backspace_trackpad_summary">Swiep op die terugspoorsleutel om woorde uit te vee</string>
+    <string name="show_longpress_hints">Wys lang-druk sleutelwenke</string>
+    <string name="show_longpress_hints_summary">Wys lang-druk wenke vir ondersteunde sleutels</string>
+    <string name="show_emoji_key">Wys emoji-sleutel</string>
+    <string name="show_emoji_key_summary">Wys altyd die emoji-sleutel. Wanneer hierdie opsie aan is, kan die taalwisselsleutel nie gewys word nie.</string>
+    <string name="enable_split_keyboard_summary">Net in landskap</string>
+    <string name="split_keyboard_duplicate_keys">Dupliseer middelsleutels</string>
+    <string name="split_keyboard_duplicate_keys_summary">Wys sleutels naby die middel op albei helftes</string>
+    <string name="spoken_description_split_keyboard">Verdeelde sleutelbord</string>
+    <string name="spoken_description_merge_keyboard">Samevoeg sleutelbord</string>
+    <string name="spoken_description_float_keyboard">Swewende sleutelbord</string>
+    <string name="spoken_description_dock_keyboard">Vasgemaakte sleutelbord</string>
+    <string name="floating_keyboard_drag_handle">Skuif sleutelbord</string>
+    <string name="floating_keyboard_resize_handle">Verander grootte van sleutelbord</string>
+    <string name="floating_keyboard_reset">"Stel terug"</string>
+    <string name="floating_keyboard_hide">Verberg sleutelbord</string>
+    <string name="floating_keyboard_switch_ime">"Wissel invoermetode"</string>
+</resources>

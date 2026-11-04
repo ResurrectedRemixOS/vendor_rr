@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 кбіт/с</item>
+        <item>256 кбіт/с</item>
+        <item>1 Мбіт/с</item>
+        <item>5 Мбіт/с</item>
+        <item>15 Мбіт/с</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"за умовчанням"</item>
+        <item>Цельсій</item>
+        <item>Фаренгейт</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"за умовчанням"</item>
+        <item>нд</item>
+        <item>пн</item>
+        <item>вт</item>
+        <item>ср</item>
+        <item>чт</item>
+        <item>пт</item>
+        <item>сб</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"за умовчанням"</item>
+        <item>метрична</item>
+        <item>система США</item>
+        <item>британська система</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Не вказано"</item>
+        <item>"Нейтральна"</item>
+        <item>"Жіночий рід"</item>
+        <item>"Чоловічий рід"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>фр</item>
+        <item>ісп</item>
+        <item>іт</item>
+        <item>нім</item>
+    </string-array>
+    <string name="keyboard_extras_title">Додатково</string>
+    <string name="advanced_keyboard_settings_title">"Розширені налаштування"</string>
+    <string name="berry_black_theme_title">Чорний</string>
+    <string name="berry_black_theme_summary">Чисто чорний фон для темної теми</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Залишився # крок до ввімкнення налаштувань розробника.} few {Залишилося # кроки до ввімкнення налаштувань розробника.} many {Залишилося # кроків до ввімкнення налаштувань розробника.} other {Залишилося # кроку до ввімкнення налаштувань розробника.} }</string>
+    <string name="high_touch_polling_rate_title">Висока частота опитування сенсора</string>
+    <string name="high_touch_polling_rate_summary">Підвищити частоту опитування сенсорного екрана</string>
+    <string name="tethering_allow_vpn_upstreams_title">Використовувати VPN для підключених пристроїв</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Коли цей пристрій використовує VPN, усі пристрої, підключені до точки доступу, використовуватимуть той самий VPN</string>
+    <string name="max_refresh_rate_title">Максимальна частота оновлення</string>
+    <string name="min_refresh_rate_title">Мінімальна частота оновлення</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Торкніться сенсора на передній панелі планшета.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Торкніться сенсора на передній панелі пристрою.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Торкніться сенсора на передній панелі телефону.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Торкніться сенсора на задній панелі планшета.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Торкніться сенсора на задній панелі пристрою.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Торкніться сенсора на задній панелі телефону.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Торкніться сенсора на боковій грані планшета.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Торкніться сенсора на боковій грані пристрою.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Торкніться сенсора на боковій грані телефону.</string>
+    <string name="auto_brightness_one_shot_title">Автояскравість одного знімка</string>
+    <string name="auto_brightness_one_shot_summary">Регулювання яскравості відбудеться тільки в той момент, коли екран увімкнено</string>
+    <string name="data_usage_app_restrict_mobile">"Мобільний трафік"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Дозволити використання мобільних даних</string>
+    <string name="proximity_wake_summary">Перевірте датчик наближення для пробудження екрану</string>
+    <string name="storage_warning_internal">Попередження: цей параметр може працювати некоректно або призвести до втрати даних, тому не рекомендується!</string>
+    <string name="assisted_gps">Використовувати A-GPS</string>
+    <string name="assisted_gps_summary">Завантажувати з інтернету дані допомоги супутників, що значно прискорює запуск GPS. Для екстрених викликів A-GPS завжди дозволено.</string>
+    <string name="battery_technology">Технологія</string>
+    <string name="battery_health">"Стан"</string>
+    <string name="battery_health_good">"Хороший"</string>
+    <string name="battery_health_overheat">"Перегрівання"</string>
+    <string name="battery_health_dead">"Виснажений"</string>
+    <string name="battery_health_over_voltage">"Перенапруга"</string>
+    <string name="battery_health_unspecified_failure">Невідома помилка</string>
+    <string name="battery_health_cold">"Холодний"</string>
+    <string name="battery_health_unknown">"Невідомо"</string>
+    <string name="battery_temperature">"Температура"</string>
+    <string name="battery_voltage">Напруга</string>
+    <string name="battery_charge_counter_summary">%1$d мАг</string>
+    <string name="battery_design_capacity">Проєктна ємність</string>
+    <string name="battery_design_capacity_summary">%1$d мАг</string>
+    <string name="battery_maximum_capacity">Максимальна ємність</string>
+    <string name="battery_maximum_capacity_summary">%1$d мАг (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Згорніть телефон під час налаштування</string>
+    <string name="face_enrolling_close_to_continue_description">Телефон має бути складеним, щоб налаштувати або використовувати розблокування обличчям</string>
+    <string name="face_enrolling_do_it_later">"Не зараз"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM Toolkit</string>
+    <string name="platform_compat_target_sdk_title">Увімкнено для targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Персональний контекст-менеджер</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_reverse_lookup_summary">Шукаць інфармацыю пра асобу або месца для невядомых нумароў у уваходных выклікаў</string>
+    <string name="lookup_disclaimer">Пошук можа адпраўляць запыты праз бяспечны пратакол (https) на аддаленыя сайты для збору інфармацыі. Запыт можа ўключаць нумар тэлефону іншага боку або пошукавы запыт</string>
+</resources>

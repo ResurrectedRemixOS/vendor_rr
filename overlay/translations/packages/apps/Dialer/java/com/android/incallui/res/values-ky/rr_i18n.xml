@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Чалууну жазууну баштоо ишке ашкан жок</string>
+    <string name="call_recording_file_location">Чалуу жазуусу <xliff:g id="filename">%s</xliff:g> ичине сакталды</string>
+    <string name="onscreenCallRecordText">Чалууну жазуу</string>
+    <string name="onscreenCallRecordingText">Чалуу жазылууда — <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Жаздырууну токтотуу"</string>
+    <string name="recording_warning_title">Чалууларды жазууну иштетеллиби?</string>
+    <string name="recording_warning_text">Эскертүү: Чалууларды жазуу функциясын жана ал жазууларды колдонууга же таратууга тиешелүү мыйзамдарды, жоболорду жана эрежелерди сактоо үчүн жоопкерчилик өзүңүздө.</string>
+</resources>

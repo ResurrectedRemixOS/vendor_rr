@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_desktop_shortcuts">바탕화면 바로가기</string>
+    <string name="desktop_shortcuts_title">바탕화면 바로가기</string>
+    <string name="pref_web_debugging_title">웹 디버깅</string>
+    <string name="pref_web_debugging_summary">USB 디버깅을 통해 chrome://inspect로 웹페이지 검사 허용</string>
+    <string name="pref_fullscreen_shortcuts_title">전체 화면 바로가기</string>
+    <string name="pref_fullscreen_shortcuts_summary">바로가기를 전체 화면 모드로 열기 강제</string>
+</resources>

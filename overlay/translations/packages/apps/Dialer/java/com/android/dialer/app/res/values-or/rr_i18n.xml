@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">କଲ ସମୟରେ</string>
+    <string name="incall_enable_dnd_title">କଲ ସମୟରେ ବିରକ୍ତ କରନ୍ତୁ ନାହିଁ ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="incall_vibrate_outgoing_title">ଉତ୍ତର ଦେଲାବେଳେ କମ୍ପନ</string>
+    <string name="incall_vibrate_call_waiting_title">କଲ ଅପେକ୍ଷାରେ ଥିବାବେଳେ କମ୍ପନ</string>
+    <string name="incall_vibrate_hangup_title">କଲ ଶେଷ କରିବାବେଳେ କମ୍ପନ</string>
+    <string name="incall_vibrate_45_title">ପ୍ରତି ମିନିଟରେ କମ୍ପନ</string>
+    <string name="incall_vibrate_45_summary">ଆଉଟଗୋଇଙ୍ଗ କଲ ସମୟରେ ପ୍ରତି ମିନିଟର 45 ସେକେଣ୍ଡରେ କମ୍ପନ ହୁଏ</string>
+    <string name="incall_dnd_dialog_message">ବିରକ୍ତ କରନ୍ତୁ ନାହିଁ ସକ୍ଷମ କରିବା ପାଇଁ, ଫୋନ ଆପକୁ ବିରକ୍ତ କରନ୍ତୁ ନାହିଁ ସ୍ଥିତି ନିୟନ୍ତ୍ରଣ କରିବାର ଅନୁମତି ଦିଆଯିବା ଆବଶ୍ୟକ।\nଦୟାକରି ଏହାକୁ ଅନୁମତି ଦିଅନ୍ତୁ।</string>
+    <string name="allow">"ଅନୁମତି ଦିଅନ୍ତୁ"</string>
+    <string name="deny">"ଅଗ୍ରାହ୍ୟ କରନ୍ତୁ"</string>
+    <string name="call_recording_category_title">କଲ ରେକର୍ଡିଂ</string>
+    <string name="call_recording_format">ଅଡିଓ ଫର୍ମାଟ</string>
+    <string name="call_via">ମାଧ୍ୟମରେ କଲ କରନ୍ତୁ</string>
+    <string name="call_via_dialog_title">ମାଧ୍ୟମରେ କଲ କରନ୍ତୁ…</string>
+    <string name="call_log_stats_title">ପରିସଂଖ୍ୟାନ</string>
+    <string name="action_menu_helplines">ହେଲପଲାଇନ</string>
+    <string name="default_dialer_text">ଏହାକୁ ବ୍ୟବହାର କରିବା ପାଇଁ ଡାଏଲରକୁ ଡିଫଲ୍ଟ ଫୋନ ଆପ ଭାବେ ସେଟ କରିବା ଆବଶ୍ୟକ।</string>
+    <string name="default_dialer_action">"ଡିଫଲ୍ଟ ଭାବେ ସେଟ କରନ୍ତୁ"</string>
+</resources>

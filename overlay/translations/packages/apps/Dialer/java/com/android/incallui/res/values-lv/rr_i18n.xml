@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Neizdevās sākt zvana ierakstīšanu</string>
+    <string name="call_recording_file_location">Zvana ieraksts saglabāts: <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Ierakstīt zvanu</string>
+    <string name="onscreenCallRecordingText">Zvana ierakstīšana – <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Apturēt ierakstīšanu"</string>
+    <string name="recording_warning_title">Iespējot zvanu ierakstīšanu?</string>
+    <string name="recording_warning_text">Paziņojums: jūs esat atbildīgs par atbilstību visiem likumiem, noteikumiem un normatīvajiem aktiem, kas attiecas uz zvanu ierakstīšanas funkcijas izmantošanu un šo ierakstu izmantošanu vai izplatīšanu.</string>
+</resources>

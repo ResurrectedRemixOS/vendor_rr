@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="lookup_disclaimer">Oppslag kan sende forespørsler over en sikker protokoll (https) til eksterne nettsteder for å hente informasjon. Forespørselen kan inkludere den andre partens telefonnummer eller søket</string>
+</resources>

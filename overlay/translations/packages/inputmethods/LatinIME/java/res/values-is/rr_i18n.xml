@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_password">Talnaröð fyrir lykilorð</string>
+    <string name="number_row_password_summary">Sýna alltaf talnaröð fyrir öll skipulög sem hafa 4 raðir af tökkum til innslátts lykilorðs</string>
+    <string name="backspace_trackpad">Snertiflötur á bakspeglunartakka</string>
+    <string name="backspace_trackpad_summary">Strjúktu á bakspeglunartakkanum til að eyða orðum</string>
+    <string name="enable_split_keyboard_summary">Aðeins í láréttri stefnu</string>
+    <string name="split_keyboard_duplicate_keys">Tvíteknir miðlyklar</string>
+    <string name="split_keyboard_duplicate_keys_summary">Sýna lykla nálægt miðju á báðum helmingum</string>
+    <string name="spoken_description_split_keyboard">Skipta lyklaborði</string>
+    <string name="spoken_description_merge_keyboard">Sameina lyklaborð</string>
+    <string name="spoken_description_float_keyboard">Fljótandi lyklaborð</string>
+    <string name="spoken_description_dock_keyboard">Festa lyklaborð</string>
+    <string name="floating_keyboard_drag_handle">Færa lyklaborð</string>
+    <string name="floating_keyboard_resize_handle">Breyta stærð lyklaborðs</string>
+    <string name="floating_keyboard_reset">"Endurstilla"</string>
+    <string name="floating_keyboard_hide">Fela lyklaborð</string>
+    <string name="floating_keyboard_switch_ime">"Skipta um innfærsluaðferð"</string>
+</resources>

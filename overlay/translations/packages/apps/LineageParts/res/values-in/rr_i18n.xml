@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pulse_length_blink">Kedip</string>
+    <string name="charging_control_mode_auto_summary">Otomatis menentukan kapan mulai mengisi daya berdasarkan alarm yang disetel</string>
+    <string name="charging_control_mode_custom_title">Jadwal kustom</string>
+    <string name="charging_control_mode_limit_title">Batasi pengisian daya</string>
+    <string name="charging_control_mode_limit_summary">Batasi pengisian daya hingga persentase tertentu</string>
+    <string name="charging_control_start_time_summary">Kontrol pengisian daya aktif saat Anda mulai mengisi daya setelah %s</string>
+    <string name="charging_control_limit_summary">Batas saat ini: %d%%</string>
+    <string name="notification_light_add_apps_empty_summary">Untuk menambahkan per kontrol aplikasi, aktifkan \'%1$s\' dan tekan \'Tambah\'</string>
+    <string name="live_display_color_profile_preview">"Pratinjau warna"</string>
+    <string name="click_partial_screenshot_summary">Klik pendek Volume Turun dan Daya untuk mengambil tangkapan layar sebagian</string>
+    <string name="navigation_bar_enable_taskbar_title">Aktifkan bilah tugas</string>
+    <string name="navigation_bar_edge_long_swipe_title">Aksi geser panjang tepi</string>
+    <string name="power_menu_emergency_affordance_enabled">Tombol darurat diaktifkan</string>
+    <string name="status_bar_brightness_slider_position_title">Posisi slider kecerahan</string>
+    <string name="network_traffic_show_units_compact">Ringkas</string>
+    <string name="touchscreen_gesture_action_ambient_display">Tampilkan tampilan ambient</string>
+    <string name="trust_feature_selinux_explain">SELinux menentukan proses mana yang memiliki akses ke file/jalur mana di perangkat Anda.\nHal ini mencegah aplikasi dan layanan mengakses file yang seharusnya tidak mereka akses, sehingga proses berbahaya dibatasi dan keamanan Anda terjaga.</string>
+    <string name="trust_feature_security_patches_explain">Patch keamanan dirilis setiap bulan oleh Google bersama vendor SoC untuk memperbaiki celah yang dapat dieksploitasi oleh aplikasi berbahaya untuk melewati batasan keamanan dan menyebabkan kerusakan permanen pada perangkat Anda. Patch yang disediakan Google diterapkan setiap bulan pada semua perangkat yang didukung, tetapi patch untuk kode proprietary hanya dapat diterapkan oleh produsen perangkat Anda. Untuk menjaga keamanan perangkat, pastikan build LineageOS Anda selalu diperbarui, dan (jika berlaku) pastikan image vendor Anda diperbarui ke versi terbaru yang direkomendasikan LineageOS.</string>
+    <string name="trust_feature_encryption_explain">Enkripsi perangkat mencegah akses ke data Anda saat ponsel tidak sedang menjalankan Android. Ini sangat penting jika ponsel Anda dicuri, karena mencegah orang lain membaca pesan, kontak, dan informasi pribadi lainnya tanpa kata sandi Anda.\nAgar enkripsi lebih efektif, Anda perlu mengatur kata sandi layar kunci yang aman.</string>
+    <string name="trust_restrict_usb_summary">Kontrol dukungan untuk koneksi USB seperti earphone, perangkat penyimpanan, input (mouse, keyboard, joystick), dan ADB</string>
+</resources>

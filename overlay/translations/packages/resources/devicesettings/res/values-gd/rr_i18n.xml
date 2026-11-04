@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="none">Chan eil gin</string>
+    <string name="stylus_screen_off_when_inserted_title">Cuir an sgrìn dheth</string>
+    <string name="stylus_vibrate_title">Dèan crith</string>
+    <string name="popup_calibration_title">Cailbhreachadh</string>
+    <string name="popup_camera_tip">Rabhadh</string>
+    <string name="doze_brightness_adaptive">Soilleireachd cho-fhreagrach</string>
+    <string name="alert_slider_selection_dialog_title">Gluasad</string>
+    <string name="alert_slider_mode_none">Chan eil gin</string>
+    <string name="alert_slider_mode_silent">’Na thost</string>
+    <string name="alert_slider_mode_vibration">Crith</string>
+    <string name="alert_slider_mode_dnd_priority_only">Le prìomhachas a-mhàin</string>
+    <string name="alert_slider_mode_dnd_total_silence">Tost slàn</string>
+    <string name="alert_slider_mode_dnd_alarms_only">Caismeachdan a-mhàin</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="shake_action_title">ডিভাইস ঝাঁকানোর কাজ</string>
+    <string name="firing_alarms_timers_channel">বাজতে থাকা অ্যালার্ম ও টাইমার</string>
+    <string name="alarm_missed_channel">মিস হওয়া অ্যালার্ম</string>
+    <string name="dialog_permissions_title">"অনুমতি"</string>
+    <string name="dialog_permissions_ask">আবার জিজ্ঞাসা করুন</string>
+    <string name="dialog_permissions_settings">"সেটিংস"</string>
+    <string name="dialog_permissions_power_off_alarm">এই অনুমতি ছাড়া অ্যালার্ম বাজাতে ডিভাইস নিজে থেকে চালু হতে পারবে না</string>
+    <string name="dialog_permissions_no_permission">প্রয়োজনীয় অনুমতি দেওয়া হয়নি, সেটিংস অ্যাপ থেকে এগুলো সক্রিয় করুন</string>
+    <string name="dialog_permissions_post_notifications">এই অ্যাপটি বিজ্ঞপ্তির ওপর নির্ভরশীল। এগুলো ছাড়া অ্যাপটি চালানো যাবে না!</string>
+    <string name="selected">"বেছে নেওয়া হয়েছে"</string>
+    <string name="more_options">"আরও বিকল্প"</string>
+    <string name="widget_choice_title">আপনার স্টাইল বেছে নিন</string>
+    <string name="widget_name_transparent">ব্যাক-আপ ছাড়া</string>
+    <string name="widget_name_solid">ব্যাক-আপ সহ</string>
+    <string name="night_mode_enabled_title">"চালু করা আছে"</string>
+    <string name="night_mode_dnd_title">বিরক্ত করবে না অবস্থা অনুসরণ করুন</string>
+    <string name="night_mode_dnd_summary">নাইট মোড বিরক্ত করবে না অবস্থা অনুসরণ করে</string>
+    <string name="show_ampm_title">AM/PM নির্দেশক দেখান</string>
+    <string name="bold_text_title">ঘড়ির লেখা মোটা করুন</string>
+    <string name="night_mode_brightness_text_title">"উজ্জ্বলতা"</string>
+    <string name="clock_color_title">"রঙ"</string>
+    <string-array name="clock_color_entries">
+        <item>"সাদা"</item>
+        <item>"লাল"</item>
+        <item>"সবুজ"</item>
+        <item>"নীল"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"স্ক্রিন সেভার"</string>
+    <string name="screensaver_preview">"প্রিভিউ"</string>
+    <string name="screensaver_preview_summary">এখনই স্ক্রিন সেভার শুরু করে</string>
+    <string name="screensaver_change_settings">"সেটিংস"</string>
+    <string name="screensaver_change_settings_summary">ঘড়ির স্ক্রিন সেভার সেটিংস খোলে</string>
+    <string name="screensaver_daydream_settings">স্ক্রিন সেভার নির্বাচন/সক্রিয় করুন</string>
+    <string name="screensaver_daydream_settings_summary">প্রধান স্ক্রিন সেভার সেটিংস খোলে</string>
+</resources>

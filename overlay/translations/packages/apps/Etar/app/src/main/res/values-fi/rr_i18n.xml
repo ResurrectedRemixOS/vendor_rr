@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_info">"Tiedot"</string>
+    <string name="foreground_notification_title">Ajoitetaan uusia muistutuksia…</string>
+    <string name="duplicate_label">Kaksoiskappale</string>
+    <string name="preferences_real_event_colors">Käytä tapahtumien oikeita värejä</string>
+    <string name="week_start_locale_default">Järjestelmän oletus</string>
+    <string name="preferences_staggered_display_title">Porrastettu näyttö</string>
+    <string name="preferences_staggered_display_summary">Näytä päällekkäiset tapahtumat porrastetussa asettelussa</string>
+    <string name="cal_export_error">Tapahtuman vieminen epäonnistui</string>
+    <string name="preferences_manage_notifications">Hallitse ilmoituksia</string>
+    <string name="preferences_do_not_check_battery_optimization">Älä tarkista akun optimointia</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Käytä omalla vastuulla! Ilmoitukset eivät enää toimi, widgetit eivät päivity ja taustapalvelut kaatuvat. Sinulta ei kuitenkaan kysytä uudelleen, haluatko ottaa taustapalvelun käyttöön.</string>
+    <string name="calendars">Kalenterit</string>
+</resources>

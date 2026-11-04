@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="crop_wallpaper">Тұсқағазды кесу</string>
+    <string name="wallpaper_instructions">"Тұсқағаз орнату"</string>
+    <string name="wallpaper_load_fail">Суретті тұсқағаз ретінде жүктеу мүмкін болмады</string>
+</resources>

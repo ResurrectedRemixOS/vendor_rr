@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">ການກະທຳເມື່ອພລິກອຸປະກອນ</string>
+    <string name="shake_action_title">ການກະທຳເມື່ອສັ່ນອຸປະກອນ</string>
+    <string-array name="action_setting_entries">
+        <item>ປິດສຽງເຕືອນຊົ່ວຄາວ</item>
+        <item>"ປິດໄວ້"</item>
+        <item>"ບໍ່ມີຫຍັງ"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">ກຳລັງເຕືອນນາឡິກາ ແລະ ໂມງຈັບເວລາ</string>
+    <string name="alarm_missed_channel">ນາឡິກາທີ່ພາດໄປ</string>
+    <string name="alarm_snooze_channel">ນາឡິກາທີ່ເລື່ອນໄວ້</string>
+    <string name="alarm_upcoming_channel">ນາឡິກາທີ່ຈະມາເຖິງ</string>
+    <string name="stopwatch_channel">ຈັບເວລາ</string>
+    <string name="timer_channel">ໂມງນັບຖອຍຫຼັງ</string>
+    <string name="add_label">ເພີ່ມປ້າຍຊື່</string>
+    <string name="dialog_permissions_title">"ການອະນຸຍາດ"</string>
+    <string name="dialog_permissions_ask">ຖາມອີກຄັ້ງ</string>
+    <string name="dialog_permissions_dismiss">"ປິດໄວ້"</string>
+    <string name="dialog_permissions_settings">"ການຕັ້ງຄ່າ"</string>
+    <string name="dialog_permissions_power_off_alarm">ຖ້າບໍ່ມີສິດອະນຸຍາດນີ້, ອຸປະກອນຂອງທ່ານຈະບໍ່ສາມາດເປີດເຄື່ອງເອງເພື່ອເຕືອນນາឡິກາໄດ້</string>
+    <string name="dialog_permissions_no_permission">ສິດອະນຸຍາດທີ່ຕ້ອງການຖືກປະຕິເສດ, ກະລຸນາເປີດໃຊ້ໃນແອັບການຕັ້ງຄ່າ</string>
+    <string name="dialog_permissions_post_notifications">ແອັບນີ້ຕ້ອງອາໄສການແຈ້ງເຕືອນ. ຖ້າບໍ່ມີ ມັນຈະບໍ່ສາມາດເຮັດວຽກໄດ້!</string>
+    <string name="selected">"ເລືອກແລ້ວ"</string>
+    <string name="more_options">"ຕົວເລືອກເພີ່ມເຕີມ"</string>
+    <string name="widget_choice_title">ເລືອກຮູບແບບຂອງທ່ານ</string>
+    <string name="widget_name_transparent">ບໍ່ມີພື້ນຫຼັງ</string>
+    <string name="widget_name_solid">ມີພື້ນຫຼັງ</string>
+    <string name="night_mode_enabled_title">"ເປີດໃຊ້ແລ້ວ"</string>
+    <string name="night_mode_dnd_title">ປະຕິບັດຕາມສະຖານະຫ້າມລົບກວນ</string>
+    <string name="night_mode_dnd_summary">ໂໝດກາງຄືນປະຕິບັດຕາມສະຖານະຫ້າມລົບກວນ</string>
+    <string name="show_ampm_title">ສະແດງຕົວບົ່ງຊີ AM/PM</string>
+    <string name="bold_text_title">ຕົວໜັງສືໂມງແບບໜາ</string>
+    <string name="night_mode_brightness_text_title">"ຄວາມສະຫວ່າງ"</string>
+    <string name="clock_color_title">"ສີ"</string>
+    <string-array name="clock_color_entries">
+        <item>"ຂາວ"</item>
+        <item>"ສີແດງ"</item>
+        <item>"ສີຂຽວ"</item>
+        <item>"ສີຟ້າ"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"ພາບພັກໜ້າຈໍ"</string>
+    <string name="screensaver_preview">"ຕົວຢ່າງ"</string>
+    <string name="screensaver_preview_summary">ເລີ່ມໂປຣແກຣມພັກໜ້າຈໍທັນທີ</string>
+    <string name="screensaver_change_settings">"ການຕັ້ງຄ່າ"</string>
+    <string name="screensaver_change_settings_summary">ເປີດການຕັ້ງຄ່າໂປຣແກຣມພັກໜ້າຈໍຂອງໂມງ</string>
+    <string name="screensaver_daydream_settings">ເລືອກ/ເປີດໃຊ້ໂປຣແກຣມພັກໜ້າຈໍ</string>
+    <string name="screensaver_daydream_settings_summary">ເປີດການຕັ້ງຄ່າໂປຣແກຣມພັກໜ້າຈໍຫຼັກ</string>
+</resources>

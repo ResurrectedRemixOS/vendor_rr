@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">ഒരു ബൂളിയൻ മൂല്യം.</string>
+    <string name="any_int_type_description">ഒരു പൂർണ്ണസംഖ്യാ മൂല്യം.</string>
+    <string name="any_string_type_description">ഒരു സ്ട്രിംഗ് മൂല്യം.</string>
+    <string name="display_id_type_description">ഒരു സിസ്റ്റം ഡിസ്പ്ലേ ഐഡന്റിഫയർ (കോൺഫിഗറേഷൻ അനുസരിച്ച് ആന്തരികമോ ബാഹ്യമോ ആകാം).</string>
+    <string name="installed_package_name_type_description">ഉപകരണത്തിൽ ഇൻസ്റ്റാൾ ചെയ്തിട്ടുള്ള ഏതെങ്കിലും പാക്കേജ്.</string>
+    <string name="int_in_range_type_description_from">%1$d-ഓ അതിലധികമോ ആയ, %2$d ഘട്ടങ്ങളുള്ള ഒരു പൂർണ്ണസംഖ്യ.</string>
+    <string name="int_in_range_type_description_to">%1$d-ഓ അതിൽ കുറവോ ആയ, %2$d ഘട്ടങ്ങളുള്ള ഒരു പൂർണ്ണസംഖ്യ.</string>
+    <string name="int_in_range_type_description_between">[%1$d, %2$d] പരിധിയിലുള്ള, %3$d ഘട്ടങ്ങളുള്ള ഒരു പൂർണ്ണസംഖ്യ.</string>
+    <string name="time_of_day_type_description">HH:mm എന്ന 24-മണിക്കൂർ ഫോർമാറ്റിൽ നിർവചിച്ചിരിക്കുന്ന ഒരു ദിവസത്തെ സമയം.</string>
+    <string name="time_duration_type_description">സെക്കൻഡ് കൃത്യതയിൽ പൂർണ്ണസംഖ്യയായി പ്രതിനിധീകരിക്കുന്ന സമയദൈർഘ്യം.</string>
+    <string name="sim_slot_id_type_description">സാധുവായ ഒരു SIM സ്ലോട്ട് ഐഡി.</string>
+    <string name="subscription_id_type_description">സാധുവായ ഒരു സബ്സ്ക്രിപ്ഷൻ ഐഡി.</string>
+    <string name="wifi_ssid_type_description">ഒരു Wi-Fi നെറ്റ്‌വർക്കിന്റെ SSID.</string>
+</resources>

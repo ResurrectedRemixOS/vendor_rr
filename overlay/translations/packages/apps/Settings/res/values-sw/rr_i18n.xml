@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"chaguomsingi"</item>
+        <item>selsiasi</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"chaguomsingi"</item>
+        <item>jua</item>
+        <item>jtatu</item>
+        <item>jtano</item>
+        <item>jnne</item>
+        <item>alhamisi</item>
+        <item>ijumaa</item>
+        <item>jumamosi</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"chaguomsingi"</item>
+        <item>metriki</item>
+        <item>mfumo wa US</item>
+        <item>mfumo wa UK</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Haijabainishwa"</item>
+        <item>"Wastani"</item>
+        <item>"Jinsia ya kike"</item>
+        <item>"Jinsia ya kiume"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">Vionjo vya ziada</string>
+    <string name="advanced_keyboard_settings_title">"Mipangilio ya kina"</string>
+    <string name="adb_enable_root">Utatuzi wa mizizi</string>
+    <string name="adb_enable_summary_root">Ruhusu utatuzi wa Android ukiwa na haki za mizizi</string>
+    <string name="backup_transport_setting_label">Badilisha mtoa huduma wa hifadhi nakala</string>
+    <string name="backup_transport_title">Chagua mtoa huduma wa hifadhi nakala</string>
+    <string name="berry_black_theme_title">Nyeusi kabisa</string>
+    <string name="berry_black_theme_summary">Mandharinyuma meusi kabisa kwa mandhari ya giza</string>
+    <string name="lineagelicense_title">Sheria za LineageOS</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Sasa uko hatua # mbali na kuwasha mipangilio ya msanidi.} other {Sasa uko hatua # mbali na kuwasha mipangilio ya msanidi.} }</string>
+    <string name="show_dev_on_cm">Umewasha mipangilio ya msanidi!</string>
+    <string name="show_dev_already_cm">Hakuna haja, tayari umewasha mipangilio ya msanidi.</string>
+    <string name="status_bar_double_tap_to_sleep_title">Gusa ili ulale</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Gusa mara mbili sehemu ya kuonyesha hali au skrini iliyofungwa ili kuzima onyesho</string>
+    <string name="high_touch_polling_rate_title">Kiwango cha juu cha kuchanganua mguso</string>
+    <string name="high_touch_polling_rate_summary">Ongeza kiwango cha kuchanganua skrini ya mguso</string>
+    <string name="heads_up_notifications_enabled_title">Arifa ibukizi</string>
+    <string name="heads_up_notifications_enabled_summary">Onyesha arifa za kipaumbele katika dirisha dogo linaloelea</string>
+    <string name="high_touch_sensitivity_title">Unyeti wa juu wa mguso</string>
+    <string name="high_touch_sensitivity_summary">Ongeza unyeti wa skrini ya mguso ili iweze kutumika ukiwa umevaa glavu</string>
+    <string name="tethering_allow_vpn_upstreams_title">Tumia VPN kwa vifaa vilivyounganishwa</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Kifaa hiki kikitumia VPN, vifaa vyote vilivyounganishwa kwenye hotspot vitatumia VPN hiyo hiyo</string>
+    <string name="lock_settings_picker_pattern_size_message">Chagua ukubwa wa mchoro</string>
+    <string name="lockpattern_settings_enable_error_path_title">Onyesha hitilafu ya mchoro</string>
+    <string name="lockpattern_settings_enable_dots_title">Onyesha nukta za mchoro</string>
+    <string name="max_refresh_rate_title">Kiwango cha juu cha kuonyesha upya</string>
+    <string name="min_refresh_rate_title">Kiwango cha chini cha kuonyesha upya</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Tafuta kihisi cha alama ya kidole mbele ya kompyuta yako kibao.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Tafuta kihisi cha alama ya kidole mbele ya kifaa chako.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Tafuta kihisi cha alama ya kidole mbele ya simu yako.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Tafuta kihisi cha alama ya kidole nyuma ya kompyuta yako kibao.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Tafuta kihisi cha alama ya kidole nyuma ya kifaa chako.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Tafuta kihisi cha alama ya kidole nyuma ya simu yako.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Tafuta kihisi cha alama ya kidole upande wa kompyuta yako kibao.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Tafuta kihisi cha alama ya kidole upande wa kifaa chako.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Tafuta kihisi cha alama ya kidole upande wa simu yako.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Gusa kihisi mbele ya kompyuta yako kibao.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Gusa kihisi mbele ya kifaa chako.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Gusa kihisi mbele ya simu yako.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Gusa kihisi nyuma ya kompyuta yako kibao.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Gusa kihisi nyuma ya kifaa chako.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Gusa kihisi nyuma ya simu yako.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Gusa kihisi upande wa kompyuta yako kibao.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Gusa kihisi upande wa kifaa chako.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Gusa kihisi upande wa simu yako.</string>
+    <string name="show_navbar_hint_title">Kidokezo cha sehemu ya viungo muhimu</string>
+    <string name="show_navbar_hint_summary">Onyesha upau wa kidokezo cha sehemu ya viungo muhimu chini ya skrini</string>
+    <string name="auto_brightness_one_shot_title">Mwangaza wa kiotomatiki wa mara moja</string>
+    <string name="auto_brightness_one_shot_summary">Marekebisho ya mwangaza yatafanyika tu wakati skrini inapowashwa</string>
+    <string name="data_usage_app_restrict_all">Ruhusu ufikiaji wa mtandao</string>
+    <string name="data_usage_app_restrict_all_summary">Wezesha matumizi ya mtandao</string>
+    <string name="data_usage_app_restrict_mobile">"Data ya simu"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Wezesha matumizi ya data ya simu</string>
+    <string name="data_usage_app_restrict_vpn">Data ya VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">Wezesha matumizi ya data ya VPN</string>
+    <string name="data_usage_app_restrict_wifi">"Data ya Wi‑Fi"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wezesha matumizi ya data ya Wi‑Fi</string>
+    <string name="unlock_scramble_pin_layout_title">Changanya mpangilio</string>
+    <string name="unlock_scramble_pin_layout_summary">Changanya mpangilio wa PIN wakati wa kufungua kifaa</string>
+    <string name="proximity_wake_title">Zuia kuamka kwa bahati mbaya</string>
+    <string name="proximity_wake_summary">Kagua kihisi cha ukaribu kabla ya kuamsha skrini</string>
+    <string name="touchscreen_hovering_title">Kuelea kwa skrini ya mguso</string>
+    <string name="touchscreen_hovering_summary">Inakuwezesha kuelekeza skrini kama kipanya kwenye vivinjari vya wavuti, kompyuta za mbali, n.k.</string>
+    <string name="wake_when_plugged_or_unplugged_title">Amka ukichomeka</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Washa skrini unapounganisha au kukata chanzo cha umeme</string>
+    <string name="storage_warning_internal">Onyo: Chaguo hili huenda lisifanye kazi ipasavyo au likasababisha upotevu wa data, kwa hivyo halipendekezwi!</string>
+    <string name="assisted_gps">Tumia GPS iliyosaidiwa</string>
+    <string name="assisted_gps_summary">Pakua data ya usaidizi wa satelaiti kutoka mtandaoni ambayo inaweza kuboresha sana utendaji wa kuanza kwa GPS. Kwa simu za dharura, GPS iliyosaidiwa daima inaruhusiwa.</string>
+    <string name="battery_technology">Teknolojia</string>
+    <string name="battery_health">"Kudumu"</string>
+    <string name="battery_health_good">"Nzuri"</string>
+    <string name="battery_health_overheat">"Joto jingi mno"</string>
+    <string name="battery_health_dead">"Imeharibika"</string>
+    <string name="battery_health_over_voltage">"Kiwango cha juu mno cha volti"</string>
+    <string name="battery_health_unspecified_failure">Hitilafu isiyojulikana</string>
+    <string name="battery_health_cold">"Baridi"</string>
+    <string name="battery_health_unknown">"Haijulikani"</string>
+    <string name="battery_temperature">"Halijoto"</string>
+    <string name="battery_voltage">Volti</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Uwezo wa muundo</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Uwezo wa juu zaidi</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Kunja simu wakati wa usanidi</string>
+    <string name="face_enrolling_close_to_continue_description">Simu lazima ikunjwe ili kusanidi au kutumia Face Unlock</string>
+    <string name="face_enrolling_do_it_later">"Weka baadaye"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">Zana ya SIM</string>
+    <string name="platform_compat_target_sdk_title">Imewezeshwa kwa targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Kidhibiti cha Muktadha Binafsi</string>
+</resources>

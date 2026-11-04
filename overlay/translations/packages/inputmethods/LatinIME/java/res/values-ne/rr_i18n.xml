@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">वर्णमाला (Bépo)</string>
+    <string name="subtype_hu_ZZ">हंगेरी (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">मटेरियल - प्रणालीका सेटिङहरू पछ्याउनुहोस्</string>
+    <string name="prefs_keyboard_height_scale">किबोर्डको उचाइ स्केल</string>
+    <string name="number_row">नम्बर पङ्क्ति</string>
+    <string name="number_row_summary">४ पङ्क्ति भएका सबै लेआउटहरूमा सधैं नम्बर पङ्क्ति देखाउनुहोस्</string>
+    <string name="number_row_password">पासवर्डका लागि नम्बर पङ्क्ति</string>
+    <string name="number_row_password_summary">पासवर्ड इनपुटका लागि ४ पङ्क्ति भएका सबै लेआउटहरूमा सधैं नम्बर पङ्क्ति देखाउनुहोस्</string>
+    <string name="space_trackpad">स्पेस बार ट्र्याकप्याड</string>
+    <string name="space_trackpad_summary">कर्सर सार्न स्पेस बारमा स्वाइप गर्नुहोस्</string>
+    <string name="backspace_trackpad">ब्याकस्पेस कुञ्जी ट्र्याकप्याड</string>
+    <string name="backspace_trackpad_summary">शब्द मेटाउन ब्याकस्पेस कुञ्जीमा स्वाइप गर्नुहोस्</string>
+    <string name="show_longpress_hints">लामो थिचेर हिन्ट देखाउनुहोस्</string>
+    <string name="show_longpress_hints_summary">समर्थित कुञ्जीहरूका लागि लामो थिचाइका हिन्टहरू देखाउँछ</string>
+    <string name="show_emoji_key">इमोजी कुञ्जी देखाउनुहोस्</string>
+    <string name="show_emoji_key_summary">सधैं इमोजी कुञ्जी देखाउनुहोस्। यो विकल्प सक्षम हुँदा भाषा परिवर्तन कुञ्जी देखाउन सकिँदैन।</string>
+    <string name="enable_split_keyboard_summary">केवल ल्यान्डस्केपमा</string>
+    <string name="split_keyboard_duplicate_keys">बीचका कुञ्जीहरू दोहोर्याउनुहोस्</string>
+    <string name="split_keyboard_duplicate_keys_summary">दुवै भागमा बीच नजिकका कुञ्जीहरू देखाउनुहोस्</string>
+    <string name="spoken_description_split_keyboard">स्प्लिट किबोर्ड</string>
+    <string name="spoken_description_merge_keyboard">मर्ज किबोर्ड</string>
+    <string name="spoken_description_float_keyboard">फ्लोट किबोर्ड</string>
+    <string name="spoken_description_dock_keyboard">डक किबोर्ड</string>
+    <string name="floating_keyboard_drag_handle">किबोर्ड सार्नुहोस्</string>
+    <string name="floating_keyboard_resize_handle">किबोर्डको आकार बदल्नुहोस्</string>
+    <string name="floating_keyboard_reset">"रिसेट गर्नुहोस्"</string>
+    <string name="floating_keyboard_hide">किबोर्ड लुकाउनुहोस्</string>
+    <string name="floating_keyboard_switch_ime">"इनपुट विधि बदल्नुहोस्"</string>
+</resources>

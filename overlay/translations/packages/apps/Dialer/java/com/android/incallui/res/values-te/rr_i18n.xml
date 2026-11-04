@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">కాల్ రికార్డింగ్‌ను ప్రారంభించడం విఫలమైంది</string>
+    <string name="call_recording_file_location">కాల్ రికార్డింగ్ <xliff:g id="filename">%s</xliff:g>కి సేవ్ చేయబడింది</string>
+    <string name="onscreenCallRecordText">కాల్‌ను రికార్డ్ చేయి</string>
+    <string name="onscreenCallRecordingText">కాల్ రికార్డ్ అవుతోంది - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"రికార్డింగ్‌ను ఆపివేయండి"</string>
+    <string name="recording_warning_title">కాల్ రికార్డింగ్‌ను ప్రారంభించాలా?</string>
+    <string name="recording_warning_text">గమనిక: కాల్ రికార్డింగ్ ఫీచర్ వాడకం, ఆ రికార్డింగ్‌ల వినియోగం లేదా పంపిణీకి వర్తించే అన్ని చట్టాలు, నియమాలు, నిబంధనలకు అనుగుణంగా నడుచుకునే బాధ్యత మీదే.</string>
+</resources>

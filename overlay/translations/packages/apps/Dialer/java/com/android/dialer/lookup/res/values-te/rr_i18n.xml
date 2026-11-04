@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">సమీప స్థలాలు</string>
+    <string name="lookup_settings_label">ఫోన్ నంబర్ శోధన</string>
+    <string name="enable_forward_lookup_title">ఫార్వర్డ్ శోధన</string>
+    <string name="enable_forward_lookup_summary">డయలర్‌లో శోధించేటప్పుడు సమీప ప్రదేశాలను చూపు</string>
+    <string name="enable_reverse_lookup_title">రివర్స్ శోధన</string>
+    <string name="enable_reverse_lookup_summary">ఇన్‌కమింగ్ కాల్స్‌లో తెలియని నంబర్ల కోసం వ్యక్తి లేదా ప్రదేశం గురించి సమాచారాన్ని వెతుకు</string>
+    <string name="forward_lookup_provider_title">ఫార్వర్డ్ శోధన ప్రొవైడర్</string>
+    <string name="reverse_lookup_provider_title">రివర్స్ శోధన ప్రొవైడర్</string>
+    <string name="lookup_disclaimer">సమాచారాన్ని సేకరించడానికి శోధనలు సురక్షిత ప్రోటోకాల్ (https) ద్వారా రిమోట్ వెబ్‌సైట్‌లకు ప్రశ్నలను పంపవచ్చు. ప్రశ్నలో అవతలి వ్యక్తి ఫోన్ నంబర్ లేదా శోధన పదం ఉండవచ్చు</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">คลาสสิก</string>
+    <string name="bundle1_color_name">Carbon</string>
+    <string name="bundle2_color_name">Paper</string>
+    <string name="bundle3_color_name">Sun</string>
+    <string name="bue_color_name">Lavender</string>
+    <string name="red_color_name">Berry</string>
+    <string name="wht_color_name">Fog</string>
+    <string name="indigo_color_name">"น้ำเงินอมม่วง"</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Jade</string>
+    <string name="lemongrass_color_name">Lemongrass</string>
+    <string name="moonstone_color_name">Moonstone</string>
+    <string name="obsidian_color_name">Obsidian</string>
+    <string name="peony_color_name">Peony</string>
+    <string name="porcelain_color_name">Porcelain</string>
+    <string name="fruit1_color_name">จานสีสองสี เหลืองและแดง</string>
+    <string name="fruit2_color_name">จานสีสองสี เขียวและส้ม</string>
+    <string name="fruit3_color_name">จานสีสองสี น้ำเงินและเขียว</string>
+    <string name="fruit4_color_name">จานสีสองสี ม่วงอ่อนและน้ำเงิน</string>
+    <string name="fruit5_color_name">จานสีสองสี ชมพูและคราม</string>
+</resources>

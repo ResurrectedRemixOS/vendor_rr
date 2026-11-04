@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="fullscreen_mode">Tam ekran modu</string>
+    <string name="fullscreen_mode_summary">Tam ekran modunu etkinleştir. Bu, gezinme çubuğunu ve durum çubuğunu gizler, ancak dokunulabilir içeriğin ekran çentikleriyle çakışmamasını sağlar</string>
+    <string name="activity_most_played_artists">En çok dinlenen sanatçılar</string>
+    <string name="activity_most_played_genres">En çok dinlenen türler</string>
+    <string name="ampache_compatible">Uyumlu</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share">"Delen"</string>
+    <string name="download_successful">Download geslaagd</string>
+    <string name="download_error">Fout bij downloaden van het bestand</string>
+</resources>

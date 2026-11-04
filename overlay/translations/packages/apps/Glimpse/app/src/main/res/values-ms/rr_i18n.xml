@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Galeri"</string>
+    <string name="app_permissions_toast">Kebenaran tidak diberikan oleh pengguna.</string>
+    <string name="reels_title">Reel</string>
+    <string name="albums_title">"Album"</string>
+    <string name="categories_title">"Kategori"</string>
+    <string name="library_title">"Perpustakaan"</string>
+    <string name="album_favorites">"Kegemaran"</string>
+    <string name="album_trash">"Sampah"</string>
+    <string name="album_reels">Reel</string>
+    <string name="album_photos">"Foto"</string>
+    <string name="album_videos">"Video"</string>
+    <plurals name="album_thumbnail_items">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d item</item>
+    </plurals>
+    <plurals name="delete_file_forever_confirm_message">
+        <item quantity="one">Adakah anda pasti mahu memadam %d fail secara kekal?</item>
+        <item quantity="other">Adakah anda pasti mahu memadam %d fail secara kekal?</item>
+    </plurals>
+    <plurals name="delete_file_forever_successful">
+        <item quantity="one">%d fail dipadam secara kekal</item>
+        <item quantity="other">%d fail dipadam secara kekal</item>
+    </plurals>
+    <plurals name="delete_file_forever_unsuccessful">
+        <item quantity="one">%d fail tidak dapat dipadam secara kekal</item>
+        <item quantity="other">%d fail tidak dapat dipadam secara kekal</item>
+    </plurals>
+    <plurals name="move_file_to_trash_confirm_message">
+        <item quantity="one">Adakah anda pasti mahu mengalihkan %d fail ke tong sampah?</item>
+        <item quantity="other">Adakah anda pasti mahu mengalihkan %d fail ke tong sampah?</item>
+    </plurals>
+    <plurals name="move_file_to_trash_successful">
+        <item quantity="one">%d fail dialihkan ke tong sampah</item>
+        <item quantity="other">%d fail dialihkan ke tong sampah</item>
+    </plurals>
+    <plurals name="move_file_to_trash_unsuccessful">
+        <item quantity="one">%d fail tidak dapat dialihkan ke tong sampah</item>
+        <item quantity="other">%d fail tidak dapat dialihkan ke tong sampah</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_confirm_message">
+        <item quantity="one">Adakah anda pasti mahu memulihkan %d fail daripada tong sampah?</item>
+        <item quantity="other">Adakah anda pasti mahu memulihkan %d fail daripada tong sampah?</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_successful">
+        <item quantity="one">%d fail dipulihkan daripada tong sampah</item>
+        <item quantity="other">%d fail dipulihkan daripada tong sampah</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_unsuccessful">
+        <item quantity="one">%d fail tidak dapat dipulihkan daripada tong sampah</item>
+        <item quantity="other">%d fail tidak dapat dipulihkan daripada tong sampah</item>
+    </plurals>
+    <string name="manage_media_permission_title">Urus kebenaran media</string>
+    <string name="manage_media_permission_message">Untuk mengurus imej dan video anda dengan lebih baik, benarkan apl mengurus fail media anda</string>
+    <string name="media_info_unknown">"Tidak diketahui"</string>
+    <string name="media_info_add_description_hint">Tambah penerangan</string>
+    <string name="media_info_write_description_failed">Gagal menukar penerangan media</string>
+    <string name="media_info_location_loading_placeholder">Memuatkan…</string>
+    <string name="media_info_location_open_with">Lihat lokasi dengan</string>
+    <string name="intent_action_not_supported">Tindakan tidak disokong</string>
+    <string name="intent_media_not_found">Media tidak dijumpai</string>
+    <string name="intent_media_type_not_found">Jenis media tidak dijumpai</string>
+    <string name="intent_media_type_not_supported">Jenis media tidak disokong</string>
+    <string name="intent_no_system_wallpaper_cropper_available">Tiada pemotong sistem tersedia</string>
+    <string name="intent_wallpaper_cannot_be_changed">Hiasan latar tidak dapat ditukar</string>
+    <string name="file_action_add_to_favorites">"Tambah ke kegemaran"</string>
+    <string name="file_action_delete_forever">"Padam selamanya"</string>
+    <string name="file_action_edit">Sunting</string>
+    <string name="file_action_empty_trash">"Kosongkan sampah"</string>
+    <string name="file_action_information">"Maklumat"</string>
+    <string name="file_action_move_to_trash">"Alihkan kepada sampah"</string>
+    <string name="file_action_remove_from_favorites">Alih keluar daripada kegemaran</string>
+    <string name="file_action_restore_from_trash">Pulihkan daripada tong sampah</string>
+    <string name="file_action_share">"Kongsi"</string>
+    <string name="file_action_use_as">Guna sebagai</string>
+    <string name="file_action_undo_action">"Buat asal"</string>
+    <string name="no_media">Tiada media</string>
+    <plurals name="thumbnail_selection_count">
+        <item quantity="one">%d dipilih</item>
+        <item quantity="other">%d dipilih</item>
+    </plurals>
+    <string name="pick_a_photo">Pilih foto</string>
+    <string name="pick_a_video">Pilih video</string>
+    <string name="pick_a_media">Pilih media</string>
+    <string name="picker_done">"Selesai"</string>
+    <string name="set_wallpaper_label">"Hiasan latar"</string>
+    <string name="set_wallpaper">"Tetapkan hiasan latar"</string>
+    <string name="set_wallpaper_dialog_title">"Tetapkan hiasan latar"</string>
+    <string name="set_wallpaper_home_screen">"Skrin utama"</string>
+    <string name="set_wallpaper_lock_screen">"Skrin kunci"</string>
+    <string name="set_wallpaper_both">Skrin utama dan skrin kunci</string>
+    <string name="warning_bin_time_period">Fail akan dipadam secara kekal selepas 30 hari.</string>
+    <string name="motion_photo_show_video">Tunjuk video</string>
+    <string name="motion_photo_show_photo">Tunjuk foto</string>
+    <string name="title_activity_settings">"Tetapan"</string>
+    <string name="general_header">"Umum"</string>
+    <string name="video_header">Video</string>
+    <string name="edge_tap_navigation_enable_title">Navigasi ketik tepi</string>
+    <string name="edge_tap_navigation_enabled_description">Ketik tepi kiri atau kanan skrin untuk menavigasi antara media</string>
+    <string name="double_tap_to_seek_enabled_title">Dayakan ketik dua kali untuk mencari</string>
+    <string name="double_tap_to_seek_enabled_description">Ketik dua kali sisi kiri atau kanan video untuk melangkah ke belakang atau ke hadapan</string>
+    <string name="double_tap_to_seek_seconds_title">Tempoh langkau apabila ketik dua kali</string>
+    <string name="double_tap_to_seek_seconds_description">Saat untuk dilangkau apabila ketik dua kali video</string>
+    <string name="hide_native_seek_buttons_title">Sembunyikan butang carian asal</string>
+    <string name="hide_native_seek_buttons_description">Sembunyikan butang undur dan laju ke hadapan daripada kawalan pemain video</string>
+    <string name="remember_video_playback_position_enabled_title">Ingat kedudukan main semula</string>
+    <string name="remember_video_playback_position_enabled_description">Sambung semula video dari kedudukan terakhir dihentikan</string>
+</resources>

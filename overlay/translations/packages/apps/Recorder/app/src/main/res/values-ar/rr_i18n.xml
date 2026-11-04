@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dialog_permissions_notifications">يحتاج المسجّل إلى إذن الإشعارات لعرض عناصر التحكم في التسجيل</string>
+    <string name="dialog_permissions_mic_notifications">يحتاج المسجّل إلى إذن الميكروفون لتسجيل الصوت وإذن الإشعارات لعرض عناصر التحكم في التسجيل</string>
+    <string name="dialog_permissions_phone_notifications">يحتاج المسجّل إلى الوصول إلى حالة الهاتف لمنع هذا التطبيق من التسجيل أثناء المكالمات، وإذن الإشعارات لعرض عناصر التحكم في التسجيل</string>
+    <string name="dialog_permissions_mic_phone_notifications">يحتاج المسجّل إلى إذن الميكروفون لتسجيل الصوت، والوصول إلى حالة الهاتف لمنع هذا التطبيق من التسجيل أثناء المكالمات، وإذن الإشعارات لعرض عناصر التحكم في التسجيل</string>
+</resources>

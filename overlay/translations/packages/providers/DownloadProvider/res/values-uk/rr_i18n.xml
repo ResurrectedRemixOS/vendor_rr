@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="duration_seconds">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> сек</item>
+        <item quantity="few"><xliff:g id="count">%d</xliff:g> сек</item>
+        <item quantity="many"><xliff:g id="count">%d</xliff:g> сек</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> сек</item>
+    </plurals>
+</resources>

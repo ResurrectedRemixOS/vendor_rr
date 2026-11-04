@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kb/s</item>
+        <item>256 kb/s</item>
+        <item>1 Mb/s</item>
+        <item>5 Mb/s</item>
+        <item>15 Mb/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"výchozí"</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"výchozí"</item>
+        <item>ne</item>
+        <item>po</item>
+        <item>út</item>
+        <item>st</item>
+        <item>čt</item>
+        <item>pá</item>
+        <item>so</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"výchozí"</item>
+        <item>metrický</item>
+        <item>US systém</item>
+        <item>UK systém</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Neurčeno"</item>
+        <item>"Neutrální"</item>
+        <item>"Ženský rod"</item>
+        <item>"Mužský rod"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="face_enrolling_close_to_continue">Při nastavení složte telefon</string>
+    <string name="face_enrolling_close_to_continue_description">Telefon musí být pro nastavení nebo použití Rozpoznání obličeje složený</string>
+    <string name="face_enrolling_do_it_later">"Později"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">Sada nástrojů SIM</string>
+    <string name="platform_compat_target_sdk_title">Povoleno pro targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Správce osobního kontextu</string>
+</resources>

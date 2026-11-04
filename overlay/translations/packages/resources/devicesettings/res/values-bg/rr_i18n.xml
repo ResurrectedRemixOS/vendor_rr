@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="popup_sound_jijia">Меха</string>
+    <string name="popup_sound_cangmen">Врата на кабина</string>
+    <string name="alert_slider_mode_torch_on">"Фенерът е включен"</string>
+    <string name="alert_slider_mode_torch_off">"Фенерът е изключен"</string>
+    <string name="alert_slider_notification_dialog_title">Показване на диалог с плъзгача</string>
+    <string name="alert_slider_notification_dialog_summary">Показване на диалог при промяна на позицията на плъзгача за сигнали</string>
+</resources>

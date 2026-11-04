@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="hdcp_checking_titles">
+        <item>Ná déan seiceáil riamh</item>
+        <item>Seiceáil le haghaidh ábhar DRM amháin</item>
+        <item>Seiceáil i gcónaí</item>
+    </string-array>
+    <string name="bluetooth_profile_hearing_aid">Gléasanna éisteachta</string>
+    <string name="category_private">Príobháideach</string>
+    <string name="clear_adb_keys">Údaruithe dífhabhtaithe USB a chúlghairm</string>
+    <string name="adb_wireless_qrcode_pairing_title">Scanáil cód QR</string>
+    <string name="adb_wireless_qrcode_pairing_description">Péireáil gléas thar  Wi\u2011Fi trí chód QR a scanadh</string>
+    <string name="keep_screen_on">Fan i do dhúiseacht</string>
+    <string name="adb_keys_warning_message">An bhfuil tú ag iarraidh rochtain ar dhífhabhtú USB a chúlghairm ó gach ríomhaire a d\'údaraigh tú roimhe seo?</string>
+    <string name="wait_for_debugger_summary">Fanann feidhmchlár dífhabhtaithe go gceanglóidh an dífhabhtóir sula ndéantar é a fhorghníomhú</string>
+    <string name="strict_mode_summary">Splanc an scáileán nuair a dhéanann aipeanna oibríochtaí fada ar an bpríomhshnáithe</string>
+    <string name="window_animation_scale_title">Scála beochana fuinneoige</string>
+    <string name="animator_duration_scale_title">Scála fad an bheochana</string>
+    <string name="debug_applications_category">Aipeanna</string>
+    <string name="app_process_limit_title">Teorainn phróisis chúlra</string>
+    <string name="back">Ar ais</string>
+    <string name="save">Sábháil</string>
+    <string name="done">Déanta</string>
+    <string name="media_transfer_default_device_name">Gléas ceangailte</string>
+    <string name="tv_media_transfer_connected">Ceangailte</string>
+    <string name="guest_exit_dialog_button">Scoir</string>
+    <string name="guest_exit_clear_data_button">Scrios</string>
+    <string name="guest_exit_save_data_button">Sábháil</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Díbhe</string>
+</resources>

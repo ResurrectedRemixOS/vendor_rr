@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyguard_missing_sim_message" product="tablet">Nissuna SIM in sa tauledda.</string>
+    <string name="keyguard_missing_sim_message" product="default">Nissuna SIM in su telèfonu.</string>
+    <string name="kg_invalid_confirm_pin_hint" product="default">Is còdighes PIN non currispondent</string>
+    <string name="kg_failed_attempts_almost_at_login" product="tablet">As disinnadu male sa cumbinada de isblocu tua <xliff:g id="number">%1$d</xliff:g> bortas. A pustis de <xliff:g id="number">%2$d</xliff:g> tentativos isballiados in prus, as a dèpere isblocare sa tauledda tua cun unu contu de posta eletrònica.\n\n Torra a proare de immoe a <xliff:g id="number">%3$d</xliff:g> segundos.</string>
+    <string name="kg_failed_attempts_almost_at_login" product="default">As disinnadu male sa cumbinada de isblocu tua <xliff:g id="number">%1$d</xliff:g> bortas. A pustis de <xliff:g id="number">%2$d</xliff:g> tentativos isballiados in prus, as a dèpere isblocare su telèfonu tuo cun unu contu de posta eletrònica.\n\n Torra a proare de immoe a <xliff:g id="number">%3$d</xliff:g> segundos.</string>
+    <string name="accessibility_retry_face_auth" product="default">Torra a proare s\'isblocu cun sa cara</string>
+    <string name="face_re_enroll_notification_title" product="default">Torra a cunfigurare s\'isblocu de cara</string>
+    <string name="biometric_dialog_tap_confirm_with_face_sfps" product="default">Isblocadu cun sa cara. Toca pro sighire.</string>
+    <string name="face_re_enroll_notification_name" product="default">Isblocu cun sa cara</string>
+</resources>

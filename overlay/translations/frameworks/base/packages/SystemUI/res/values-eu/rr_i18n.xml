@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Berrabiarazi…</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_fastboot_progress">Fastbootd moduan berrabiarazten…</string>
+    <string name="global_action_users">"Erabiltzaileak"</string>
+    <string name="clock">"Erlojua"</string>
+    <string name="accessibility_adaptive_brightness">"Distira egokitua"</string>
+    <string name="status_bar_icons_title">Egoera-barrako ikonoak</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD desaktibatuta\nBateria aurreztailea</string>
+    <string name="quick_settings_powershare_label">Hari gabeko PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Hari gabeko PowerShare desaktibatuta\nBateria aurreztailea</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Hari gabeko PowerShare desaktibatuta\nBateria oso baxua</string>
+    <string name="quick_settings_powershare_enabled_label">Hari gabeko PowerShare gaituta dago</string>
+    <string name="quick_settings_vpn_label">"VPNa"</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Konektatu hona…</string>
+    <string name="vpn_credentials_hint">Sartu zure kredentzialak <xliff:g id="name">%s</xliff:g>ra konektatzeko</string>
+    <string name="status_bar_firewall">Suebakia</string>
+    <string name="battery_notification_channel_tv">Bateria-abisua</string>
+    <string name="screenshot_delete_label">"Ezabatu"</string>
+    <string name="screenshot_delete_description">Ezabatu pantaila-argazkia</string>
+    <string name="screenrecord_lowquality_label">Kalitate baxua</string>
+    <string name="screenrecord_lowquality_summary">Fitxategi txikiagoarentzat</string>
+    <string name="screenrecord_longer_timeout_switch_label">Fitxategi-tamaina muga handiagoa</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Mugatu grabaketaren tamaina 15 GB-ra</string>
+    <string name="screenrecord_skip_time_label">Saltatu denboragailua</string>
+    <string name="screenrecord_skip_time_summary">Kendu 3 segunduko itxarona</string>
+    <string name="screenrecord_hevc_switch_label">HEVC kodeketa</string>
+    <string name="screenrecord_hevc_switch_summary">Erabili HEVC kodetzaile eraginkorragoa</string>
+    <string name="zen_alarm_warning_indef">"Ez duzu entzungo hurrengo alarma (<xliff:g id="WHEN">%1$s</xliff:g>) aukera hau lehenago desaktibatzen ez baduzu"</string>
+</resources>

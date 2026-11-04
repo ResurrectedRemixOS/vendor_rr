@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="audio_output_device_name">Non</string>
+    <string name="audio_output_device_name_unknown">No cognossût</string>
+    <string name="audio_output_device_type">Gjenar</string>
+    <string name="audio_output_device_type_unknown">No cognossût</string>
+    <string name="audio_output_device_type_headphones">Scufis</string>
+    <string name="audio_format_compression_unknown">No cognossût</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="album_videos">Videoj</string>
+    <string name="media_info_unknown">Nekonata</string>
+    <string name="file_action_edit">Redakti</string>
+    <string name="file_action_share">Konigi</string>
+    <string name="picker_done">Farite</string>
+    <string name="set_wallpaper">Apliki ekranfonon</string>
+    <string name="title_activity_settings">Agordoj</string>
+</resources>

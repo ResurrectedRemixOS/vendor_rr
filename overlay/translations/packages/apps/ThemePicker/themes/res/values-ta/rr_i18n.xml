@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name"> வெளிர் ஊதா</string>
+    <string name="red_color_name">கருஞ்சிவப்பு</string>
+    <string name="wht_color_name">மூடுபனி</string>
+    <string name="fruit1_color_name">மஞ்சள் மற்றும் சிவப்பு இரு-வண்ணத் தட்டு</string>
+    <string name="fruit2_color_name">பச்சை மற்றும் ஆரஞ்சு இரு-வண்ணத் தட்டு</string>
+    <string name="fruit3_color_name">நீலம் மற்றும் பச்சை இரு-வண்ணத் தட்டு</string>
+    <string name="fruit4_color_name">வெளிர் ஊதா மற்றும் நீலம் இரு-வண்ணத் தட்டு</string>
+    <string name="fruit5_color_name">இளஞ்சிவப்பு மற்றும் இண்டிகோ இரு-வண்ணத் தட்டு</string>
+</resources>

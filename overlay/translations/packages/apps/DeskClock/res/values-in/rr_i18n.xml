@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="firing_alarms_timers_channel">Memicu alarm &amp; timer</string>
+    <string name="dialog_permissions_power_off_alarm">Tanpa izin ini, perangkat Anda tidak dapat menyala sendiri untuk membunyikan alarm</string>
+    <string name="dialog_permissions_no_permission">Izin yang diperlukan ditolak, aktifkan dari aplikasi Setelan</string>
+    <string name="dialog_permissions_post_notifications">Aplikasi ini bergantung pada notifikasi. Tanpa notifikasi, aplikasi tidak dapat dijalankan!</string>
+    <string name="widget_name_transparent">Tidak dicadangkan</string>
+    <string name="widget_name_solid">Dicadangkan</string>
+    <string name="screensaver_preview_summary">Langsung mulai screen saver</string>
+    <string name="screensaver_change_settings_summary">Buka setelan screen saver Jam</string>
+</resources>

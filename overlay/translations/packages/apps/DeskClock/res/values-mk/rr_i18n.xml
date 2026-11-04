@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">Дејство при превртување на уредот</string>
+    <string name="shake_action_title">Дејство при тресење на уредот</string>
+    <string-array name="action_setting_entries">
+        <item>Одложи аларм</item>
+        <item>"Отфрли"</item>
+        <item>"Ништо"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">Активни аларми и тајмери</string>
+    <string name="alarm_missed_channel">Пропуштени аларми</string>
+    <string name="alarm_snooze_channel">Одложени аларми</string>
+    <string name="alarm_upcoming_channel">Претстојни аларми</string>
+    <string name="stopwatch_channel">Стоперка</string>
+    <string name="timer_channel">Тајмер</string>
+    <string name="add_label">Додај ознака</string>
+    <string name="dialog_permissions_title">"Дозволи"</string>
+    <string name="dialog_permissions_ask">Прашај повторно</string>
+    <string name="dialog_permissions_dismiss">"Отфрли"</string>
+    <string name="dialog_permissions_settings">"Поставки"</string>
+    <string name="dialog_permissions_power_off_alarm">Без оваа дозвола, уредот нема да може самостојно да се вклучи за да активира аларм</string>
+    <string name="dialog_permissions_no_permission">Потребните дозволи се одбиени. Овозможете ги во апликацијата Поставки</string>
+    <string name="dialog_permissions_post_notifications">Оваа апликација зависи од известувања. Без нив не може да се користи!</string>
+    <string name="selected">"Избрано"</string>
+    <string name="more_options">"Повеќе опции"</string>
+    <string name="widget_choice_title">Изберете стил</string>
+    <string name="widget_name_transparent">Без резервна копија</string>
+    <string name="widget_name_solid">Со резервна копија</string>
+    <string name="night_mode_enabled_title">"Овозможено"</string>
+    <string name="night_mode_dnd_title">Следи ја состојбата на Не вознемирувај</string>
+    <string name="night_mode_dnd_summary">Ноќниот режим ја следи состојбата на Не вознемирувај</string>
+    <string name="show_ampm_title">Прикажи индикатор AM/PM</string>
+    <string name="bold_text_title">Задебелен текст на часовникот</string>
+    <string name="night_mode_brightness_text_title">"Осветленост"</string>
+    <string name="clock_color_title">"Боја"</string>
+    <string-array name="clock_color_entries">
+        <item>"Бела"</item>
+        <item>"Црвена"</item>
+        <item>"Зелена"</item>
+        <item>"Сина"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"Штедач на екран"</string>
+    <string name="screensaver_preview">"Преглед"</string>
+    <string name="screensaver_preview_summary">Веднаш го стартува чуварот на екран</string>
+    <string name="screensaver_change_settings">"Поставки"</string>
+    <string name="screensaver_change_settings_summary">Ги отвора поставките за чуварот на екран на Часовник</string>
+    <string name="screensaver_daydream_settings">Избери/овозможи чувар на екран</string>
+    <string name="screensaver_daydream_settings_summary">Ги отвора главните поставки за чуварот на екран</string>
+</resources>

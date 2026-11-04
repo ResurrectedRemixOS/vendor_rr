@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"පෙරනිමි"</item>
+        <item>සෙල්සියස්</item>
+        <item>ෆැරන්හයිට්</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"පෙරනිමි"</item>
+        <item>ඉරිදා</item>
+        <item>සඳුදා</item>
+        <item>අඟහරුවාදා</item>
+        <item>බදාදා</item>
+        <item>බ්‍රහස්පතින්දා</item>
+        <item>සිකුරාදා</item>
+        <item>සෙනසුරාදා</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"පෙරනිමි"</item>
+        <item>මෙට්‍රික්</item>
+        <item>ඇමරිකානු පද්ධතිය</item>
+        <item>එක්සත් රාජධානි පද්ධතිය</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"විශේෂයෙන් සඳහන් නොකළ"</item>
+        <item>"මධ්‍යස්ථ"</item>
+        <item>"ස්ත්‍රී"</item>
+        <item>"පුරුෂ"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">අමතර</string>
+    <string name="advanced_keyboard_settings_title">"උසස් සැකසුම්"</string>
+    <string name="adb_enable_root">මූල අයිතිය ඇති දෝෂ නිරාකරණය</string>
+    <string name="adb_enable_summary_root">Android දෝෂ නිරාකරණය root ලෙස ක්‍රියාත්මක කිරීමට ඉඩ දෙන්න</string>
+    <string name="backup_transport_setting_label">උපස්ථ සපයන්නා වෙනස් කරන්න</string>
+    <string name="backup_transport_title">උපස්ථ සපයන්නා තෝරන්න</string>
+    <string name="berry_black_theme_title">සම්පූර්ණ කළු</string>
+    <string name="berry_black_theme_summary">අඳුරු තේමාව සඳහා සම්පූර්ණ කළු පසුබිම</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {ඔබ දැන් සංවර්ධක සැකසීම් සක්‍රීය කිරීමෙන් පියවර #ක් දුරින් ඇත.} other {ඔබ දැන් සංවර්ධක සැකසීම් සක්‍රීය කිරීමෙන් පියවර # ක් දුරින් ඇත.} }</string>
+    <string name="show_dev_on_cm">ඔබ සංවර්ධක සැකසීම් සක්‍රීය කර ඇත!</string>
+    <string name="show_dev_already_cm">අවශ්‍ය නැත, ඔබ දැනටමත් සංවර්ධක සැකසීම් සක්‍රීය කර ඇත.</string>
+    <string name="status_bar_double_tap_to_sleep_title">නින්දට යාමට තට්ටු කරන්න</string>
+    <string name="status_bar_double_tap_to_sleep_summary">තිරය අක්‍රීය කිරීමට තත්ත්ව තීරුව හෝ අගුලු තිරය මත දෙවරක් තට්ටු කරන්න</string>
+    <string name="high_touch_polling_rate_title">ඉහළ ස්පර්ශ පෝලිං වේගය</string>
+    <string name="high_touch_polling_rate_summary">ස්පර්ශ තිර පෝලිං වේගය වැඩි කරන්න</string>
+    <string name="heads_up_notifications_enabled_title">හිස ඉහළ</string>
+    <string name="heads_up_notifications_enabled_summary">ඉහළ ප්‍රමුඛතා දැනුම්දීම් කුඩා පාවෙන කවුළුවක පෙන්වන්න</string>
+    <string name="tethering_allow_vpn_upstreams_title">සම්බන්ධිත උපාංග සඳහා VPN භාවිතා කරන්න</string>
+    <string name="tethering_allow_vpn_upstreams_summary">මෙම උපාංගය VPN භාවිතා කරන විට, හොට්ස්පොට් වෙත සම්බන්ධ සියලු උපාංග එකම VPN භාවිතා කරයි</string>
+    <string name="lock_settings_picker_pattern_size_message">රටාවේ ප්‍රමාණය තෝරන්න</string>
+    <string name="lockpattern_settings_enable_error_path_title">රටා දෝෂය පෙන්වන්න</string>
+    <string name="lockpattern_settings_enable_dots_title">රටා තිත් පෙන්වන්න</string>
+    <string name="max_refresh_rate_title">උච්චතම නැවුම් වේගය</string>
+    <string name="min_refresh_rate_title">අවම නැවුම් වේගය</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">ඔබේ ටැබ්ලටයේ ඉදිරිපස ඇති ඇඟිලි සලකුණු සංවේදකය සොයා ගන්න.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">ඔබේ උපාංගයේ ඉදිරිපස ඇති ඇඟිලි සලකුණු සංවේදකය සොයා ගන්න.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">ඔබේ දුරකථනයේ ඉදිරිපස ඇති ඇඟිලි සලකුණු සංවේදකය සොයා ගන්න.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">ඔබේ ටැබ්ලටයේ පිටුපස ඇති ඇඟිලි සලකුණු සංවේදකය සොයා ගන්න.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">ඔබේ උපාංගයේ පිටුපස ඇති ඇඟිලි සලකුණු සංවේදකය සොයා ගන්න.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">ඔබේ දුරකථනයේ පිටුපස ඇති ඇඟිලි සලකුණු සංවේදකය සොයා ගන්න.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">ඔබේ ටැබ්ලටයේ පැත්තේ ඇති ඇඟිලි සලකුණු සංවේදකය සොයා ගන්න.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">ඔබේ උපාංගයේ පැත්තේ ඇති ඇඟිලි සලකුණු සංවේදකය සොයා ගන්න.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">ඔබේ දුරකථනයේ පැත්තේ ඇති ඇඟිලි සලකුණු සංවේදකය සොයා ගන්න.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">ඔබේ ටැබ්ලටයේ ඉදිරිපස ඇති සංවේදකය ස්පර්ශ කරන්න.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">ඔබේ උපාංගයේ ඉදිරිපස ඇති සංවේදකය ස්පර්ශ කරන්න.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">ඔබේ දුරකථනයේ ඉදිරිපස ඇති සංවේදකය ස්පර්ශ කරන්න.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">ඔබේ ටැබ්ලටයේ පිටුපස ඇති සංවේදකය ස්පර්ශ කරන්න.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">ඔබේ උපාංගයේ පිටුපස ඇති සංවේදකය ස්පර්ශ කරන්න.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">ඔබේ දුරකථනයේ පිටුපස ඇති සංවේදකය ස්පර්ශ කරන්න.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">ඔබේ ටැබ්ලටයේ පැත්තේ ඇති සංවේදකය ස්පර්ශ කරන්න.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">ඔබේ උපාංගයේ පැත්තේ ඇති සංවේදකය ස්පර්ශ කරන්න.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">ඔබේ දුරකථනයේ පැත්තේ ඇති සංවේදකය ස්පර්ශ කරන්න.</string>
+    <string name="show_navbar_hint_title">සංචලන ඉඟිය</string>
+    <string name="show_navbar_hint_summary">තිරයේ පහළින් සංචලන ඉඟි තීරුව පෙන්වන්න</string>
+    <string name="auto_brightness_one_shot_title">එක් වරක් ස්වයංක්‍රීය දීප්තිය</string>
+    <string name="auto_brightness_one_shot_summary">තිරය ක්‍රියාත්මක වන මොහොතේ පමණක් දීප්ති සකස් වේ</string>
+    <string name="data_usage_app_restrict_all">ජාල ප්‍රවේශයට ඉඩ දෙන්න</string>
+    <string name="data_usage_app_restrict_all_summary">ජාල භාවිතය සක්‍රීය කරන්න</string>
+    <string name="data_usage_app_restrict_mobile">"ජංගම දත්ත"</string>
+    <string name="data_usage_app_restrict_mobile_summary">ජංගම දත්ත භාවිතය සක්‍රීය කරන්න</string>
+    <string name="data_usage_app_restrict_vpn">VPN දත්ත</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN දත්ත භාවිතය සක්‍රීය කරන්න</string>
+    <string name="data_usage_app_restrict_wifi">"Wi-Fi දත්ත"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi දත්ත භාවිතය සක්‍රීය කරන්න</string>
+    <string name="proximity_wake_summary">තිරය අවදි කිරීමට පෙර සමීපතා සංවේදකය පරීක්ෂා කරන්න</string>
+    <string name="touchscreen_hovering_title">ස්පර්ශ තිර ඉහළ ගැනීම</string>
+    <string name="touchscreen_hovering_summary">වෙබ් බ්‍රව්සර්, දුරස්ථ ඩෙස්ක්ටොප් ආදියේ මූසිකයක් මෙන් තිරය මත ඉහළින් රැඳී සිටීමට ඉඩ දෙයි</string>
+    <string name="storage_warning_internal">අවවාදයයි: මෙම විකල්පය නිසි ලෙස ක්‍රියා නොකළ හැක හෝ දත්ත නැති වීමට හේතු විය හැක, එබැවින් එය නිර්දේශ නොකරයි!</string>
+    <string name="assisted_gps">සහායක GPS භාවිතා කරන්න</string>
+    <string name="assisted_gps_summary">GPS ආරම්භ කිරීමේ කාර්යක්ෂමතාව බෙහෙවින් වැඩි දියුණු කළ හැකි ජාලයෙන් චන්ද්‍රිකා සහාය දත්ත බාගන්න. හදිසි ඇමතුම් සඳහා, සහායක GPS සැමවිටම අවසර ලැබේ.</string>
+    <string name="battery_technology">තාක්ෂණය</string>
+    <string name="battery_health">"සෞඛ්‍යය"</string>
+    <string name="battery_health_good">"හොඳයි"</string>
+    <string name="battery_health_overheat">"අධික උෂ්ණත්වය"</string>
+    <string name="battery_health_dead">"අක්‍රියයි"</string>
+    <string name="battery_health_over_voltage">"අධි වෝල්ටීයතාව"</string>
+    <string name="battery_health_unspecified_failure">නිශ්චිත නොවන අසමත්වීම</string>
+    <string name="battery_health_cold">"සිසිල්"</string>
+    <string name="battery_health_unknown">"නොදනී"</string>
+    <string name="battery_temperature">"උෂ්ණත්වය"</string>
+    <string name="battery_voltage">වෝල්ටීයතාව</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">සැලසුම් ධාරිතාව</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">උපරිම ධාරිතාව</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">පිහිටුවීමේදී දුරකථනය නැමිය යුතුය</string>
+    <string name="face_enrolling_close_to_continue_description">මුහුණු අගුල භාවිතා කිරීමට හෝ සකස් කිරීමට දුරකථනය නැමිය යුතුය</string>
+    <string name="face_enrolling_do_it_later">"පසුව එය කරන්න"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM මෙවලම් කට්ටලය</string>
+    <string name="platform_compat_target_sdk_title"><xliff:g id="number" example="29">%d</xliff:g> අගය ඉලක්කගත SDK අනුවාදය ≥ සඳහා සක්‍රිය කර ඇත</string>
+    <string name="personal_context_title">පුද්ගලික සන්දර්භ කළමනාකරු</string>
+</resources>

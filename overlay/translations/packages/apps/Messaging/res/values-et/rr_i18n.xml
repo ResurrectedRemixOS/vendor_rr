@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="swipe_to_delete_conversation_pref_title">Kustuta pühkimisega</string>
+    <string name="swipe_to_delete_conversation_pref_summary">Vestluse kustutamiseks pühi paremale</string>
+    <string name="start_chat">Alusta vestlust</string>
+</resources>

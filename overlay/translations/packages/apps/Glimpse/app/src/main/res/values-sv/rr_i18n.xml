@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Galleri"</string>
+    <string name="app_permissions_toast">Behörigheter som inte beviljas av användaren.</string>
+    <string name="reels_title">Reels</string>
+    <string name="albums_title">"Album"</string>
+    <string name="categories_title">Kategorier</string>
+    <string name="library_title">"Bibliotek"</string>
+    <string name="album_favorites">"Favoriter"</string>
+    <string name="album_trash">"Papperskorgen"</string>
+    <string name="album_reels">Reels</string>
+    <string name="album_photos">"Foton"</string>
+    <string name="album_videos">"Videor"</string>
+    <plurals name="album_thumbnail_items">
+        <item quantity="one">%d objekt</item>
+        <item quantity="other">%d objekt</item>
+    </plurals>
+    <plurals name="delete_file_forever_confirm_message">
+        <item quantity="one">Är du säker på att du vill radera %d fil permanent?</item>
+        <item quantity="other">Är du säker på att du vill radera %d filer permanent?</item>
+    </plurals>
+    <plurals name="delete_file_forever_successful">
+        <item quantity="one">%d fil raderades permanent</item>
+        <item quantity="other">%d filer raderades permanent</item>
+    </plurals>
+    <plurals name="delete_file_forever_unsuccessful">
+        <item quantity="one">%d fil kunde inte raderas permanent</item>
+        <item quantity="other">%d filer kunde inte raderas permanent</item>
+    </plurals>
+    <plurals name="move_file_to_trash_confirm_message">
+        <item quantity="one">Är du säker på att du vill flytta %d fil till papperskorgen?</item>
+        <item quantity="other">Är du säker på att du vill flytta %d filer till papperskorgen?</item>
+    </plurals>
+    <plurals name="move_file_to_trash_successful">
+        <item quantity="one">%d fil flyttades till papperskorgen</item>
+        <item quantity="other">%d filer flyttades till papperskorgen</item>
+    </plurals>
+    <plurals name="move_file_to_trash_unsuccessful">
+        <item quantity="one">%d fil kunde inte flyttas till papperskorgen</item>
+        <item quantity="other">%d filer kunde inte flyttas till papperskorgen</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_confirm_message">
+        <item quantity="one">Är du säker på att du vill återställa %d fil från papperskorgen?</item>
+        <item quantity="other">Är du säker på att du vill återställa %d filer från papperskorgen?</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_successful">
+        <item quantity="one">%d fil återställdes från papperskorgen</item>
+        <item quantity="other">%d filer återställdes från papperskorgen</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_unsuccessful">
+        <item quantity="one">%d fil kunde inte återställas från papperskorgen</item>
+        <item quantity="other">%d filer kunde inte återställas från papperskorgen</item>
+    </plurals>
+    <string name="manage_media_permission_title">Hantera behörighet för media</string>
+    <string name="manage_media_permission_message">För att enklare hantera dina bilder och videor, tillåt appen att hantera dina mediefiler</string>
+    <string name="media_info_unknown">"Okänd"</string>
+    <string name="media_info_add_description_hint">Lägg till en beskrivning</string>
+    <string name="media_info_write_description_failed">Det gick inte att ändra mediebeskrivningen</string>
+    <string name="media_info_location_loading_placeholder">Laddar…</string>
+    <string name="media_info_location_open_with">Visa platsen med</string>
+    <string name="intent_action_not_supported">Åtgärden stöds inte</string>
+    <string name="intent_media_not_found">Media hittades inte</string>
+    <string name="intent_media_type_not_found">Mediatypen hittades inte</string>
+    <string name="intent_media_type_not_supported">Mediatypen stöds inte</string>
+    <string name="intent_no_system_wallpaper_cropper_available">Ingen systembeskärare tillgänglig</string>
+    <string name="intent_wallpaper_cannot_be_changed">Bakgrunden kan inte ändras</string>
+    <string name="file_action_add_to_favorites">"Lägg till i Favoriter"</string>
+    <string name="file_action_delete_forever">"Radera permanent"</string>
+    <string name="file_action_edit">"Redigera"</string>
+    <string name="file_action_empty_trash">"Töm papperskorgen"</string>
+    <string name="file_action_information">Information</string>
+    <string name="file_action_move_to_trash">"Flytta till papperskorgen"</string>
+    <string name="file_action_remove_from_favorites">Ta bort från Favoriter</string>
+    <string name="file_action_restore_from_trash">Återställ från papperskorgen</string>
+    <string name="file_action_share">"Dela"</string>
+    <string name="file_action_use_as">Använd som</string>
+    <string name="file_action_undo_action">"Ångra"</string>
+    <string name="no_media">Inga media</string>
+    <string name="pick_a_photo">Välj ett foto</string>
+    <string name="pick_a_video">Välj en video</string>
+    <string name="pick_a_media">Välj ett media</string>
+    <string name="picker_done">"Klar"</string>
+    <string name="set_wallpaper_label">"Bakgrund"</string>
+    <string name="set_wallpaper">"Ange bakgrund"</string>
+    <string name="set_wallpaper_dialog_title">"Ställ in som bakgrund på"</string>
+    <string name="set_wallpaper_home_screen">"Startskärm"</string>
+    <string name="set_wallpaper_lock_screen">"Låsskärm"</string>
+    <string name="set_wallpaper_both">Start- och låsskärm</string>
+    <string name="warning_bin_time_period">Filer raderas permanent efter 30 dagar.</string>
+    <string name="motion_photo_show_video">Visa video</string>
+    <string name="motion_photo_show_photo">Visa foto</string>
+    <string name="title_activity_settings">"Inställningar"</string>
+    <string name="general_header">"Allmänt"</string>
+    <string name="video_header">Video</string>
+    <string name="edge_tap_navigation_enable_title">Navigering med kanttryck</string>
+    <string name="edge_tap_navigation_enabled_description">Tryck på skärmens vänstra eller högra kant för att navigera mellan media</string>
+    <string name="double_tap_to_seek_enabled_title">Aktivera dubbeltryck för att söka</string>
+    <string name="double_tap_to_seek_enabled_description">Dubbeltryck på videons vänstra eller högra sida för att hoppa bakåt eller framåt</string>
+    <string name="double_tap_to_seek_seconds_title">Hoppsträcka vid dubbeltryck för sökning</string>
+    <string name="double_tap_to_seek_seconds_description">Sekunder att hoppa vid dubbeltryck på videon</string>
+    <string name="hide_native_seek_buttons_title">Dölj inbyggda sökknappar</string>
+    <string name="hide_native_seek_buttons_description">Dölj knappar för spola bakåt och framåt i videospelarens kontroller</string>
+    <string name="remember_video_playback_position_enabled_title">Kom ihåg uppspelningsposition</string>
+    <string name="remember_video_playback_position_enabled_description">Återuppta videor från senast stoppade position</string>
+</resources>

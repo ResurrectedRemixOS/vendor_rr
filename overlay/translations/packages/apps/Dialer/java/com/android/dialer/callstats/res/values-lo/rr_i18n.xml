@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">ລາຍລະອຽດສະຖິຕິຜູ້ຕິດຕໍ່</string>
+    <string name="call_stats_incoming">ເຂົ້າ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">ອອກ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">ພາດ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">ບລັອກ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">ທັງໝົດ: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">ທັງໝົດ: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">ເລີ່ມວັນທີ</string>
+    <string name="call_stats_filter_to">ມື້ສິ້ນສຸດ</string>
+    <string name="call_stats_filter_picker_title">ໄລຍະເວລາ</string>
+    <string name="date_quick_selection">ເລືອກດ່ວນ</string>
+    <string name="date_qs_currentmonth">ເດືອນນີ້</string>
+    <string name="date_qs_currentquarter">ໄຕມາດນີ້</string>
+    <string name="date_qs_currentyear">ປີນີ້</string>
+    <string name="date_qs_lastweek">"ອາທິດທີ່ຜ່ານມາ"</string>
+    <string name="date_qs_lastmonth">"ເດືອນທີ່ຜ່ານມາ"</string>
+    <string name="date_qs_lastquarter">ໄຕມາດທີ່ແລ້ວ</string>
+    <string name="date_qs_lastyear">"ປີທີ່ຜ່ານມາ"</string>
+    <string name="call_stats_date_filter">ປັບໄລຍະເວລາ</string>
+    <string name="call_stats_reset_filter">ຣີເຊັດໄລຍະເວລາ</string>
+    <string name="call_stats_sort_by_duration">ຈັດລຽງຕາມໄລຍະເວລາການໂທ</string>
+    <string name="call_stats_sort_by_count">ຈັດລຽງຕາມຈຳນວນການໂທ</string>
+    <string name="call_stats_title_for_number">ເບີນີ້</string>
+    <string name="call_stats_title_of_total">ຂອງທັງໝົດ</string>
+    <string name="call_stats_title_durations">ໄລຍະເວລາການໂທ</string>
+    <string name="call_stats_title_count">ຈຳນວນການໂທ</string>
+    <string name="call_stats_title_average_duration">ໄລຍະເວລາການໂທສະເລ່ຍ</string>
+    <string name="recent_calls_no_items_in_range">ປະຫວັດການໂທຂອງທ່ານບໍ່ມີການໂທໃນໄລຍະເວລາທີ່ເລືອກ.</string>
+</resources>

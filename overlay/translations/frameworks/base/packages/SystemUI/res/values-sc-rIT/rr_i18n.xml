@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="usb_audio_device_permission_prompt_title">Boles permìtere a <xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g> de atzèdere a <xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g>?</string>
+    <string name="usb_device_dialog_always_allow_button">Permite semper</string>
+    <string name="add_network_button_text">Agiunghe rete</string>
+    <string name="learn_more">Àteras informatziones</string>
+    <string name="global_action_screenshot">Ischermada</string>
+    <string name="screenshot_copy_label">Còpia</string>
+    <string name="screenshot_edit_label">Modìfica</string>
+    <string name="screenshot_share_label">Cumpartzi</string>
+    <string name="screenshot_default_files_app_name">Archìvios</string>
+    <string name="screenrecord_continue">Cumintza</string>
+    <string name="screenrecord_stop_label">Firma</string>
+    <string name="screenrecord_start_description">Cumintza sa registratzione</string>
+    <string name="screenrecord_share_label">Cumpartzi</string>
+    <string name="screenrecord_save_text">Toca pro visualizare</string>
+    <string name="screen_record_color_picker">Seletzionadore de colore</string>
+    <string name="screen_record_undo">Iscontza</string>
+    <string name="screen_record_edit">Modìfica</string>
+    <string name="screen_record_delete">Cantzella</string>
+    <string name="screen_capture_toolbar_screenshot_button">Ischermada</string>
+    <string name="screen_share_toolbar_share_button">Cumpartzi</string>
+    <string name="screen_capture_front_camera">Fotocàmera de in antis</string>
+    <string name="issuerecord_share_label">Cumpartzi</string>
+    <string name="issuerecord_save_text">Toca pro visualizare</string>
+    <string name="immersive_cling_title">Visualizende ischermu intreu</string>
+    <string name="accessibility_accessibility_button">Atzessibilidade</string>
+    <string name="accessibility_rotate_button">Fùrria s\'ischermu</string>
+    <string name="accessibility_wallet_button">Portafòlliu</string>
+    <string name="accessibility_send_smart_reply">Imbia</string>
+    <string name="biometric_dialog_confirm">Cunfirma</string>
+    <string name="biometric_dialog_try_again">Torra·bi a proare</string>
+    <string name="biometric_dialog_face_icon_description_authenticated">Cara autenticada</string>
+    <string name="biometric_dialog_unavailable">No a disponimentu</string>
+    <string name="work_challenge_emergency_button_text">Emergèntzia</string>
+    <string name="biometric_re_enroll_dialog_cancel">Immoe nono</string>
+    <string name="fingerprint_re_enroll_notification_title">Cunfigura torra s\'isblocu cun s\'imprenta</string>
+    <string name="fingerprint_re_enroll_notification_name">Isblocu cun imprenta de pòddighe</string>
+    <string name="fingerprint_dialog_touch_sensor">Toca su sensore de imprentas digitales</string>
+    <string name="fingerprint_dialog_use_fingerprint_instead">Sa cara no est istada reconnota. Imprea s\'imprenta.</string>
+    <string name="keyguard_face_failed">Cara non reconnota</string>
+    <string name="cell_data_off">Istudadu</string>
+    <string name="accessibility_desc_lock_screen">Ischermu de blocu</string>
+    <string name="accessibility_status_bar_assistant_icon">Agiudante</string>
+    <string name="accessibility_status_bar_input_method_indicator">Tecladu</string>
+    <string name="input_method_switcher_title_large_screen">Tecladu</string>
+    <string name="input_method_switcher_dismiss">iscarta</string>
+    <string name="start_dreams">Sarva-ischermu</string>
+    <string name="quick_settings_dnd_label">No istorbes</string>
+    <string name="see_all_bluetooth_devices">Bide totu</string>
+    <string name="quick_settings_bluetooth_device_saved">Sarvadu</string>
+    <string name="quick_settings_bluetooth_audio_sharing_button_sharing">Cumpartzidura de àudio</string>
+    <string name="quick_settings_bluetooth_secondary_label_audio">Àudio</string>
+    <string name="quick_settings_bluetooth_secondary_label_headset">Auricolares</string>
+    <string name="quick_settings_bluetooth_secondary_label_input">Intrada</string>
+    <string name="quick_settings_bluetooth_secondary_label_hearing_aids">Auriculares</string>
+    <string name="quick_settings_camera_mic_available">A disponimentu</string>
+    <string name="quick_settings_camera_mic_blocked">Blocadu</string>
+    <string name="quick_settings_cast_title">Trasmissione</string>
+    <string name="quick_settings_cast_detail_title">Trasmite s\'ischermu a su dispositivu</string>
+    <string name="quick_settings_cast_disconnect">Disconnete</string>
+    <string name="quick_settings_audio_input_section_title">Intrada</string>
+    <string name="quick_settings_audio_effects_section_title">Efetos</string>
+    <string name="quick_settings_inversion_label">Inversione de colores</string>
+    <string name="quick_settings_color_correction_label">Curretzione de colores</string>
+    <string name="quick_settings_font_scaling_label">Dimensione caràtere</string>
+    <string name="quick_settings_cellular_detail_title">Datos mòbiles</string>
+    <string name="quick_settings_work_mode_paused_state">In pàusa</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Rispàrmiu de bateria</string>
+    <string name="quick_settings_screen_record_start">Cumintza</string>
+    <string name="quick_settings_screen_record_stop">Firma</string>
+    <string name="qs_record_issue_start">Cumintza</string>
+    <string name="qs_record_issue_stop">Firma</string>
+    <string name="hearing_devices_ambient_control_left">Manca</string>
+    <string name="hearing_devices_ambient_control_right">Dereta</string>
+    <string name="sensor_privacy_start_use_mic_blocked_dialog_title">Su micròfonu est blocadu</string>
+    <string name="zen_mode_on">Ativu</string>
+    <string name="zen_mode_off">Istudadu</string>
+    <string name="zen_modes_multiple_on_status">Ativu</string>
+    <string name="cta_tile_button_to_dismiss">Iscarta</string>
+    <string name="media_projection_entry_generic_permission_dialog_continue">Cumintza</string>
+    <string name="screen_capturing_disabled_by_policy_dialog_title">Blocadu dae s\'amministratzione tècnica tua</string>
+    <string name="manage_notifications_text">Gesti</string>
+    <string name="notification_section_header_gentle">A sa muda</string>
+    <string name="notification_section_header_highlights">Lughes artas</string>
+    <string name="stream_system">Sistema</string>
+    <string name="stream_music">Cuntenutos multimediales</string>
+    <string name="stream_notification">Notìfica</string>
+    <string name="stream_accessibility">Atzessibilidade</string>
+    <string name="stream_assistant">Agiudante</string>
+    <string name="volume_ringer_status_vibrate">Vibra</string>
+    <string name="media_device_cast">Trasmissione</string>
+    <string name="stream_unavailable_by_unknown">No a disponimentu</string>
+    <string name="volume_panel_spatial_audio_off">Istudadu</string>
+    <string name="wallet_title">Portafòlliu</string>
+    <string name="wallet_app_button_label">Mustra totu</string>
+    <string name="qr_code_scanner_title">Iscansionadore de còdighes QR</string>
+    <string name="accessibility_status_bar_satellite_symbol">Satèllite</string>
+    <string name="notification_onboarding_summaries_turn_on">Ativa·ddu in is Cunfiguratziones</string>
+    <string name="notification_bundle_header_counter">{count, plural,
+      =1      {Una notìfica}
+      other   {# notìficas}
+    }</string>
+    <string name="notification_silence_title">A sa muda</string>
+    <string name="notification_alert_title">Predefinidu</string>
+    <string name="notification_automatic_title">Automàticu</string>
+    <string name="notification_inline_dismiss">Iscarta</string>
+    <string name="see_more_title">Bide de prus</string>
+    <string name="snooze_undo">Iscontza</string>
+    <string name="battery_detail_switch_title">Rispàrmiu de bateria</string>
+    <string name="keyboard_key_enter">Imbiu</string>
+    <string name="keyboard_key_media_stop">Firma</string>
+    <string name="keyboard_key_media_rewind">Torra in segus</string>
+    <string name="keyboard_key_forward_del">Cantzella</string>
+    <string name="keyboard_shortcut_group_system">Sistema</string>
+    <string name="keyboard_shortcut_group_system_recents">Reghentes</string>
+    <string name="keyboard_shortcut_search_category_system">Sistema</string>
+    <string name="keyboard_shortcut_search_category_input">Intrada</string>
+    <string name="group_system_full_screenshot">Faghe una catura de ischermu</string>
+    <string name="group_system_go_back">Bae a coa</string>
+    <string name="group_system_lock_screen">Ischermu de blocu</string>
+    <string name="keyboard_shortcut_group_input">Intrada</string>
+    <string name="keyboard_shortcut_group_applications">Aplicatziones</string>
+    <string name="keyboard_shortcut_group_applications_assist">Agiudante</string>
+    <string name="keyboard_shortcut_group_applications_browser">Navigadore</string>
+    <string name="keyboard_shortcut_group_applications_contacts">Cuntatos</string>
+    <string name="keyboard_shortcut_group_applications_email">Posta eletrònica</string>
+    <string name="keyboard_shortcut_group_applications_music">Mùsica</string>
+    <string name="keyboard_shortcut_group_applications_calendar">Calendàriu</string>
+    <string name="keyboard_shortcut_group_applications_calculator">Carculadora</string>
+    <string name="keyboard_shortcut_group_applications_maps">Mapas</string>
+    <string name="volume_and_do_not_disturb">No istorbes</string>
+    <string name="headset">Auricolares</string>
+    <string name="switch_bar_on">Ativu</string>
+    <string name="switch_bar_off">Istudadu</string>
+    <string name="tile_unavailable">No a disponimentu</string>
+    <string name="nav_bar">Barra de navigatzione</string>
+    <string name="nav_bar_layout">Dispositzione</string>
+    <string name="save">Sarva</string>
+    <string name="reset">Torra a impostare</string>
+    <string name="qs_edit_edit_tab">Modìfica</string>
+    <string name="qs_edit_layout_tab">Dispositzione</string>
+    <string name="other">Àteru</string>
+    <string name="accessibility_quick_settings_power_menu">Menù de aviu</string>
+    <string name="accessibility_quick_settings_power_menu_expanded">Ismanniadu</string>
+    <string name="accessibility_quick_settings_power_menu_collapsed">Minimadu</string>
+    <string name="accessibility_shortcutchooser_edit_button">Modìfica</string>
+    <string name="accessibility_nav_bar_more_options_title">Sèbera una funtzione</string>
+    <string name="accessibility_quick_access_dialog_title">Atzessibilidade</string>
+    <string name="tuner_lock_screen">Ischermu de blocu</string>
+    <string name="lockscreen_none">Perunu</string>
+    <string name="tuner_circle">Tzìrculu</string>
+    <string name="tuner_left">Manca</string>
+    <string name="tuner_right">Dereta</string>
+    <string name="notification_channel_alerts">Avisos</string>
+    <string name="notification_channel_storage">Archiviatzione</string>
+    <string name="notification_channel_accessibility">Atzessibilidade</string>
+    <string name="mobile_data">Datos mòbiles</string>
+    <string name="running_foreground_services_msg">Toca pro bìdere detàllios de sa
+        bateria e s\'impreu de datos</string>
+    <string name="ongoing_privacy_dialog_a11y_title">Impreadu</string>
+    <string name="privacy_type_camera">càmera</string>
+    <string name="privacy_chip_container_leading_title">Riservadesa</string>
+    <string name="inattentive_sleep_warning_title">Assèliu</string>
+    <string name="accessibility_control_zoom_in">Ismànnia</string>
+    <string name="accessibility_control_zoom_out">Istèsia</string>
+    <string name="accessibility_control_move_left">Isposta a manca</string>
+    <string name="accessibility_control_move_right">Isposta a dereta</string>
+    <string name="accessibility_resize">Torra a cunfigurare sa mannària</string>
+    <string name="accessibility_magnification_zoom">Ismanniamentu</string>
+    <string name="accessibility_magnification_medium">Mèdia</string>
+    <string name="accessibility_magnification_small">Minore</string>
+    <string name="accessibility_magnification_fullscreen">Ischermu intreu</string>
+    <string name="accessibility_magnifier_edit">Modìfica</string>
+    <string name="accessibility_floating_button_undo">Iscontza</string>
+    <string name="accessibility_floating_button_action_edit">Modìfica</string>
+    <string name="quick_controls_title">Controllos de su dispositivu</string>
+    <string name="controls_removed">Bogadu</string>
+    <string name="controls_favorite_other_zone_header">Àteru</string>
+    <string name="controls_settings_dialog_positive_button">Eja</string>
+    <string name="controls_pin_wrong">PIN isballiadu</string>
+    <string name="controls_pin_instructions">Inserta PIN</string>
+    <string name="controls_media_title">Cuntenutos multimediales</string>
+    <string name="controls_media_button_prev">Cantzone pretzedente</string>
+    <string name="controls_media_button_next">Cantzone imbeniente</string>
+    <string name="controls_media_button_connecting">Colleghende·si</string>
+    <string name="media_transfer_undo">Iscontza</string>
+    <string name="media_transfer_failed">Calicuna cosa no est andada bene. Torra a proare.</string>
+    <string name="media_transfer_loading">Càrriga in cursu</string>
+    <string name="media_output_dialog_accessibility_seekbar">Volùmene</string>
+    <string name="media_output_group_title_suggested">Cussigiadas</string>
+    <string name="media_input_group_title">Intrada</string>
+    <string name="media_output_dialog_button_sharing_audio">Cumpartzidura de àudio</string>
+    <string name="birthday_status">Cumpleannu</string>
+    <string name="anniversary_status">Anniversàriu</string>
+    <string name="missed_call">Mutida pèrdida</string>
+    <string name="people_tile_title">Resonada</string>
+    <string name="person_available">A disponimentu</string>
+    <string name="accessibility_authenticate_hint">autenticatzione</string>
+    <string name="mobile_data_settings_title">Datos mòbiles</string>
+    <string name="see_all_networks">Bide totu</string>
+    <string name="fgs_manager_app_item_stop_button_label">Firma</string>
+    <string name="clipboard_text_hidden">Toca pro visualizare</string>
+    <string name="clipboard_text_copied">Testu copiadu</string>
+    <string name="clipboard_image_preview">Previsualizatzione de s\'immàgine</string>
+    <string name="dream_overlay_status_bar_notification_indicator">{count, plural,
+      =1      {Una notìfica}
+      other   {# notìficas}
+    }</string>
+    <string name="note_task_button_label">Pigada de apuntos</string>
+    <string name="audio_sharing_description">Cumpartzidura de àudio</string>
+    <string name="log_access_confirmation_learn_more">Àteras informatziones</string>
+    <string name="call_from_work_profile_action">Càmbia a su profilu de traballu</string>
+    <string name="dismiss_dialog">Iscarta</string>
+    <string name="start_desktop_mode">Iscrivania</string>
+    <string name="shortcut_helper_category_system">Sistema</string>
+    <string name="shortcutHelper_category_accessibility">Atzessibilidade</string>
+    <string name="shortcut_helper_category_input">Intrada</string>
+    <string name="shortcut_helper_category_a11y">Atzessibilidade</string>
+    <string name="shortcut_helper_reset_button_text">Torra a impostare</string>
+    <string name="shortcut_helper_customizer_action_key_text">Atzione</string>
+    <string name="touchpad_tutorial_back_gesture_button">Bae a coa</string>
+    <string name="gesture_error_title">Torra·bi a proare</string>
+    <string name="touchpad_back_gesture_action_title">Bae a coa</string>
+    <string name="touchpad_recent_apps_gesture_success_body">As cumpletadu su gestu pro bìdere is aplicatziones reghentes.</string>
+    <string name="volume_undo_action">Iscontza</string>
+    <string name="ambientcue_first_time_edu_icon_description">Icona</string>
+    <string name="sign_in_button_on_bouncer">Iscrie·ti</string>
+    <string name="accessibility_button_on_bouncer_description">Atzessibilidade</string>
+    <string name="av_panel_title">Riservadesa</string>
+    <string name="sensor_activity_close_app_button">Serra s\'aplicatzione</string>
+    <string name="av_camera_blur_off">Istudadu</string>
+    <string name="more_options_edit">Modìfica</string>
+    <string name="more_options_move">Tràmuda</string>
+    <string name="floating_menu_more_options_label">Àteras optziones</string>
+    <string name="dream_setup_button_not_now">Immoe nono</string>
+    <string-array name="tile_states_internet">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_modes_dnd">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_notes">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+    <string-array name="tile_states_desktopeffects">
+        <item>No a disponimentu</item>
+        <item>Istudadu</item>
+        <item>Ativu</item>
+    </string-array>
+</resources>

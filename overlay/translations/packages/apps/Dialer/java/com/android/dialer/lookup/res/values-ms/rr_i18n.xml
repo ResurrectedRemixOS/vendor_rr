@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Tempat berdekatan</string>
+    <string name="lookup_settings_label">Carian nombor telefon</string>
+    <string name="enable_forward_lookup_title">Carian hadapan</string>
+    <string name="enable_forward_lookup_summary">Tunjuk tempat berdekatan apabila mencari dalam pendail</string>
+    <string name="enable_reverse_lookup_title">Carian terbalik</string>
+    <string name="enable_reverse_lookup_summary">Cari maklumat tentang orang atau tempat bagi nombor tidak dikenali pada panggilan masuk</string>
+    <string name="forward_lookup_provider_title">Penyedia carian hadapan</string>
+    <string name="reverse_lookup_provider_title">Penyedia carian terbalik</string>
+    <string name="lookup_disclaimer">Carian mungkin menghantar pertanyaan melalui protokol selamat (https) kepada laman web jauh untuk mengumpul maklumat. Pertanyaan mungkin termasuk nombor telefon pihak lain atau istilah carian</string>
+</resources>

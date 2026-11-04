@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">ਅੱਖਰ ਕ੍ਰਮ (Bépo)</string>
+    <string name="subtype_hu_ZZ">ਹੰਗਰੀਅਨ (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - ਸਿਸਟਮ ਸੈਟਿੰਗਾਂ ਦੀ ਪਾਲਣਾ ਕਰੋ</string>
+    <string name="prefs_keyboard_height_scale">ਕੀਬੋਰਡ ਉਚਾਈ ਪੈਮਾਨਾ</string>
+    <string name="number_row">ਨੰਬਰ ਕਤਾਰ</string>
+    <string name="number_row_summary">ਚਾਰ ਕਤਾਰਾਂ ਵਾਲੇ ਸਾਰੇ ਲੇਆਉਟਾਂ ਲਈ ਹਮੇਸ਼ਾ ਨੰਬਰ ਕਤਾਰ ਦਿਖਾਓ</string>
+    <string name="number_row_password">ਪਾਸਵਰਡਾਂ ਲਈ ਨੰਬਰ ਕਤਾਰ</string>
+    <string name="number_row_password_summary">ਪਾਸਵਰਡ ਇਨਪੁੱਟ ਲਈ ਚਾਰ ਕਤਾਰਾਂ ਵਾਲੇ ਸਾਰੇ ਲੇਆਉਟਾਂ ਲਈ ਹਮੇਸ਼ਾ ਨੰਬਰ ਕਤਾਰ ਦਿਖਾਓ</string>
+    <string name="space_trackpad">ਸਪੇਸ ਬਾਰ ਟ੍ਰੈਕਪੈਡ</string>
+    <string name="space_trackpad_summary">ਕਰਸਰ ਹਿਲਾਉਣ ਲਈ ਸਪੇਸ ਬਾਰ \'ਤੇ ਸਵਾਈਪ ਕਰੋ</string>
+    <string name="backspace_trackpad">ਬੈਕਸਪੇਸ ਕੁੰਜੀ ਟ੍ਰੈਕਪੈਡ</string>
+    <string name="backspace_trackpad_summary">ਸ਼ਬਦ ਮਿਟਾਉਣ ਲਈ ਬੈਕਸਪੇਸ ਕੁੰਜੀ \'ਤੇ ਸਵਾਈਪ ਕਰੋ</string>
+    <string name="show_longpress_hints">ਲੰਬੀ ਦਬਾਈ ਕੁੰਜੀ ਸੰਕੇਤ ਦਿਖਾਓ</string>
+    <string name="show_longpress_hints_summary">ਸਪੋਰਟ ਕੀਤੀਆਂ ਕੁੰਜੀਆਂ ਲਈ ਲੰਬੀ ਦਬਾਈ ਸੰਕੇਤ ਦਿਖਾਉਂਦਾ ਹੈ</string>
+    <string name="show_emoji_key">ਇਮੋਜੀ ਕੁੰਜੀ ਦਿਖਾਓ</string>
+    <string name="show_emoji_key_summary">ਇਮੋਜੀ ਕੁੰਜੀ ਹਮੇਸ਼ਾ ਦਿਖਾਓ। ਇਹ ਵਿਕਲਪ ਚਾਲੂ ਹੋਣ \'ਤੇ ਭਾਸ਼ਾ ਬਦਲਣ ਵਾਲੀ ਕੁੰਜੀ ਨਹੀਂ ਦਿਖਾਈ ਜਾ ਸਕਦੀ</string>
+    <string name="enable_split_keyboard_summary">ਸਿਰਫ਼ ਲੈਂਡਸਕੇਪ ਵਿੱਚ</string>
+    <string name="split_keyboard_duplicate_keys">ਵਿਚਕਾਰਲੀਆਂ ਕੁੰਜੀਆਂ ਦੋਵੇਂ ਹਿੱਸਿਆਂ ਵਿੱਚ ਦੁਹਰਾਓ</string>
+    <string name="split_keyboard_duplicate_keys_summary">ਦੋਵੇਂ ਹਿੱਸਿਆਂ ਦੇ ਵਿਚਕਾਰ ਨੇੜੇ ਦੀਆਂ ਕੁੰਜੀਆਂ ਦਿਖਾਓ</string>
+    <string name="spoken_description_split_keyboard">ਕੀਬੋਰਡ ਵੰਡੋ</string>
+    <string name="spoken_description_merge_keyboard">ਕੀਬੋਰਡ ਮਿਲਾਓ</string>
+    <string name="spoken_description_float_keyboard">ਕੀਬੋਰਡ ਫਲੋਟ ਕਰੋ</string>
+    <string name="spoken_description_dock_keyboard">ਕੀਬੋਰਡ ਡੌਕ ਕਰੋ</string>
+    <string name="floating_keyboard_drag_handle">ਕੀਬੋਰਡ ਹਿਲਾਓ</string>
+    <string name="floating_keyboard_resize_handle">ਕੀਬੋਰਡ ਦਾ ਆਕਾਰ ਬਦਲੋ</string>
+    <string name="floating_keyboard_reset">"ਰੀਸੈੱਟ ਕਰੋ"</string>
+    <string name="floating_keyboard_hide">ਕੀਬੋਰਡ ਲੁਕਾਓ</string>
+    <string name="floating_keyboard_switch_ime">"ਇਨਪੁੱਟ ਵਿਧੀ ਨੂੰ ਸਵਿੱਚ ਕਰੋ"</string>
+</resources>

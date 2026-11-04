@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF వ్యూయర్</string>
+    <string name="find_in_page">పేజీలో వెతకండి</string>
+    <string name="share">"షేర్ చేయండి"</string>
+    <string name="open_with">దీంతో తెరువు…</string>
+    <string name="download">"డౌన్‌లోడ్ చేయి"</string>
+    <string name="pdf_document">PDF డాక్యుమెంట్</string>
+    <string name="print">"ప్రింట్ చేయండి"</string>
+    <string name="download_successful">డౌన్‌లోడ్ విజయవంతమైంది</string>
+    <string name="download_error">ఫైల్‌ను డౌన్‌లోడ్ చేస్తున్నప్పుడు లోపం ఏర్పడింది</string>
+</resources>

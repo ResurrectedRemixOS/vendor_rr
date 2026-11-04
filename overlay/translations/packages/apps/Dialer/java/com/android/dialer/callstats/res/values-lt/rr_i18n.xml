@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hour">
+        <item quantity="one">%d val.</item>
+        <item quantity="few">%d val.</item>
+        <item quantity="many">%d val.</item>
+        <item quantity="other">%d val.</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="one">%d min.</item>
+        <item quantity="few">%d min.</item>
+        <item quantity="many">%d min.</item>
+        <item quantity="other">%d min.</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="one">%d s.</item>
+        <item quantity="few">%d s.</item>
+        <item quantity="many">%d s.</item>
+        <item quantity="other">%d s.</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="one">%d skambutis</item>
+        <item quantity="few">%d skambučiai</item>
+        <item quantity="many">%d skambučio</item>
+        <item quantity="other">%d skambučių</item>
+    </plurals>
+    <string name="call_stats_detail_title">Kontaktų statistikos išsami informacija</string>
+    <string name="call_stats_incoming">Gaunami: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Išeinami: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Praleisti: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Blokuoti: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Iš viso: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Iš viso: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"Pradžios data"</string>
+    <string name="call_stats_filter_to">"Pabaigos data"</string>
+    <string name="call_stats_filter_picker_title">Filtruoti laikotarpį</string>
+    <string name="date_quick_selection">Greitasis pasirinkimas</string>
+    <string name="date_qs_currentmonth">Einamasis mėnuo</string>
+    <string name="date_qs_currentquarter">Einamasis ketvirtis</string>
+    <string name="date_qs_currentyear">Einamieji metai</string>
+    <string name="date_qs_lastweek">"Praėjusi savaitė"</string>
+    <string name="date_qs_lastmonth">"Praėjęs mėnuo"</string>
+    <string name="date_qs_lastquarter">Praėjęs ketvirtis</string>
+    <string name="date_qs_lastyear">"Praėję metai"</string>
+    <string name="call_stats_date_filter">Koreguoti laikotarpį</string>
+    <string name="call_stats_reset_filter">Atstatyti laikotarpį</string>
+    <string name="call_stats_sort_by_duration">Rikiuoti pagal skambučių trukmę</string>
+    <string name="call_stats_sort_by_count">Rikiuoti pagal skambučių skaičių</string>
+    <string name="call_stats_title_for_number">Šis numeris</string>
+    <string name="call_stats_title_of_total">Iš viso</string>
+    <string name="call_stats_title_durations">Skambučių trukmė</string>
+    <string name="call_stats_title_count">Skambučių skaičius</string>
+    <string name="call_stats_title_average_duration">Vidutinė skambučio trukmė</string>
+    <string name="recent_calls_no_items_in_range">Jūsų skambučių žurnale pasirinktame laikotarpyje skambučių nėra.</string>
+</resources>

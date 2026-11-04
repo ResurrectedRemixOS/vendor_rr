@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX-ը Ձեր լռելյայն էֆեկտների կառավարման վահանակը չէ։</string>
+    <string name="snack_bar_not_default_set">"Նշել որպես կանխադրված"</string>
+    <string name="snack_bar_not_default_not_now">"Ոչ հիմա"</string>
+    <string name="normal">Նորմալ</string>
+    <string name="classical">"Դասական"</string>
+    <string name="dance">"Պարային"</string>
+    <string name="flat">Հարթ</string>
+    <string name="folk">"Ֆոլկ"</string>
+    <string name="heavy_metal">"Հևի մետալ"</string>
+    <string name="hip_hop">"Հիփ հոփ"</string>
+    <string name="electronic">Էլեկտրոնային</string>
+    <string name="small_speakers">Փոքր բարձրախոսներ</string>
+    <string name="multimedia">Մուլտիմեդիա</string>
+    <string name="custom">Հատուկ</string>
+    <string name="custom_n">Հատուկ <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">Էֆեկտը հասանելի չէ բարձրախոսի ռեժիմում։</string>
+    <string name="device_headset">"Ականջակալ"</string>
+    <string name="device_speaker">"Բարձրախոս"</string>
+    <string name="device_line_out">Գծային ելք</string>
+    <string name="reverb">Ռեվերբ</string>
+    <string name="devices">"Սարքեր"</string>
+    <string name="virtualizer">Վիրտուալիզատոր</string>
+    <string name="bass">Բաս</string>
+    <string name="rename">"Վերանվանել"</string>
+    <string name="remove_custom_preset_warning_message">Համոզվա՞ծ եք, որ ցանկանում եք հեռացնել %1$s-ը։</string>
+    <string name="picker_title">Երաժշտական էֆեկտների կառավարման վահանակ</string>
+</resources>

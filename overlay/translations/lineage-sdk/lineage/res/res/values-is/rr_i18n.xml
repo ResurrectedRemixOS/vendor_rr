@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">Hleðsluhraði</string>
+    <string name="charging_speed_slow">"Hægt"</string>
+    <string name="charging_speed_fast">"Hratt"</string>
+    <string name="charging_speed_super_fast">Mjög hratt</string>
+    <string name="charging_control_notification_channel">Hleðslustýring</string>
+    <string name="charging_control_notification_title">Hleðslustýring</string>
+    <string name="charging_control_notification_cancel_once">"Hætta við"</string>
+    <string name="charging_control_notification_content_limit">Rafhlaðan verður hlaðin í %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">Rafhlaðan er hlaðin í %1$d%%</string>
+    <string name="charging_control_notification_content_target">Rafhlaðan verður fullhlaðin kl. %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Rafhlaðan er hlaðin</string>
+</resources>

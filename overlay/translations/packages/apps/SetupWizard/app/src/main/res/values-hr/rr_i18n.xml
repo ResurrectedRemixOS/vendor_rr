@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Odustani"</string>
+    <string name="finish">Završi</string>
+    <string name="setup_welcome_message">Dobrodošli u <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Postavi svoj radni profil</string>
+    <string name="accessibility_settings">"Postavke dostupnosti"</string>
+    <string name="device_info">"Informacije o uređaju"</string>
+    <string name="device_information">"Informacije uređaja"</string>
+    <string name="device_info_serial">"Serijski broj"</string>
+    <string name="setup_euicc">Postavi eSIM</string>
+    <string name="esim_support_summary">Postavi eSIM ili umetni SIM karticu. Za umetanje SIM kartice pročitaj upute koje su isporučene uz uređaj.</string>
+    <string name="sim_missing_skip_title">Preskočiti postavljanje SIM-a?</string>
+    <string name="sim_missing_skip_message">Ako preskočiš ovaj korak, nećeš biti povezan s mobilnom mrežom dok ne postaviš SIM u Postavkama.</string>
+    <string name="setup_datetime_section_date">"Datum"</string>
+    <string name="setup_datetime_section_time">"Vrijeme"</string>
+    <string name="setup_date_format">"Formatiraj"</string>
+    <string name="date_format_day">Dan</string>
+    <string name="date_format_month">"Mjesec"</string>
+    <string name="date_format_year">"Godina"</string>
+    <string name="setup_time_zone">"Vremenska zona"</string>
+    <string name="setup_24_hour_format">"Koristi 24-satni format"</string>
+    <string name="intro_restore_subtitle">Ako imaš sigurnosnu kopiju Seedvault iz <xliff:g id="name" example="LineageOS">%s</xliff:g> ili drugog operacijskog sustava, možeš je ovdje vratiti.</string>
+    <string name="location_summary">Odaberi kako tvoj uređaj upravlja lokacijom</string>
+    <string name="location_access_title">"Upotreba lokacije"</string>
+    <string name="location_agps_access_title">Poboljšana lokacija</string>
+    <string name="location_agps_access_summary">Kada je lokacija uključena, preuzmi podatke o pomoći satelita s interneta, što može znatno poboljšati brzinu pokretanja GPS-a.</string>
+    <string name="services_pp_explanation">Ove usluge rade za tebe kako bi proširile mogućnosti uređaja. Podaci će se koristiti u skladu s pravilima o privatnosti usluge <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Pravila o privatnosti možeš pročitati na drugom uređaju posjetom:</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> automatskim slanjem dijagnostičkih podataka i podataka o korištenju usluzi <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Ti se podaci ne mogu upotrijebiti za identifikaciju tebe, a pomažu timovima koji rade na vijeku trajanja baterije, performansama aplikacija i novim značajkama usluge <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">Doprinesi dijagnostičkim podacima</string>
+    <string name="setup_navigation">Navigacija</string>
+    <string name="navigation_summary">Odaberi željeni način navigacije</string>
+    <string name="gesture_navigation">"Navigacija pokretima"</string>
+    <string name="navbar_navigation">"Navigacija pomoću tri gumba"</string>
+    <string name="gesture_navigation_short">Geste</string>
+    <string name="hide_gesture_hint">Sakrij savjet za navigaciju gestama</string>
+    <string name="setup_theme">"Tema"</string>
+    <string name="theme_summary">Tamna tema koristi crnu pozadinu koja pomaže da baterija duže traje na nekim zaslonima</string>
+    <string name="dark">Tamno</string>
+    <string name="light">Svijetla</string>
+    <string name="pure_black_theme">Koristi čistu crnu pozadinu</string>
+    <string name="theme_preview">Pregled teme</string>
+    <string name="swipe_up_to_go_home">"Prijeđite prstom prema gore da biste otvorili početni zaslon"</string>
+    <string name="tap_home_to_go_home">Dodirni središnju ikonu navigacije za povratak na početni zaslon</string>
+    <string name="press_center_to_go_home">Pritisni središnji gumb za povratak na početni zaslon</string>
+</resources>

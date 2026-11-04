@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">የመሣሪያ መገልበጥ እርምጃ</string>
+    <string name="shake_action_title">የመሣሪያ መንቀጥቀጥ እርምጃ</string>
+    <string-array name="action_setting_entries">
+        <item>አሸልብ</item>
+        <item>"አሰናብት"</item>
+        <item>"ምንም"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">ማንቂያዎችና ሰዓት ቆጣሪዎች በመሮጥ ላይ</string>
+    <string name="alarm_missed_channel">ያመለጡ ማንቂያዎች</string>
+    <string name="alarm_snooze_channel">የተተኙ ማንቂያዎች</string>
+    <string name="alarm_upcoming_channel">የሚመጡ ማንቂያዎች</string>
+    <string name="stopwatch_channel">የሩጫ ሰዓት</string>
+    <string name="timer_channel">ሰዓት ቆጣሪ</string>
+    <string name="add_label">መለያ ያክሉ</string>
+    <string name="dialog_permissions_title">"ፈቃዶች"</string>
+    <string name="dialog_permissions_ask">እንደገና ጠይቅ</string>
+    <string name="dialog_permissions_dismiss">"አሰናብት"</string>
+    <string name="dialog_permissions_settings">"ቅንብሮች"</string>
+    <string name="dialog_permissions_power_off_alarm">ይህ ፈቃድ ከሌለ መሣሪያዎ ማንቂያ ለማሰማት በራሱ መብራት አይችልም</string>
+    <string name="dialog_permissions_no_permission">የሚያስፈልጉ ፈቃዶች ተከልክለዋል፤ ከቅንብሮች መተግበሪያ ያንቁዋቸው</string>
+    <string name="dialog_permissions_post_notifications">ይህ መተግበሪያ በማሳወቂያዎች ላይ ይመረኮዛል። ያለ እነሱ መሮጥ አይችልም!</string>
+    <string name="selected">"ተመርጧል"</string>
+    <string name="more_options">"ተጨማሪ አማራጮች"</string>
+    <string name="widget_choice_title">ዘይቤዎን ይምረጡ</string>
+    <string name="widget_name_transparent">ያልተደገፈ</string>
+    <string name="widget_name_solid">የተደገፈ</string>
+    <string name="night_mode_enabled_title">"ነቅቷል"</string>
+    <string name="night_mode_dnd_title">የአትረብሽ ሁኔታን ተከተል</string>
+    <string name="night_mode_dnd_summary">የሌሊት ሁነታ የአትረብሽ ሁኔታን ይከተላል</string>
+    <string name="show_ampm_title">የጠዋት/ከሰዓት አመልካች አሳይ</string>
+    <string name="bold_text_title">የሰዓት ጽሑፍን ደምቆ አሳይ</string>
+    <string name="night_mode_brightness_text_title">"ብሩህነት"</string>
+    <string name="clock_color_title">"ቀለም"</string>
+    <string-array name="clock_color_entries">
+        <item>"ነጭ"</item>
+        <item>"ቀይ"</item>
+        <item>"አረንጓዴ"</item>
+        <item>"ሰማያዊ"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"የማያ ገጽ ማቆያ"</string>
+    <string name="screensaver_preview">"ቅድመ-ዕይታ"</string>
+    <string name="screensaver_preview_summary">ማያ ገጽ ቆጣቢውን ወዲያውኑ ያስጀምራል</string>
+    <string name="screensaver_change_settings">"ቅንብሮች"</string>
+    <string name="screensaver_change_settings_summary">የሰዓት ማያ ገጽ ቆጣቢ ቅንብሮችን ይከፍታል</string>
+    <string name="screensaver_daydream_settings">ማያ ገጽ ቆጣቢን ይምረጡ/ያንቁ</string>
+    <string name="screensaver_daydream_settings_summary">ዋናዎቹን የማያ ገጽ ቆጣቢ ቅንብሮች ይከፍታል</string>
+</resources>

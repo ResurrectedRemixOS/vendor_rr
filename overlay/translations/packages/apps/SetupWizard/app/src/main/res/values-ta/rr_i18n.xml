@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"ரத்துசெய்"</string>
+    <string name="finish">முடிக்கவும்</string>
+    <string name="device_info">"சாதனத் தகவல்கள்"</string>
+    <string name="device_information">"சாதனத் தகவல்"</string>
+    <string name="device_info_serial">"வரிசை எண்"</string>
+    <string name="setup_euicc">eSIM ஐ அமை</string>
+    <string name="esim_support_summary">eSIM ஐ அமைக்கவும் அல்லது SIM கார்டைச் செருகவும். SIM கார்டைச் செருக, உங்கள் சாதனத்துடன் வந்த வழிமுறைகளைப் படிக்கவும்.</string>
+    <string name="sim_missing_skip_title">SIM அமைப்பைத் தவிர்க்கவா?</string>
+    <string name="sim_missing_skip_message">இந்தப் படியைத் தவிர்த்தால், அமைப்புகளில் SIM ஐ அமைக்கும் வரை மொபைல் நெட்வொர்க்குடன் இணைக்கப்பட மாட்டீர்கள்.</string>
+    <string name="setup_datetime_section_date">"தேதி"</string>
+    <string name="setup_datetime_section_time">"நேரம்"</string>
+    <string name="setup_date_format">"ஃபார்மேட் செய்"</string>
+    <string name="date_format_day">பகல்</string>
+    <string name="date_format_month">"மாதம்"</string>
+    <string name="date_format_year">"ஆண்டு"</string>
+    <string name="setup_time_zone">"நேர மண்டலம்"</string>
+    <string name="setup_24_hour_format">"24 மணிநேர வடிவத்தைப் பயன்படுத்து"</string>
+    <string name="location_summary">உங்கள் சாதனம் இருப்பிடத்தை எவ்வாறு நிர்வகிக்கிறது என்பதைத் தேர்ந்தெடுக்கவும்</string>
+    <string name="location_access_title">"இருப்பிடத்தைப் பயன்படுத்து"</string>
+    <string name="location_agps_access_title">மேம்படுத்தப்பட்ட இருப்பிடம்</string>
+    <string name="services_find_privacy_policy">தனியுரிமைக் கொள்கையை வேறொரு சாதனத்தில் இந்த முகவரிக்குச் சென்று படிக்கலாம்:</string>
+    <string name="services_metrics_title">கண்டறியும் தரவைப் பங்களி</string>
+    <string name="gesture_navigation_short">சைகை</string>
+    <string name="pure_black_theme">தூய கருப்பு பின்னணியைப் பயன்படுத்து</string>
+    <string name="theme_preview">தீம் முன்னோட்டம்</string>
+    <string name="swipe_up_to_go_home">"முகப்புக்குச் செல்ல மேல்நோக்கி ஸ்வைப் செய்யுங்கள்"</string>
+    <string name="tap_home_to_go_home">வீட்டிற்குச் செல்ல மையத்திலுள்ள வழிசெலுத்தல் ஐகானைத் தட்டவும்</string>
+    <string name="press_center_to_go_home">வீட்டிற்குச் செல்ல மையப் பொத்தானை அழுத்தவும்</string>
+</resources>

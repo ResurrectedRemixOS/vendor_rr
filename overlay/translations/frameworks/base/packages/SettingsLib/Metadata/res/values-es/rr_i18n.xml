@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Un valor booleano.</string>
+    <string name="any_int_type_description">Un valor entero.</string>
+    <string name="any_string_type_description">Un valor de cadena.</string>
+    <string name="display_id_type_description">Un identificador de pantalla del sistema (puede ser interno o externo según la configuración).</string>
+    <string name="installed_package_name_type_description">Cualquier paquete instalado en el dispositivo.</string>
+    <string name="int_in_range_type_description_from">Un entero mayor o igual que %1$d, con paso %2$d.</string>
+    <string name="int_in_range_type_description_to">Un entero menor o igual que %1$d, con paso %2$d.</string>
+    <string name="int_in_range_type_description_between">Un entero dentro del rango [%1$d, %2$d], con paso %3$d.</string>
+    <string name="time_of_day_type_description">Una hora del día en formato de 24 horas HH:mm.</string>
+    <string name="time_duration_type_description">Una duración expresada en número entero con precisión de segundos.</string>
+    <string name="sim_slot_id_type_description">Un ID de ranura SIM válido.</string>
+    <string name="subscription_id_type_description">Un ID de suscripción válido.</string>
+    <string name="wifi_ssid_type_description">El SSID de una red Wi-Fi.</string>
+</resources>

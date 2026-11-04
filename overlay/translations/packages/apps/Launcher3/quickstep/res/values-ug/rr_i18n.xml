@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hotseat_prediction_settings">تەڭشەكلەر</string>
+    <string name="back_gesture_tutorial_title">قايت</string>
+    <string name="gesture_tutorial_action_button_label">تامام</string>
+    <string name="gesture_tutorial_action_button_label_settings">تەڭشەكلەر</string>
+    <string name="gesture_tutorial_try_again">قايتا سىنا</string>
+    <string name="allset_hint">ئۈستىگە سىيرىلسا باش ئېكرانغا قايتىدۇ</string>
+    <string name="allset_hint_expressive">ئۈستىگە سىيرى</string>
+    <string name="action_share">ھەمبەھىر</string>
+    <string name="action_screenshot">ئېكراندىن تۇتۇلغان سۈرەت</string>
+    <string name="toast_split_select_app_cancel">ۋاز كەچ</string>
+    <string name="action_image_copy">كۆچۈر</string>
+    <string name="action_image_save">ساقلا</string>
+    <string name="taskbar_edu_done">تامام</string>
+    <string name="taskbar_button_a11y">قوشۇمچە ئىقتىدار</string>
+    <string name="taskbar_button_back">قايت</string>
+    <string name="taskbar_button_notifications">ئۇقتۇرۇشلار</string>
+    <string name="taskbar_button_more_options">تېخىمۇ كۆپ تاللانما</string>
+    <string name="taskbar_phone_a11y_title">يولباشچى بالداق</string>
+    <string name="bubble_bar_action_move_left">سولغا يۆتكە</string>
+    <string name="bubble_bar_action_move_right">ئوڭغا يۆتكە</string>
+    <string name="ambientcue_first_time_edu_icon_description">سىنبەلگە</string>
+</resources>

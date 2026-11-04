@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_hu_ZZ">హంగేరియన్ (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">మెటీరియల్ - సిస్టమ్ సెట్టింగ్స్‌ను అనుసరించు</string>
+    <string name="prefs_keyboard_height_scale">కీబోర్డ్ ఎత్తు స్కేల్</string>
+    <string name="number_row">నంబర్ వరుస</string>
+    <string name="number_row_summary">4 వరుసల కీలు ఉన్న అన్ని లేఅవుట్‌ల కోసం ఎల్లప్పుడూ నంబర్ వరుసను చూపు</string>
+    <string name="number_row_password">పాస్‌వర్డ్‌ల కోసం నంబర్ వరుస</string>
+    <string name="number_row_password_summary">పాస్‌వర్డ్ ఇన్‌పుట్ కోసం 4 వరుసల కీలు ఉన్న అన్ని లేఅవుట్‌ల కోసం ఎల్లప్పుడూ నంబర్ వరుసను చూపు</string>
+    <string name="space_trackpad">స్పేస్ బార్ ట్రాక్‌ప్యాడ్</string>
+    <string name="space_trackpad_summary">కర్సర్‌ను కదిలించడానికి స్పేస్ బార్‌పై స్వైప్ చేయండి</string>
+    <string name="backspace_trackpad">బ్యాక్‌స్పేస్ కీ ట్రాక్‌ప్యాడ్</string>
+    <string name="backspace_trackpad_summary">పదాలను తొలగించడానికి బ్యాక్‌స్పేస్ కీపై స్వైప్ చేయండి</string>
+    <string name="show_longpress_hints">లాంగ్-ప్రెస్ కీ సూచనలను చూపు</string>
+    <string name="show_longpress_hints_summary">మద్దతు ఉన్న కీల కోసం లాంగ్-ప్రెస్ సూచనలను చూపుతుంది</string>
+    <string name="show_emoji_key">ఎమోజి కీని చూపు</string>
+    <string name="show_emoji_key_summary">ఎమోజి కీని ఎల్లప్పుడూ చూపు. ఈ ఎంపిక ఎనేబుల్ చేసినప్పుడు, భాష మార్చే కీని చూపలేరు.</string>
+    <string name="enable_split_keyboard_summary">ల్యాండ్‌స్కేప్‌లో మాత్రమే</string>
+    <string name="split_keyboard_duplicate_keys">మధ్య కీలను నకిలీ చేయి</string>
+    <string name="split_keyboard_duplicate_keys_summary">రెండు భాగాలలోనూ మధ్యకు దగ్గరగా ఉన్న కీలను చూపు</string>
+    <string name="spoken_description_split_keyboard">కీబోర్డ్‌ను విభజించు</string>
+    <string name="spoken_description_merge_keyboard">కీబోర్డ్‌ను విలీనం చేయి</string>
+    <string name="spoken_description_float_keyboard">కీబోర్డ్‌ను తేలియాడేలా చేయి</string>
+    <string name="spoken_description_dock_keyboard">కీబోర్డ్‌ను డాక్ చేయి</string>
+    <string name="floating_keyboard_drag_handle">కీబోర్డ్‌ను తరలించు</string>
+    <string name="floating_keyboard_resize_handle">కీబోర్డ్ పరిమాణాన్ని మార్చు</string>
+    <string name="floating_keyboard_reset">"రీసెట్ చేయండి"</string>
+    <string name="floating_keyboard_hide">కీబోర్డ్‌ను దాచు</string>
+    <string name="floating_keyboard_switch_ime">"ఇన్‌పుట్ విధానాన్ని మార్చండి"</string>
+</resources>

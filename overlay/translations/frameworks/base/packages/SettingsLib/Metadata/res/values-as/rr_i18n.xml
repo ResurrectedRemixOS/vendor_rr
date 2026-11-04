@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">এটা boolean মান।</string>
+    <string name="any_int_type_description">এটা integer মান।</string>
+    <string name="any_string_type_description">এটা string মান।</string>
+    <string name="display_id_type_description">এটা প্ৰদৰ্শন চিনাক্তকাৰী (কনফিগাৰেশ্বনৰ ওপৰত ভিত্তি কৰি আভ্যন্তৰীণ বা বাহ্যিক হ\'ব পাৰে)।</string>
+    <string name="installed_package_name_type_description">ডিভাইচত ইনষ্টল কৰা যিকোনো পেকেজ।</string>
+    <string name="int_in_range_type_description_from">%1$d বা তাতকৈ বেছি এটা integer, %2$d স্তৰত।</string>
+    <string name="int_in_range_type_description_to">%1$d বা তাতকৈ কম এটা integer, %2$d স্তৰত।</string>
+    <string name="int_in_range_type_description_between">এটা integer, %1$d আৰু %2$d ৰ পৰিসীমাত, %3$d স্তৰত।</string>
+    <string name="time_of_day_type_description">24-ঘণ্টীয়া HH:mm ফৰ্মেটত দিয়া দিনৰ এটা সময়।</string>
+    <string name="time_duration_type_description">ছেকেণ্ডৰ নিৰ্ভুলতাৰে integer হিচাপে প্ৰকাশ কৰা এটা সময়কাল।</string>
+    <string name="sim_slot_id_type_description">এটা বৈধ SIM স্লট ID।</string>
+    <string name="subscription_id_type_description">এটা বৈধ subscription ID।</string>
+    <string name="wifi_ssid_type_description">এটা Wi-Fi নেটৱৰ্কৰ SSID।</string>
+</resources>

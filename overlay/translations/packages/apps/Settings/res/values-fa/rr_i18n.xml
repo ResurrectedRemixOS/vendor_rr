@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>۱۲۸ کیلوبیت بر ثانیه</item>
+        <item>۲۵۶ کیلوبیت بر ثانیه</item>
+        <item>۱ مگابیت بر ثانیه</item>
+        <item>۵ مگابیت بر ثانیه</item>
+        <item>۱۵ مگابیت بر ثانیه</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"پیش‌فرض"</item>
+        <item>سلسیوس</item>
+        <item>فارنهایت</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"پیش‌فرض"</item>
+        <item>یک‌شنبه</item>
+        <item>دوشنبه</item>
+        <item>سه‌شنبه</item>
+        <item>چهارشنبه</item>
+        <item>پنج‌شنبه</item>
+        <item>جمعه</item>
+        <item>شنبه</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"پیش‌فرض"</item>
+        <item>متریک</item>
+        <item>سیستم آمریکا</item>
+        <item>سیستم انگلیس</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"نامشخص"</item>
+        <item>"عادی"</item>
+        <item>"مؤنث"</item>
+        <item>"مذکر"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>فرانسوی</item>
+        <item>اسپانیایی</item>
+        <item>ایتالیایی</item>
+        <item>آلمانی</item>
+    </string-array>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">ابزار SIM</string>
+    <string name="accessibility_screen_magnification_keyboard_summary"><![CDATA[ <b>برای بزرگ‌نمایی:</b><br/> {0,number,integer}. از میان‌بر استفاده کنید یا <xliff:g id="meta">%1$s</xliff:g> + <xliff:g id="alt">%2$s</xliff:g> + M را فشار دهید تا بزرگ‌نمایی شروع شود<br/> {1,number,integer}. برای حرکت در صفحه، <xliff:g id="meta">%1$s</xliff:g> + <xliff:g id="alt">%2$s</xliff:g> + کلیدهای جهت‌نما را فشار دهید<br/> {2,number,integer}. برای تنظیم بزرگ‌نمایی، <xliff:g id="meta">%1$s</xliff:g> + <xliff:g id="alt">%2$s</xliff:g> و «+» یا «-» را فشار دهید<br/> {3,number,integer}. از میان‌بر استفاده کنید یا <xliff:g id="meta">%1$s</xliff:g> + <xliff:g id="alt">%2$s</xliff:g> + M را فشار دهید تا بزرگ‌نمایی متوقف شود ]]></string>
+    <string name="accessibility_screen_magnification_keyboard_touch_summary"><![CDATA[ <b>صفحه‌کلید</b><br/> {0,number,integer}. از میان‌بر استفاده کنید یا <xliff:g id="meta">%1$s</xliff:g> + <xliff:g id="alt">%2$s</xliff:g> + M را فشار دهید تا بزرگ‌نمایی شروع شود<br/> {1,number,integer}. برای حرکت در صفحه، <xliff:g id="meta">%1$s</xliff:g> + <xliff:g id="alt">%2$s</xliff:g> + کلیدهای جهت‌نما را فشار دهید<br/> {2,number,integer}. برای تنظیم بزرگ‌نمایی، <xliff:g id="meta">%1$s</xliff:g> + <xliff:g id="alt">%2$s</xliff:g> و «+» یا «-» را فشار دهید<br/> {3,number,integer}. از میان‌بر استفاده کنید یا <xliff:g id="meta">%1$s</xliff:g> + <xliff:g id="alt">%2$s</xliff:g> + M را فشار دهید تا بزرگ‌نمایی متوقف شود<br/><br/> <b>صفحهٔ لمسی</b><br/> برای بزرگ‌نمایی:<br/> {0,number,integer}. از میان‌بر استفاده کنید تا بزرگ‌نمایی شروع شود<br/> {1,number,integer}. روی صفحه بزنید<br/> {2,number,integer}. با دو انگشت بکشید تا در صفحه حرکت کنید<br/> {3,number,integer}. با دو انگشت نیشگون بگیرید تا بزرگ‌نمایی تنظیم شود<br/> {4,number,integer}. از میان‌بر استفاده کنید تا بزرگ‌نمایی متوقف شود<br/><br/> برای بزرگ‌نمایی موقت:<br/> {0,number,integer}. مطمئن شوید نوع بزرگ‌نمایی روی تمام صفحه تنظیم شده است<br/> {1,number,integer}. از میان‌بر استفاده کنید تا بزرگ‌نمایی شروع شود<br/> {2,number,integer}. هر جای صفحه را لمس کنید و نگه دارید<br/> {3,number,integer}. با انگشت بکشید تا در صفحه حرکت کنید<br/> {4,number,integer}. انگشت را بردارید تا بزرگ‌نمایی متوقف شود ]]></string>
+    <string name="platform_compat_target_sdk_title">فعال برای targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">مدیر زمینهٔ شخصی</string>
+</resources>

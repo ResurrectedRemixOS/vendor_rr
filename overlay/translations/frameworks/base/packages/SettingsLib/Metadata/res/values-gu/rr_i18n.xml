@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">બુલિયન મૂલ્ય.</string>
+    <string name="any_int_type_description">પૂર્ણાંક મૂલ્ય.</string>
+    <string name="any_string_type_description">સ્ટ્રિંગ મૂલ્ય.</string>
+    <string name="display_id_type_description">સિસ્ટમ ડિસ્પ્લે ઓળખકર્તા (રૂપરેખાંકન મુજબ આંતરિક કે બાહ્ય હોઈ શકે છે).</string>
+    <string name="installed_package_name_type_description">ડિવાઇસ પર ઇન્સ્ટોલ કરેલું કોઈપણ પૅકેજ.</string>
+    <string name="int_in_range_type_description_from">%1$d અથવા તેનાથી વધુ પૂર્ણાંક, સ્ટેપ %2$d સાથે.</string>
+    <string name="int_in_range_type_description_to">%1$d અથવા તેનાથી ઓછો પૂર્ણાંક, સ્ટેપ %2$d સાથે.</string>
+    <string name="int_in_range_type_description_between">આપેલ શ્રેણી [%1$d, %2$d] માં પૂર્ણાંક, સ્ટેપ %3$d સાથે.</string>
+    <string name="time_of_day_type_description">24-કલાક ફોર્મેટ HH:mm માં નક્કી કરેલો દિવસનો સમય.</string>
+    <string name="time_duration_type_description">સેકન્ડની ચોકસાઈ સાથે પૂર્ણાંકમાં દર્શાવેલ સમયગાળો.</string>
+    <string name="sim_slot_id_type_description">માન્ય SIM સ્લોટ ID.</string>
+    <string name="subscription_id_type_description">માન્ય સબ્સ્ક્રિપ્શન ID.</string>
+    <string name="wifi_ssid_type_description">Wi-Fi નેટવર્કનો SSID.</string>
+</resources>

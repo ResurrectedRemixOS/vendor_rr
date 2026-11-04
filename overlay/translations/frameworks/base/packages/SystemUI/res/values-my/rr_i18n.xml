@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">"အလိုက်သင့် တောက်ပမှု"</string>
+    <string name="status_bar_icons_title">အခြေအနေပြ အိုင်ကွန်များ</string>
+    <string name="status_bar_firewall">Firewall</string>
+    <string name="battery_notification_channel_tv">ဘက်ထရီသတိပေးချက်</string>
+    <string name="screenshot_delete_label">"ဖျက်ရန်"</string>
+    <string name="screenshot_delete_description">ဖန်သားပြင်ပုံကို ဖျက်ရန်</string>
+    <string name="screenrecord_lowquality_label">အရည်အသွေးနိမ့်ရန်</string>
+    <string name="screenrecord_lowquality_summary">ဖိုင်အရွယ်အစား သေးငယ်စေရန်</string>
+    <string name="screenrecord_longer_timeout_switch_label">ဖိုင်အရွယ်အစား ကန့်သတ်ချက် ပိုကြီးရန်</string>
+    <string name="screenrecord_longer_timeout_switch_summary">ရိုက်ကူးမှုအရွယ်အစားကို 15 GB ဖြင့် ကန့်သတ်ရန်</string>
+    <string name="screenrecord_skip_time_label">timer ကျော်ရန်</string>
+    <string name="screenrecord_skip_time_summary">၃ စက္ကန့်စောင့်ချိန်ကို ဖယ်ရှားရန်</string>
+    <string name="screenrecord_hevc_switch_label">HEVC encoding</string>
+    <string name="screenrecord_hevc_switch_summary">ပိုထိရောက်သော HEVC encoder ကို သုံးရန်</string>
+    <string name="zen_alarm_warning_indef">"သင်၏ နောက်ထပ် <xliff:g id="WHEN">%1$s</xliff:g> နှိုးစက် မတိုင်မီ ၎င်းကိုမပိတ်လျှင် ကြားမည်မဟုတ်ပါ"</string>
+</resources>

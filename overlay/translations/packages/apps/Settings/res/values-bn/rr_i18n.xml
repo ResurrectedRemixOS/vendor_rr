@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ডিফল্ট"</item>
+        <item>সেলসিয়াস</item>
+        <item>ফারেনহাইট</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ডিফল্ট"</item>
+        <item>রবি</item>
+        <item>সোম</item>
+        <item>মঙ্গল</item>
+        <item>বুধ</item>
+        <item>বৃহ</item>
+        <item>শুক্র</item>
+        <item>শনি</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ডিফল্ট"</item>
+        <item>মেট্রিক</item>
+        <item>US পদ্ধতি</item>
+        <item>UK পদ্ধতি</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"নির্দিষ্টভাবে উল্লেখ করা নেই"</item>
+        <item>"নিরপেক্ষ"</item>
+        <item>"স্ত্রী"</item>
+        <item>"পুং"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>ফরাসি</item>
+        <item>স্প্যানিশ</item>
+        <item>ইতালীয়</item>
+        <item>জার্মান</item>
+    </string-array>
+    <string name="backup_transport_setting_label">ব্যাক-আপ প্রদানকারী পরিবর্তন করুন</string>
+    <string name="backup_transport_title">ব্যাক-আপ প্রদানকারী বেছে নিন</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {ডেভেলপার সেটিংস চালু করতে আপনি আর # ধাপ দূরে।} other {ডেভেলপার সেটিংস চালু করতে আপনি আর # ধাপ দূরে।} }</string>
+    <string name="status_bar_double_tap_to_sleep_title">স্লিপ মোডে পাঠাতে ট্যাপ করুন</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ডিসপ্লে বন্ধ করতে স্ট্যাটাস বার বা লক স্ক্রিনে দুবার ট্যাপ করুন</string>
+    <string name="high_touch_polling_rate_title">উচ্চ টাচ পোলিং রেট</string>
+    <string name="high_touch_polling_rate_summary">টাচস্ক্রিনের পোলিং রেট বাড়ান</string>
+    <string name="tethering_allow_vpn_upstreams_title">সংযুক্ত ডিভাইসের জন্য VPN ব্যবহার করুন</string>
+    <string name="tethering_allow_vpn_upstreams_summary">এই ডিভাইস VPN ব্যবহার করলে হটস্পটের সাথে সংযুক্ত সব ডিভাইসও একই VPN ব্যবহার করবে</string>
+    <string name="lockpattern_settings_enable_error_path_title">প্যাটার্ন ত্রুটি দেখান</string>
+    <string name="lockpattern_settings_enable_dots_title">প্যাটার্ন বিন্দু দেখান</string>
+    <string name="max_refresh_rate_title">সর্বোচ্চ রিফ্রেশ রেট</string>
+    <string name="show_navbar_hint_title">নেভিগেশন ইঙ্গিত</string>
+    <string name="show_navbar_hint_summary">স্ক্রিনের নিচে নেভিগেশন ইঙ্গিত বার দেখান</string>
+    <string name="auto_brightness_one_shot_title">একবারের স্বয়ংক্রিয় উজ্জ্বলতা</string>
+    <string name="auto_brightness_one_shot_summary">স্ক্রিন চালু হওয়ার মুহূর্তেই শুধু উজ্জ্বলতা সমন্বয় হবে</string>
+    <string name="data_usage_app_restrict_all">নেটওয়ার্ক অ্যাক্সেসের অনুমতি দিন</string>
+    <string name="data_usage_app_restrict_all_summary">নেটওয়ার্ক ব্যবহার চালু করুন</string>
+    <string name="data_usage_app_restrict_wifi">"ওয়াই-ফাই ডেটা"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi ডেটা ব্যবহার চালু করুন</string>
+    <string name="proximity_wake_summary">স্ক্রিন জাগানোর আগে প্রক্সিমিটি সেন্সর পরীক্ষা করুন</string>
+    <string name="touchscreen_hovering_title">টাচস্ক্রিন হোভার</string>
+    <string name="touchscreen_hovering_summary">ওয়েব ব্রাউজার, রিমোট ডেস্কটপ ইত্যাদিতে মাউসের মতো স্ক্রিনের ওপর হোভার করতে দেয়</string>
+    <string name="storage_warning_internal">সতর্কতা: এই বিকল্প ঠিকমতো কাজ নাও করতে পারে বা ডেটা হারাতে পারে, তাই এটি সুপারিশ করা হয় না!</string>
+    <string name="assisted_gps">Assisted GPS ব্যবহার করুন</string>
+    <string name="assisted_gps_summary">ইন্টারনেট থেকে স্যাটেলাইট সহায়তা ডেটা ডাউনলোড করুন, যা GPS চালু হওয়ার গতি অনেক বাড়াতে পারে। জরুরি কলের জন্য Assisted GPS সবসময় অনুমোদিত।</string>
+    <string name="battery_technology">প্রযুক্তি</string>
+    <string name="battery_health">"হেল্থ"</string>
+    <string name="battery_health_good">"ভাল"</string>
+    <string name="battery_health_overheat">"ওভারহিট"</string>
+    <string name="battery_health_dead">"ডেড"</string>
+    <string name="battery_health_over_voltage">"ওভার ভোল্টেজ"</string>
+    <string name="battery_health_unspecified_failure">অনির্দিষ্ট ব্যর্থতা</string>
+    <string name="battery_health_cold">"কোল্ড"</string>
+    <string name="battery_health_unknown">"অজানা"</string>
+    <string name="battery_temperature">"তাপমাত্রা"</string>
+    <string name="battery_voltage">ভোল্টেজ</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">ডিজাইন ক্ষমতা</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">সর্বোচ্চ ক্ষমতা</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">সেট আপের সময় ফোন ভাঁজ করুন</string>
+    <string name="face_enrolling_close_to_continue_description">Face Unlock সেট আপ বা ব্যবহার করতে ফোনটি ভাঁজ করা থাকতে হবে</string>
+    <string name="face_enrolling_do_it_later">"এটি পরে করুন"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM টুলকিট</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> হলে সক্রিয়</string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="assistant_label">ياردەمچى</string>
+    <string name="assistant_utterance">ياردەمچى</string>
+    <string name="lockscreen_label">قۇلۇپ ئېكران</string>
+    <string name="notifications_label">ئۇقتۇرۇشلار</string>
+    <string name="screenshot_label">ئېكراندىن تۇتۇلغان سۈرەت</string>
+    <string name="pref_help_title">ياردەم</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">Wakati wa simu</string>
+    <string name="incall_enable_dnd_title">Washa Usinisumbue wakati wa simu</string>
+    <string name="incall_vibrate_outgoing_title">Tetema unapojibu</string>
+    <string name="incall_vibrate_call_waiting_title">Tetema simu ya pili inapoingia</string>
+    <string name="incall_vibrate_hangup_title">Tetema unapokata simu</string>
+    <string name="incall_vibrate_45_title">Tetema kila dakika</string>
+    <string name="incall_vibrate_45_summary">Hutetema sekunde ya 45 ya kila dakika wakati wa simu za kutoka</string>
+    <string name="incall_dnd_dialog_message">Ili kuwezesha Usinisumbue, programu ya Simu inahitaji ruhusa ya kudhibiti hali ya Usinisumbue.\nTafadhali iruhusu.</string>
+    <string name="allow">"Ruhusu"</string>
+    <string name="deny">"Kataa"</string>
+    <string name="call_recording_category_title">Kurekodi simu</string>
+    <string name="call_recording_format">Muundo wa sauti</string>
+    <string name="call_via">Piga kupitia</string>
+    <string name="call_via_dialog_title">Piga kupitia…</string>
+    <string name="call_log_stats_title">Takwimu</string>
+    <string name="action_menu_helplines">Nambari za msaada</string>
+    <string name="default_dialer_text">Lazima uweke Dialer kama programu chaguo-msingi ya simu ili kuitumia.</string>
+    <string name="default_dialer_action">"Weka iwe chaguomsingi"</string>
+</resources>

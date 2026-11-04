@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ringtone_default">Tonu de mutida predefinidu</string>
+    <string name="notification_sound_default">Sonu de notìfica predefinidu</string>
+    <string name="add_alarm_text">Agiunghe isvèllia</string>
+    <string name="delete_ringtone_text">Cantzella</string>
+</resources>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kbit/s</item>
+        <item>256 kbit/s</item>
+        <item>1 Mbit/s</item>
+        <item>5 Mbit/s</item>
+        <item>15 Mbit/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"oletus"</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"oletus"</item>
+        <item>su</item>
+        <item>ma</item>
+        <item>ti</item>
+        <item>ke</item>
+        <item>to</item>
+        <item>pe</item>
+        <item>la</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"oletus"</item>
+        <item>metrinen</item>
+        <item>USA-järjestelmä</item>
+        <item>UK-järjestelmä</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Ei määritetty"</item>
+        <item>"Neutraali"</item>
+        <item>"Feminiini"</item>
+        <item>"Maskuliini"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Olet nyt # askeleen päässä kehittäjäasetusten käyttöönotosta.} other {Olet nyt # askeleen päässä kehittäjäasetusten käyttöönotosta.} }</string>
+    <string name="high_touch_polling_rate_title">Suuri kosketusnäytön päivitysnopeus</string>
+    <string name="high_touch_polling_rate_summary">Lisää kosketusnäytön päivitysnopeutta</string>
+    <string name="tethering_allow_vpn_upstreams_title">Käytä VPN:ää yhdistetyille laitteille</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Kun tämä laite käyttää VPN:ää, kaikki yhteyspisteeseen yhdistetyt laitteet käyttävät samaa VPN:ää</string>
+    <string name="max_refresh_rate_title">Korkein virkistystaajuus</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Etsi sormenjälkitunnistin tabletin etupuolelta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Etsi sormenjälkitunnistin laitteesi etupuolelta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Etsi sormenjälkitunnistin puhelimesi etupuolelta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Etsi sormenjälkitunnistin tabletin takapuolelta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Etsi sormenjälkitunnistin laitteesi takapuolelta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Etsi sormenjälkitunnistin puhelimesi takapuolelta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Etsi sormenjälkitunnistin tabletin sivusta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Etsi sormenjälkitunnistin laitteesi sivusta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Etsi sormenjälkitunnistin puhelimesi sivusta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Kosketa tabletin etupuolen tunnistinta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Kosketa laitteesi etupuolen tunnistinta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Kosketa puhelimesi etupuolen tunnistinta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Kosketa tabletin takapuolen tunnistinta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Kosketa laitteesi takapuolen tunnistinta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Kosketa puhelimesi takapuolen tunnistinta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Kosketa tabletin sivun tunnistinta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Kosketa laitteesi sivun tunnistinta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Kosketa puhelimesi sivun tunnistinta.</string>
+    <string name="auto_brightness_one_shot_title">Kertakirkkaussäätö</string>
+    <string name="auto_brightness_one_shot_summary">Kirkkauden säätö tapahtuu vain sillä hetkellä, kun näyttö kytketään päälle</string>
+    <string name="storage_warning_internal">Varoitus: tämä asetus ei ehkä toimi kunnolla tai voi aiheuttaa tietojen menetyksen, eikä sitä siksi suositella.</string>
+    <string name="assisted_gps">Käytä avustettua GPS:ää</string>
+    <string name="assisted_gps_summary">Lataa satelliittien avustusdataa internetistä, mikä voi parantaa GPS:n käynnistymistä huomattavasti. Hätäpuheluissa avustettu GPS on aina sallittu.</string>
+    <string name="battery_technology">Tekniikka</string>
+    <string name="battery_health">"Kunto"</string>
+    <string name="battery_health_good">"Hyvä"</string>
+    <string name="battery_health_overheat">"Ylikuumentunut"</string>
+    <string name="battery_health_dead">"Tyhjä"</string>
+    <string name="battery_health_over_voltage">"Ylijännite"</string>
+    <string name="battery_health_unspecified_failure">Määrittämätön virhe</string>
+    <string name="battery_health_cold">"Kylmä"</string>
+    <string name="battery_health_unknown">"Tuntematon"</string>
+    <string name="battery_temperature">"Lämpötila"</string>
+    <string name="battery_voltage">Jännite</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Suunniteltu kapasiteetti</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Enimmäiskapasiteetti</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d %%)</string>
+    <string name="face_enrolling_close_to_continue">Taita puhelin asennuksen aikana</string>
+    <string name="face_enrolling_close_to_continue_description">Puhelin on taitettava, jotta kasvojentunnistusta voi määrittää tai käyttää</string>
+    <string name="face_enrolling_do_it_later">"Tee myöhemmin"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM-työkalupakki</string>
+    <string name="platform_compat_target_sdk_title">Käytössä targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Henkilökohtaisen kontekstin hallinta</string>
+</resources>

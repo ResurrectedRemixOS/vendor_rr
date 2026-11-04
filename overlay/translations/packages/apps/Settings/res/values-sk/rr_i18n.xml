@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kb/s</item>
+        <item>256 kb/s</item>
+        <item>1 Mb/s</item>
+        <item>5 Mb/s</item>
+        <item>15 Mb/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"predvolené"</item>
+        <item>Celzius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"predvolené"</item>
+        <item>ne</item>
+        <item>po</item>
+        <item>ut</item>
+        <item>st</item>
+        <item>št</item>
+        <item>pi</item>
+        <item>so</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"predvolené"</item>
+        <item>metrický</item>
+        <item>americký systém</item>
+        <item>britský systém</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Nešpecifikované"</item>
+        <item>"Neutrálne"</item>
+        <item>"Ženský rod"</item>
+        <item>"Mužský rod"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Už ste o # krok od povolenia nastavení pre vývojárov.} one {Už ste o # krok od povolenia nastavení pre vývojárov.} few {Už ste o # kroky od povolenia nastavení pre vývojárov.} other {Už ste o # krokov od povolenia nastavení pre vývojárov.} }</string>
+    <string name="high_touch_polling_rate_title">Vysoká frekvencia dotykového snímania</string>
+    <string name="high_touch_polling_rate_summary">Zvýšiť frekvenciu snímania dotykovej obrazovky</string>
+    <string name="tethering_allow_vpn_upstreams_title">Použiť VPN pre pripojené zariadenia</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Keď zariadenie používa VPN, všetky zariadenia pripojené k hotspotu budú používať rovnakú VPN</string>
+    <string name="max_refresh_rate_title">Obnovovacia frekvencia displeju</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Nájdite snímač odtlačkov prstov na prednej strane tabletu.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Nájdite snímač odtlačkov prstov na prednej strane zariadenia.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Nájdite snímač odtlačkov prstov na prednej strane telefónu.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Nájdite snímač odtlačkov prstov na zadnej strane tabletu.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Nájdite snímač odtlačkov prstov na zadnej strane zariadenia.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Nájdite snímač odtlačkov prstov na zadnej strane telefónu.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Nájdite snímač odtlačkov prstov na boku tabletu.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Nájdite snímač odtlačkov prstov na boku zariadenia.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Nájdite snímač odtlačkov prstov na boku telefónu.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Dotknite sa snímača na prednej strane tabletu.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Dotknite sa snímača na prednej strane zariadenia.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Dotknite sa snímača na prednej strane telefónu.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Dotknite sa snímača na zadnej strane tabletu.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Dotknite sa snímača na zadnej strane zariadenia.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Dotknite sa snímača na zadnej strane telefónu.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Dotknite sa snímača na boku tabletu.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Dotknite sa snímača na boku zariadenia.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Dotknite sa snímača na boku telefónu.</string>
+    <string name="auto_brightness_one_shot_title">Jednorázový automatický jas</string>
+    <string name="auto_brightness_one_shot_summary">Úprava jasu sa vykoná iba vo chvíli, keď sa zapne obrazovka</string>
+    <string name="storage_warning_internal">Upozornenie: Táto možnosť nemusí fungovať správne alebo môže viesť k strate údajov, preto sa neodporúča!</string>
+    <string name="assisted_gps">Použiť asistovaný GPS</string>
+    <string name="assisted_gps_summary">Stiahnuť údaje o podpore satelitov z internetu, ktoré môžu výrazne zlepšiť spustenie GPS. Pri tiesňových volaniach je asistovaný GPS vždy povolený.</string>
+    <string name="battery_technology">Technológia</string>
+    <string name="battery_health">"Stav"</string>
+    <string name="battery_health_good">"Dobrý"</string>
+    <string name="battery_health_overheat">"Prehriata"</string>
+    <string name="battery_health_dead">"Vybitá"</string>
+    <string name="battery_health_over_voltage">"Prepätie"</string>
+    <string name="battery_health_unspecified_failure">Neznáme zlyhanie</string>
+    <string name="battery_health_cold">"Studená"</string>
+    <string name="battery_health_unknown">"Neznáme"</string>
+    <string name="battery_temperature">"Teplota"</string>
+    <string name="battery_voltage">Napätie</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Navrhovaná kapacita</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Maximálna kapacita</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d %%)</string>
+    <string name="face_enrolling_close_to_continue">Počas nastavovania zložte telefón</string>
+    <string name="face_enrolling_close_to_continue_description">Telefón musí byť zložený, aby ste mohli nastaviť alebo používať rozpoznávanie tváre</string>
+    <string name="face_enrolling_do_it_later">"Neskôr"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">Sada nástrojov SIM</string>
+    <string name="platform_compat_target_sdk_title">Povolené pre targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Správca osobného kontextu</string>
+</resources>

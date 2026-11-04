@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="permlab_sendSms">kirim sarta tempo talatah SMS</string>
+    <string name="permlab_recordAudio">rékam audio</string>
+    <string name="keyguard_accessibility_camera">Kaméra</string>
+    <string name="VideoView_error_button">Okéh</string>
+    <string name="ok">Okéh</string>
+    <string name="yes">Okéh</string>
+    <string name="force_close">Okéh</string>
+    <string name="dlg_ok">Okéh</string>
+    <string name="sync_binding_label">Singkronan</string>
+    <string name="action_menu_overflow_description">Opsi leuwih</string>
+    <string name="default_audio_route_name" product="default">Telepon</string>
+    <string name="media_route_chooser_extended_settings">Sétingan</string>
+    <string name="kg_invalid_sim_pin_hint">Ketikkeun PIN anu 4 nika 8 nomer.</string>
+    <string name="zen_mode_feature_name">Ulah ngaganggu</string>
+    <string name="floating_toolbar_open_overflow_description">Opsi leuwih</string>
+</resources>

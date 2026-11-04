@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bluetooth_hearing_device_input_routing_builtin_option" product="default">Mikrofonen på denne telefonen</string>
+    <string name="bluetooth_audio_routing_summary" product="default">Send lyd til høyreapparatet eller telefonhøgtalaren</string>
+    <string name="security_settings_face_enroll_introduction_message_unlock_disabled" product="default">Bruk andletet for å låsa opp telefonen eller godkjenna kjøp.\n\nMerk: Du kan ikkje bruka andletet for å låsa opp denne eininga. Ta kontakt med administratoren for organisasjonen din for meir informasjon.</string>
+    <string name="security_settings_face_enroll_introduction_message_setup" product="default">Bruk andletet for å låsa opp telefonen, godkjenna kjøp eller logga på appar</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body" product="default">Slett den noverande andletsmodellen for å setja opp andletslås på nytt.\n\nAndletsmodellen vert sletta for godt på ein trygg måte.\n\nEtter sletting må du bruka PIN-kode, mønster eller passord for å låsa opp telefonen eller stadfesta kven du er i appar.</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint" product="default">Slett den noverande andletsmodellen for å setja opp andletslås på nytt.\n\nAndletsmodellen vert sletta for godt på ein trygg måte.\n\nEtter sletting må du bruka fingeravtrykk, PIN-kode, mønster eller passord for å låsa opp telefonen eller stadfesta kven du er i appar.</string>
+    <string name="security_settings_face_settings_require_attention_details" product="default">For å låsa opp telefonen må auga dine vera opne</string>
+    <string name="security_settings_face_settings_remove_dialog_details" product="default">Andletsmodellen vert sletta for godt på ein trygg måte.\n\nEtter sletting må du bruka PIN-kode, mønster eller passord for å låsa opp telefonen eller stadfesta kven du er i appar.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_convenience" product="default">Andletsmodellen vert sletta for godt på ein trygg måte.\n\nEtter sletting må du bruka PIN-kode, mønster eller passord for å låsa opp telefonen.</string>
+    <string name="security_settings_face_remove_dialog_details_fingerprint" product="default">Andletsmodellen vert sletta for godt på ein trygg måte.\n\nEtter sletting må du bruka fingeravtrykk, PIN-kode, mønster eller passord for å låsa opp telefonen eller stadfesta kven du er i appar.</string>
+    <string name="security_settings_face_remove_dialog_details_fingerprint_conv" product="default">Andletsmodellen vert sletta for godt på ein trygg måte.\n\nEtter sletting må du bruka fingeravtrykk, PIN-kode, mønster eller passord for å låsa opp telefonen.</string>
+    <string name="security_settings_face_settings_context_subtitle" product="default">Bruk andletslås for å låsa opp telefonen</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Bruk fingeravtrykket ditt for å låsa opp telefonen eller godkjenna kjøp.\n\nMerk: Du kan ikkje bruka fingeravtrykk for å låsa opp denne eininga. Ta kontakt med administratoren din for meir informasjon.</string>
+    <string name="security_settings_remoteauth_enroll_introduction_message" product="default">Klokkelås er ein annan lettvint måte å låsa opp telefonen på, til dømes om fingrane dine er våte eller andletet ikkje vert gjenkjent.\n\nDu kan bruka klokka di for å låsa opp telefonen når du:</string>
+    <string name="security_settings_remoteauth_enroll_introduction_info_lock_open" product="default">Klokka må vera ulåst, på handleddet ditt og innan rekkevidd for denne telefonen. Du treng ikkje låsa opp klokka di på nytt så lenge ho sit på handleddet.</string>
+    <string name="security_settings_remoteauth_enroll_introduction_info_notifications" product="default">Når denne telefonen vert låst opp, får du eit varsel på klokka. Trykk på varselet for å låsa telefonen att dersom han vart låst opp utan at det var meininga.</string>
+    <string name="security_settings_remoteauth_enroll_finish_description" product="default">Du kan no bruka klokka di for å låsa opp telefonen når du sveiper opp på låseskjermen eller trykkjer på eit varsel</string>
+    <string name="security_settings_remoteauth_settings_description" product="default">Du kan bruka klokka di for å låsa opp telefonen når du sveiper opp på låseskjermen eller trykkjer på eit varsel</string>
+    <string name="security_settings_remoteauth_settings_info_footer" product="default">For å bruka klokkelås må klokka vera ulåst, på handleddet ditt, innan rekkevidd og kopla til denne telefonen. Dersom sambandet vert brote, må du låsa opp telefonen før du kan bruka klokkelås att.\n\nHugs på:\nDu kan berre ha éi klokke slått på om gongen. For å leggja til ei ny klokke må du først sletta den noverande.</string>
+    <string name="biometric_settings_intro_with_activeunlock" product="default">Når du set opp andletslås og fingeravtrykk, spør telefonen etter fingeravtrykk om du brukar maske eller det er for mørkt.\n\nKlokkelås er ein annan lettvint måte å låsa opp telefonen på, til dømes om fingrane dine er våte eller andletet ikkje vert gjenkjent.</string>
+    <string name="biometric_settings_intro_with_fingerprint" product="default">Klokkelås er ein annan lettvinn måte å låsa opp telefonen på, til dømes om fingeravtrykket ikkje vert gjenkjent.</string>
+    <string name="biometric_settings_intro_with_face" product="default">Klokkelås er ein annan lettvinn måte å låsa opp telefonen på, til dømes om andletet ikkje vert gjenkjent.</string>
+    <string name="biometric_settings_intro" product="default">Når du set opp andletslås og fingeravtrykk, spør telefonen etter fingeravtrykk om du brukar maske eller det er for mørkt</string>
+    <string name="biometric_settings_use_biometric_unlock_phone" product="default">Låsa opp telefonen</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message" product="default">Du har valt å bruka fingeravtrykk for å låsa opp telefonen. Om du hoppar over no, må du setja dette opp seinare. Oppsettet tek berre eit lite minutt.</string>
+    <string name="unlock_disable_frp_warning_content_pattern" product="default">"Eit mønster vernar telefonen din om du mistar han eller han vert stolen."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint" product="default">"Eit mønster vernar telefonen din om du mistar han eller han vert stolen.<xliff:g id="empty_line">\n\n</xliff:g>Dette slettar òg fingeravtrykksmodellen på eininga. Du kan ikkje lenger bruka fingeravtrykk for å stadfesta kven du er i appar."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face" product="default">"Eit mønster vernar telefonen din om du mistar han eller han vert stolen.<xliff:g id="empty_line">\n\n</xliff:g>Andletsmodellen din vert òg sletta for godt på ein trygg måte. Du kan ikkje lenger bruka andletet for å stadfesta kven du er i appar."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint" product="default">"Eit mønster vernar telefonen din om du mistar han eller han vert stolen.<xliff:g id="empty_line">\n\n</xliff:g>Dette slettar fingeravtrykksmodellen på eininga. Andletsmodellen din vert òg sletta for godt på ein trygg måte. Du kan ikkje lenger bruka andletet eller fingeravtrykk for å stadfesta kven du er i appar."</string>
+    <string name="unlock_disable_frp_warning_content_pin" product="default">"Ein PIN-kode vernar telefonen din om du mistar han eller han vert stolen."</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint" product="default">"Ein PIN-kode vernar telefonen din om du mistar han eller han vert stolen.<xliff:g id="empty_line">\n\n</xliff:g>Dette slettar òg fingeravtrykksmodellen på eininga. Du kan ikkje lenger bruka fingeravtrykk for å stadfesta kven du er i appar."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face" product="default">"Ein PIN-kode vernar telefonen din om du mistar han eller han vert stolen.<xliff:g id="empty_line">\n\n</xliff:g>Andletsmodellen din vert òg sletta for godt på ein trygg måte. Du kan ikkje lenger bruka andletet for å stadfesta kven du er i appar."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint" product="default">"Ein PIN-kode vernar telefonen din om du mistar han eller han vert stolen.<xliff:g id="empty_line">\n\n</xliff:g>Dette slettar fingeravtrykksmodellen på eininga. Andletsmodellen din vert òg sletta for godt på ein trygg måte. Du kan ikkje lenger bruka andletet eller fingeravtrykk for å stadfesta kven du er i appar."</string>
+    <string name="unlock_disable_frp_warning_content_password" product="default">"Eit passord vernar telefonen din om du mistar han eller han vert stolen."</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint" product="default">"Eit passord vernar telefonen din om du mistar han eller han vert stolen.<xliff:g id="empty_line">\n\n</xliff:g>Dette slettar òg fingeravtrykksmodellen på eininga. Du kan ikkje lenger bruka fingeravtrykk for å stadfesta kven du er i appar."</string>
+    <string name="unlock_disable_frp_warning_content_password_face" product="default">"Eit passord vernar telefonen din om du mistar han eller han vert stolen.<xliff:g id="empty_line">\n\n</xliff:g>Andletsmodellen din vert òg sletta for godt på ein trygg måte. Du kan ikkje lenger bruka andletet for å stadfesta kven du er i appar.\""</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint" product="default">"Eit passord vernar telefonen din om du mistar han eller han vert stolen.<xliff:g id="empty_line">\n\n</xliff:g>Dette slettar fingeravtrykksmodellen på eininga. Andletsmodellen din vert òg sletta for godt på ein trygg måte. Du kan ikkje lenger bruka andletet eller fingeravtrykk for å stadfesta kven du er i appar.\""</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message" product="tablet">Fingeravtrykkssensoren sit på av/på-knappen. Det er den flate knappen ved sida av den opphøgde volumknappen på kanten av nettbrettet.</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message" product="device">Fingeravtrykkssensoren sit på av/på-knappen. Det er den flate knappen ved sida av den opphøgde volumknappen på kanten av eininga.</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message" product="default">Fingeravtrykkssensoren sit på av/på-knappen. Det er den flate knappen ved sida av den opphøgde volumknappen på kanten av telefonen.</string>
+    <string name="suggested_lock_settings_title" product="default">Sikra telefonen din</string>
+    <string name="wifi_hidden_network_warning" product="default">Dersom ruter-namnet ikkje vert sendt ut, men du vil kopla til seinare, kan du setja nettverket som gøymt.\n\nDette kan vera ein tryggleiksrisiko fordi telefonen din då sender ut signal for å finna nettverket heile tida.\n\nÅ setja nettverket som gøymt endrar ikkje ruter-innstillingane.</string>
+    <string name="status_number" product="default">Telefonnummer</string>
+    <string name="storage_wizard_init_v2_internal_action" product="tablet">Formater</string>
+    <string name="storage_wizard_init_v2_internal_action" product="default">Formater</string>
+    <string name="storage_wizard_init_v2_internal_action" product="desktop">Formater</string>
+    <string name="main_clear_button_text" product="tablet">Sletta alt innhald</string>
+    <string name="main_clear_button_text" product="default">Sletta alt innhald</string>
+    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Alarmar</string>
+    <string name="really_remove_account_message" product="device">Fjernar du denne kontoen, vert alle meldingar, kontaktar og andre data for kontoen sletta frå eininga!</string>
+    <string name="really_remove_account_message" product="desktop">Fjernar du denne kontoen, vert alle meldingar, kontaktar og andre data for kontoen sletta frå eininga!</string>
+    <string name="audio_sharing_dialog_share_content" product="device">Musikk og video frå denne eininga vert spela av i begge hovudtelefonane</string>
+    <string name="audio_sharing_dialog_share_content" product="desktop">Musikk og video frå denne eininga vert spela av i begge hovudtelefonane</string>
+    <string name="top_intro_region_title" product="default">Regionen du vel, påverkar korleis telefonen viser tid, dato, temperatur med meir</string>
+    <string name="private_space_fingerprint_enroll_introduction_footer_message" product="default">Den private sona di kan verta låst opp utan at det er meininga, til dømes om nokon held telefonen din inntil fingeren din.</string>
+    <string name="private_space_face_enroll_introduction_info_looking" product="default">Om du ser på telefonen, kan den private sona verta låst opp sjølv om det ikkje er meininga. Sona kan òg verta låst opp av nokon som liknar mykje på deg, til dømes ein identisk tvilling, eller om nokon held eininga opp framfor andletet ditt.</string>
+    <string name="private_space_face_settings_footer" product="default">Bruk andletet ditt til å låsa opp den private sona.\n\nHugs:\nDu kan berre ha eitt andlet registrert om gongen. For å leggja til eit nytt andlet må du sletta det noverande.\n\nOm du ser på telefonen, kan han verta låst opp utan at det er meningen.\n\nDen private sona kan verta låst opp av andre om eininga vert halden opp framfor andletet ditt.\n\nDen private sona kan verta låst opp av nokon som liknar mykje på deg, til dømes ein identisk tvilling.</string>
+    <string name="private_space_delete_summary" product="default">Den private sona di vert sletta for godt frå eininga di. \n\nAlle appar i sona og tilhøyrande data vert òg sletta for godt frå den <b>interne lagringa</b> på telefonen.</string>
+    <string name="reset_private_space_delete_dialog" product="default">Dersom du har ei privat sone på eininga di, vert ho sletta for godt, og Google-kontoen som er knytt til sona, vert fjerna. \n\nAlle appar i sona di og tilhøyrande data vert òg sletta for godt frå den <b>interne lagringa</b> på telefonen.</string>
+    <string name="style_suggestion_title" product="default">Tilpass telefonen din</string>
+    <string name="storage_os_detail_dialog_system" product="default">Dette omfattar operativsystemet og filene som trengst for at telefonen skal køyra knirkefritt. For å verna desse filene har du ikkje tilgang til dei.</string>
+    <string name="activity_not_found" product="default">Appen er ikkje installert på telefonen din.</string>
+    <string name="notification_listener_security_warning_summary" product="default">Appen <xliff:g id="notification_listener_name">%1$s</xliff:g> vil kunna lesa alle varsel, inkludert personleg informasjon som namn på kontaktar, bilete og teksten i meldingar du tek imot. Appen vil òg kunna utsetja eller fjerna varsel eller utføra handlingar via knappar i varsel, inkludert å svara på telefonen.
+\n\nDette gjev òg appen høve til å slå «Ikkje forstyrr» på eller av og endra tilhøyrande innstillingar.</string>
+    <string name="notif_type_ongoing_summary" product="default">Pågåande kommunikasjon frå appar i bruk, navigasjon, telefonsamtalar og meir</string>
+    <string name="usb_default_info" product="default">Desse innstillingane vert brukte når ei anna eining vert kopla til og telefonen er låst opp. Berre kople til einingar du stoler på.</string>
+    <string name="disabled_by_policy_content_biometric_parental_consent" product="default">Gje telefonen til ein av foreldra dine for å setja opp dette</string>
+    <string name="disabled_by_policy_parental_consent" product="default">Gje telefonen til ein av foreldra dine for å få endra denne innstillinga.</string>
+    <string name="condition_zen_summary_phone_muted" product="default">Telefonen er lydlaus</string>
+    <string name="disabled_feature_reason_slow_down_phone" product="default">Denne funksjonen er slått av for di han gjer telefonen tregare</string>
+    <string name="mobile_data_settings_summary_auto_switch" product="default">Telefonen byter automatisk til denne mobiloperatøren når han er innan rekkevidd</string>
+    <string name="thread_network_settings_footer_title" product="default">Thread hjelper til med å kopla saman smarthuseiningane dine, noko som gjer dei meir effektive.\n\nNår dette er slått på, kan denne eininga kopla seg til eit Thread-nettverk, slik at du kan styra Matter-støtta einingar frå denne telefonen.</string>
+    <string name="bluetooth_connect_access_dialog_content" product="default">
+        <xliff:g id="device_name" example="My device">%1$s</xliff:g> vil kopla seg til denne telefonen.\n\nDu har ikkje vore kopla til <xliff:g id="device_name" example="My device">%2$s</xliff:g> før.</string>
+    <string name="bluetooth_details_permissions_sync_title" product="default">Synkroniser løyve frå telefonen</string>
+    <string name="bluetooth_details_permissions_sync_summary" product="default">Gje klokka dei same appløyva som du har tillate på denne telefonen</string>
+    <string name="audio_sharing_comfirm_dialog_content" product="default">For å starta lyddeling må du fyrst kopla eit par LE Audio-hovudtelefonar til telefonen</string>
+    <string name="supervision_web_content_filters_top_intro" product="default">Hjelp til med å filtrera bort upassande innhald i enkelte appar og nettlesarar på denne telefonen. Upassande innhald kan framleis visast i andre appar, einingar eller nettlesarar.</string>
+    <string name="dream_setup_description" product="default">Vel kva du vil sjå på skjermen når nettbrettet står i dokka. Eininga kan bruka meir straum når ein skjermsparar er i bruk.</string>
+    <string name="sound_settings" product="default">Lyd og vibrering</string>
+    <string name="sound_settings" product="desktop">Lyd</string>
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Tillat andletslås</string>
+    <string name="security_settings_face_enroll_introduction_title" product="default">Lås opp med andletet</string>
+    <string name="security_settings_face_enroll_introduction_title" product="desktop">Lås opp med andletet</string>
+    <string name="security_settings_face_preference_title" product="default">Andletslås</string>
+    <string name="security_settings_face_profile_preference_title" product="default">Andletslås for arbeid</string>
+    <string name="security_settings_face_enroll_education_title" product="default">Slik set du opp andletslås</string>
+    <string name="security_settings_face_enroll_education_title_accessibility" product="default">Set opp andletslås</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message" product="default">Dersom andletslås for tilgjenge er slått av, fungerer kanskje ikkje alle oppsettsstega som dei skal med TalkBack.</string>
+    <string name="security_settings_face_enroll_should_re_enroll_title" product="default">Gjer andletslåsen betre</string>
+    <string name="security_settings_face_enroll_should_re_enroll_subtitle" product="default">Set opp andletslås på nytt</string>
+    <string name="security_settings_face_enroll_must_re_enroll_title" product="default">Set opp andletslås på nytt</string>
+    <string name="security_settings_face_enroll_improve_face_alert_title" product="default">Set opp andletslås</string>
+    <string name="security_settings_face_settings_use_face_category" product="default">Bruk andletslås til</string>
+    <string name="security_settings_face_settings_preferences_category" product="default">Ved bruk av andletslås</string>
+    <string name="security_settings_face_settings_require_confirmation_details" product="default">Krev alltid eit stadfestingssteg ved bruk av andletslås i appar</string>
+    <string name="security_settings_face_settings_enroll" product="default">Set opp andletslås</string>
+    <string name="security_settings_activeunlock_require_face_fingerprint_setup_title" product="default">Lag til andletslås eller fingeravtrykk først</string>
+    <string name="security_settings_activeunlock_require_face_setup_title" product="default">Lag til andletslås først</string>
+    <string name="security_settings_biometric_preference_title" product="default">Fingeravtrykk og andletslås</string>
+    <string name="security_settings_work_biometric_preference_title" product="default">Andletslås og fingeravtrykk for arbeid</string>
+    <string name="biometric_settings_add_face_in_split_mode_title" product="default">Kan ikkje setja opp andletslås</string>
+    <string name="biometric_settings_add_face_in_split_mode_message" product="default">Avslutt delt skjerm for å setja opp andletslås</string>
+    <string name="private_space_biometric_title" product="default">Fingeravtrykk og andletslås</string>
+    <string name="private_space_biometric_unlock_title" product="default">Andlets- og fingeravtrykksopplåsing for privat sone</string>
+    <string name="private_space_face_title" product="default">Andletslås</string>
+    <string name="private_space_face_unlock_title" product="default">Andletslås for privat område</string>
+    <string name="private_space_face_enroll_introduction_title" product="default">Set opp andletsopplåsing for privat sone</string>
+    <string name="private_space_face_settings_require_confirmation_details" product="default">Krev alltid eit ekstra steg for stadfesting ved bruk av andletsopplåsing</string>
+    <string name="face_unlock_skip_face" product="default">Hald fram utan andletslås</string>
+    <string name="unlock_disable_frp_warning_content_face_authbound_keys" product="default">"Skjermlåsen og andletsopplåsinga di vert fjerna.<xliff:g id="empty_line">\n\n</xliff:g>Trykk og betal vert ikkje tilgjengeleg.<xliff:g id="empty_line">\n\n</xliff:g>Wallet, betaling og andre appar som krev stadfesting, fungerer kanskje ikkje som dei skal."</string>
+    <string name="unlock_disable_frp_warning_content_face_fingerprint_authbound_keys" product="default">"Skjermlåsen og andlets- og fingeravtrykksopplåsinga di vert fjerna.<xliff:g id="empty_line">\n\n</xliff:g>Trykk og betal vert ikkje tilgjengeleg.<xliff:g id="empty_line">\n\n</xliff:g>Wallet, betaling og andre appar som krev stadfesting, fungerer kanskje ikkje som dei skal."</string>
+    <string name="lockpassword_choose_your_password_header_for_face" product="default">Du må velja eit passord for å bruka andletsopplåsing</string>
+    <string name="lockpassword_choose_your_pattern_header_for_face" product="default">Du må velja eit mønster for å bruka andletsopplåsing</string>
+    <string name="lockpassword_choose_your_pin_header_for_face" product="default">Du må velja ein PIN-kode for å bruka andletsopplåsing</string>
+    <string name="identity_check_issue_card_summary" product="default">Identitetskontroll hindrar uønskt tilgang til appane dine. No tilgjengeleg for alle appar som brukar fingeravtrykk eller andletslåsing.</string>
+    <string name="identity_check_promo_card_summary" product="default">Oppdateringar:\n<ul><li>Identitetskontroll gjev ekstra vern for alle appar som brukar fingeravtrykk eller andletslåsing</li>\n<li>Etter kvart kan identitetskontroll leggja til fleire måtar å stadfesta at det er du, og sikra appane på eininga di. <a href="https://support.google.com/android?p=identity_check">Finn ut meir om når og kvar du er verna</a></li></ul></string>
+    <string name="identity_check_notification_summary" product="default">Identitetskontroll hindrar uønskt tilgang til appane dine. No tilgjengeleg for alle appar som brukar fingeravtrykk eller andletslåsing.</string>
+    <string name="usb_use_file_transfers" product="desktop">Filoverføring</string>
+</resources>

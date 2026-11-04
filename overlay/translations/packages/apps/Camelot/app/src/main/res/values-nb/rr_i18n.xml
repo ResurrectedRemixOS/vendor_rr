@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF-leser</string>
+    <string name="find_in_page">Finn på side</string>
+    <string name="share">"Del"</string>
+    <string name="open_with">Åpne med…</string>
+    <string name="download">"Last ned"</string>
+    <string name="pdf_document">PDF-dokument</string>
+    <string name="print">"Skriv ut"</string>
+    <string name="download_successful">Nedlasting fullført</string>
+    <string name="download_error">Feil under nedlasting av filen</string>
+</resources>

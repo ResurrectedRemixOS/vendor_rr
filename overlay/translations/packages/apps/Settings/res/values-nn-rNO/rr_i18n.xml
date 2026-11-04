@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="terms_of_address">
+        <item>Ikkje spesifisert</item>
+        <item>Kjønnsnøytral</item>
+        <item>Hokjønn</item>
+        <item>Hankjønn</item>
+    </string-array>
+    <string name="face_enrolling_do_it_later">Gjer det seinare</string>
+    <string name="time_format_category_title">Tidsformat</string>
+    <string name="time_format_automatic">Automatisk</string>
+    <string name="home_time_zone_title">Heime-tidssone</string>
+    <string name="use_home_time_zone_title">Nytta eiga tidssone</string>
+    <string name="suggestions_category_title">Framlegg</string>
+    <string name="zone_info_footer_no_dst">Brukar <xliff:g id="offset_and_name" example="GMT-08:00 Pacific Time">%1$s</xliff:g>. Ingen sommartid.</string>
+    <string name="zone_time_type_dst">Sommartid</string>
+    <string name="device_details_key_missing_title">Prøv å starta <xliff:g id="device_name">%1$s</xliff:g> på nytt. Om det ikkje fungerer, må du gløyma eininga. Av omsyn til tryggleiken bør du berre para ho på nytt når du ikkje er på ein offentleg stad.\n\nDersom eininga ikkje er i nærleiken, treng du ikkje gjera noko.</string>
+    <string name="external_display_resolution_title">Oppløysing</string>
+    <string name="nfc_secure_settings_title">Krev opplåsing for bruk av NFC</string>
+    <string name="wifi_share_preference_title">Dette er eit delt nettverk</string>
+    <string name="wifi_share_preference_summary">Alle brukarar, bortsett frå gjester, kan sjå, redigera og sletta dette nettverket</string>
+    <string name="wifi_allow_edit_configuration_title">Lat andre brukarar redigera nettverksoppsettet</string>
+    <string name="edit_wifi_network_non_owner_message">Ta kontakt med administratoren for eininga for å gjera endringar i dette nettverket.</string>
+    <string name="shared_wifi_forget_dialog_message">«<xliff:g id="network_name">%1$s</xliff:g>» vert brukt av andre på denne eininga, og alle brukarar av nettverket må setja det opp på nytt. Vil du framleis sletta det?</string>
+    <string name="dark_ui_modes_footer_summary">        {count, plural, offset:2
+        =0    {Modusar kan òg slå på mørkt tema}
+        =1    {{mode_1} slår òg på mørkt tema}
+        =2    {{mode_1} og {mode_2} slår òg på mørkt tema}
+        =3    {{mode_1}, {mode_2} og {mode_3} slår òg på mørkt tema}
+        other {{mode_1}, {mode_2} og # andre slår òg på mørkt tema}
+        }
+    </string>
+    <string name="screensaver_unavailable_due_to_mode">Ikkje tilgjengeleg</string>
+    <string name="doze_always_on_summary_long">Alltid på-skjermen viser klokkeslett, dato og anna informasjon når skjermen er av</string>
+    <string name="eid_multi_sim">EID (SIM-plass <xliff:g id="eid_slot_id">%1$d</xliff:g>)</string>
+    <string name="imei_multi_sim">IMEI (SIM-plass <xliff:g id="imei_slot_id">%1$d</xliff:g>)</string>
+    <string name="meid_multi_sim">MEID (SIM-plass <xliff:g id="meid_slot_id">%1$d</xliff:g>)</string>
+    <string name="lockpassword_remote_validation_pattern_details">Skriv inn mønsteret for den andre eininga di for å overføra Google-kontoar, innstillingar og meir. Mønsteret er kryptert.</string>
+    <string name="lockpassword_remote_validation_pin_details">Skriv inn PIN-koden for den andre eininga di for å overføra Google-kontoar, innstillingar og meir. PIN-koden er kryptert.</string>
+    <string name="lockpassword_remote_validation_password_details">Skriv inn passordet for den andre eininga di for å overføra Google-kontoar, innstillingar og meir. Passordet er kryptert.</string>
+    <string name="lockpassword_remote_validation_set_pattern_as_screenlock">Bruk òg mønsteret til å låsa opp denne eininga</string>
+    <string name="lockpassword_remote_validation_set_pin_as_screenlock">Bruk òg PIN-koden til å låsa opp denne eininga</string>
+    <string name="lockpassword_remote_validation_set_password_as_screenlock">Bruk òg passordet til å låsa opp denne eininga</string>
+    <string name="physical_keyboard_title">Fysisk tastatur</string>
+    <string name="physical_keyboard_layout_picker_title">Val av oppsett for fysisk tastatur</string>
+    <string name="mouse_pointer_speed_make_faster_desc">Gjer markøren raskare</string>
+    <string name="mouse_pointer_speed_make_slower_desc">Gjer markøren tregare</string>
+    <string name="mouse_keys_directional_summary">Bruk tastane «<xliff:g id="directional_label" example="7,8,9,u,o,j,k,l">%s</xliff:g>» for å flytta musepeikaren</string>
+    <string name="game_controller_key_remapping_category">Knappar</string>
+    <string name="mouse_settings_summary">Markørfart, tilpassing av knappar</string>
+    <string name="trackpad_settings_summary">Peikarfart, rørslestyring</string>
+    <string name="trackpad_pointer_speed">Peikarfart</string>
+    <string name="trackpad_pointer_speed_make_faster_desc">Gjer markøren raskare</string>
+    <string name="trackpad_pointer_speed_make_slower_desc">Gjer markøren tregare</string>
+    <string name="pointer_fill_style_black_button">Gjer musepeikaren svart</string>
+    <string name="pointer_fill_style_green_button">Gjer musepeikaren grøn</string>
+    <string name="pointer_fill_style_red_button">Gjer musepeikaren raud</string>
+    <string name="pointer_fill_style_pink_button">Gjer musepeikaren rosa</string>
+    <string name="pointer_fill_style_blue_button">Gjer musepeikaren blå</string>
+    <string name="pointer_fill_style_purple_button">Gjer musepeikaren lilla</string>
+    <string name="pointer_stroke_style">Farge på peikarkant</string>
+    <string name="action_corner_action_note_title">Notat</string>
+    <string name="pointer_speed">Peikarfart</string>
+    <string name="pointer_scale_decrease_content_description">Gjer peikaren mindre</string>
+    <string name="pointer_scale_increase_content_description">Gjer peikaren større</string>
+    <string name="keyboard_layout_picker_category_title">Oppsett for fysiske tastatur</string>
+    <string name="keyboard_settings_summary">Skjermtastatur, verktøy</string>
+    <string name="keyboard_settings_with_physical_keyboard_summary">Skjermtastatur, fysisk tastatur, verktøy</string>
+    <string name="physical_keyboards_list_title">Fysisk tastatur</string>
+    <string name="accessibility_button_location_selector_floating">Flytande over andre appar</string>
+    <string name="accessibility_button_location_selector_navigation_bar">Navigasjonsrad</string>
+    <string name="accessibility_expanded_dark_theme_summary">Brukar mørkt tema automatisk i dei fleste appar som ikkje støttar det. Dette kan gjera innhaldet meir lesbart og tilgjengeleg, men enkelte appar kan visast feil.</string>
+    <string name="accessibility_hearing_device_routing_title">Lydar</string>
+    <string name="battery_cycle_count_footer">Sidan einingane går gjennom kvalitetskontrollar før sending, kan det vera at ladesyklusen ikkje står på null når ho blir brukt fyrste gongen</string>
+    <string name="cellular_security_top_intro">Desse innstillingane hjelper til med å verna samtalar, meldingar og data mot utdaterte eller ukrypterte nettverk som kan utsetja deg for datatjuveri eller overvaking</string>
+    <string name="sim_status_title_sim_slot">SIM-status (SIM-plass %1$d)</string>
+    <string name="device_dashboard_title">Eining</string>
+    <string name="system_dashboard_summary">Språk, rørsler, tid, tryggingskopi</string>
+    <string name="keywords_keyboard_vibration">tastatur, haptikk, vibrer</string>
+    <string name="sim_ringtone_title">Ringetone</string>
+    <string name="zen_mode_disabled_by_user">Slått av</string>
+    <string name="notification_bundle_expand_auto_title">Automatisk</string>
+    <string name="notification_bundle_expand_always_title">Alltid utvid samlingar</string>
+    <string name="computer_control_automation_always_allow">Alltid tillat</string>
+    <string name="computer_control_automation_no_apps_allowed">Ingen appar har løyve</string>
+    <string name="manage_data_category_title">Styr data</string>
+    <string name="bluetooth_left_content_description_expressive">Venstre, batteri: <xliff:g id="battery_percentage" example="15">%1$s</xliff:g></string>
+    <string name="bluetooth_right_content_description_expressive">Høgre, batteri: <xliff:g id="battery_percentage" example="15">%1$s</xliff:g></string>
+    <string name="bluetooth_middle_content_description_expressive">Etui, batteri: <xliff:g id="battery_percentage" example="15">%1$s</xliff:g></string>
+    <string name="supervision_pin_management_preference_summary_add">Legg til e-postadresse for gjenoppretting</string>
+    <string name="supervision_pin_management_preference_summary_verify_recovery">Stadfesta e-postadressa for gjenoppretting</string>
+    <string name="supervision_update_recovery_email_preference_title">Oppdater e-postadressa for gjenoppretting</string>
+    <string name="supervision_recovery_banner_title_verify">Stadfesta e-postadressa for gjenoppretting</string>
+    <string name="supervision_recovery_banner_title_add">Legg til e-postadresse for gjenoppretting</string>
+    <string name="supervision_add_pin_recovery_title">Legg til e-postadresse for gjenoppretting</string>
+    <string name="supervision_verify_pin_recovery_title">Stadfesta e-postadressa for gjenoppretting</string>
+    <string name="supervision_web_content_filters_title">Innhaldsfilter for nettstader</string>
+    <string name="safety_center_system_and_updates_summary">Oppdateringar</string>
+    <string name="safety_center_permission_manager_search_terms">Løyve, løyvestyring</string>
+    <string name="safety_center_permission_usage_search_terms">Personvern, personvernoversikt</string>
+    <string name="safety_center_private_space_search_terms">Privat rom</string>
+    <string name="safety_center_issue_card_dismiss_confirmation_title">Vil du fjerna dette varselet?</string>
+    <string name="safety_center_issue_card_dismiss_confirmation_message">Du kan når som helst gå gjennom innstillingane for tryggleik og personvern for å få betre vern</string>
+    <string name="privacy_controls_qs">Dine personvernval</string>
+    <string name="safety_center_review_settings">Sjå over innstillingane</string>
+    <string name="safety_center_blocked_label">Sperra</string>
+    <string name="microphone_toggle_label_qs">Tilgang til mikrofon</string>
+    <string name="satellite_phone_summary">Berre naudoppringing</string>
+    <string name="add_tile_action">Legg til feltet</string>
+    <string name="satellite_apps_see_less_text">Sjå mindre</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">Karga-abiadura</string>
+    <string name="charging_speed_slow">"Motela"</string>
+    <string name="charging_speed_fast">"Bizkorra"</string>
+    <string name="charging_speed_super_fast">Oso azkarra</string>
+    <string name="charging_control_notification_channel">Karga-kontrola</string>
+    <string name="charging_control_notification_title">Karga-kontrola</string>
+    <string name="charging_control_notification_cancel_once">"Utzi"</string>
+    <string name="charging_control_notification_content_limit">Bateria %1$d%%-ra arte kargatuko da</string>
+    <string name="charging_control_notification_content_limit_reached">Bateria %1$d%%-ra arte kargatu da</string>
+    <string name="charging_control_notification_content_target">Bateria %1$s-n kargatuko da guztiz</string>
+    <string name="charging_control_notification_content_target_reached">Bateria kargatuta dago</string>
+</resources>

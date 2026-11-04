@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">ક્લાસિક</string>
+    <string name="bundle1_color_name">કાર્બન</string>
+    <string name="bundle2_color_name">પેપર</string>
+    <string name="bundle3_color_name">સન</string>
+    <string name="bue_color_name">લૅવેન્ડર</string>
+    <string name="red_color_name">બેરી</string>
+    <string name="wht_color_name">ફૉગ</string>
+    <string name="indigo_color_name">"ઘેરો વાદળી રંગ"</string>
+    <string name="iris_color_name">આઇરિસ</string>
+    <string name="jade_color_name">જેડ</string>
+    <string name="lemongrass_color_name">લેમનગ્રાસ</string>
+    <string name="moonstone_color_name">મૂનસ્ટોન</string>
+    <string name="obsidian_color_name">ઑબ્સિડિયન</string>
+    <string name="peony_color_name">પિયોની</string>
+    <string name="porcelain_color_name">પોર્સેલિન</string>
+    <string name="fruit1_color_name">પીળો અને લાલ દ્વિ-રંગી પૅલેટ</string>
+    <string name="fruit2_color_name">લીલો અને નારંગી દ્વિ-રંગી પૅલેટ</string>
+    <string name="fruit3_color_name">વાદળી અને લીલો દ્વિ-રંગી પૅલેટ</string>
+    <string name="fruit4_color_name">આછો જાંબલી અને વાદળી દ્વિ-રંગી પૅલેટ</string>
+    <string name="fruit5_color_name">ગુલાબી અને ઇન્ડિગો દ્વિ-રંગી પૅલેટ</string>
+</resources>

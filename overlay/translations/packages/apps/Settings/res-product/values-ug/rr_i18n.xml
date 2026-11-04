@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="status_number" product="default">تېلېفون نومۇرى</string>
+    <string name="storage_wizard_init_v2_internal_action" product="tablet">پىچىم</string>
+    <string name="storage_wizard_init_v2_internal_action" product="default">پىچىم</string>
+    <string name="storage_wizard_init_v2_internal_action" product="desktop">پىچىم</string>
+    <string name="main_clear_button_text" product="tablet">ھەممە سانلىق مەلۇماتنى ئۆچۈرىدۇ</string>
+    <string name="main_clear_button_text" product="default">ھەممە سانلىق مەلۇماتنى ئۆچۈرىدۇ</string>
+    <string name="testing_phone_info" product="desktop">ئۈسكۈنە ئۇچۇرى</string>
+    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">قوڭغۇراقلىق سائەت</string>
+    <string name="activity_not_found" product="default">ئەپ تېلېفونىڭىزغا  ئورنىتىلمىغان.</string>
+    <string name="sound_settings" product="desktop">"ئاۋاز"</string>
+</resources>

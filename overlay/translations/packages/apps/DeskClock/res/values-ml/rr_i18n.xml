@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">ഉപകരണം മറിക്കുന്നതിനുള്ള പ്രവർത്തനം</string>
+    <string name="shake_action_title">ഉപകരണം കുലുക്കുന്നതിനുള്ള പ്രവർത്തനം</string>
+    <string-array name="action_setting_entries">
+        <item>സ്‌നൂസ് ചെയ്യുക</item>
+        <item>"ഡിസ്‌മിസ് ചെയ്യുക"</item>
+        <item>"ഒന്നുമില്ല"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">ഫയറിംഗ് അലാറങ്ങളും ടൈമറുകളും</string>
+    <string name="alarm_missed_channel">മിസ്ഡ് അലാറങ്ങൾ</string>
+    <string name="alarm_snooze_channel">സ്നൂസ് ചെയ്ത അലാറങ്ങൾ</string>
+    <string name="alarm_upcoming_channel">വരാനിരിക്കുന്ന അലാറങ്ങൾ</string>
+    <string name="stopwatch_channel">സ്‌റ്റോപ്പ്‌വാച്ച്</string>
+    <string name="timer_channel">ടൈമർ</string>
+    <string name="add_label">ലേബൽ ചേർക്കുക</string>
+    <string name="dialog_permissions_title">"അനുമതികൾ"</string>
+    <string name="dialog_permissions_ask">വീണ്ടും ചോദിക്കുക</string>
+    <string name="dialog_permissions_dismiss">"ഡിസ്‌മിസ് ചെയ്യുക"</string>
+    <string name="dialog_permissions_settings">"ക്രമീകരണം"</string>
+    <string name="dialog_permissions_power_off_alarm">ഈ അനുമതിയില്ലെങ്കിൽ അലാറം മുഴക്കാൻ ഉപകരണത്തിന് സ്വയം ഓൺ ആകാനാകില്ല</string>
+    <string name="dialog_permissions_no_permission">ആവശ്യമായ അനുമതികൾ നിരസിച്ചു, ക്രമീകരണ ആപ്പിൽ നിന്ന് അവ പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="dialog_permissions_post_notifications">ഈ ആപ്പ് അറിയിപ്പുകളെ ആശ്രയിക്കുന്നു. അവയില്ലാതെ ഇത് പ്രവർത്തിപ്പിക്കാനാവില്ല!</string>
+    <string name="selected">"തിരഞ്ഞെടുത്തു"</string>
+    <string name="more_options">"കൂടുതൽ ഓപ്ഷനുകൾ"</string>
+    <string name="widget_choice_title">നിങ്ങളുടെ ശൈലി തിരഞ്ഞെടുക്കുക</string>
+    <string name="widget_name_transparent">ബാക്കപ്പില്ലാത്തത്</string>
+    <string name="widget_name_solid">ബാക്കപ്പുള്ളത്</string>
+    <string name="night_mode_enabled_title">"പ്രവർത്തനക്ഷമമാക്കി"</string>
+    <string name="night_mode_dnd_title">ശല്യപ്പെടുത്തരുത് അവസ്ഥ പിന്തുടരുക</string>
+    <string name="night_mode_dnd_summary">ശല്യപ്പെടുത്തരുത് അവസ്ഥ അനുസരിച്ച് നൈറ്റ് മോഡ് പ്രവർത്തിക്കുന്നു</string>
+    <string name="show_ampm_title">AM/PM സൂചകം കാണിക്കുക</string>
+    <string name="bold_text_title">ക്ലോക്ക് ടെക്സ്റ്റ് ബോൾഡ് ആക്കുക</string>
+    <string name="night_mode_brightness_text_title">"തെളിച്ചം"</string>
+    <string name="clock_color_title">"നിറം"</string>
+    <string-array name="clock_color_entries">
+        <item>"വെളുപ്പ്"</item>
+        <item>"ചുവപ്പ്"</item>
+        <item>"പച്ച"</item>
+        <item>"നീല"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"സ്ക്രീൻ സേവർ"</string>
+    <string name="screensaver_preview">"പ്രിവ്യൂ ചെയ്യുക"</string>
+    <string name="screensaver_preview_summary">സ്ക്രീൻ സേവർ ഉടൻ ആരംഭിക്കുന്നു</string>
+    <string name="screensaver_change_settings">"ക്രമീകരണം"</string>
+    <string name="screensaver_change_settings_summary">ക്ലോക്കിന്റെ സ്ക്രീൻ സേവർ ക്രമീകരണം തുറക്കുന്നു</string>
+    <string name="screensaver_daydream_settings">സ്ക്രീൻ സേവർ തിരഞ്ഞെടുക്കുക/പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="screensaver_daydream_settings_summary">പ്രധാന സ്ക്രീൻ സേവർ ക്രമീകരണം തുറക്കുന്നു</string>
+</resources>

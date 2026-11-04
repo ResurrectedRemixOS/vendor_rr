@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Profiles Trust Provider</string>
+    <string name="profile_picker_title">"Պրոֆիլներ"</string>
+    <string name="profile_none">"Ոչ մեկը"</string>
+    <string name="profile_trust_agent_title">Profiles Trust Agent</string>
+    <string name="profile_trust_agent_summary">Թույլ է տալիս Profiles-ին ժամանակավորապես անջատել կողպէկրանի պաշտպանությունը</string>
+    <string name="trust_by_profile">Վստահված է Profile-ի կողմից</string>
+</resources>

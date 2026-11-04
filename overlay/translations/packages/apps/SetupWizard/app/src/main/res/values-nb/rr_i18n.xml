@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Avbryt"</string>
+    <string name="finish">Fullfør</string>
+    <string name="setup_welcome_message">Velkommen til <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Konfigurer jobbprofilen din</string>
+    <string name="accessibility_settings">"Tilgjengelighetsinnstillinger"</string>
+    <string name="device_info">"Enhetsinformasjon"</string>
+    <string name="device_information">"Enhets­informasjon"</string>
+    <string name="device_info_serial">"Serienummer"</string>
+    <string name="setup_euicc">Konfigurer eSIM</string>
+    <string name="esim_support_summary">Konfigurer en eSIM eller sett inn et SIM-kort. For å sette inn et SIM-kort, les instruksjonene som fulgte med enheten.</string>
+    <string name="sim_missing_skip_title">Hoppe over konfigurering av SIM-kort?</string>
+    <string name="sim_missing_skip_message">Hvis du hopper over dette trinnet, blir du ikke koblet til et mobilnettverk før du konfigurerer et SIM-kort i Innstillinger.</string>
+    <string name="setup_datetime_section_date">"Dato"</string>
+    <string name="setup_datetime_section_time">"Tid"</string>
+    <string name="setup_date_format">"Formatér"</string>
+    <string name="date_format_day">Dag</string>
+    <string name="date_format_month">"Måned"</string>
+    <string name="date_format_year">"År"</string>
+    <string name="setup_time_zone">"Tidssone"</string>
+    <string name="setup_24_hour_format">"Bruk 24-timers format"</string>
+    <string name="intro_restore_title">Gjenopprett apper og data</string>
+    <string name="intro_restore_subtitle">Hvis du har en Seedvault-sikkerhetskopi fra <xliff:g id="name" example="LineageOS">%s</xliff:g> eller et annet operativsystem, kan du gjenopprette den her.</string>
+    <string name="intro_restore_button">Gjenopprett fra sikkerhetskopi</string>
+    <string name="location_summary">Velg hvordan enheten din håndterer posisjonen</string>
+    <string name="location_access_title">"Bruk posisjon"</string>
+    <string name="location_agps_access_title">Forbedret posisjon</string>
+    <string name="location_agps_access_summary">Når posisjon er på, laster enheten ned data for satellittassistanse fra internett, noe som kan forbedre GPS-oppstarten betydelig.</string>
+    <string name="update_recovery_title">Oppdater gjenopprettingsmodus for Resurrected Remix</string>
+    <string name="update_recovery_description">Oppdaterer gjenopprettingsmodus for Resurrected Remix ved første oppstart etter hver oppdatering.</string>
+    <string name="update_recovery_warning">Gjenopprettingsmodus oppdateres så snart du er ferdig med konfigureringen. Hvis du vil beholde den som den er, deaktiverer du denne funksjonen.</string>
+    <string name="update_recovery_setting">Oppdater gjenopprettingsmodus for Resurrected Remix sammen med operativsystemet</string>
+    <string name="services_pp_explanation">Disse tjenestene jobber for deg for å utvide enhetens funksjoner. Data brukes i samsvar med personvernerklæringen til <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Du kan lese personvernerklæringen på en annen enhet ved å gå til:</string>
+    <string name="services_help_improve_cm">Hjelp med å forbedre <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> ved automatisk å sende diagnose- og bruksdata til <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Denne informasjonen kan ikke brukes til å identifisere deg, og den hjelper teamene som jobber med ting som batteritid, appytelse og nye <xliff:g id="name" example="LineageOS">%3$s</xliff:g>-funksjoner.</string>
+    <string name="services_metrics_title">Bidra med diagnosedata</string>
+    <string name="setup_navigation">Navigasjon</string>
+    <string name="navigation_summary">Velg foretrukket navigasjonsmetode</string>
+    <string name="gesture_navigation">"Navigasjon med bevegelser"</string>
+    <string name="navbar_navigation">"Navigasjon med tre knapper"</string>
+    <string name="gesture_navigation_short">Bevegelse</string>
+    <string name="hide_gesture_hint">Skjul hint for bevegelsesnavigasjon</string>
+    <string name="setup_theme">"Tema"</string>
+    <string name="theme_summary">Det mørke temaet bruker en svart bakgrunn for å spare batteriet lenger på enkelte skjermer</string>
+    <string name="dark">Mørk</string>
+    <string name="light">"Lys"</string>
+    <string name="pure_black_theme">Bruk ren svart bakgrunn</string>
+    <string name="theme_preview">Forhåndsvisning av tema</string>
+    <string name="swipe_up_to_go_home">"Sveip opp for å gå til startskjermen"</string>
+    <string name="tap_home_to_go_home">Trykk på det midtre navigasjonsikonet for å gå til startskjermen</string>
+    <string name="press_center_to_go_home">Trykk på midtknappen for å gå til startskjermen</string>
+</resources>

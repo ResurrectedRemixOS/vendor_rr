@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">ওচৰৰ স্থান</string>
+    <string name="lookup_settings_label">ফ’ন নম্বৰ বিচাৰক</string>
+    <string name="enable_forward_lookup_title">আগুৱাই বিচাৰক</string>
+    <string name="enable_forward_lookup_summary">ডায়েলাৰত সন্ধান কৰোঁতে ওচৰৰ স্থান দেখুৱাওক</string>
+    <string name="enable_reverse_lookup_title">বিপৰীত বিচাৰ</string>
+    <string name="enable_reverse_lookup_summary">ভিতৰলৈ অহা কলত অজ্ঞাত নম্বৰৰ বাবে ব্যক্তি বা স্থানৰ তথ্য বিচাৰক</string>
+    <string name="forward_lookup_provider_title">আগুৱাই বিচাৰৰ প্ৰদানকাৰী</string>
+    <string name="reverse_lookup_provider_title">বিপৰীত বিচাৰৰ প্ৰদানকাৰী</string>
+    <string name="lookup_disclaimer">তথ্য সংগ্ৰহৰ বাবে বিচাৰে সুৰক্ষিত প্ৰটোকল (https) ৰ জৰিয়তে দূৰবৰ্তী ৱেবছাইটলৈ অনুৰোধ পঠিয়াব পাৰে। অনুৰোধত অপৰ পক্ষৰ ফ’ন নম্বৰ বা সন্ধান শব্দ থাকিব পাৰে</string>
+</resources>

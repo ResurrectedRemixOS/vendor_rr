@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">Төхөөрөмжийг эргүүлэх үйлдэл</string>
+    <string name="shake_action_title">Төхөөрөмжийг сэгсрэх үйлдэл</string>
+    <string-array name="action_setting_entries">
+        <item>Түр хойшлуулах</item>
+        <item>"Хаах"</item>
+        <item>"Юуг ч биш"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">Сэрүүлэг &amp; таймер асаж байна</string>
+    <string name="alarm_missed_channel">Өнжсөн сэрүүлэг</string>
+    <string name="alarm_snooze_channel">Түр хойшилсон сэрүүлэг</string>
+    <string name="alarm_upcoming_channel">Удахгүй болох сэрүүлэг</string>
+    <string name="stopwatch_channel">Секунд хэмжигч</string>
+    <string name="timer_channel">Цаг хэмжигч</string>
+    <string name="add_label">Шошго нэмэх</string>
+    <string name="dialog_permissions_title">"Зөвшөөрөл"</string>
+    <string name="dialog_permissions_ask">Дахин асуух</string>
+    <string name="dialog_permissions_dismiss">"Хаах"</string>
+    <string name="dialog_permissions_settings">"Тохиргоо"</string>
+    <string name="dialog_permissions_power_off_alarm">Энэ зөвшөөрөлгүйгээр таны төхөөрөмж сэрүүлэг дуугаргахын тулд өөрөө асах боломжгүй.</string>
+    <string name="dialog_permissions_no_permission">Шаардлагатай зөвшөөрлийг татгалзсан байна. Тохиргоо аппаас идэвхжүүлнэ үү.</string>
+    <string name="dialog_permissions_post_notifications">Энэ апп мэдэгдэлд тулгуурладаг. Мэдэгдэлгүйгээр ажиллуулах боломжгүй!</string>
+    <string name="selected">"Сонгосон"</string>
+    <string name="more_options">"Бусад сонголт"</string>
+    <string name="widget_choice_title">Хэв маягаа сонгоно уу</string>
+    <string name="widget_name_transparent">Суурьгүй</string>
+    <string name="widget_name_solid">Суурьтай</string>
+    <string name="night_mode_enabled_title">"Идэвхжүүлсэн"</string>
+    <string name="night_mode_dnd_title">Бүү саад бол горимыг дагах</string>
+    <string name="night_mode_dnd_summary">Шөнийн горим Бүү саад бол-ын төлөвийг дагана</string>
+    <string name="show_ampm_title">AM/PM тэмдэг харуулах</string>
+    <string name="bold_text_title">Цагийн текстийг тод харуулах</string>
+    <string name="night_mode_brightness_text_title">"Гэрэлтүүлэг"</string>
+    <string name="clock_color_title">"Өнгө"</string>
+    <string-array name="clock_color_entries">
+        <item>"Цагаан"</item>
+        <item>"Улаан"</item>
+        <item>"Ногоон"</item>
+        <item>"Цэнхэр"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"Дэлгэц амраагч"</string>
+    <string name="screensaver_preview">"Урьдчилан үзэх"</string>
+    <string name="screensaver_preview_summary">Дэлгэцийн хамгаалагчийг шууд эхлүүлнэ</string>
+    <string name="screensaver_change_settings">"Тохиргоо"</string>
+    <string name="screensaver_change_settings_summary">Цагийн дэлгэцийн хамгаалагчийн тохиргоог нээнэ</string>
+    <string name="screensaver_daydream_settings">Дэлгэцийн хамгаалагч сонгох/идэвхжүүлэх</string>
+    <string name="screensaver_daydream_settings_summary">Дэлгэцийн хамгаалагчийн үндсэн тохиргоог нээнэ</string>
+</resources>

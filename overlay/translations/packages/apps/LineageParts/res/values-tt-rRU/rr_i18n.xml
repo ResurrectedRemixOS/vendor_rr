@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="loading">Йөкләү\u2026</string>
+    <string name="cancel">Баш тарту</string>
+    <string name="settings">Көйләүләр</string>
+    <string name="name">Исем</string>
+    <string name="privacy_settings_title">Хосусыйлык</string>
+    <string name="brightness">Яктылык дәрәҗәсе</string>
+    <string name="battery_light_medium_color_title">Заряд җыя</string>
+    <string name="notification_light_phonelist_title">Телефон</string>
+    <string name="notification_light_default_value">Гадәти</string>
+    <string name="notification_light_missed_call_title">Алынмаган шалтырату</string>
+    <string name="notification_light_voicemail_title">Тавыш почтасы</string>
+    <string name="power_menu_airplane_title">Очу режимы</string>
+    <string name="profile_action_enable">Кабызу</string>
+    <string name="profile_name_title">Исем</string>
+    <string name="profile_profiles_manage">Профильләр</string>
+    <string name="ringtone_title">Рингтон</string>
+    <string name="profile_airplanemode_title">Очу режимы</string>
+    <string name="toggleLocation">Урнашу урыны</string>
+    <string name="notification_volume_title">Искәртү</string>
+    <string name="status_bar_clock_title">Cәгать</string>
+    <string name="status_bar_brightness_category">Яктылык</string>
+    <string name="accelerometer_title">Экран үзе борылу</string>
+    <string name="trust_category_tools">Хосусыйлык</string>
+</resources>

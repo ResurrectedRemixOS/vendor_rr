@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="string_cancel">Ofbriechen</string>
+    <string name="string_continue">Weider</string>
+    <string name="string_learn_more">Méi gewuer ginn</string>
+    <string name="content_description_show_password">Passwuert uweisen</string>
+    <string name="settings">Astellungen</string>
+    <string name="accessibility_snackbar_dismiss">Verwerfen</string>
+    <string name="get_dialog_button_label_continue">Weider</string>
+    <string name="more_options_content_description">Méi</string>
+</resources>

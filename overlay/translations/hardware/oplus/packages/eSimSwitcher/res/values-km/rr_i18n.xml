@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">ការកំណត់ eSIM</string>
+    <string name="esim_toggle_title">eSIM</string>
+    <string name="esim_toggle_summary">ទាញយក និងធ្វើឱ្យប្រតិបត្តិការទូរស័ព្ទសកម្ម ដើម្បីប្រើប្រាស់ស៊ីមកាតនិម្មិត</string>
+    <string name="esim_toggle_dialog_cancel">"បោះបង់"</string>
+</resources>

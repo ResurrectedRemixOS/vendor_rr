@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ໂປຣແກຣມເບິ່ງ PDF</string>
+    <string name="find_in_page">ຊອກຫາໃນໜ້າ</string>
+    <string name="share">"ແບ່ງປັນ"</string>
+    <string name="open_with">ເປີດດ້ວຍ…</string>
+    <string name="download">"ດາວໂຫຼດ"</string>
+    <string name="pdf_document">ເອກະສານ PDF</string>
+    <string name="print">"ພິມ"</string>
+    <string name="download_successful">ດາວໂຫຼດສຳເລັດ</string>
+    <string name="download_error">ເກີດຂໍ້ຜິດພາດໃນການດາວໂຫຼດໄຟລ໌</string>
+</resources>

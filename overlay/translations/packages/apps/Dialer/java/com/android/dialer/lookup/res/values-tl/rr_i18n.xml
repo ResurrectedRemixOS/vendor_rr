@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Mga kalapit na lugar</string>
+    <string name="lookup_settings_label">Paghahanap ng numero ng telepono</string>
+    <string name="enable_forward_lookup_title">Forward lookup</string>
+    <string name="enable_forward_lookup_summary">Ipakita ang mga kalapit na lugar kapag naghahanap sa dialer</string>
+    <string name="enable_reverse_lookup_title">Reverse lookup</string>
+    <string name="enable_reverse_lookup_summary">Maghanap ng impormasyon tungkol sa tao o lugar para sa mga hindi kilalang numero sa papasok na tawag</string>
+    <string name="forward_lookup_provider_title">Provider ng forward lookup</string>
+    <string name="reverse_lookup_provider_title">Provider ng reverse lookup</string>
+    <string name="lookup_disclaimer">Maaaring magpadala ng query ang mga lookup sa mga remote website sa pamamagitan ng secure na protocol (https) para mangalap ng impormasyon. Maaaring kasama sa query ang numero ng telepono ng kabilang partido o ang search query</string>
+</resources>

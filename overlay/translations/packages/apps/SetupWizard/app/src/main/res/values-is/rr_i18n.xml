@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Hætta við"</string>
+    <string name="finish">Ljúka</string>
+    <string name="device_info">"Upplýsingar um tæki"</string>
+    <string name="device_information">"Upplýsingar um tæki"</string>
+    <string name="device_info_serial">"Raðnúmer"</string>
+    <string name="setup_euicc">Setja upp eSIM</string>
+    <string name="esim_support_summary">Settu upp eSIM eða settu SIM-kort í. Til að setja SIM-kort í skaltu lesa leiðbeiningarnar sem fylgdu tækinu.</string>
+    <string name="sim_missing_skip_title">Sleppa uppsetningu SIM-korts?</string>
+    <string name="sim_missing_skip_message">Ef þú sleppir þessu skrefi tengist þú ekki farsímaneti fyrr en þú setur upp SIM-kort í Stillingum.</string>
+    <string name="setup_datetime_section_date">"Dagsetning"</string>
+    <string name="setup_datetime_section_time">"Tími"</string>
+    <string name="setup_date_format">"Sníða"</string>
+    <string name="date_format_day">Dagur</string>
+    <string name="date_format_month">"Mánuður"</string>
+    <string name="date_format_year">"Ár"</string>
+    <string name="setup_time_zone">"Tímabelti"</string>
+    <string name="services_find_privacy_policy">Þú getur lesið persónuverndarstefnuna í öðru tæki með því að fara á:</string>
+</resources>

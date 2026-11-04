@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="autofill_save_title_with_2types_expressive"><xliff:g id="type" example="Password">%1$s</xliff:g> සහ <xliff:g id="type" example="Credit Card">%2$s</xliff:g> <b><xliff:g id="label" example="MyPass">%3$s</xliff:g></b> වෙත සුරකින්න</string>
+</resources>

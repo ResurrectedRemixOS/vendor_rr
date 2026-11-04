@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="assistant_label">Agiudante</string>
+    <string name="assistant_utterance">Agiudante</string>
+    <string name="recent_apps_label">Aplicatziones reghentes</string>
+    <string name="lockscreen_label">Ischermu de blocu</string>
+    <string name="quick_settings_label">Cunfiguratziones lestras</string>
+    <string name="notifications_label">Notìficas</string>
+    <string name="screenshot_label">Ischermada</string>
+    <string name="screenshot_utterance">Faghe una catura de ischermu</string>
+    <string name="pref_help_title">Agiudu</string>
+</resources>

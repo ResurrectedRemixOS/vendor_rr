@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyguard_enter_pin">كىرگۈزىدىغىنىڭىز PIN</string>
+    <string name="keyguard_network_locked_message">تور قۇلۇپلانغان</string>
+    <string name="keyboardview_keycode_delete">ئۆچۈر</string>
+    <string name="kg_wrong_pin">بۇ PIN خاتا</string>
+    <string name="kg_puk_enter_puk_hint">بۇ SIM كارتا توختىتىلغان. PUK كودى كىرگۈزۈلگەندىلا ئاندىن ئىشلەتكىلى بولىدۇ. مۇناسىۋەتلىك تەپسىلاتلار ئۈچۈن مۇلازىمەت تەمىنلىگۈچىڭىز بىلەن ئالاقە قىلىڭ.</string>
+    <string name="kg_puk_enter_pin_hint">لازىملىق PIN كودىنى كىرگۈزۈڭ</string>
+    <string name="kg_enter_confirm_pin_hint">لازىملىق PIN كودىنى جەزملەڭ</string>
+    <string name="kg_invalid_sim_pin_hint">4-8 خانىلىق PIN نى كىرگۈزۈڭ.</string>
+    <string name="kg_password_wrong_pin_code_pukked">SIM كارتا PIN كودى توغرا ئەمەس، ھازىر مۇلازىمەت سودىگىرىڭىز بىلەن ئالاقە قىلىپ ئۈسكۈنىڭىزنىڭ قۇلۇپىنى ئېچىڭ.</string>
+    <string name="kg_password_pin_failed">SIM كارتا PIN مەشغۇلاتى مەغلۇپ بولدى!</string>
+    <string name="accessibility_ime_switch_button">كىرگۈزگۈچ ئالماشتۇر</string>
+    <string name="airplane_mode">ئايروپىلان ھالىتى</string>
+    <string name="clock_title_default">كۆڭۈلدىكى</string>
+    <string name="clock_title_analog">تەقلىد</string>
+</resources>

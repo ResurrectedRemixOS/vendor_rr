@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="string_cancel">Annulearje</string>
+    <string name="string_learn_more">Mear ynfo</string>
+    <string name="settings">Ynstellingen</string>
+    <string name="accessibility_snackbar_dismiss">Slute</string>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="clock">"นาฬิกา"</string>
+    <string name="accessibility_adaptive_brightness">"ปรับความสว่างอัตโนมัติ"</string>
+    <string name="status_bar_icons_title">ไอคอนแถบสถานะ</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="status_bar_firewall">ไฟร์วอลล์</string>
+    <string name="battery_notification_channel_tv">คำเตือนแบตเตอรี่</string>
+    <string name="screenshot_delete_label">"ลบ"</string>
+    <string name="screenshot_delete_description">ลบภาพหน้าจอ</string>
+    <string name="screenrecord_lowquality_label">คุณภาพต่ำลง</string>
+    <string name="screenrecord_lowquality_summary">เพื่อให้ขนาดไฟล์เล็กลง</string>
+    <string name="screenrecord_longer_timeout_switch_label">ขีดจำกัดขนาดไฟล์ที่ใหญ่ขึ้น</string>
+    <string name="screenrecord_longer_timeout_switch_summary">จำกัดขนาดการบันทึกไว้ที่ 15 GB</string>
+    <string name="screenrecord_skip_time_label">ข้ามตัวจับเวลา</string>
+    <string name="screenrecord_skip_time_summary">นำการรอ 3 วินาทีออก</string>
+    <string name="screenrecord_hevc_switch_label">การเข้ารหัส HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">ใช้ตัวเข้ารหัส HEVC ที่มีประสิทธิภาพมากกว่า</string>
+    <string name="zen_alarm_warning_indef">"คุณจะไม่ได้ยินเสียงปลุกครั้งถัดไปในเวลา <xliff:g id="WHEN">%1$s</xliff:g> เว้นแต่คุณจะปิดการปลุกนี้ไปก่อนแล้ว"</string>
+</resources>

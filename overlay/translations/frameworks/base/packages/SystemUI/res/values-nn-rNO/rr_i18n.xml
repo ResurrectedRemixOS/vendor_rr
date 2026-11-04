@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="usb_audio_device_permission_prompt_title">Vil du gjeva <xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g> tilgang til <xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g>?</string>
+    <string name="usb_audio_device_confirm_prompt_title">Vil du opna <xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g> for å styra <xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g>?</string>
+    <string name="usb_device_dialog_always_allow_button">Alltid tillat</string>
+    <string name="usb_device_dialog_allow_only_this_time_button">Berre denne gongen</string>
+    <string name="usb_authorization_deny">Ikkje gje lov</string>
+    <string name="screenshot_save_to">Lagra i</string>
+    <string name="screenshot_copy_label">Kopier</string>
+    <string name="screenshot_edit_description">Rediger skjermbilete</string>
+    <string name="screenshot_share_description">Del skjermbilete</string>
+    <string name="screen_record_color_picker">Letval</string>
+    <string name="screen_share_no_select_app_thumbnail">Vel ein app du vil dela</string>
+    <string name="screen_capture_a11y_toolbar_radio_button_action">vel</string>
+    <string name="accessibility_status_bar_input_method_indicator">Tastatur</string>
+    <string name="input_method_switcher_title_large_screen">Tastatur</string>
+    <string name="input_method_switcher_select_item">vel</string>
+    <string name="input_method_switcher_dismiss">fjern</string>
+    <string name="quick_settings_cast_detail_title">Cast skjermen til eining</string>
+    <string name="quick_settings_audio_effects_section_title">Effektar</string>
+    <string name="quick_settings_disclosure_parental_controls">Ein føresett styrer denne eininga</string>
+    <string name="monitoring_description_parental_controls">Ein føresett styrer denne eininga. Vedkomande kan sjå og styra informasjon som kva appar du brukar, kvar du er og skjermtida di.</string>
+    <string name="accessibility_status_bar_satellite_symbol">Satellitt</string>
+    <string name="accessibility_quick_settings_power_menu_expanded">Utvida</string>
+    <string name="accessibility_quick_settings_power_menu_collapsed">Gøym</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_message">Full makt høver berre for appar som skal hjelpa til med særskilde behov, men ikkje for dei fleste appar.</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_heading">Sjå og styra skjermen</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_message">Appen kan lesa alt som står på skjermen og visa innhald over andre appar.</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_heading">Sjå og utføra handlingar</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_message">Appen kan fylgja med på kva du gjer i ein app eller med ein sensor, og kan gjera ting i appar på dine vegner.</string>
+    <string name="accessibility_nav_bar_more_options_title">Vel ein funksjon</string>
+    <string name="privacy_chip_container_leading_title">Personvern</string>
+    <string name="qs_tile_request_dialog_not_add">Ikkje legg til feltet</string>
+    <string name="touchpad_recent_apps_gesture_success_body">Du klarte rørsla for å sjå nylege appar.</string>
+    <string name="sign_in_button_on_bouncer">Logg på</string>
+    <string name="location_button_text_precise_location">Nøyaktig posisjon</string>
+    <string name="location_button_text_use_precise_location">Bruk nøyaktig posisjon</string>
+    <string name="av_panel_title">Personvern</string>
+    <string name="sensor_activity_close_app_button">Lukk appen</string>
+    <string name="more_options_move">Flytt</string>
+    <string name="more_options_remove_all">Fjern alle</string>
+    <string name="floating_menu_more_options_label">Fleire val</string>
+</resources>

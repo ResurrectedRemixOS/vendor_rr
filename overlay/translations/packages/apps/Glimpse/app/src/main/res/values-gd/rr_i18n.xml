@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Gailearaidh</string>
+    <string name="albums_title">Albaman</string>
+    <string name="categories_title">Roinnean-seòrsa</string>
+    <string name="album_favorites">Annsachdan</string>
+    <string name="album_photos">Dealbhan</string>
+    <string name="album_videos">Videothan</string>
+    <string name="media_info_unknown">Chan eil fhios</string>
+    <string name="file_action_add_to_favorites">Cuir ris na h-annsachdan</string>
+    <string name="file_action_edit">Deasaich</string>
+    <string name="file_action_information">Fiosrachadh</string>
+    <string name="file_action_remove_from_favorites">Thoir air falbh o na h-annsachdan</string>
+    <string name="file_action_share">Co-roinn</string>
+    <string name="file_action_undo_action">Neo-dhèan</string>
+    <string name="picker_done">Deiseil</string>
+    <string name="set_wallpaper_label">Pàipear-balla</string>
+    <string name="set_wallpaper">Suidhich pàipear-balla</string>
+    <string name="set_wallpaper_home_screen">An sgrìn dachaigh</string>
+    <string name="set_wallpaper_lock_screen">An sgrìn-ghlasaidh</string>
+    <string name="title_activity_settings">Roghainnean</string>
+    <string name="general_header">Coitcheann</string>
+</resources>

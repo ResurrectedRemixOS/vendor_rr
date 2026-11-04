@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">لافندر</string>
+    <string name="red_color_name">توت</string>
+    <string name="wht_color_name">ضباب</string>
+    <string name="indigo_color_name">"نيلي"</string>
+    <string name="iris_color_name">قزحي</string>
+    <string name="jade_color_name">يشم</string>
+    <string name="lemongrass_color_name">عشب الليمون</string>
+    <string name="moonstone_color_name">حجر القمر</string>
+    <string name="obsidian_color_name">obsidian</string>
+    <string name="peony_color_name">فاوانيا</string>
+    <string name="porcelain_color_name">بورسلين</string>
+    <string name="fruit1_color_name">لوحة ألوان ثنائية باللونين الأصفر والأحمر</string>
+    <string name="fruit2_color_name">لوحة ألوان ثنائية باللونين الأخضر والبرتقالي</string>
+    <string name="fruit3_color_name">لوحة ألوان ثنائية باللونين الأزرق والأخضر</string>
+    <string name="fruit4_color_name">لوحة ألوان ثنائية باللونين البنفسجي الفاتح والأزرق</string>
+    <string name="fruit5_color_name">لوحة ألوان ثنائية باللونين الوردي والنيلي</string>
+</resources>

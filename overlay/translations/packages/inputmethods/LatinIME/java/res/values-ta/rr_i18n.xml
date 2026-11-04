@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_split_keyboard_summary">இயற்கைத் திசையில் மட்டும்</string>
+    <string name="split_keyboard_duplicate_keys">நகல் மையச் விசைகள்</string>
+    <string name="split_keyboard_duplicate_keys_summary">இரு பகுதிகளிலும் நடுவில் அருகிலுள்ள விசைகளைக் காட்டு</string>
+    <string name="spoken_description_split_keyboard">பிளவுபட்ட விசைப்பலகை</string>
+    <string name="spoken_description_merge_keyboard">விசைப்பலகையை இணை</string>
+    <string name="spoken_description_float_keyboard">மிதக்கும் விசைப்பலகை</string>
+    <string name="spoken_description_dock_keyboard">விசைப்பலகையை நிலைநிறுத்து</string>
+    <string name="floating_keyboard_drag_handle">விசைப்பலகையை நகர்த்து</string>
+    <string name="floating_keyboard_resize_handle">விசைப்பலகையின் அளவை மாற்று</string>
+    <string name="floating_keyboard_reset">"மீட்டமை"</string>
+    <string name="floating_keyboard_hide">விசைப்பலகையை மறை</string>
+    <string name="floating_keyboard_switch_ime">"உள்ளீட்டு முறையை மாற்றும்"</string>
+</resources>

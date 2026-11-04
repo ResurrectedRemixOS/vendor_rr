@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">ڈیوائس فلپ ایکشن</string>
+    <string name="shake_action_title">ڈیوائس شیک ایکشن</string>
+    <string-array name="action_setting_entries">
+        <item>اسنوز کریں</item>
+        <item>"برخاست کریں"</item>
+        <item>"کچھ نہیں"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">فائر ہونے والے الارمز اور ٹائمرز</string>
+    <string name="alarm_missed_channel">چھوٹے ہوئے الارمز</string>
+    <string name="alarm_snooze_channel">اسنوز کیے گئے الارمز</string>
+    <string name="alarm_upcoming_channel">آنے والے الارمز</string>
+    <string name="stopwatch_channel">اسٹاپ واچ</string>
+    <string name="timer_channel">ٹائمر</string>
+    <string name="add_label">لیبل شامل کریں</string>
+    <string name="dialog_permissions_title">"اجازتیں"</string>
+    <string name="dialog_permissions_ask">دوبارہ پوچھیں</string>
+    <string name="dialog_permissions_dismiss">"برخاست کریں"</string>
+    <string name="dialog_permissions_settings">"ترتیبات"</string>
+    <string name="dialog_permissions_power_off_alarm">اس اجازت کے بغیر آپ کی ڈیوائس الارم چلانے کے لیے خود آن نہیں ہو سکے گی</string>
+    <string name="dialog_permissions_no_permission">ضروری اجازتیں مسترد کر دی گئی ہیں، انہیں ترتیبات ایپ سے فعال کریں</string>
+    <string name="dialog_permissions_post_notifications">یہ ایپ اطلاعات پر انحصار کرتی ہے۔ ان کے بغیر یہ نہیں چل سکتی!</string>
+    <string name="selected">"منتخب کردہ"</string>
+    <string name="more_options">"مزید اختیارات"</string>
+    <string name="widget_choice_title">اپنا اسٹائل منتخب کریں</string>
+    <string name="widget_name_transparent">غیر بیک اپ شدہ</string>
+    <string name="widget_name_solid">بیک اپ شدہ</string>
+    <string name="night_mode_enabled_title">"فعال"</string>
+    <string name="night_mode_dnd_title">ڈسٹرب نہ کریں کی حالت کی پیروی کریں</string>
+    <string name="night_mode_dnd_summary">نائٹ موڈ ڈسٹرب نہ کریں کی حالت کی پیروی کرتا ہے</string>
+    <string name="show_ampm_title">AM/PM اشارے دکھائیں</string>
+    <string name="bold_text_title">گھڑی کا متن بولڈ کریں</string>
+    <string name="night_mode_brightness_text_title">"چمکیلا پن"</string>
+    <string name="clock_color_title">"رنگ"</string>
+    <string-array name="clock_color_entries">
+        <item>"سفید"</item>
+        <item>"سرخ"</item>
+        <item>"سبز"</item>
+        <item>"نیلا"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"اسکرین سیور"</string>
+    <string name="screensaver_preview">"پیش منظر"</string>
+    <string name="screensaver_preview_summary">اسکرین سیور فوراً شروع کریں</string>
+    <string name="screensaver_change_settings">"ترتیبات"</string>
+    <string name="screensaver_change_settings_summary">گھڑی کی اسکرین سیور ترتیبات کھولیں</string>
+    <string name="screensaver_daydream_settings">اسکرین سیور منتخب/فعال کریں</string>
+    <string name="screensaver_daydream_settings_summary">مرکزی اسکرین سیور ترتیبات کھولیں</string>
+</resources>

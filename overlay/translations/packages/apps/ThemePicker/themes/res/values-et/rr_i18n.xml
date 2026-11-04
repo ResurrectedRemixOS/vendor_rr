@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Klassikaline</string>
+    <string name="bundle1_color_name">Carbon</string>
+    <string name="bundle2_color_name">Paber</string>
+    <string name="bundle3_color_name">Päike</string>
+    <string name="bue_color_name">Lavendel</string>
+    <string name="red_color_name">Mari</string>
+    <string name="wht_color_name">Udu</string>
+    <string name="indigo_color_name">"Indigosinine"</string>
+    <string name="iris_color_name">Iiris</string>
+    <string name="jade_color_name">Nefriit</string>
+    <string name="lemongrass_color_name">Sidrunhein</string>
+    <string name="moonstone_color_name">Kuukivi</string>
+    <string name="obsidian_color_name">Obsidiaan</string>
+    <string name="peony_color_name">Pojeng</string>
+    <string name="porcelain_color_name">Portselan</string>
+    <string name="fruit1_color_name">Kollane ja punane kahevärvipalett</string>
+    <string name="fruit2_color_name">Roheline ja oranž kahevärvipalett</string>
+    <string name="fruit3_color_name">Sinine ja roheline kahevärvipalett</string>
+    <string name="fruit4_color_name">Helelilla ja sinine kahevärvipalett</string>
+    <string name="fruit5_color_name">Roosa ja indigo kahevärvipalett</string>
+</resources>

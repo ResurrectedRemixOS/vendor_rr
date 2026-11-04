@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="category_private">Uslig</string>
+    <string name="screen_zoom_summary_smallest">D ameẓẓyan akk</string>
+    <string name="screen_zoom_summary_smaller">D ameẓẓyan nezzeh</string>
+    <string name="accessibility_screen_magnification_title">Asemɣer</string>
+    <string name="back">Tuɣalin</string>
+    <string name="save">Sekles</string>
+    <string name="done">Immed</string>
+    <string name="media_transfer_analog_line_name">Analogique</string>
+    <string name="tv_media_transfer_connected">Iqqen</string>
+    <string name="user_nickname">Meffer isem</string>
+    <string name="guest_reset_guest_confirm_button">Wennez</string>
+    <string name="guest_exit_dialog_button">Ffeγ</string>
+    <string name="guest_exit_clear_data_button">Kkes</string>
+    <string name="guest_exit_save_data_button">Sekles</string>
+    <string name="user_image_photo_selector">Fren tawlaft</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Suref</string>
+    <string name="wifi_hotspot_switch_on_text">Irmed</string>
+</resources>

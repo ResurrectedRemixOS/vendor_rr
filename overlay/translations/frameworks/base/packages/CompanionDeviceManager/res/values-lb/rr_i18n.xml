@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="discovery_wifi">WLAN</string>
+    <string name="profile_name_glasses">Apparat</string>
+    <string name="profile_name_generic">Apparat</string>
+    <string name="consent_yes">Erlaben</string>
+    <string name="consent_cancel">Ofbriechen</string>
+    <string name="consent_back">Zréck</string>
+    <string name="permission_phone">Telefon</string>
+    <string name="permission_contacts">Kontakter</string>
+    <string name="permission_calendar">Kalenner</string>
+    <string name="permission_microphone">Mikro</string>
+    <string name="permission_notifications">Notifikatiounen</string>
+    <string name="permission_microphone_summary">Toun ophuelen</string>
+    <string name="device_type" product="default">Telefon</string>
+    <string name="device_type" product="device">Apparat</string>
+</resources>

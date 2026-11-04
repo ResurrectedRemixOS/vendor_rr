@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">ค่าแบบตรรกะ (boolean)</string>
+    <string name="any_int_type_description">ค่าจำนวนเต็ม</string>
+    <string name="any_string_type_description">ค่าข้อความ</string>
+    <string name="display_id_type_description">ตัวระบุหน้าจอแสดงผลของระบบ (อาจเป็นจอภายในหรือภายนอกตามการกำหนดค่า)</string>
+    <string name="installed_package_name_type_description">แพ็กเกจใดก็ได้ที่ติดตั้งบนอุปกรณ์</string>
+    <string name="int_in_range_type_description_from">จำนวนเต็มที่มากกว่าหรือเท่ากับ %1$d โดยมีขั้น %2$d</string>
+    <string name="int_in_range_type_description_to">จำนวนเต็มที่น้อยกว่าหรือเท่ากับ %1$d โดยมีขั้น %2$d</string>
+    <string name="int_in_range_type_description_between">จำนวนเต็มในช่วง [%1$d, %2$d] โดยมีขั้น %3$d</string>
+    <string name="time_of_day_type_description">เวลาของวันในรูปแบบ 24 ชั่วโมง HH:mm</string>
+    <string name="time_duration_type_description">ระยะเวลาเป็นจำนวนเต็มโดยมีความละเอียดระดับวินาที</string>
+    <string name="sim_slot_id_type_description">หมายเลขช่องซิมที่ถูกต้อง</string>
+    <string name="subscription_id_type_description">หมายเลขการสมัครใช้บริการที่ถูกต้อง</string>
+    <string name="wifi_ssid_type_description">SSID ของเครือข่าย Wi-Fi</string>
+</resources>

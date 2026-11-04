@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Места во близина</string>
+    <string name="lookup_settings_label">Пребарување телефонски број</string>
+    <string name="enable_forward_lookup_title">Пребарување напред</string>
+    <string name="enable_forward_lookup_summary">Прикажи блиски места при пребарување во бирачот</string>
+    <string name="enable_reverse_lookup_title">Обратно пребарување</string>
+    <string name="enable_reverse_lookup_summary">Барај информации за лицето или местото за непознати броеви при дојдовни повици</string>
+    <string name="forward_lookup_provider_title">Давател на пребарување напред</string>
+    <string name="reverse_lookup_provider_title">Давател на обратно пребарување</string>
+    <string name="lookup_disclaimer">Пребарувањата може да испраќаат барања преку безбеден протокол (https) до далечински веб-страници за собирање информации. Барањето може да го вклучува телефонскиот број на другата страна или текстот за пребарување</string>
+</resources>

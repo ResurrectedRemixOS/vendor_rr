@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share_selected">Дели изабрано</string>
+    <string name="pause">Паузирај</string>
+    <string name="resume">"Настави"</string>
+    <string name="delete_all">Обриши све</string>
+    <string name="delete_selected">Обриши изабрано</string>
+    <string name="rename">"Преименуј"</string>
+    <string name="delete_recording_message">Да ли сте сигурни да желите да избришете овај снимак? Ово се не може поништити</string>
+    <string name="confirm">"Потврди"</string>
+    <string name="discard">"Одбаци"</string>
+    <string name="record_again">Снимите поново</string>
+    <string name="confirm_result_title">Користити снимак?</string>
+    <string name="confirm_result_message">Да ли желите да користите последњи снимак?</string>
+    <string name="sound_recording_title_paused">"Паузирано"</string>
+    <string name="settings_title">"Подешавања"</string>
+    <string name="settings_location_message">Означите снимке тренутном локацијом</string>
+    <string name="settings_quality_high">Снимај у високом квалитету</string>
+    <string name="dialog_permissions_notifications">Снимач треба дозволу за обавештења да прикаже контроле снимања</string>
+    <string name="dialog_permissions_mic_notifications">Снимачу је потребна дозвола за микрофон да снима звук и дозвола за обавештења да прикаже контроле снимања</string>
+    <string name="dialog_permissions_phone_notifications">Снимачу је потребан приступ стању телефона да спречи снимање током позива и дозвола за обавештења да прикаже контроле снимања</string>
+    <string name="dialog_permissions_mic_phone_notifications">Снимачу је потребна дозвола за микрофон за снимање звука, приступ стању телефона за спречавање снимања током позива и дозвола за обавештења за приказ контрола снимања</string>
+    <string name="dialog_permissions_location">Снимачу је потребна дозвола за локацију да аутоматски означи снимке ради лакше организације</string>
+    <string name="snack_permissions_no_permission_location">Дозвола за локацију је одбијена, омогућите је у апликацији Подешавања да бисте означили снимке</string>
+    <string name="list_title">Моји снимци</string>
+    <string name="list_error_empty">Сви ваши снимци биће приказани овде</string>
+    <string name="list_edit_title">Измени назив снимка</string>
+    <string name="list_edit_confirm">"Промени"</string>
+    <string name="list_item_menu">Више радњи</string>
+    <string name="delete_all_title">Обриши све</string>
+    <string name="delete_all_message">Да ли сте сигурни да желите да обришете све снимке? Ово се не може поништити</string>
+    <string name="delete_selected_title">Обриши изабрано</string>
+    <string name="delete_selected_message">Да ли сте сигурни да желите да обришете изабране снимке? Ово се не може поништити</string>
+</resources>

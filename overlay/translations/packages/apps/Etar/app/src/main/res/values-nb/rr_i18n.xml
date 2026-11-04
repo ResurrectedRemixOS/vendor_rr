@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="user_rejected_calendar_write_permission_lineage">Kalender trenger tillatelse til å lese og skrive kalenderdata for å fungere riktig. Prøv igjen.</string>
+    <string name="preferences_menu_about_lineage">Om Kalender</string>
+    <string name="no_calendars_found">Før du kan legge til en hendelse, må du legge til minst én kalender på enheten</string>
+    <string name="add_calendar">Legg til kalender</string>
+    <string name="duplicate_label">Dupliser</string>
+    <string name="week_start_locale_default">Standard for språkinnstilling</string>
+    <string name="preferences_staggered_display_title">Forskjøvet visning</string>
+    <string name="preferences_staggered_display_summary">Vis overlappende hendelser i et forskjøvet oppsett</string>
+    <string name="cal_export_error">Kunne ikke eksportere hendelsen</string>
+    <string name="preferences_manage_notifications">Administrer varsler</string>
+    <string name="preferences_do_not_check_battery_optimization">Ikke sjekk batterioptimalisering</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Bruk på eget ansvar! Varsler fungerer ikke lenger, miniprogrammer oppdateres ikke, og bakgrunnstjenester krasjer. Du blir heller ikke spurt igjen om du vil aktivere bakgrunnstjenesten.</string>
+    <string name="calendars">Kalendere</string>
+    <string name="discard_event_changes">Vil du forkaste endringene?</string>
+    <string name="discard">"Forkast"</string>
+</resources>

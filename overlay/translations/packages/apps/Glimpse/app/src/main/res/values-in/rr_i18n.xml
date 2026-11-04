@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="album_photos">"Foto"</string>
+    <string name="manage_media_permission_message">Agar dapat mengelola gambar dan video dengan lebih baik, izinkan aplikasi mengelola file media Anda</string>
+    <string name="media_info_write_description_failed">Gagal mengubah deskripsi media</string>
+    <string name="intent_no_system_wallpaper_cropper_available">Tidak ada pemotong sistem yang tersedia</string>
+    <string name="set_wallpaper_lock_screen">"Layar kunci"</string>
+    <string name="set_wallpaper_both">Layar utama dan layar kunci</string>
+    <string name="warning_bin_time_period">File akan dihapus permanen setelah 30 hari.</string>
+    <string name="edge_tap_navigation_enable_title">Navigasi ketuk tepi</string>
+    <string name="edge_tap_navigation_enabled_description">Ketuk tepi kiri atau kanan layar untuk berpindah antar media</string>
+    <string name="double_tap_to_seek_enabled_title">Aktifkan ketuk dua kali untuk mencari</string>
+    <string name="double_tap_to_seek_enabled_description">Ketuk dua kali sisi kiri atau kanan video untuk melewati ke belakang atau ke depan</string>
+    <string name="double_tap_to_seek_seconds_title">Durasi lompat saat ketuk dua kali</string>
+    <string name="double_tap_to_seek_seconds_description">Detik yang dilewati saat mengetuk dua kali video</string>
+    <string name="hide_native_seek_buttons_title">Sembunyikan tombol cari bawaan</string>
+    <string name="hide_native_seek_buttons_description">Sembunyikan tombol putar mundur dan maju cepat dari kontrol pemutar video</string>
+</resources>

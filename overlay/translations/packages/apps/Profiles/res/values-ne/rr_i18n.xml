@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">प्रोफाइल ट्रस्ट प्रदायक</string>
+    <string name="profile_picker_title">"प्रोफाइलहरू"</string>
+    <string name="profile_none">"कुनै पनि होइन"</string>
+    <string name="profile_trust_agent_title">प्रोफाइल ट्रस्ट एजेन्ट</string>
+    <string name="profile_trust_agent_summary">प्रोफाइलहरूलाई लक स्क्रिन सुरक्षा अस्थायी रूपमा असक्षम गर्न अनुमति दिन्छ</string>
+    <string name="trust_by_profile">प्रोफाइलद्वारा विश्वसनीय</string>
+</resources>

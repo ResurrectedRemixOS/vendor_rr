@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_share">Konigi</string>
+    <string name="menu_history">Historio</string>
+    <string name="menu_settings">Agordoj</string>
+    <string name="menu_download">Elŝuti</string>
+    <string name="menu_print">Presi</string>
+    <string name="download_positive">Elŝuti</string>
+    <string name="background_shortcuts_save_action">Konservi</string>
+    <string name="settings_title">Agordoj</string>
+    <string name="pref_start_page_autoload_disabled">Malŝaltita</string>
+    <string name="pref_location_title">Loko</string>
+    <string name="history_title">Historio</string>
+    <string name="favorite_edit_title">Titolo</string>
+    <string name="favorite_edit_positive">Redakti</string>
+    <string name="favorite_edit_delete">Forigi</string>
+    <string name="suggestions_provider_history">Historio</string>
+    <string name="suggestions_provider_none">Nenio</string>
+    <string name="search_bar_hint">Serĉi</string>
+    <string name="location_dialog_allow">Permesi</string>
+    <string name="protected_media_dialog_deny">Malpermesi</string>
+</resources>

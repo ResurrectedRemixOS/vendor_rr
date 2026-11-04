@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Sguir dheth</string>
+    <string name="finish">Crìochnaich</string>
+    <string name="device_info_serial">Àireamh shreathach</string>
+    <string name="setup_datetime_section_date">Ceann-là</string>
+    <string name="setup_datetime_section_time">Àm</string>
+    <string name="setup_date_format">Fòrmataich</string>
+    <string name="date_format_day">Latha</string>
+    <string name="date_format_month">Mìos</string>
+    <string name="date_format_year">Bliadhna</string>
+    <string name="setup_time_zone">Roinn-tìde</string>
+    <string name="setup_24_hour_format">Cleachd fòrmat 24 uair a thìde</string>
+    <string name="location_access_title">Cleachd an t-ionad</string>
+    <string name="gesture_navigation">Seòladaireachd ghluasadan</string>
+    <string name="navbar_navigation">Seòladaireachd le 3 putanan</string>
+    <string name="setup_theme">Ùrlar</string>
+    <string name="light">Soilleir</string>
+</resources>

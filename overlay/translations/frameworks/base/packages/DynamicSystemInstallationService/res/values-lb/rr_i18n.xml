@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="notification_action_cancel">Ofbriechen</string>
+    <string name="notification_action_discard">Verwerfen</string>
+    <string name="notification_action_reboot_to_dynsystem">Nei starten</string>
+    <string name="notification_action_reboot_to_origin">Nei starten</string>
+</resources>

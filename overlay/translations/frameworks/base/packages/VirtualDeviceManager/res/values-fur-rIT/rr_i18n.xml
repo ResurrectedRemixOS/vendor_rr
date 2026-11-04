@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="request_computer_control_access_dialog_button_allow">Dome cheste volte</string>
+    <string name="request_computer_control_access_dialog_button_dont_allow">No sta permeti</string>
+    <string name="request_computer_control_access_dialog_button_always_allow">Permet simpri</string>
+</resources>

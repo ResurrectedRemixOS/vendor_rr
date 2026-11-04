@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Kon nie oproepopname begin nie</string>
+    <string name="call_recording_file_location">Oproepopname gestoor na <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Neem oproep op</string>
+    <string name="onscreenCallRecordingText">Oproep word opgeneem – <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Stop opname"</string>
+    <string name="recording_warning_title">Aktiveer oproepopname?</string>
+    <string name="recording_warning_text">Kennisgewing: Jy is verantwoordelik vir nakoming van alle wette, regulasies en reëls wat op die gebruik van oproepopnamefunksionaliteit en die gebruik of verspreiding van daardie opnames van toepassing is.</string>
+</resources>

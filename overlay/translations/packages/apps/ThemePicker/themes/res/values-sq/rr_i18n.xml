@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Livandë</string>
+    <string name="red_color_name">Manaferrë</string>
+    <string name="wht_color_name">Mjegull</string>
+    <string name="fruit1_color_name">Paletë me dy ngjyra: e verdhë dhe e kuqe</string>
+    <string name="fruit2_color_name">Paletë me dy ngjyra: e gjelbër dhe portokalli</string>
+    <string name="fruit3_color_name">Paletë me dy ngjyra: e kaltër dhe e gjelbër</string>
+    <string name="fruit4_color_name">Paletë me dy ngjyra: vjollcë e çelët dhe e kaltër</string>
+    <string name="fruit5_color_name">Paletë me dy ngjyra: rozë dhe indigo</string>
+</resources>

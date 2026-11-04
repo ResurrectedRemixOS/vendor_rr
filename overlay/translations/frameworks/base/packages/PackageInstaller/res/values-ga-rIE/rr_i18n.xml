@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="install">Suiteáil</string>
+    <string name="update">Nuashonrú</string>
+    <string name="archive">Cartlann</string>
+    <string name="app_name_unknown">Anaithnid</string>
+    <string name="restore">Athchóirigh</string>
+    <string name="unarchive_error_generic_title">Chuaigh rud éigin mícheart</string>
+    <string name="unarchive_error_storage_title">Gan dóthain stórála</string>
+    <string name="unarchive_clear_storage_button">Glan an stóráil</string>
+    <string name="title_install_failed_less_storage">Gan dóthain stórála</string>
+    <string name="title_uninstall_app_not_found">Níor aimsíodh an aip</string>
+    <string name="title_restore_error_less_storage">Gan dóthain stórála</string>
+    <string name="title_restore_error_generic">Chuaigh rud éigin mícheart</string>
+    <string name="button_install">Suiteáil</string>
+    <string name="button_update">Nuashonrú</string>
+    <string name="button_done">Déanta</string>
+    <string name="button_cancel">Cealaigh</string>
+    <string name="button_continue">Lean ar aghaidh</string>
+    <string name="button_uninstall">Díshuiteáil</string>
+    <string name="button_delete">Scrios</string>
+    <string name="button_manage_apps">Bainistigh aipeanna</string>
+    <string name="button_archive">Cartlann</string>
+    <string name="button_restore">Athchóirigh</string>
+    <string name="button_uninstall_updates_system_app">Díshuiteáil nuashonruithe</string>
+    <string name="button_settings">Socruithe</string>
+    <string name="button_retry">Bain triail eile as</string>
+</resources>

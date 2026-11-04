@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share">"Ndaj"</string>
+    <string name="download_successful">Shkarkimi u krye me sukses</string>
+    <string name="download_error">Gabim gjatë shkarkimit të skedarit</string>
+</resources>

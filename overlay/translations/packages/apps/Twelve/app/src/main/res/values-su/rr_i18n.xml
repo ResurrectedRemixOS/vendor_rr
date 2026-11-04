@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="audio_file_type_unknown">Teu dipikanyaho</string>
+    <string name="audio_sample_rate_unknown">Teu dipikanyaho</string>
+    <string name="audio_channel_count_unknown">Teu dipikanyaho</string>
+    <string name="audio_encoding_unknown">Teu dipikanyaho</string>
+    <string name="audio_output_mode_unknown">Teu dipikanyaho</string>
+    <string name="audio_bitrate_unknown">Teu dipikanyaho</string>
+    <string name="audio_output_device_name_unknown">Teu dipikanyaho</string>
+    <string name="audio_output_device_type_unknown">Teu dipikanyaho</string>
+    <string name="audio_format_compression_unknown">Teu dipikanyaho</string>
+    <string name="title_activity_settings">Sétingan</string>
+    <string name="sort_by_unknown">Teu dipikanyaho</string>
+    <string name="unknown">Teu dipikanyaho</string>
+</resources>

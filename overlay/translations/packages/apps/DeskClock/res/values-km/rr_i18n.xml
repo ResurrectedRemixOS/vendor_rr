@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">សកម្មភាពនៅពេលត្រឡប់ឧបករណ៍</string>
+    <string name="shake_action_title">សកម្មភាពនៅពេលធ្វើឱ្យឧបករណ៍ញ័រ</string>
+    <string-array name="action_setting_entries">
+        <item>ផ្អាក</item>
+        <item>"ច្រានចោល"</item>
+        <item>"គ្មាន​អ្វីទេ"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">ការដំណើរការម៉ោងរោទ៍ &amp; នាឡិកាកំណត់ពេល</string>
+    <string name="alarm_missed_channel">ម៉ោងរោទ៍ដែលខកខាន</string>
+    <string name="alarm_snooze_channel">ម៉ោងរោទ៍ដែលពន្យារ</string>
+    <string name="alarm_upcoming_channel">ម៉ោងរោទ៍ដែលនឹងមកដល់</string>
+    <string name="stopwatch_channel">នាឡិកា​បញ្ឈប់</string>
+    <string name="timer_channel">កម្មវិធី​កំណត់​ម៉ោង</string>
+    <string name="add_label">បន្ថែមស្លាក</string>
+    <string name="dialog_permissions_title">"ការអនុញ្ញាត"</string>
+    <string name="dialog_permissions_ask">សួរម្តងទៀត</string>
+    <string name="dialog_permissions_dismiss">"ច្រានចោល"</string>
+    <string name="dialog_permissions_settings">"ការកំណត់"</string>
+    <string name="dialog_permissions_power_off_alarm">បើគ្មានការអនុញ្ញាតនេះ ឧបករណ៍របស់អ្នកនឹងមិនអាចបើកខ្លួនឯងដើម្បីបញ្ជូនម៉ោងរោទ៍បានទេ។</string>
+    <string name="dialog_permissions_no_permission">ការអនុញ្ញាតដែលត្រូវការត្រូវបានបដិសេធ សូមបើកវានៅក្នុងកម្មវិធីការកំណត់</string>
+    <string name="dialog_permissions_post_notifications">កម្មវិធីនេះពឹងផ្អែកលើការជូនដំណឹង។ បើគ្មានវាទេ វាមិនអាចដំណើរការបានឡើយ!</string>
+    <string name="selected">"បានជ្រើសរើស"</string>
+    <string name="more_options">"ជម្រើស​ច្រើនទៀត"</string>
+    <string name="widget_choice_title">ជ្រើសរើសរចនាបថរបស់អ្នក</string>
+    <string name="widget_name_transparent">គ្មានផ្ទៃខាងក្រោយ</string>
+    <string name="widget_name_solid">មានផ្ទៃខាងក្រោយ</string>
+    <string name="night_mode_enabled_title">"បាន​បើក"</string>
+    <string name="night_mode_dnd_title">ធ្វើតាមស្ថានភាពកុំរំខាន</string>
+    <string name="night_mode_dnd_summary">របៀបយប់ធ្វើតាមស្ថានភាពកុំរំខាន</string>
+    <string name="show_ampm_title">បង្ហាញសូចនាករ AM/PM</string>
+    <string name="bold_text_title">អក្សរនាឡិកាដិតធ្ងន់</string>
+    <string name="night_mode_brightness_text_title">"ពន្លឺ"</string>
+    <string name="clock_color_title">"ពណ៌"</string>
+    <string-array name="clock_color_entries">
+        <item>"ស"</item>
+        <item>"ក្រហម"</item>
+        <item>"បៃតង"</item>
+        <item>"ខៀវ"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"ធាតុរក្សាអេក្រង់"</string>
+    <string name="screensaver_preview">"មើលសាកល្បង"</string>
+    <string name="screensaver_preview_summary">ចាប់ផ្តើមកម្មវិធីរក្សាអេក្រង់ភ្លាមៗ</string>
+    <string name="screensaver_change_settings">"ការកំណត់"</string>
+    <string name="screensaver_change_settings_summary">បើកការកំណត់កម្មវិធីរក្សាអេក្រង់របស់នាឡិកា</string>
+    <string name="screensaver_daydream_settings">ជ្រើសរើស/បើកកម្មវិធីរក្សាអេក្រង់</string>
+    <string name="screensaver_daydream_settings_summary">បើកការកំណត់កម្មវិធីរក្សាអេក្រង់ចម្បង</string>
+</resources>

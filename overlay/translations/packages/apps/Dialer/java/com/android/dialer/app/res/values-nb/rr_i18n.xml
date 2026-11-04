@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="deny">"Avvis"</string>
+    <string name="call_recording_category_title">Samtaleopptak</string>
+    <string name="call_recording_format">Lydformat</string>
+    <string name="call_via">Ring via</string>
+    <string name="call_via_dialog_title">Ring via…</string>
+    <string name="call_log_stats_title">Statistikk</string>
+    <string name="action_menu_helplines">Hjelpelinjer</string>
+    <string name="default_dialer_text">Du må angi Telefon som standard telefon-app for å bruke den.</string>
+    <string name="default_dialer_action">"Angi som standard"</string>
+</resources>

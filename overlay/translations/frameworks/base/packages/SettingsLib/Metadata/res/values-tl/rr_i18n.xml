@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Isang boolean na value.</string>
+    <string name="any_int_type_description">Isang integer na value.</string>
+    <string name="any_string_type_description">Isang string na value.</string>
+    <string name="display_id_type_description">Isang system display identifier (maaaring internal o external depende sa configuration).</string>
+    <string name="installed_package_name_type_description">Anumang package na naka-install sa device.</string>
+    <string name="int_in_range_type_description_from">Isang integer na katumbas o mas malaki sa %1$d, na may step na %2$d.</string>
+    <string name="int_in_range_type_description_to">Isang integer na katumbas o mas maliit sa %1$d, na may step na %2$d.</string>
+    <string name="int_in_range_type_description_between">Isang integer sa saklaw na [%1$d, %2$d], na may step na %3$d.</string>
+    <string name="time_of_day_type_description">Oras ng araw na nasa 24-hour format na HH:mm.</string>
+    <string name="time_duration_type_description">Tagal ng oras na kinakatawan bilang integer na may precision na segundo.</string>
+    <string name="sim_slot_id_type_description">Isang wastong SIM slot ID.</string>
+    <string name="subscription_id_type_description">Isang wastong subscription ID.</string>
+    <string name="wifi_ssid_type_description">Ang SSID ng isang Wi-Fi network.</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">အဆက်အသွယ် စာရင်းအင်း အသေးစိတ်</string>
+    <string name="call_stats_incoming">ဝင်ရောက်: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">ထွက်ခွာ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">လွတ်သွား: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">ပိတ်ဆို့ထား: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">စုစုပေါင်း: <xliff:g id="call_count">%1$s</xliff:g>၊ <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">စုစုပေါင်း: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">စတင်မှု ရက်စွဲ</string>
+    <string name="call_stats_filter_to">ပြီးဆုံးမှု ရက်စွဲ</string>
+    <string name="call_stats_filter_picker_title">ကာလအပိုင်းအခြား စစ်ထုတ်ရန်</string>
+    <string name="date_quick_selection">အမြန်ရွေးချယ်ရန်</string>
+    <string name="date_qs_currentmonth">လက်ရှိလ</string>
+    <string name="date_qs_currentquarter">လက်ရှိသုံးလပတ်</string>
+    <string name="date_qs_currentyear">လက်ရှိနှစ်</string>
+    <string name="date_qs_lastweek">"ပြီးခဲ့သော သီတင်းပတ်"</string>
+    <string name="date_qs_lastmonth">"ပြီးခဲ့သောလ"</string>
+    <string name="date_qs_lastquarter">ယခင်သုံးလပတ်</string>
+    <string name="date_qs_lastyear">"မနှစ်က"</string>
+    <string name="call_stats_date_filter">ကာလအပိုင်းအခြား ချိန်ညှိရန်</string>
+    <string name="call_stats_reset_filter">ကာလအပိုင်းအခြား ပြန်သတ်မှတ်ရန်</string>
+    <string name="call_stats_sort_by_duration">ခေါ်ဆိုချိန်ကြာချိန်ဖြင့် စီရန်</string>
+    <string name="call_stats_sort_by_count">ခေါ်ဆိုမှုအကြိမ်ရေဖြင့် စီရန်</string>
+    <string name="call_stats_title_for_number">ဤနံပါတ်</string>
+    <string name="call_stats_title_of_total">စုစုပေါင်းထဲမှ</string>
+    <string name="call_stats_title_durations">ခေါ်ဆိုချိန်ကြာချိန်များ</string>
+    <string name="call_stats_title_count">ခေါ်ဆိုမှုအကြိမ်ရေ</string>
+    <string name="call_stats_title_average_duration">ပျမ်းမျှခေါ်ဆိုချိန်</string>
+    <string name="recent_calls_no_items_in_range">ရွေးထားသော ကာလအပိုင်းအခြားတွင် ခေါ်ဆိုမှုမှတ်တမ်း မရှိပါ။</string>
+</resources>

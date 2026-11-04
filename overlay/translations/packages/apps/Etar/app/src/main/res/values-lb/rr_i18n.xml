@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="no_reminder_label">Keen</string>
+    <string name="no_snooze_label">Keen</string>
+    <string name="share_label">Deelen</string>
+    <string name="preferences_theme">Design</string>
+    <string name="preferences_system_theme">Systemstandard</string>
+    <string name="preferences_black_theme">Schwaarz</string>
+    <string name="display_options">Uweisoptiounen</string>
+    <string name="license">Lizenz</string>
+    <string name="visibility_default">Standard</string>
+    <string name="visibility_public">Ëffentlech</string>
+    <string name="fifteen_minutes">15 Minutten</string>
+    <string name="thirty_minutes">30 Minutten</string>
+    <string name="one_hour">1 Stonn</string>
+    <string name="preferences_calendar_color">Faarf</string>
+    <string name="preferences_calendar_delete_cancel">Ofbriechen</string>
+    <string name="preferences_list_add_offline_name">Numm</string>
+    <string name="preferences_list_add_offline_cancel">Ofbriechen</string>
+    <string name="discard">Verwerfen</string>
+    <string name="searchview_description_clear">Ufro läschen</string>
+    <string name="chips_action_copy">Kopéieren</string>
+</resources>

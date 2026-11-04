@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">Lahat ng account</string>
+    <string name="call_log_all_calls_header">Lahat ng tawag</string>
+    <string name="call_log_incoming_header">Mga papasok na tawag lang</string>
+    <string name="call_log_outgoing_header">Mga palabas na tawag lang</string>
+    <string name="call_log_missed_header">Mga hindi nasagot na tawag lang</string>
+    <string name="call_log_voicemail_header">Mga tawag na may voicemail lang</string>
+    <string name="call_log_blacklist_header">Mga na-block na tawag lang</string>
+</resources>

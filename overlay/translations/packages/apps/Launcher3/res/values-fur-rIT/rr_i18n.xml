@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="all_apps_list_label">Liste di aplicazions</string>
+    <string name="widget_settings">Impostazions</string>
+    <string name="home_screen_files_context_menu_copy_label">Copie</string>
+    <string name="home_screen_files_context_menu_rename_label">Cambie non</string>
+    <string name="home_screen_files_context_menu_move_to_trash_label">Sposte te scovacere</string>
+    <string name="actions_popup_menu_button">Azions</string>
+    <string name="shortcuts_popup_menu_button">Scurtis</string>
+    <string name="app_running_state_description">Atîf</string>
+    <string name="folder_type_name">Cartele</string>
+    <string name="circle_shape_title">Cercli</string>
+    <string name="create_new_folder_button_text">Gnove cartele</string>
+    <string name="default_new_folder_name">Gnove cartele</string>
+    <string name="home_screen_files_rename_dialog_neutral_button">Anule</string>
+    <string name="home_screen_files_rename_dialog_positive_button">Cambie non</string>
+    <string name="something_went_wrong">Alc al è lât strucj</string>
+</resources>

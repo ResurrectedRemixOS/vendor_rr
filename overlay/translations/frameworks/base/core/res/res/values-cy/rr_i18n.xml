@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="scCellularNetworkSecurityTitle">Diogelwch rhwydwaith symudol</string>
+    <string name="global_action_feedback">Adborth</string>
+    <string name="global_action_unrestricted_lock">Clo</string>
+    <string name="notification_channel_parental_controls">Rheolyddion rhieni</string>
+    <string name="fingerprint_dialog_use_fingerprint_instead">Heb adnabod wyneb. Defnyddia ôl bys yn lle.</string>
+    <string name="face_acquired_poor_gaze">Edrycha yn syth at dy ddyfais.</string>
+    <string name="default_audio_route_name_digital">Digidol</string>
+    <string name="accessibility_shortcut_label_volume_keys">bysellau sain</string>
+    <string name="unnamed_user_name">Defnyddiwr</string>
+    <string name="immersive_cling_description">I adael, llithra i lawr o frig y sgrin</string>
+    <string name="zen_mode_trigger_event_calendar_any">Unrhyw galendr</string>
+    <string name="social_notification_channel_label">Cymdeithasol</string>
+    <string name="news_notification_channel_label">Newyddion</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_face" product="default">Datgloi ag Wyneb</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_fingerprint">Datgloi ag Ôl Bys</string>
+    <string name="app_lock_edu_dialog_lockscreen_password_name">cyfrinair</string>
+    <string name="app_lock_permission_review_expand_app_list_button">Gweld y cwbl</string>
+    <string name="app_lock_permission_review_continue_button">Parhau</string>
+    <string name="dynamic_mode_notification_title_v2">Mae\u2019r arbedwr batri ymlaen.</string>
+    <string name="accessibility_system_action_menu_label">Dewislen</string>
+    <string name="accessibility_autoclick_resume">Parhau</string>
+    <string name="accessibility_autoclick_scroll_left">Sgrolio i\u2019r chwith</string>
+    <string name="accessibility_autoclick_scroll_right">Sgrolio i\u2019r dde</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_IN_PROGRESS">Yn gwneud cais i ddatgloi is-set rhwydwaith 
+SIM\u2026</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_IN_PROGRESS">Yn gwneud cais i ddatgloi darparwr 
+gwasanaeth SIM\u2026</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_IN_PROGRESS">Yn gwneud cais i ddatgloi darparwr
+gwasanaeth RUIM\u2026</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ERROR">Methodd y cais i ddatgloi rhwydwaith is-set 
+y SIM.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ERROR">Cais i ddatgloi darparydd gwasanaeth y 
+SIM yn aflwyddiannus.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ERROR">Methodd y cais i ddatgloi Darparwr Gwasanaeth RUIM.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_SUCCESS">Datglowyd Darparydd Gwasanaeth SIM yn llwyddiannus.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_SUCCESS">Datglowyd Darparydd Gwasanaeth RUIM 
+yn llwyddiannus.</string>
+    <string name="accessibility_label_private_profile">Gofod preifat</string>
+    <string name="private_space_biometric_prompt_title">Gofod preifat</string>
+    <string name="app_locked_notification_message">Neges newydd</string>
+    <string name="satellite_manual_selection_state_popup_cancel">Mynd nôl</string>
+    <string name="fingerprint_dangling_notification_title">Gosod Datgloi ag Ôl Bys eto</string>
+    <string name="face_dangling_notification_title" product="default">Gosod Datgloi ag Wyneb eto</string>
+    <string name="bg_user_sound_notification_button_switch_user">Newid defnyddiwr</string>
+    <string name="keyboard_shortcut_group_applications_browser">Porwr</string>
+    <string name="keyboard_shortcut_group_applications_email">Ebost</string>
+    <string name="keyboard_shortcut_group_applications_music">Cerddoriaeth</string>
+    <string name="keyboard_shortcut_group_applications_calculator">Cyfrifiannell</string>
+    <string name="keyboard_shortcut_group_applications_maps">Mapiau</string>
+    <string name="keyboard_shortcut_group_applications">Apiau</string>
+    <string name="usb_apm_usb_plugged_in_when_locked_notification_app_title">Diogelwch a phreifatrwydd</string>
+    <string name="usb_apm_usb_plugged_in_when_locked_notification_silence_action_text">Distawrwydd</string>
+    <string name="brightness_unable_adjust_msg">Methu addasu disgleirdeb am ei fod yn cael ei reoli gan yr ap ar y brig</string>
+</resources>

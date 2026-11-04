@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">کلاسک</string>
+    <string name="bundle1_color_name">کاربن</string>
+    <string name="bundle2_color_name">پیپر</string>
+    <string name="bundle3_color_name">سن</string>
+    <string name="bue_color_name">لیوینڈر</string>
+    <string name="red_color_name">بیری</string>
+    <string name="wht_color_name">فوگ</string>
+    <string name="indigo_color_name">"گہرا نیلا"</string>
+    <string name="iris_color_name">آئرس</string>
+    <string name="jade_color_name">جیڈ</string>
+    <string name="lemongrass_color_name">لیمن گراس</string>
+    <string name="moonstone_color_name">مون اسٹون</string>
+    <string name="obsidian_color_name">آبسیڈین</string>
+    <string name="peony_color_name">پیونی</string>
+    <string name="porcelain_color_name">پورسلین</string>
+    <string name="fruit1_color_name">زرد اور سرخ دو رنگی پیلیٹ</string>
+    <string name="fruit2_color_name">سبز اور نارنجی دو رنگی پیلیٹ</string>
+    <string name="fruit3_color_name">نیلا اور سبز دو رنگی پیلیٹ</string>
+    <string name="fruit4_color_name">ہلکا جامنی اور نیلا دو رنگی پیلیٹ</string>
+    <string name="fruit5_color_name">گلابی اور نیلا دو رنگی پیلیٹ</string>
+</resources>

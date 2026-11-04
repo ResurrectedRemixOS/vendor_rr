@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_menu_helplines">Laguntza-telefonoak</string>
+    <string name="default_dialer_text">Lehenetsitako telefono-aplikazioa Markatzailea izatea behar duzu erabiltzeko.</string>
+    <string name="default_dialer_action">"Ezarri lehenetsi gisa"</string>
+</resources>

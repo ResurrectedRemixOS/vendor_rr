@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="use_photo_jpeg_ultra_hdr_title">Ukládat snímky jako JPEG Ultra HDR</string>
+    <string name="use_photo_jpeg_ultra_hdr_summary">Ukládat snímky jako JPEG Ultra HDR, je-li k dispozici, pro lepší HDR fotografie</string>
+    <string name="enable_raw_image_capture_title">Povolit záznam RAW</string>
+    <string name="enable_raw_image_capture_summary">Povolit záznam RAW. Fotografie nelze při záznamu RAW ukládat jako JPEG Ultra HDR</string>
+    <string name="disable_jpeg_with_raw_title">Zakázat JPEG spolu s RAW</string>
+    <string name="disable_jpeg_with_raw_summary">Zakázat JPEG, je-li povolen záznam RAW</string>
+</resources>

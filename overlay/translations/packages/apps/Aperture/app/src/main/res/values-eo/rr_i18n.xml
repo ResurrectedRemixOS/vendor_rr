@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel_button_description">Nuligi</string>
+    <string name="effect_night">NOKTO</string>
+    <string name="settings">AGORDOJ</string>
+    <string name="qr_share_description">Konigi</string>
+    <string name="qr_address_title">Aldoni kontakton</string>
+    <string name="qr_address_content_description">Aldoni kontakton</string>
+    <string name="title_activity_settings">Agordoj</string>
+    <string name="edge_mode_default">Defaŭlte</string>
+    <string name="noise_reduction_mode_default">Defaŭlte</string>
+    <string name="shading_mode_default">Defaŭlte</string>
+    <string name="color_correction_aberration_mode_default">Defaŭlte</string>
+    <string name="distortion_correction_mode_default">Defaŭlte</string>
+    <string name="hot_pixel_mode_default">Defaŭlte</string>
+</resources>

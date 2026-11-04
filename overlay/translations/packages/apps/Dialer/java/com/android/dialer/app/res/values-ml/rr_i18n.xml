@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">കോൾ സമയത്ത്</string>
+    <string name="incall_enable_dnd_title">കോൾ സമയത്ത് ശല്യപ്പെടുത്തരുത് പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="incall_vibrate_outgoing_title">കോൾ എടുക്കുമ്പോൾ വൈബ്രേറ്റ് ചെയ്യുക</string>
+    <string name="incall_vibrate_call_waiting_title">കോൾ വെയ്റ്റിംഗ് സമയത്ത് വൈബ്രേറ്റ് ചെയ്യുക</string>
+    <string name="incall_vibrate_hangup_title">കോൾ അവസാനിപ്പിക്കുമ്പോൾ വൈബ്രേറ്റ് ചെയ്യുക</string>
+    <string name="incall_vibrate_45_title">ഓരോ മിനിറ്റിലും വൈബ്രേറ്റ് ചെയ്യുക</string>
+    <string name="incall_vibrate_45_summary">പുറത്തേക്കുള്ള കോളുകളിൽ ഓരോ മിനിറ്റിന്റെയും 45-ാം സെക്കൻഡിൽ വൈബ്രേറ്റ് ചെയ്യുന്നു</string>
+    <string name="incall_dnd_dialog_message">ശല്യപ്പെടുത്തരുത് പ്രവർത്തനക്ഷമമാക്കാൻ, ശല്യപ്പെടുത്തരുത് അവസ്ഥ നിയന്ത്രിക്കാനുള്ള അനുമതി ഫോൺ ആപ്പിന് നൽകണം.\nദയവായി അത് അനുവദിക്കുക.</string>
+    <string name="allow">"അനുവദിക്കുക"</string>
+    <string name="deny">"നിരസിക്കുക"</string>
+    <string name="call_recording_category_title">കോൾ റെക്കോർഡിംഗ്</string>
+    <string name="call_recording_format">ഓഡിയോ ഫോർമാറ്റ്</string>
+    <string name="call_via">വഴി വിളിക്കുക</string>
+    <string name="call_via_dialog_title">വഴി വിളിക്കുക…</string>
+    <string name="call_log_stats_title">സ്റ്റാറ്റിസ്റ്റിക്സ്</string>
+    <string name="action_menu_helplines">ഹെൽപ്‌ലൈനുകൾ</string>
+    <string name="default_dialer_text">ഇത് ഉപയോഗിക്കാൻ ഡയലറിനെ ഡിഫോൾട്ട് ഫോൺ ആപ്പ് ആയി സജ്ജമാക്കണം.</string>
+    <string name="default_dialer_action">"ഡിഫോൾട്ടായി സജ്ജീകരിക്കുക"</string>
+</resources>

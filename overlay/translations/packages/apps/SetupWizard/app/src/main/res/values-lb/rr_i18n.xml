@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Ofbriechen</string>
+    <string name="done">Fäerdeg</string>
+    <string name="accessibility_settings">Accessibilitéits-Astellungen</string>
+    <string name="device_info_serial">Seriennummer</string>
+    <string name="setup_locale">Sprooch</string>
+    <string name="setup_datetime_section_date">Datum</string>
+    <string name="setup_datetime_section_time">Zäit</string>
+    <string name="date_format_day">Dag</string>
+    <string name="date_format_month">Mount</string>
+    <string name="setup_time_zone">Zäitzon</string>
+    <string name="setup_24_hour_format">24-Stonneformat benotzen</string>
+    <string name="setup_theme">Design</string>
+</resources>

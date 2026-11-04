@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Lavender</string>
+    <string name="red_color_name">Berry</string>
+    <string name="wht_color_name">Fog</string>
+    <string name="indigo_color_name">"Dimmfjólublár"</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Jade</string>
+    <string name="lemongrass_color_name">Lemongrass</string>
+    <string name="moonstone_color_name">Moonstone</string>
+    <string name="obsidian_color_name">Obsidian</string>
+    <string name="peony_color_name">Peony</string>
+    <string name="porcelain_color_name">Porcelain</string>
+</resources>

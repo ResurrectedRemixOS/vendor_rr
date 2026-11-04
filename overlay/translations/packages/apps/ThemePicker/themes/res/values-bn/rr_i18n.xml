@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">ক্লাসিক</string>
+    <string name="bundle1_color_name">কার্বন</string>
+    <string name="bundle2_color_name">পেপার</string>
+    <string name="bundle3_color_name">সান</string>
+    <string name="bue_color_name">ল্যাভেন্ডার</string>
+    <string name="red_color_name">বেরি</string>
+    <string name="wht_color_name">ফগ</string>
+    <string name="indigo_color_name">"নীলচে বেগুনি"</string>
+    <string name="iris_color_name">আইরিস</string>
+    <string name="jade_color_name">জেড</string>
+    <string name="lemongrass_color_name">লেমনগ্রাস</string>
+    <string name="moonstone_color_name">মুনস্টোন</string>
+    <string name="obsidian_color_name">অবসিডিয়ান</string>
+    <string name="peony_color_name">পিওনি</string>
+    <string name="porcelain_color_name">পোর্সেলেইন</string>
+    <string name="fruit1_color_name">হলুদ ও লাল দুই-রঙের প্যালেট</string>
+    <string name="fruit2_color_name">সবুজ ও কমলা দুই-রঙের প্যালেট</string>
+    <string name="fruit3_color_name">নীল ও সবুজ দুই-রঙের প্যালেট</string>
+    <string name="fruit4_color_name">হালকা বেগুনি ও নীল দুই-রঙের প্যালেট</string>
+    <string name="fruit5_color_name">গোলাপি ও ইন্ডিগো দুই-রঙের প্যালেট</string>
+</resources>

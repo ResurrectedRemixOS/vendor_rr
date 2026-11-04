@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="title_install_failed_less_storage">Lite lagringsplass</string>
+    <string name="title_uninstall_app_not_found">Fann ikkje appen</string>
+    <string name="title_restore_error_user_action_needed">Du må gjera noko</string>
+    <string name="title_restore_error_less_storage">Lite lagringsplass</string>
+    <string name="title_restore_error_offline">Du er fråkopla</string>
+    <string name="title_restore_error_generic">Noko gjekk gale</string>
+    <string name="message_external_source_blocked" product="tablet">Av omsyn til tryggleiken din har ikkje nettbrettet løyve til å installera ukjende appar frå denne kjelda no. Du kan endra dette i innstillingane.</string>
+    <string name="message_external_source_blocked" product="tv">Av omsyn til tryggleiken din har ikkje TV-en løyve til å installera ukjende appar frå denne kjelda no. Du kan endra dette i innstillingane.</string>
+    <string name="message_external_source_blocked" product="watch">Av omsyn til tryggleiken din har ikkje klokka løyve til å installera ukjende appar frå denne kjelda no. Du kan endra dette i innstillingane.</string>
+    <string name="message_external_source_blocked" product="default">Av omsyn til tryggleiken din har ikkje telefonen løyve til å installera ukjende appar frå denne kjelda no. Du kan endra dette i innstillingane.</string>
+    <string name="message_anonymous_source_warning" product="default">Telefonen og dei personlege dataa dine er meir utsette for åtak frå ukjende appar. Ved å installera denne appen godtek du at du sjølv har ansvaret for eventuelle skadar på telefonen eller tap av data som fylgje av bruken.</string>
+    <string name="message_anonymous_source_warning" product="tablet">Nettbrettet og dei personlege dataa dine er meir utsette for åtak frå ukjende appar. Ved å installera denne appen godtek du at du sjølv har ansvaret for eventuelle skadar på nettbrettet eller tap av data som fylgje av bruken.</string>
+    <string name="message_anonymous_source_warning" product="tv">TV-en og dei personlege dataa dine er meir utsette for åtak frå ukjende appar. Ved å installera denne appen godtek du at du sjølv har ansvaret for eventuelle skadar på TV-en eller tap av data som fylgje av bruken.</string>
+    <string name="message_restore_error_offline">For å gjenoppretta denne appen må du sjekka internett-tilkoplinga og prøva på nytt</string>
+    <string name="message_restore_error_installer_disabled">For å gjenoppretta denne appen må du aktivera <xliff:g id="installername" example="App Store">%1$s</xliff:g> i innstillingane</string>
+    <string name="message_restore_error_generic">Det skjedde ein feil ved gjenoppretting av denne appen</string>
+    <string name="button_install">Installer</string>
+    <string name="button_update">Oppdater</string>
+    <string name="button_update_anyway">Oppdater likevel</string>
+    <string name="button_done">Ferdig</string>
+    <string name="button_cancel">Avbryt</string>
+    <string name="button_continue">Hald fram</string>
+    <string name="button_uninstall">Avinstaller</string>
+    <string name="button_delete">Slett</string>
+    <string name="button_manage_apps">Styr appar</string>
+    <string name="button_archive">Arkiver</string>
+    <string name="button_restore">Gjenopprett</string>
+    <string name="button_uninstall_updates_system_app">Avinstaller oppdateringar</string>
+    <string name="button_settings">Innstillingar</string>
+    <string name="button_retry">Prøv på nytt</string>
+    <string name="string_cloned_app_label">Klon av <xliff:g id="package_label">%1$s</xliff:g></string>
+</resources>

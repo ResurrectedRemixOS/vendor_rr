@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 кбіт/с</item>
+        <item>256 кбіт/с</item>
+        <item>1 Мбіт/с</item>
+        <item>5 Мбіт/с</item>
+        <item>15 Мбіт/с</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"стандартны"</item>
+        <item>Цэльсій</item>
+        <item>Фарэнгейт</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"стандартны"</item>
+        <item>Нд</item>
+        <item>Пн</item>
+        <item>Аў</item>
+        <item>Ср</item>
+        <item>Чц</item>
+        <item>Пт</item>
+        <item>Сб</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"стандартны"</item>
+        <item>Метрычная</item>
+        <item>Амерыканская</item>
+        <item>Брытанская</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Не ўказаны"</item>
+        <item>"Нейтральныя"</item>
+        <item>"Жаночы"</item>
+        <item>"Мужчынскі"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>фр</item>
+        <item>ісп</item>
+        <item>іт</item>
+        <item>ням</item>
+    </string-array>
+    <string name="advanced_keyboard_settings_title">"Пашыраныя налады"</string>
+    <string name="adb_enable_summary_root">Дазволіць запуск адладкі Android з правамі root</string>
+    <string name="backup_transport_title">Выберыце пастаўшчыка рэзервовага капіявання</string>
+    <string name="berry_black_theme_title">Чыста чорны</string>
+    <string name="berry_black_theme_summary">Чыста чорнае фон для цёмнай тэмы</string>
+    <string name="lineagelicense_title">Прававая інфармацыя LineageOS</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Вам застаўся # крок да ўключэння параметраў распрацоўшчыка.} few {Вам засталіся # крокі да ўключэння параметраў распрацоўшчыка.} many {Вам засталося # крокаў да ўключэння параметраў распрацоўшчыка.} other {Вам засталося # кроку да ўключэння параметраў распрацоўшчыка.} }</string>
+    <string name="show_dev_on_cm">Вы ўключылі параметры распрацоўшчыка!</string>
+    <string name="show_dev_already_cm">Не трэба, параметры распрацоўшчыка ўжо ўключаны.</string>
+    <string name="heads_up_notifications_enabled_title">Усплывальныя</string>
+    <string name="tethering_allow_vpn_upstreams_title">Выкарыстоўваць VPN для падключаных прылад</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Калі гэта прылада выкарыстоўвае VPN, усе прылады, падключаныя да кропкі доступу, будуць выкарыстоўваць той жа VPN</string>
+    <string name="max_refresh_rate_title">Пікавая частата абнаўлення</string>
+    <string name="min_refresh_rate_title">Мінімальная частата абнаўлення</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Знайдзіце датчык адбітка пальца на пярэдняй панэлі планшэта.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Знайдзіце датчык адбітка пальца на пярэдняй панэлі прылады.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Знайдзіце датчык адбітка пальца на пярэдняй панэлі тэлефона.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Знайдзіце датчык адбітка пальца на задняй панэлі планшэта.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Знайдзіце датчык адбітка пальца на задняй панэлі прылады.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Знайдзіце датчык адбітка пальца на задняй панэлі тэлефона.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Знайдзіце датчык адбітка пальца на бакавой грані планшэта.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Знайдзіце датчык адбітка пальца на бакавой грані прылады.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Знайдзіце датчык адбітка пальца на бакавой грані тэлефона.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Дакраніцеся да датчыка на пярэдняй панэлі планшэта.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Дакраніцеся да датчыка на пярэдняй панэлі прылады.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Дакраніцеся да датчыка на пярэдняй панэлі тэлефона.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Дакраніцеся да датчыка на задняй панэлі планшэта.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Дакраніцеся да датчыка на задняй панэлі прылады.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Дакраніцеся да датчыка на задняй панэлі тэлефона.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Дакраніцеся да датчыка на бакавой грані планшэта.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Дакраніцеся да датчыка на бакавой грані прылады.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Дакраніцеся да датчыка на бакавой грані тэлефона.</string>
+    <string name="show_navbar_hint_summary">Паказваць панэль падказак навігацыі ўнізу экрана</string>
+    <string name="auto_brightness_one_shot_title">Прымяняць толькі тады, калі экран уключаны</string>
+    <string name="auto_brightness_one_shot_summary">Карэкціроўка адбудзецца адзін раз</string>
+    <string name="data_usage_app_restrict_all">Дазволіць доступ да сеткі</string>
+    <string name="data_usage_app_restrict_all_summary">Уключыць выкарыстанне сеткі</string>
+    <string name="data_usage_app_restrict_mobile">"Мабільная перадача даных"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Уключыць выкарыстанне мабільных даных</string>
+    <string name="data_usage_app_restrict_vpn">Даныя VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">Уключыць выкарыстанне даных VPN</string>
+    <string name="data_usage_app_restrict_wifi">"Трафік Wi‑Fi"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Уключыць выкарыстанне даных Wi‑Fi</string>
+    <string name="unlock_scramble_pin_layout_title">Перамяшаць размяшчэнне</string>
+    <string name="unlock_scramble_pin_layout_summary">Перамяшаць размяшчэнне PIN-кода пры разблакіроўцы прылады</string>
+    <string name="proximity_wake_title">Прадухіленне выпадковага ўключэння</string>
+    <string name="proximity_wake_summary">Праверыць датчык набліжэння перад уключэннем экрана</string>
+    <string name="touchscreen_hovering_title">Навядзенне на сэнсарны экран</string>
+    <string name="storage_warning_internal">Увага: гэты параметр можа працаваць няправільна або прывесці да страты даных, таму не рэкамендуецца!</string>
+    <string name="assisted_gps">Выкарыстоўваць GPS з дапамогай</string>
+    <string name="assisted_gps_summary">Загружаць з інтэрнэту даныя дапамогі для спадарожнікаў, што можа значна паскорыць запуск GPS. Для экстранных выклікаў GPS з дапамогай заўсёды дазволены.</string>
+    <string name="battery_technology">Тэхналогія</string>
+    <string name="battery_health">"Стан"</string>
+    <string name="battery_health_good">"Добры"</string>
+    <string name="battery_health_overheat">"Перагрэў"</string>
+    <string name="battery_health_dead">"Крытычны стан"</string>
+    <string name="battery_health_over_voltage">"Перанапружанне"</string>
+    <string name="battery_health_unspecified_failure">Невядомая памылка</string>
+    <string name="battery_health_cold">"Нізкая тэмпература"</string>
+    <string name="battery_health_unknown">"Невядома"</string>
+    <string name="battery_temperature">"Тэмпература"</string>
+    <string name="battery_voltage">Напружанне</string>
+    <string name="battery_charge_counter_summary">%1$d мАг</string>
+    <string name="battery_design_capacity">Праектная ёмкасць</string>
+    <string name="battery_design_capacity_summary">%1$d мАг</string>
+    <string name="battery_maximum_capacity">Максімальная ёмкасць</string>
+    <string name="battery_maximum_capacity_summary">%1$d мАг (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Складзіце тэлефон падчас наладкі</string>
+    <string name="face_enrolling_close_to_continue_description">Тэлефон трэба скласці, каб наладзіць або выкарыстоўваць распазнаванне твару</string>
+    <string name="face_enrolling_do_it_later">"Пазней"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM-набор інструментаў</string>
+    <string name="platform_compat_target_sdk_title">Уключана для targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Персанальны кантэкст-менеджар</string>
+</resources>

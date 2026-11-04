@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="play_random_songs">곡을 무작위로 재생</string>
+    <string name="activity_most_played_artists">가장 많이 재생한 아티스트</string>
+    <string name="activity_most_played_genres">가장 많이 재생한 장르</string>
+    <string name="ampache_compatible">호환 가능</string>
+</resources>

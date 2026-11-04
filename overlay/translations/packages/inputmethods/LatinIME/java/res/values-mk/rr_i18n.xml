@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Азбука (Bépo)</string>
+    <string name="subtype_hu_ZZ">Унгарска (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material – следи ги системските поставки</string>
+    <string name="prefs_keyboard_height_scale">Размер на висината на тастатурата</string>
+    <string name="number_row">Ред со броеви</string>
+    <string name="number_row_summary">Секогаш прикажувај ред со броеви за сите распореди што имаат 4 реда тастери</string>
+    <string name="number_row_password">Ред со броеви за лозинки</string>
+    <string name="number_row_password_summary">Секогаш прикажувај ред со броеви за сите распореди што имаат 4 реда тастери при внесување лозинка</string>
+    <string name="space_trackpad">Тракпад на празното место</string>
+    <string name="space_trackpad_summary">Повлечете по празното место за да го поместите курсорот</string>
+    <string name="backspace_trackpad">Копчето за Backspace на трекпадот</string>
+    <string name="backspace_trackpad_summary">Повлечете по копчето за бришење за да бришете зборови</string>
+    <string name="show_longpress_hints">Прикажувај подсетници при долг притисок</string>
+    <string name="show_longpress_hints_summary">Прикажува подсетници при долг притисок на поддржаните копчиња</string>
+    <string name="show_emoji_key">Прикажи копче за емоџи</string>
+    <string name="show_emoji_key_summary">Секогаш прикажувај копче за емоџи. Кога оваа опција е овозможена, копчето за промена на јазик не може да се прикаже.</string>
+    <string name="enable_split_keyboard_summary">Само во хоризонтален режим</string>
+    <string name="split_keyboard_duplicate_keys">Дупликувај централни копчиња</string>
+    <string name="split_keyboard_duplicate_keys_summary">Прикажувај копчиња блиску до средината на двете половини</string>
+    <string name="spoken_description_split_keyboard">Раздвоена тастатура</string>
+    <string name="spoken_description_merge_keyboard">Спојана тастатура</string>
+    <string name="spoken_description_float_keyboard">Лебдечка тастатура</string>
+    <string name="spoken_description_dock_keyboard">Прикачена тастатура</string>
+    <string name="floating_keyboard_drag_handle">Премести тастатура</string>
+    <string name="floating_keyboard_resize_handle">Промени големина на тастатура</string>
+    <string name="floating_keyboard_reset">"Ресетирај"</string>
+    <string name="floating_keyboard_hide">Сокриј тастатура</string>
+    <string name="floating_keyboard_switch_ime">"Префрлете го методот за внесување"</string>
+</resources>

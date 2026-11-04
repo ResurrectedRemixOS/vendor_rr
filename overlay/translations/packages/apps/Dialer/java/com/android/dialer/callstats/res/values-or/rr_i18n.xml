@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">ଯୋଗାଯୋଗ ପରିସଂଖ୍ୟାନ ବିବରଣୀ</string>
+    <string name="call_stats_incoming">ଇନକାମିଂ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">ଆଉଟଗୋଇଂ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">ମିସ୍: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">ବ୍ଲକ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">ମୋଟ: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">ମୋଟ: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">ଆରମ୍ଭ ତାରିଖ</string>
+    <string name="call_stats_filter_to">ଶେଷ ତାରିଖ</string>
+    <string name="call_stats_filter_picker_title">ଫିଲ୍ଟର ପରିସର</string>
+    <string name="date_quick_selection">ଦ୍ରୁତ ଚୟନ</string>
+    <string name="date_qs_currentmonth">ବର୍ତ୍ତମାନ ମାସ</string>
+    <string name="date_qs_currentquarter">ବର୍ତ୍ତମାନ ତ୍ରୟମାସ</string>
+    <string name="date_qs_currentyear">ବର୍ତ୍ତମାନ ବର୍ଷ</string>
+    <string name="date_qs_lastweek">"ଗତ ସପ୍ତାହ"</string>
+    <string name="date_qs_lastmonth">"ଗତ ମାସ"</string>
+    <string name="date_qs_lastquarter">ଗତ ତ୍ରୟମାସ</string>
+    <string name="date_qs_lastyear">"ଗତ ବର୍ଷ"</string>
+    <string name="call_stats_date_filter">ସମୟ ପରିସର ସଜାଡ଼ନ୍ତୁ</string>
+    <string name="call_stats_reset_filter">ସମୟ ପରିସର ରିସେଟ କରନ୍ତୁ</string>
+    <string name="call_stats_sort_by_duration">କଲ ଅବଧି ଅନୁସାରେ କ୍ରମ କରନ୍ତୁ</string>
+    <string name="call_stats_sort_by_count">କଲ ସଂଖ୍ୟା ଅନୁସାରେ କ୍ରମ କରନ୍ତୁ</string>
+    <string name="call_stats_title_for_number">ଏହି ସଂଖ୍ୟା</string>
+    <string name="call_stats_title_of_total">ମୋଟର</string>
+    <string name="call_stats_title_durations">କଲ ଅବଧି</string>
+    <string name="call_stats_title_count">କଲ ସଂଖ୍ୟା</string>
+    <string name="call_stats_title_average_duration">ହାରାହାରି କଲ ଅବଧି</string>
+    <string name="recent_calls_no_items_in_range">ଆପଣଙ୍କ କଲ ଲଗରେ ଚୟନିତ ସମୟ ପରିସରରେ କୌଣସି କଲ ନାହିଁ।</string>
+</resources>

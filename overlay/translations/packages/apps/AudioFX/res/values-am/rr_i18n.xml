@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX ነባሪ የውጤቶች መቆጣጠሪያ ፓነል አይደለም።</string>
+    <string name="snack_bar_not_default_set">"ነባሪ አቀናብር"</string>
+    <string name="snack_bar_not_default_not_now">"አሁን አይደለም"</string>
+    <string name="normal">መደበኛ</string>
+    <string name="classical">"ክላሲካል"</string>
+    <string name="dance">"ጭፈራ"</string>
+    <string name="flat">ጠፍጣፋ</string>
+    <string name="folk">"አገረሰብ"</string>
+    <string name="heavy_metal">"ከባድ ሜታል"</string>
+    <string name="hip_hop">"ሂፕ ሆፕ"</string>
+    <string name="electronic">ኤሌክትሮኒክ</string>
+    <string name="small_speakers">ትናንሽ ድምጽ ማጉያዎች</string>
+    <string name="multimedia">መልቲሚዲያ</string>
+    <string name="custom">ብጁ</string>
+    <string name="custom_n">ብጁ <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">ውጤቱ ለድምጽ ማጉያ ሁነታ አይገኝም።</string>
+    <string name="device_headset">"ጆሮ ማዳመጫ"</string>
+    <string name="device_speaker">"ድምፅ ማውጫ"</string>
+    <string name="device_line_out">የመስመር ውጤት</string>
+    <string name="reverb">ሪቨርብ</string>
+    <string name="devices">"መሣሪያዎች"</string>
+    <string name="virtualizer">ቨርቹዋላይዘር</string>
+    <string name="bass">ባስ</string>
+    <string name="rename">"እንደገና ሰይም"</string>
+    <string name="remove_custom_preset_warning_message">%1$s ን ማስወገድ እንደሚፈልጉ እርግጠኛ ነዎት?</string>
+</resources>

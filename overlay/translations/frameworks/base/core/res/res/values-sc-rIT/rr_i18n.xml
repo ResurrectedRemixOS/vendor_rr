@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_feedback">Opiniones</string>
+    <string name="global_action_unrestricted_lock">Bloca</string>
+    <string name="notification_channel_parental_controls">Controllos de is genitores</string>
+    <string name="face_acquired_poor_gaze">Càstia prus deretu a su dispositivu.</string>
+    <string name="default_audio_route_name_hdmi_tv">Àudio de sa TV</string>
+    <string name="default_audio_route_name_analog">Analògicu</string>
+    <string name="default_audio_route_name_digital">Digitale</string>
+    <string name="accessibility_shortcut_label_button">butone de atzessibilidade</string>
+    <string name="accessibility_shortcut_label_volume_keys">teclas de volùmene</string>
+    <string name="accessibility_shortcut_label_triple_tap">tocu triplu</string>
+    <string name="mouse_keys_feature_name">Teclas de puntadore</string>
+    <string name="hearing_device_notification_switch_button">Càmbia</string>
+    <string name="unnamed_user_name">Utente</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_face" product="default">Isblocu cun sa cara</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_fingerprint">Isblocu cun imprenta de pòddighe</string>
+    <string name="app_lock_edu_dialog_lockscreen_password_name">crae</string>
+    <string name="app_lock_permission_review_expand_app_list_button">Mustra totus</string>
+    <string name="app_lock_permission_review_continue_button">Sighi</string>
+    <string name="app_streaming_blocked_message_for_permission_request" product="default">Custa aplicatzione rechedet permissos additzionales, ma is permissos non podent èssere cuntzèdidos in una sessione de streaming. Cuntzede permissu in antis a su telèfonu tuo.</string>
+    <string name="pin_target">Apica</string>
+    <string name="app_info">Informatziones de s\'aplicatzione</string>
+    <string name="autofill_continue_yes">Sighi</string>
+    <string name="review_notification_settings_dismiss">Iscarta</string>
+    <string name="nas_upgrade_notification_disable_action">Istuda</string>
+    <string name="nas_upgrade_notification_learn_more_action">Àteras informatziones</string>
+    <string name="accessibility_autoclick_resume">Torra a cumintzare</string>
+    <string name="accessibility_autoclick_scroll_left">Iscurre a manca</string>
+    <string name="accessibility_autoclick_scroll_right">Iscurre a dereta</string>
+    <string name="miniresolver_switch">Càmbia</string>
+    <string name="PERSOSUBSTATE_RUIM_HRPD_PUK_ENTRY">Inserta PUK</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_PUK_ENTRY">Inserta PUK</string>
+    <string name="PERSOSUBSTATE_RUIM_RUIM_PUK_ENTRY">Inserta PUK</string>
+    <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ENTRY">Inserta PUK</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ERROR">Errore in sa rechesta de isblocu de sa frunidura de servìtzios RUIM.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_SUCCESS">Frunidore de servìtzios SIM iblocadu.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_SUCCESS">Frunidore de servìtzios RUIM isblocadu.</string>
+    <string name="app_locked_notification_message">Messàgiu nou</string>
+    <string name="brightness_unable_adjust_msg">Impossìbile acontzare su lugore ca est controlladu dae s\'aplicatzione in primu pianu</string>
+</resources>

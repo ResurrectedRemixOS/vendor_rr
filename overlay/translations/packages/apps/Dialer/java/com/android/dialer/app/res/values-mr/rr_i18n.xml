@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">कॉल दरम्यान</string>
+    <string name="incall_enable_dnd_title">कॉल दरम्यान व्यत्यय आणू नका सक्षम करा</string>
+    <string name="incall_vibrate_outgoing_title">उत्तर देताना कंप</string>
+    <string name="incall_vibrate_call_waiting_title">कॉल वेटिंगवर कंप</string>
+    <string name="incall_vibrate_hangup_title">कॉल कट करताना कंप</string>
+    <string name="incall_vibrate_45_title">कंपन दर मिनिटाला</string>
+    <string name="incall_vibrate_45_summary">आउटगोइंग कॉल दरम्यान प्रत्येक मिनिटाच्या ४५ व्या सेकंदाला कंपन होते</string>
+    <string name="incall_dnd_dialog_message">व्यत्यय आणू नका सक्षम करण्यासाठी, फोन ॲपला व्यत्यय आणू नका स्थिती नियंत्रित करण्याची परवानगी असणे आवश्यक आहे.\nकृपया ती परवानगी द्या.</string>
+    <string name="allow">"अनुमती द्या"</string>
+    <string name="deny">"नकार द्या"</string>
+    <string name="call_recording_category_title">कॉल रेकॉर्डिंग</string>
+    <string name="call_recording_format">ऑडिओ फॉरमॅट</string>
+    <string name="call_via">यामार्फत कॉल करा</string>
+    <string name="call_via_dialog_title">यामार्फत कॉल करा…</string>
+    <string name="call_log_stats_title">आकडेवारी</string>
+    <string name="action_menu_helplines">हेल्पलाइन</string>
+    <string name="default_dialer_text">हे वापरण्यासाठी तुम्हाला डायलरला डीफॉल्ट फोन ॲप म्हणून सेट करावे लागेल.</string>
+    <string name="default_dialer_action">"डिफॉल्ट म्हणून सेट करा"</string>
+</resources>

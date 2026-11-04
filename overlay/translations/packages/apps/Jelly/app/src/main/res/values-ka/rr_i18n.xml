@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_desktop_shortcuts">სამუშაო მაგიდის მალსახმობები</string>
+    <string name="desktop_shortcuts_title">სამუშაო მაგიდის მალსახმობები</string>
+    <string name="pref_web_debugging_title">ვებ გამართვა</string>
+    <string name="pref_web_debugging_summary">ვებგვერდების შემოწმება chrome://inspect-ით USB გამართვის მეშვეობით</string>
+    <string name="pref_fullscreen_shortcuts_title">მთლიანი ეკრანის მალსახმობები</string>
+    <string name="pref_fullscreen_shortcuts_summary">მალსახმობების მთლიან ეკრანზე გახსნის იძულება</string>
+    <string name="ssl_cert_dialog_trust">"ნდობით აღჭურვა"</string>
+    <string name="ssl_cert_dialog_trusted">კავშირი დაცულია</string>
+    <string name="ssl_error_untrusted">"ეს სერტიფიკატი არ არის გაცემული ნდობით აღჭურვილი ორგანოს მიერ."</string>
+    <string name="ssl_error_mismatch">"საიტის სახელი არ ემთხვევა სერტიფიკატში მითითებულს."</string>
+    <string name="ssl_error_expired">"ეს სერტიფიკატი ვადაგასულია."</string>
+    <string name="ssl_error_not_yet_valid">"ეს სერტიფიკატი ჯერ არ არის ძალაში."</string>
+    <string name="ssl_error_date_invalid">"ამ სერტიფიკატში მითითებულია არასწორი თარიღი."</string>
+    <string name="ssl_error_invalid">"ეს სერტიფიკატი არასწორია."</string>
+    <string name="ssl_error_unknown">"წარმოიშვა სერტიფიკატთან დაკავშირებული უცნობი შეცდომა."</string>
+</resources>

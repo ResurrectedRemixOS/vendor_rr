@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">ડિવાઇસ ફ્લિપ ક્રિયા</string>
+    <string name="shake_action_title">ડિવાઇસ શેક ક્રિયા</string>
+    <string-array name="action_setting_entries">
+        <item>સ્નૂઝ</item>
+        <item>"છોડી દો"</item>
+        <item>"કંઈ નહીં"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">વાગતા અલાર્મ અને ટાઇમર</string>
+    <string name="alarm_missed_channel">ચૂકી ગયેલા અલાર્મ</string>
+    <string name="alarm_snooze_channel">સ્નૂઝ કરેલા અલાર્મ</string>
+    <string name="alarm_upcoming_channel">આગામી અલાર્મ</string>
+    <string name="stopwatch_channel">સ્ટોપવૉચ</string>
+    <string name="timer_channel">ટાઇમર</string>
+    <string name="add_label">લેબલ ઉમેરો</string>
+    <string name="dialog_permissions_title">"પરવાનગીઓ"</string>
+    <string name="dialog_permissions_ask">ફરીથી પૂછો</string>
+    <string name="dialog_permissions_dismiss">"છોડી દો"</string>
+    <string name="dialog_permissions_settings">"સેટિંગ"</string>
+    <string name="dialog_permissions_power_off_alarm">આ પરવાનગી વિના, અલાર્મ વગાડવા માટે તમારું ડિવાઇસ જાતે ચાલુ થઈ શકશે નહીં</string>
+    <string name="dialog_permissions_no_permission">જરૂરી પરવાનગીઓ નકારવામાં આવી છે, સેટિંગ્સ ઍપમાંથી તેમને સક્ષમ કરો</string>
+    <string name="dialog_permissions_post_notifications">આ ઍપ નોટિફિકેશન પર આધારિત છે. તેમના વિના તે ચલાવી શકાતી નથી!</string>
+    <string name="selected">"પસંદ કરેલી"</string>
+    <string name="more_options">"વધુ વિકલ્પો"</string>
+    <string name="widget_choice_title">તમારી શૈલી પસંદ કરો</string>
+    <string name="widget_name_transparent">અનબૅક્ડ</string>
+    <string name="widget_name_solid">બૅક્ડ</string>
+    <string name="night_mode_enabled_title">"ચાલુ છે"</string>
+    <string name="night_mode_dnd_title">ખલેલ પાડશો નહીં સ્થિતિ અનુસરો</string>
+    <string name="night_mode_dnd_summary">રાત્રિ મોડ ખલેલ પાડશો નહીં સ્થિતિને અનુસરે છે</string>
+    <string name="show_ampm_title">AM/PM સૂચક બતાવો</string>
+    <string name="bold_text_title">ઘડિયાળનું લખાણ બોલ્ડ કરો</string>
+    <string name="night_mode_brightness_text_title">"તેજ"</string>
+    <string name="clock_color_title">"રંગ"</string>
+    <string-array name="clock_color_entries">
+        <item>"સફેદ"</item>
+        <item>"લાલ"</item>
+        <item>"લીલો"</item>
+        <item>"વાદળી"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"સ્ક્રીન સેવર"</string>
+    <string name="screensaver_preview">"પ્રીવ્યૂ કરો"</string>
+    <string name="screensaver_preview_summary">સ્ક્રીન સેવર તરત શરૂ કરે છે</string>
+    <string name="screensaver_change_settings">"સેટિંગ"</string>
+    <string name="screensaver_change_settings_summary">ઘડિયાળની સ્ક્રીન સેવર સેટિંગ્સ ખોલે છે</string>
+    <string name="screensaver_daydream_settings">સ્ક્રીન સેવર પસંદ કરો/સક્ષમ કરો</string>
+    <string name="screensaver_daydream_settings_summary">મુખ્ય સ્ક્રીન સેવર સેટિંગ્સ ખોલે છે</string>
+</resources>

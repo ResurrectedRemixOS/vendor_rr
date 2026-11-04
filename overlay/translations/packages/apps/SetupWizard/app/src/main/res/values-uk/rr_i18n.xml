@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Скасувати"</string>
+    <string name="finish">Готово</string>
+    <string name="setup_managed_profile_welcome_message">Налаштуйте робочий профіль</string>
+    <string name="accessibility_settings">"Налаштування доступності"</string>
+    <string name="device_info">"Інформація про пристрій"</string>
+    <string name="device_information">"Інформація про пристрій"</string>
+    <string name="device_info_serial">"Серійний номер"</string>
+    <string name="setup_euicc">Налаштувати eSIM</string>
+    <string name="esim_support_summary">Налаштуйте eSIM або вставте SIM-картку. Щоб вставити SIM-картку, прочитайте інструкцію, що додається до пристрою.</string>
+    <string name="sim_missing_skip_title">Пропустити налаштування SIM-картки?</string>
+    <string name="sim_missing_skip_message">Якщо пропустити цей крок, пристрій не підключатиметься до мобільної мережі, доки ви не налаштуєте SIM-картку в налаштуваннях.</string>
+    <string name="setup_datetime_section_date">"Дата"</string>
+    <string name="setup_datetime_section_time">"Час"</string>
+    <string name="setup_date_format">"Форматувати"</string>
+    <string name="date_format_day">День</string>
+    <string name="date_format_month">"Місяць"</string>
+    <string name="date_format_year">"Рік"</string>
+    <string name="setup_time_zone">"Часовий пояс"</string>
+    <string name="setup_24_hour_format">"24-годинний формат"</string>
+    <string name="intro_restore_subtitle">Якщо у вас є резервна копія Seedvault з <xliff:g id="name" example="LineageOS">%s</xliff:g> або з іншої ОС, ви можете відновити її тут.</string>
+    <string name="intro_restore_button">Відновити з резервної копії</string>
+    <string name="location_summary">Виберіть, як пристрій керує визначенням місцезнаходження</string>
+    <string name="location_access_title">"Використовувати геодані"</string>
+    <string name="location_agps_access_title">Розширене визначення місцезнаходження</string>
+    <string name="location_agps_access_summary">Коли геолокацію увімкнено, завантажувати з інтернету дані допомоги супутників, що може значно прискорити запуск GPS.</string>
+    <string name="services_find_privacy_policy">Політику конфіденційності можна прочитати на іншому пристрої за адресою:</string>
+    <string name="services_help_improve_cm">Допоможіть покращити <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_title">Надсилати діагностичні дані</string>
+    <string name="gesture_navigation_short">Жест</string>
+    <string name="setup_theme">"Тема"</string>
+    <string name="theme_summary">Темна тема використовує чорний фон, щоб продовжити роботу акумулятора на деяких екранах</string>
+    <string name="dark">Темний</string>
+    <string name="light">Світла</string>
+    <string name="pure_black_theme">Використовувати чисто чорний фон</string>
+    <string name="theme_preview">Попередній перегляд теми</string>
+    <string name="swipe_up_to_go_home">"Щоб перейти на головний екран, проведіть пальцем угору"</string>
+    <string name="tap_home_to_go_home">Торкніться центральної піктограми навігації, щоб перейти на головний екран</string>
+    <string name="press_center_to_go_home">Натисніть центральну кнопку, щоб перейти на головний екран</string>
+</resources>

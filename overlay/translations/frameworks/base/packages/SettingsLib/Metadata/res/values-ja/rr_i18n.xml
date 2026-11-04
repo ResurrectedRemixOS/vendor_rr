@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">ブール値です。</string>
+    <string name="any_int_type_description">整数値です。</string>
+    <string name="any_string_type_description">文字列値です。</string>
+    <string name="display_id_type_description">システム ディスプレイの識別子です（構成に応じて内部または外部になります）。</string>
+    <string name="installed_package_name_type_description">デバイスにインストールされている任意のパッケージです。</string>
+    <string name="int_in_range_type_description_from">%1$d 以上の整数です（ステップ %2$d）。</string>
+    <string name="int_in_range_type_description_to">%1$d 以下の整数です（ステップ %2$d）。</string>
+    <string name="int_in_range_type_description_between">範囲 [%1$d, %2$d] 内の整数です（ステップ %3$d）。</string>
+    <string name="time_of_day_type_description">24 時間形式（HH:mm）で表した時刻です。</string>
+    <string name="time_duration_type_description">秒単位の精度を持つ整数で表した時間の長さです。</string>
+    <string name="sim_slot_id_type_description">有効な SIM スロット ID です。</string>
+    <string name="subscription_id_type_description">有効なサブスクリプション ID です。</string>
+    <string name="wifi_ssid_type_description">Wi-Fi ネットワークの SSID です。</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="audio_file_type_unknown">Билгесез</string>
+    <string name="audio_sample_rate_unknown">Билгесез</string>
+    <string name="audio_channel_count_unknown">Билгесез</string>
+    <string name="audio_encoding_unknown">Билгесез</string>
+    <string name="audio_output_mode_unknown">Билгесез</string>
+    <string name="audio_bitrate_unknown">Билгесез</string>
+    <string name="audio_output_device_name">Исем</string>
+    <string name="audio_output_device_name_unknown">Билгесез</string>
+    <string name="audio_output_device_type_unknown">Билгесез</string>
+    <string name="audio_format_compression_unknown">Билгесез</string>
+    <string name="provider_argument_password">Серсүз</string>
+    <string name="save_provider_action">Саклау</string>
+    <string name="provider_name">Исем</string>
+    <string name="title_activity_settings">Көйләүләр</string>
+    <string name="sort_by_name">Исем</string>
+    <string name="sort_by_unknown">Билгесез</string>
+    <string name="unknown">Билгесез</string>
+    <string name="playlist_name">Исем</string>
+    <string name="add_to_favorites">Сайланмаларга өстәү</string>
+    <string name="remove_from_favorites">Сайланмалардан бетерү</string>
+</resources>

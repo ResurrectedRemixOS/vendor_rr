@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_unrestricted_lock">Sekkeṛ</string>
+    <string name="default_audio_route_name_analog">Analogique</string>
+    <string name="accessibility_shortcut_menu_item_status_on">Irmed</string>
+    <string name="accessibility_dialog_button_uninstall">Kkes asebded</string>
+    <string name="color_inversion_feature_name">Inversion de couleur</string>
+    <string name="hearing_device_status_disconnected">Ur yeqqin ara</string>
+    <string name="hearing_device_status_connected">Iqqen</string>
+    <string name="hearing_device_status_active">Urmid</string>
+    <string name="unnamed_user_name">Aseqdac</string>
+    <string name="zen_mode_implicit_activated">Irmed</string>
+    <string name="content_description_expanded">Yettusnefli</string>
+    <string name="call_notification_answer_action">Tiririt</string>
+    <string name="call_notification_incoming_text">Asiwel i ikcem-d</string>
+    <string name="news_notification_channel_label">Timirin</string>
+    <string name="app_lock_edu_dialog_lockscreen_password_name">awal uffir</string>
+    <string name="app_lock_permission_review_continue_button">Kemmel</string>
+    <string name="review_notification_settings_dismiss">Suref</string>
+    <string name="accessibility_system_action_menu_label">Umuɣ</string>
+    <string name="accessibility_autoclick_scroll">Adrudem</string>
+    <string name="accessibility_autoclick_resume">Kemmel</string>
+    <string name="dismiss_action">Suref</string>
+    <string name="sensor_privacy_start_use_dialog_turn_on_button">Eks asewḥel</string>
+    <string name="system_locale_title">Amezwer n unagraw</string>
+    <string name="profile_label_private">Uslig</string>
+    <string name="app_locked_notification_message">Izen amaynut</string>
+    <string name="satellite_manual_selection_state_popup_cancel">Uγal γer deffir</string>
+    <string name="bg_user_sound_notification_button_switch_user">Beddel aseqdac</string>
+    <string name="keyboard_shortcut_group_applications_browser">Iminig</string>
+    <string name="keyboard_shortcut_group_applications_email">Imayl</string>
+    <string name="keyboard_shortcut_group_applications_music">Aẓawan</string>
+    <string name="keyboard_shortcut_group_applications">Isnasen</string>
+    <string name="usb_apm_usb_plugged_in_when_locked_notification_silence_action_text">Sgugem</string>
+</resources>

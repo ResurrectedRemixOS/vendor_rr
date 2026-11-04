@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">Rýchlosť nabíjania</string>
+    <string name="charging_speed_slow">"Pomalá"</string>
+    <string name="charging_speed_fast">"Rýchla"</string>
+    <string name="charging_speed_super_fast">Superrýchle</string>
+    <string name="charging_control_notification_channel">Riadenie nabíjania</string>
+    <string name="charging_control_notification_title">Riadenie nabíjania</string>
+    <string name="charging_control_notification_cancel_once">"Zrušiť"</string>
+    <string name="charging_control_notification_content_limit">Batéria sa nabije na %1$d %%</string>
+    <string name="charging_control_notification_content_limit_reached">Batéria je nabitá na %1$d %%</string>
+    <string name="charging_control_notification_content_target">Batéria sa úplne nabije o %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Batéria je nabitá</string>
+</resources>

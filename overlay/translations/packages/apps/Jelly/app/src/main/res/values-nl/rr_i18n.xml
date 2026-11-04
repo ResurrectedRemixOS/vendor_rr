@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_desktop_shortcuts">Snelkoppelingen op bureaublad</string>
+    <string name="menu_background_shortcuts">Snelkoppelingen op achtergrond</string>
+    <string name="desktop_shortcuts_title">Snelkoppelingen op bureaublad</string>
+    <string name="background_shortcuts_title">Snelkoppelingen op achtergrond</string>
+    <string name="background_shortcuts_save_action">"Opslaan"</string>
+    <string name="background_shortcuts_notification_channel">Snelkoppelingen op achtergrond beheren</string>
+    <plurals name="background_shortcuts_notification_content">
+        <item quantity="one">%1$d instantie draait</item>
+        <item quantity="other">%1$d instanties draaien</item>
+    </plurals>
+    <string name="pref_web_debugging_title">Webfoutopsporing</string>
+    <string name="pref_web_debugging_summary">Webpagina\'s inspecteren via chrome://inspect met USB-foutopsporing toestaan</string>
+    <string name="pref_fullscreen_shortcuts_title">Snelkoppelingen op volledig scherm</string>
+    <string name="pref_fullscreen_shortcuts_summary">Snelkoppelingen altijd openen in de modus volledig scherm</string>
+    <string name="protected_media_dialog_message">Beschermde media toestaan?</string>
+    <string name="media_session_destroy_action">"Stoppen"</string>
+</resources>

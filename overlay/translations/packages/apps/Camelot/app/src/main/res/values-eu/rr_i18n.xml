@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF ikustailea</string>
+    <string name="find_in_page">Bilatu orrialdean</string>
+    <string name="share">"Partekatu"</string>
+    <string name="open_with">Ireki honekin…</string>
+    <string name="download">"Deskargatu"</string>
+    <string name="pdf_document">PDF dokumentua</string>
+    <string name="print">"Inprimatu"</string>
+    <string name="download_successful">Deskarga ondo egin da</string>
+    <string name="download_error">Errorea fitxategia deskargatzean</string>
+</resources>

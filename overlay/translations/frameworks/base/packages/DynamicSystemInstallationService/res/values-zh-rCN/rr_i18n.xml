@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">动态系统更新</string>
+    <string name="notification_channel_name">动态系统更新</string>
+    <string name="keyguard_title">动态系统更新</string>
+</resources>

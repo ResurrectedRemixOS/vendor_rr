@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">ਕਾਲ ਰਿਕਾਰਡਿੰਗ ਸ਼ੁਰੂ ਕਰਨ ਵਿੱਚ ਅਸਫਲ</string>
+    <string name="call_recording_file_location">Saved call recording to <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Record call</string>
+    <string name="onscreenCallRecordingText">Recording call - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"ਰਿਕਾਰਡਿੰਗ ਬੰਦ ਕਰੋ"</string>
+    <string name="recording_warning_title">Enable call recording?</string>
+    <string name="recording_warning_text">ਨੋਟਿਸ: ਕਾਲ ਰਿਕਾਰਡਿੰਗ ਫੀਚਰ ਦੀ ਵਰਤੋਂ ਅਤੇ ਇਨ੍ਹਾਂ ਰਿਕਾਰਡਿੰਗਾਂ ਦੀ ਵੰਡ ’ਤੇ ਲਾਗੂ ਹੋਣ ਵਾਲੇ ਸਾਰੇ ਕਾਨੂੰਨਾਂ, ਨਿਯਮਾਂ ਅਤੇ ਨੀਤੀਆਂ ਦੀ ਪਾਲਣਾ ਦੀ ਜ਼ਿੰਮੇਵਾਰੀ ਤੁਹਾਡੀ ਹੈ।</string>
+</resources>

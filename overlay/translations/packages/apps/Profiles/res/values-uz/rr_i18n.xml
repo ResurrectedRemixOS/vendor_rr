@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Profil ishonchli provayderi</string>
+    <string name="profile_picker_title">"Profillar"</string>
+    <string name="profile_none">"Hech qanday"</string>
+    <string name="profile_trust_agent_title">Profil ishonchli agenti</string>
+    <string name="profile_trust_agent_summary">Profillarga ekran qulfi himoyasini vaqtincha o‘chirishga ruxsat beradi</string>
+    <string name="trust_by_profile">Profil tomonidan ishonchli</string>
+</resources>

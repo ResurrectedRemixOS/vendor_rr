@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="play_recordings">
+        <item quantity="one">Reproduciraj snimak</item>
+        <item quantity="few">Reproduciraj snimke</item>
+        <item quantity="other">Reproduciraj snimaka</item>
+    </plurals>
+    <string name="call_playback_no_app_found_toast">Nije pronađena aplikacija za reprodukciju odabranog snimka.</string>
+</resources>

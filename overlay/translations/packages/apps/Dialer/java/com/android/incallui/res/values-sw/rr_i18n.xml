@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Imeshindwa kuanza kurekodi simu</string>
+    <string name="call_recording_file_location">Rekodi ya simu imehifadhiwa kwenye <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Rekodi simu</string>
+    <string name="onscreenCallRecordingText">Inarekodi simu - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Acha kurekodi"</string>
+    <string name="recording_warning_title">Wezesha kurekodi simu?</string>
+    <string name="recording_warning_text">Taarifa: Unawajibika kuzingatia sheria, kanuni na taratibu zote zinazohusu matumizi ya kurekodi simu na matumizi au usambazaji wa rekodi hizo.</string>
+</resources>

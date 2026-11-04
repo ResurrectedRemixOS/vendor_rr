@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_password">Ред с цифри за пароли</string>
+    <string name="number_row_password_summary">Винаги показване на ред с цифри за всички оформления с 4 реда клавиши за въвеждане на парола.</string>
+    <string name="backspace_trackpad">Тъчпад на клавиша за изтриване</string>
+    <string name="backspace_trackpad_summary">Плъзгане по клавиша за изтриване, за да изтривате думи</string>
+    <string name="enable_split_keyboard_summary">Само в хоризонтален режим</string>
+    <string name="split_keyboard_duplicate_keys">Дублиране на централните клавиши</string>
+    <string name="split_keyboard_duplicate_keys_summary">Показване на клавишите близо до средата от двете половини</string>
+    <string name="spoken_description_split_keyboard">Разделена клавиатура</string>
+    <string name="spoken_description_merge_keyboard">Обединена клавиатура</string>
+    <string name="spoken_description_float_keyboard">Плаваща клавиатура</string>
+    <string name="spoken_description_dock_keyboard">Закачена клавиатура</string>
+    <string name="floating_keyboard_drag_handle">Преместване на клавиатурата</string>
+    <string name="floating_keyboard_resize_handle">Преоразмеряване на клавиатурата</string>
+    <string name="floating_keyboard_reset">"Нулиране"</string>
+    <string name="floating_keyboard_hide">Скриване на клавиатурата</string>
+    <string name="floating_keyboard_switch_ime">"Превключване на метода на въвеждане"</string>
+</resources>

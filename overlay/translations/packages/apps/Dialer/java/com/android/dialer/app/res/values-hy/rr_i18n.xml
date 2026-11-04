@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">Զանգի ընթացքում</string>
+    <string name="incall_enable_dnd_title">Միացնել Չանհանգստացնել ռեժիմը զանգերի ընթացքում</string>
+    <string name="incall_vibrate_outgoing_title">Զանգին պատասխանելիս թրթռալ</string>
+    <string name="incall_vibrate_call_waiting_title">Սպասվող զանգի ժամանակ թրթռալ</string>
+    <string name="incall_vibrate_hangup_title">Զանգն ավարտելիս թրթռալ</string>
+    <string name="incall_vibrate_45_title">Թրթռալ ամեն րոպե</string>
+    <string name="incall_vibrate_45_summary">Թրթռում է յուրաքանչյուր րոպեի 45-րդ վայրկյանին ելող զանգերի ընթացքում</string>
+    <string name="incall_dnd_dialog_message">Չանհանգստացնել ռեժիմը միացնելու համար Հեռախոսի հավելվածին պետք է թույլատրել կառավարել «Չանհանգստացնել» կարգավիճակը։\nԽնդրում ենք թույլատրել։</string>
+    <string name="allow">"Թույլատրել"</string>
+    <string name="deny">"Մերժել"</string>
+    <string name="call_recording_category_title">Զանգերի ձայնագրում</string>
+    <string name="call_recording_format">Ձայնագրության ձևաչափ</string>
+    <string name="call_via">Զանգել միջոցով</string>
+    <string name="call_via_dialog_title">Զանգել միջոցով…</string>
+    <string name="call_log_stats_title">Վիճակագրություն</string>
+    <string name="action_menu_helplines">Օգնության գծեր</string>
+    <string name="default_dialer_text">Օգտագործելու համար Հեռախոսը պետք է սահմանել որպես լռելյայն հեռախոսային հավելված։</string>
+    <string name="default_dialer_action">"Նշել որպես կանխադրված"</string>
+</resources>

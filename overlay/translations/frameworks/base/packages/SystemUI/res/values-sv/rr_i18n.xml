@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">"Anpassad ljusstyrka"</string>
+    <string name="battery_notification_channel_tv">Batterivarning</string>
+    <string name="screenshot_delete_description">Ta bort skärmbild</string>
+    <string name="screenrecord_lowquality_label">Lägre kvalitet</string>
+    <string name="screenrecord_longer_timeout_switch_label">Större gräns för filstorlek</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Begränsa inspelningsstorlek till 15 GB</string>
+    <string name="screenrecord_skip_time_label">Hoppa över timer</string>
+    <string name="screenrecord_skip_time_summary">Ta bort den tre sekunder långa väntetiden</string>
+    <string name="screenrecord_hevc_switch_label">HEVC-kodning</string>
+    <string name="zen_alarm_warning_indef">"Nästa alarm, kl. <xliff:g id="WHEN">%1$s</xliff:g>, kommer inte att höras om du inte inaktiverar detta innan dess"</string>
+</resources>

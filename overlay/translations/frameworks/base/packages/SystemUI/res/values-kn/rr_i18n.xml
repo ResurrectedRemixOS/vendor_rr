@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">ಮರುಪ್ರಾರಂಭಿಸಿ…</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_fastboot_progress">fastbootd ಮೋಡ್‌ಗೆ ಮರುಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ…</string>
+    <string name="global_action_users">"ಬಳಕೆದಾರರು"</string>
+    <string name="clock">"ಗಡಿಯಾರ"</string>
+    <string name="accessibility_adaptive_brightness">"ಅಡಾಪ್ಟಿವ್‌ ಪ್ರಖರತೆ"</string>
+    <string name="status_bar_icons_title">ಸ್ಥಿತಿ ಪಟ್ಟಿ ಚಿಹ್ನೆಗಳು</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD ಆಫ್\nಬ್ಯಾಟರಿ ಸೇವರ್</string>
+    <string name="quick_settings_powershare_label">ವೈರ್‌ಲೆಸ್ PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">ವೈರ್‌ಲೆಸ್ PowerShare ಆಫ್\nಬ್ಯಾಟರಿ ಸೇವರ್</string>
+    <string name="quick_settings_powershare_off_low_battery_label">ವೈರ್‌ಲೆಸ್ PowerShare ಆಫ್\nಬ್ಯಾಟರಿ ತುಂಬಾ ಕಡಿಮೆ</string>
+    <string name="quick_settings_powershare_enabled_label">ವೈರ್‌ಲೆಸ್ PowerShare ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">ಸಂಪರ್ಕಿಸಿ…</string>
+    <string name="vpn_credentials_hint"><xliff:g id="name">%s</xliff:g> ಗೆ ಸಂಪರ್ಕಿಸಲು ದಯವಿಟ್ಟು ನಿಮ್ಮ ರುಜುವಾತುಗಳನ್ನು ನಮೂದಿಸಿ</string>
+    <string name="vpn_credentials_username">"ಬಳಕೆದಾರರಹೆಸರು"</string>
+    <string name="vpn_credentials_password">"ಪಾಸ್‌ವರ್ಡ್"</string>
+    <string name="vpn_credentials_dialog_connect">"ಕನೆಕ್ಟ್ ಮಾಡಿ"</string>
+    <string name="status_bar_firewall">ಫೈರ್‌ವಾಲ್</string>
+    <string name="battery_notification_channel_tv">ಬ್ಯಾಟರಿ ಎಚ್ಚರಿಕೆ</string>
+    <string name="screenshot_delete_label">"ಅಳಿಸಿ"</string>
+    <string name="screenshot_delete_description">ಸ್ಕ್ರೀನ್‌ಶಾಟ್ ಅಳಿಸಿ</string>
+    <string name="screenrecord_lowquality_label">ಕಡಿಮೆ ಗುಣಮಟ್ಟ</string>
+    <string name="screenrecord_lowquality_summary">ಸಣ್ಣ ಫೈಲ್ ಗಾತ್ರಕ್ಕಾಗಿ</string>
+    <string name="screenrecord_longer_timeout_switch_label">ದೊಡ್ಡ ಫೈಲ್ ಗಾತ್ರದ ಮಿತಿ</string>
+    <string name="screenrecord_longer_timeout_switch_summary">ರೆಕಾರ್ಡಿಂಗ್ ಗಾತ್ರವನ್ನು 15 GB ಗೆ ಮಿತಿಗೊಳಿಸಿ</string>
+    <string name="screenrecord_skip_time_label">ಸ್ಕಿಪ್ ಟೈಮರ್</string>
+    <string name="screenrecord_skip_time_summary">3 ಸೆಕೆಂಡ್ ಕಾಯುವಿಕೆಯನ್ನು ತೆಗೆದುಹಾಕಿ</string>
+    <string name="screenrecord_hevc_switch_label">HEVC ಎನ್‌ಕೋಡಿಂಗ್</string>
+    <string name="screenrecord_hevc_switch_summary">ಹೆಚ್ಚು ದಕ್ಷ HEVC ಎನ್‌ಕೋಡರ್ ಬಳಸಿ</string>
+    <string name="zen_alarm_warning_indef">"ನೀವು ಇದನ್ನು ಆಫ್ ಮಾಡದ ಹೊರತು <xliff:g id="WHEN">%1$s</xliff:g> ಗಂಟೆಯ ಅಲಾರಮ್ ಅನ್ನು ನೀವು ಆಲಿಸುವುದಿಲ್ಲ"</string>
+</resources>

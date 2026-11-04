@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">"السطوع التكيُّفي"</string>
+    <string name="status_bar_icons_title">أيقونات شريط الحالة</string>
+    <string name="status_bar_firewall">جدار الحماية</string>
+    <string name="battery_notification_channel_tv">تحذير البطارية</string>
+    <string name="screenshot_delete_label">"حذف"</string>
+    <string name="screenshot_delete_description">حذف لقطة الشاشة</string>
+    <string name="screenrecord_lowquality_label">جودة أقل</string>
+    <string name="screenrecord_lowquality_summary">لحجم ملف أصغر</string>
+    <string name="screenrecord_longer_timeout_switch_label">حد أكبر لحجم الملف</string>
+    <string name="screenrecord_longer_timeout_switch_summary">تحديد حجم التسجيل بـ 15 جيجابايت</string>
+    <string name="screenrecord_skip_time_label">تخطي المؤقت</string>
+    <string name="screenrecord_skip_time_summary">إزالة الانتظار لمدة 3 ثوانٍ</string>
+    <string name="screenrecord_hevc_switch_label">ترميز HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">استخدام مُرمّز HEVC الأكثر كفاءة</string>
+    <string name="zen_alarm_warning_indef">"لن تسمع المنبّه القادم في <xliff:g id="WHEN">%1$s</xliff:g> إلا إذا أوقفت هذا قبل الموعد."</string>
+</resources>

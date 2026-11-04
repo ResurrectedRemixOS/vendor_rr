@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"стандардно"</item>
+        <item>Целзиусови</item>
+        <item>Фаренхајтови</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"стандардно"</item>
+        <item>нед</item>
+        <item>пон</item>
+        <item>вт</item>
+        <item>сре</item>
+        <item>чет</item>
+        <item>пет</item>
+        <item>саб</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"стандардно"</item>
+        <item>метрички</item>
+        <item>американски систем</item>
+        <item>британски систем</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Не е наведено"</item>
+        <item>"Неутрално"</item>
+        <item>"Женски род"</item>
+        <item>"Машки род"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>фр</item>
+        <item>шп</item>
+        <item>ит</item>
+        <item>германски</item>
+    </string-array>
+    <string name="keyboard_extras_title">Дополнително</string>
+    <string name="advanced_keyboard_settings_title">"Напредни поставки"</string>
+    <string name="adb_enable_root">Debugging со root</string>
+    <string name="adb_enable_summary_root">Дозволи Android debugging да работи како root</string>
+    <string name="backup_transport_setting_label">Промени провајдер за бекап</string>
+    <string name="backup_transport_title">Изберете провајдер за бекап</string>
+    <string name="berry_black_theme_title">Чисто црно</string>
+    <string name="berry_black_theme_summary">Чисто црна позадина за темна тема</string>
+    <string name="lineagelicense_title">LineageOS правни информации</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Сега сте # чекор подалеку од овозможување на развојни поставки.} other {Сега сте # чекори подалеку од овозможување на развојни поставки.} }</string>
+    <string name="show_dev_on_cm">Развојните поставки се овозможени!</string>
+    <string name="show_dev_already_cm">Не е потребно, развојните поставки веќе се овозможени.</string>
+    <string name="status_bar_double_tap_to_sleep_title">Допрете за спиење</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Допрете двапати на статусната лента или на заклучениот екран за да го исклучите екранот</string>
+    <string name="high_touch_polling_rate_title">Висока фреквенција на допир</string>
+    <string name="high_touch_polling_rate_summary">Зголеми ја фреквенцијата на опитување на екранот на допир</string>
+    <string name="heads_up_notifications_enabled_title">Известување на врвот</string>
+    <string name="heads_up_notifications_enabled_summary">Прикажувај известувања со висок приоритет во мал плутечки прозорец</string>
+    <string name="high_touch_sensitivity_title">Висока чувствителност на допир</string>
+    <string name="high_touch_sensitivity_summary">Зголеми ја чувствителноста на екранот на допир за да може да се користи со ракавици</string>
+    <string name="tethering_allow_vpn_upstreams_title">Користи VPN за поврзани уреди</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Кога уредот користи VPN, сите уреди поврзани на хотспотот ќе користат истиот VPN</string>
+    <string name="lock_settings_picker_pattern_size_message">Изберете големина на шема</string>
+    <string name="lockpattern_settings_enable_error_path_title">Прикажи грешка на шемата</string>
+    <string name="lockpattern_settings_enable_dots_title">Прикажи точки на шемата</string>
+    <string name="max_refresh_rate_title">Максимална фреквенција на освежување</string>
+    <string name="min_refresh_rate_title">Минимална фреквенција на освежување</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Пронајдете го сензорот за отпечатоци на предниот дел од вашиот таблет.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Пронајдете го сензорот за отпечатоци на предниот дел од вашиот уред.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Пронајдете го сензорот за отпечатоци на предниот дел од вашиот телефон.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Пронајдете го сензорот за отпечатоци на задниот дел од вашиот таблет.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Пронајдете го сензорот за отпечатоци на задниот дел од вашиот уред.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Пронајдете го сензорот за отпечатоци на задниот дел од вашиот телефон.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Пронајдете го сензорот за отпечатоци на страната од вашиот таблет.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Пронајдете го сензорот за отпечатоци на страната од вашиот уред.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Пронајдете го сензорот за отпечатоци на страната од вашиот телефон.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Допрете го сензорот на предниот дел од вашиот таблет.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Допрете го сензорот на предниот дел од вашиот уред.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Допрете го сензорот на предниот дел од вашиот телефон.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Допрете го сензорот на задниот дел од вашиот таблет.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Допрете го сензорот на задниот дел од вашиот уред.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Допрете го сензорот на задниот дел од вашиот телефон.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Допрете го сензорот на страната од вашиот таблет.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Допрете го сензорот на страната од вашиот уред.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Допрете го сензорот на страната од вашиот телефон.</string>
+    <string name="show_navbar_hint_title">Совет за навигација</string>
+    <string name="show_navbar_hint_summary">Прикажи лента со совет за навигација на дното од екранот</string>
+    <string name="auto_brightness_one_shot_title">Еднократна автоматска осветленост</string>
+    <string name="auto_brightness_one_shot_summary">Приспособувањето на осветленоста ќе се случи само во моментот кога екранот ќе се вклучи</string>
+    <string name="data_usage_app_restrict_all">Дозволи пристап до мрежа</string>
+    <string name="data_usage_app_restrict_all_summary">Овозможи користење на мрежа</string>
+    <string name="data_usage_app_restrict_mobile">"Мобилен интернет"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Овозможи користење на мобилни податоци</string>
+    <string name="data_usage_app_restrict_vpn">VPN податоци</string>
+    <string name="data_usage_app_restrict_vpn_summary">Овозможи користење на VPN податоци</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi-сообраќај"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Овозможи користење на Wi‑Fi податоци</string>
+    <string name="unlock_scramble_pin_layout_title">Измешај распоред</string>
+    <string name="unlock_scramble_pin_layout_summary">Измешај го распоредот на PIN при отклучување на уредот</string>
+    <string name="proximity_wake_title">Спречи случајно будење</string>
+    <string name="proximity_wake_summary">Проверете го сензорот за близина пред да се вклучи екранот</string>
+    <string name="touchscreen_hovering_title">Лебдење над екранот на допир</string>
+    <string name="touchscreen_hovering_summary">Овозможува лебдење над екранот како со глушец во прелистувачи, далечински работни површини итн.</string>
+    <string name="wake_when_plugged_or_unplugged_title">Буди при priklучување</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Вклучи го екранот при поврзување или исклучување на извор на енергија</string>
+    <string name="storage_warning_internal">Предупредување: Оваа опција можеби нема да работи правилно или може да доведе до губење податоци, затоа не се препорачува!</string>
+    <string name="assisted_gps">Користи GPS со помош</string>
+    <string name="assisted_gps_summary">Преземи податоци за помош од сателитите од интернет што значително може да ја подобри брзината на GPS-от при вклучување. За итни повици, GPS со помош е секогаш дозволен.</string>
+    <string name="battery_technology">Технологија</string>
+    <string name="battery_health">"Состојба"</string>
+    <string name="battery_health_good">"Добро"</string>
+    <string name="battery_health_overheat">"Прегреана"</string>
+    <string name="battery_health_dead">"Празна"</string>
+    <string name="battery_health_over_voltage">"Над напон"</string>
+    <string name="battery_health_unspecified_failure">Неспецифицирана грешка</string>
+    <string name="battery_health_cold">"Ладна"</string>
+    <string name="battery_health_unknown">"Непознато"</string>
+    <string name="battery_temperature">"Температура"</string>
+    <string name="battery_voltage">Напон</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Проектиран капацитет</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Максимален капацитет</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Превртете го телефонот при поставување</string>
+    <string name="face_enrolling_close_to_continue_description">Телефонот мора да се превитка за да се постави или користи Face Unlock</string>
+    <string name="face_enrolling_do_it_later">"Остави за подоцна"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM алатки</string>
+    <string name="platform_compat_target_sdk_title">Овозможено за targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Менаџер на лични контексти</string>
+</resources>

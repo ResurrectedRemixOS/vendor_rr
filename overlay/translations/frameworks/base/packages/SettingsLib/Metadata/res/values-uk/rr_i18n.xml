@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Логічне значення.</string>
+    <string name="any_int_type_description">Ціле число.</string>
+    <string name="any_string_type_description">Рядок.</string>
+    <string name="display_id_type_description">Системний ідентифікатор дисплея (внутрішній або зовнішній залежно від конфігурації).</string>
+    <string name="installed_package_name_type_description">Будь-який пакет, встановлений на пристрої.</string>
+    <string name="int_in_range_type_description_from">Ціле число не менше %1$d, з кроком %2$d.</string>
+    <string name="int_in_range_type_description_to">Ціле число не більше %1$d, з кроком %2$d.</string>
+    <string name="int_in_range_type_description_between">Ціле число в діапазоні [%1$d, %2$d], з кроком %3$d.</string>
+    <string name="time_of_day_type_description">Час доби у форматі 24 години ГГ:хх.</string>
+    <string name="time_duration_type_description">Тривалість у цілих секундах.</string>
+    <string name="sim_slot_id_type_description">Допустимий ідентифікатор слота SIM-картки.</string>
+    <string name="subscription_id_type_description">Допустимий ідентифікатор підписки.</string>
+    <string name="wifi_ssid_type_description">SSID мережі Wi-Fi.</string>
+</resources>

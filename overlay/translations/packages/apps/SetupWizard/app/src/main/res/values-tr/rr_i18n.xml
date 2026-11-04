@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"İptal"</string>
+    <string name="finish">Bitir</string>
+    <string name="device_info">"Cihaz bilgileri"</string>
+    <string name="device_information">"Cihaz bilgileri"</string>
+    <string name="device_info_serial">"Seri numarası"</string>
+    <string name="setup_euicc">eSIM\'i kurun</string>
+    <string name="esim_support_summary">Bir eSIM kurun veya SIM kart takın. SIM kart takmak için cihazınızla birlikte gelen talimatları okuyun.</string>
+    <string name="sim_missing_skip_title">SIM kurulumunu atlansın mı?</string>
+    <string name="sim_missing_skip_message">Bu adımı atlarsanız, Ayarlar\'dan bir SIM kurana kadar mobil ağa bağlanamazsınız.</string>
+    <string name="setup_datetime_section_date">"Tarih"</string>
+    <string name="setup_datetime_section_time">"Saat"</string>
+    <string name="setup_date_format">"Biçim"</string>
+    <string name="date_format_day">"Gün"</string>
+    <string name="date_format_month">"Ay"</string>
+    <string name="date_format_year">"Yıl"</string>
+    <string name="setup_time_zone">"Saat dilimi"</string>
+    <string name="setup_24_hour_format">"24 saat biçimini kullan"</string>
+    <string name="location_summary">Cihazınızın konumu nasıl yöneteceğini seçin</string>
+    <string name="location_access_title">"Konumu kullan"</string>
+    <string name="location_agps_access_title">Gelişmiş konum</string>
+    <string name="services_find_privacy_policy">Gizlilik politikasını başka bir cihazda şu adresi ziyaret ederek okuyabilirsiniz:</string>
+    <string name="services_metrics_title">Tanılama verilerine katkıda bulunun</string>
+    <string name="gesture_navigation_short">Hareket</string>
+    <string name="pure_black_theme">Saf siyah arka plan kullan</string>
+    <string name="theme_preview">Tema önizlemesi</string>
+    <string name="swipe_up_to_go_home">"Ana ekrana gitmek için yukarı kaydırın"</string>
+    <string name="tap_home_to_go_home">Ana ekrana gitmek için ortadaki gezinme simgesine dokunun</string>
+    <string name="press_center_to_go_home">Ana ekrana gitmek için ortadaki düğmeye basın</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Wizard Persediaan</string>
+    <string name="cancel">"Batal"</string>
+    <string name="next">Seterusnya</string>
+    <string name="finish">Selesai</string>
+    <string name="skip">Langkau</string>
+    <string name="start">"Mula"</string>
+    <string name="done">"Selesai"</string>
+    <string name="ok">OK</string>
+    <string name="loading">"Tunggu sebentar…"</string>
+    <string name="setup_welcome_message">Selamat datang ke <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Sediakan profil kerja anda</string>
+    <string name="emergency_call">"Panggilan kecemasan"</string>
+    <string name="accessibility_settings">"Tetapan kebolehaksesan"</string>
+    <string name="device_info">"Maklumat peranti"</string>
+    <string name="device_information">"Maklumat peranti"</string>
+    <string name="device_info_serial">"Nombor siri"</string>
+    <string name="setup_locale">"Bahasa"</string>
+    <string name="sim_locale_changed">SIM %1$s dikesan</string>
+    <string name="setup_euicc">Sediakan eSIM</string>
+    <string name="setup_sim_missing">Kad SIM tiada</string>
+    <string name="esim_support_summary">Sediakan eSIM atau masukkan kad SIM. Untuk memasukkan kad SIM, baca arahan yang disertakan bersama peranti anda.</string>
+    <string name="sim_missing_summary" product="tablet">Kad SIM tidak dikesan dalam tablet anda. Untuk memasukkan kad SIM, baca arahan yang disertakan bersama peranti anda.</string>
+    <string name="sim_missing_summary" product="default">Kad SIM tidak dikesan dalam telefon anda. Untuk memasukkan kad SIM, baca arahan yang disertakan bersama peranti anda.</string>
+    <string name="sim_missing_skip_title">Langkau persediaan SIM?</string>
+    <string name="sim_missing_skip_message">Jika anda langkau langkah ini, anda tidak akan bersambung ke rangkaian mudah alih sehingga anda menyediakan SIM dalam Tetapan.</string>
+    <string name="setup_datetime">"Tarikh &amp; masa"</string>
+    <string name="date_time_summary">Tetapkan zon masa anda dan laraskan tarikh dan masa semasa jika perlu</string>
+    <string name="setup_current_date">Tarikh semasa</string>
+    <string name="setup_current_time">Masa semasa</string>
+    <string name="setup_datetime_section_date">"Tarikh"</string>
+    <string name="setup_datetime_section_time">"Masa"</string>
+    <string name="setup_date_format">Format</string>
+    <string name="date_format_day">"Hari"</string>
+    <string name="date_format_month">"Bulan"</string>
+    <string name="date_format_year">"Tahun"</string>
+    <string name="setup_time_zone">"Zon waktu"</string>
+    <string name="setup_24_hour_format">"Gunakan format 24 jam"</string>
+    <string name="intro_restore_title">Pulihkan apl dan data</string>
+    <string name="intro_restore_subtitle">Jika anda mempunyai sandaran Seedvault daripada <xliff:g id="name" example="LineageOS">%s</xliff:g> atau OS lain, anda boleh memulihkannya di sini.</string>
+    <string name="intro_restore_button">Pulihkan daripada sandaran</string>
+    <string name="setup_location">"Perkhidmatan lokasi"</string>
+    <string name="location_summary">Pilih cara peranti anda mengurus lokasinya</string>
+    <string name="location_access_title">"Gunakan lokasi"</string>
+    <string name="location_agps_access_title">Lokasi dipertingkat</string>
+    <string name="location_access_summary">Benarkan apl yang telah meminta kebenaran anda menggunakan maklumat lokasi anda. Ini mungkin termasuk lokasi semasa dan lokasi lampau anda.</string>
+    <string name="location_agps_access_summary">Apabila lokasi dihidupkan, muat turun data bantuan satelit daripada internet, yang boleh meningkatkan prestasi permulaan GPS dengan ketara.</string>
+    <string name="update_recovery_title">Kemas kini pemulihan Resurrected Remix</string>
+    <string name="update_recovery_description">Mengemas kini pemulihan Resurrected Remix pada but pertama selepas setiap kemas kini.</string>
+    <string name="update_recovery_warning">Pemulihan akan dikemas kini sebaik sahaja anda selesai persediaan. Jika anda mahu mengekalkannya, nyahdayakan ciri ini.</string>
+    <string name="update_recovery_setting">Kemas kini pemulihan Resurrected Remix bersama OS</string>
+    <string name="setup_services">Ciri Resurrected Remix</string>
+    <string name="services_pp_explanation">Perkhidmatan ini berfungsi untuk melanjutkan keupayaan peranti anda. Data akan digunakan mengikut dasar privasi <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Anda boleh membaca dasar privasi pada peranti lain dengan melawat:</string>
+    <string name="services_help_improve_cm">Bantu tingkatkan <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> dengan menghantar data diagnostik dan penggunaan secara automatik kepada <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Maklumat ini tidak boleh digunakan untuk mengenal pasti anda dan membantu pasukan yang bekerja pada perkara seperti hayat bateri, prestasi apl dan ciri <xliff:g id="name" example="LineageOS">%3$s</xliff:g> yang baharu.</string>
+    <string name="services_metrics_title">Sumbang data diagnostik</string>
+    <string name="services_os_nav_keys_label"><b>Gunakan kekunci navigasi pada skrin</b> dan bukannya kekunci perkakasan.</string>
+    <string name="setup_navigation">Navigasi</string>
+    <string name="navigation_summary">Pilih kaedah navigasi pilihan</string>
+    <string name="gesture_navigation">"Navigasi gerak isyarat"</string>
+    <string name="navbar_navigation">"Navigasi 3 butang"</string>
+    <string name="gesture_navigation_short">Gerak isyarat</string>
+    <string name="hide_gesture_hint">Sembunyikan petunjuk navigasi gerak isyarat</string>
+    <string name="setup_theme">"Tema"</string>
+    <string name="theme_summary">Tema gelap menggunakan latar belakang hitam untuk membantu bateri bertahan lebih lama pada sesetengah skrin</string>
+    <string name="dark">Gelap</string>
+    <string name="light">"Sedikit"</string>
+    <string name="pure_black_theme">Gunakan latar belakang hitam tulen</string>
+    <string name="theme_preview">Pratonton tema</string>
+    <string name="swipe_up_to_go_home">"Leret ke atas untuk ke skrin utama"</string>
+    <string name="tap_home_to_go_home">Ketik ikon navigasi tengah untuk pergi ke skrin utama</string>
+    <string name="press_center_to_go_home">Tekan butang tengah untuk pergi ke skrin utama</string>
+</resources>

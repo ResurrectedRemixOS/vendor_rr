@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Hodnota typu boolean.</string>
+    <string name="any_int_type_description">Celočíselná hodnota.</string>
+    <string name="any_string_type_description">Textová hodnota.</string>
+    <string name="display_id_type_description">Identifikátor systémového displeje (podle konfigurace interní nebo externí).</string>
+    <string name="installed_package_name_type_description">Libovolný balíček nainstalovaný v zařízení.</string>
+    <string name="int_in_range_type_description_from">Celé číslo větší nebo rovno %1$d, s krokem %2$d.</string>
+    <string name="int_in_range_type_description_to">Celé číslo menší nebo rovno %1$d, s krokem %2$d.</string>
+    <string name="int_in_range_type_description_between">Celé číslo v rozsahu [%1$d, %2$d], s krokem %3$d.</string>
+    <string name="time_of_day_type_description">Denní čas ve 24hodinovém formátu HH:mm.</string>
+    <string name="time_duration_type_description">Doba trvání v celých sekundách.</string>
+    <string name="sim_slot_id_type_description">Platné ID slotu SIM.</string>
+    <string name="subscription_id_type_description">Platné ID předplatného.</string>
+    <string name="wifi_ssid_type_description">SSID sítě Wi-Fi.</string>
+</resources>

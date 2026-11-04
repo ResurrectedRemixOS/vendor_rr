@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Давател на доверба на профили</string>
+    <string name="profile_picker_title">"Профили"</string>
+    <string name="profile_none">"Нема"</string>
+    <string name="profile_trust_agent_title">Агент за доверба на профили</string>
+    <string name="profile_trust_agent_summary">Овозможува профилите привремено да ја оневозможат заштитата на заклучениот екран</string>
+    <string name="trust_by_profile">Доверба од профил</string>
+</resources>

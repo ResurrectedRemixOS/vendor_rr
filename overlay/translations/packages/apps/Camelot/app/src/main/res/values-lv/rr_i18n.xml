@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF skatītājs</string>
+    <string name="find_in_page">Meklēt lappusē</string>
+    <string name="share">"Kopīgot"</string>
+    <string name="open_with">Atvērt ar…</string>
+    <string name="download">"Lejupielādēt"</string>
+    <string name="pdf_document">PDF dokuments</string>
+    <string name="print">"Drukāt"</string>
+    <string name="download_successful">Lejupielāde veiksmīga</string>
+    <string name="download_error">Radās kļūda, lejupielādējot failu</string>
+</resources>

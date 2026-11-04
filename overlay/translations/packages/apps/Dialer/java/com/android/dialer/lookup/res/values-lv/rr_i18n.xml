@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Vietas blakus</string>
+    <string name="lookup_settings_label">Tālruņa numura meklēšana</string>
+    <string name="enable_forward_lookup_title">Tiešā meklēšana</string>
+    <string name="enable_forward_lookup_summary">Rādīt tuvumā esošās vietas, meklējot tālrunī</string>
+    <string name="enable_reverse_lookup_title">Apgrieztā meklēšana</string>
+    <string name="enable_reverse_lookup_summary">Meklēt informāciju par personu vai vietu nezināmiem numuriem ienākošajos zvanos</string>
+    <string name="forward_lookup_provider_title">Tiešās meklēšanas pakalpojumu sniedzējs</string>
+    <string name="reverse_lookup_provider_title">Apgrieztās meklēšanas pakalpojumu sniedzējs</string>
+    <string name="lookup_disclaimer">Meklēšanas laikā informācijas iegūšanai var tikt nosūtīti vaicājumi attālām vietnēm, izmantojot drošu protokolu (https). Vaicājumā var tikt iekļauts otras puses tālruņa numurs vai meklēšanas vaicājums</string>
+</resources>

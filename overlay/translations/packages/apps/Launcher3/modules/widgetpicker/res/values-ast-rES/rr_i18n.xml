@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_span_dimensions_accessible_format">%1$d de llargor por %2$d d\'altor</string>
+    <string name="widget_details_accessibility_label">        Widget «<xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g>», %2$d de llargor por %3$d d\'altor
+    </string>
+    <string name="widget_tap_to_add_button_content_description">Amestar el widget «<xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g>»</string>
+    <string name="widget_picker_right_pane_accessibility_label">Los widgets de l\'aplicación «<xliff:g id="selected_header" example="Calendar">%1$s</xliff:g>» tán a la derecha, la busca y les opciones a la esquierda</string>
+    <string name="widgets_search_bar_hint">Buscar</string>
+    <string name="widget_search_bar_back_button_label">Atrás</string>
+    <string name="widgets_list_no_widgets_available">Nun hai widgets nin atayos disponibles</string>
+    <string name="widgets_no_search_results">Nun s\'atoparon atayos nin widgets</string>
+    <string name="widget_add_to_homescreen_button_label">Amestar a la pantalla d\'aniciu</string>
+    <string name="widget_cancel_pin_button_label">Encaboxar</string>
+</resources>

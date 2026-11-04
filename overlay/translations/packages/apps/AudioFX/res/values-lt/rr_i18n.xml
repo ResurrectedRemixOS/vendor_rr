@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX nėra jūsų numatytasis efektų valdymo skydelis.</string>
+    <string name="snack_bar_not_default_set">"Nustatyti numatytuosius nustatymus"</string>
+    <string name="snack_bar_not_default_not_now">"Ne dabar"</string>
+    <string name="multimedia">Multimedija</string>
+    <string name="custom_n">Pasirinktinis <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="device_line_out">Linijinė išvestis</string>
+    <string name="devices">"Įrenginiai"</string>
+    <string name="virtualizer">Virtualizatorius</string>
+    <string name="bass">Bosas</string>
+    <string name="rename">"Pervardyti"</string>
+    <string name="remove_custom_preset_warning_message">Ar tikrai norite pašalinti %1$s?</string>
+</resources>

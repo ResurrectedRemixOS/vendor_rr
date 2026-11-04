@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="crop_wallpaper">နောက်ခံကို ဖြတ်ရန်</string>
+    <string name="wallpaper_instructions">"နောက်ခံ သတ်မှတ်ရန်"</string>
+    <string name="wallpaper_load_fail">ပုံကို နောက်ခံအဖြစ် တင်၍မရပါ</string>
+</resources>

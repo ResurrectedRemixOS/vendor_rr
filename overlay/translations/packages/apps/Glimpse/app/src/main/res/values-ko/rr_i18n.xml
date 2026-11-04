@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="manage_media_permission_message">이미지와 동영상을 더 효율적으로 관리하려면 앱이 미디어 파일을 관리하도록 허용하세요</string>
+    <string name="media_info_location_open_with">다음으로 위치 보기</string>
+    <string name="intent_no_system_wallpaper_cropper_available">사용 가능한 시스템 자르기 도구가 없습니다</string>
+    <string name="intent_wallpaper_cannot_be_changed">배경화면을 변경할 수 없습니다</string>
+    <string name="file_action_use_as">다음으로 사용</string>
+    <string name="set_wallpaper_dialog_title">"배경화면으로 설정"</string>
+    <string name="title_activity_settings">"설정"</string>
+    <string name="general_header">"일반"</string>
+    <string name="video_header">동영상</string>
+    <string name="edge_tap_navigation_enable_title">가장자리 탭 탐색</string>
+    <string name="edge_tap_navigation_enabled_description">화면의 왼쪽 또는 오른쪽 가장자리를 탭하여 미디어 간 이동</string>
+    <string name="double_tap_to_seek_enabled_title">두 번 탭하여 탐색 사용</string>
+    <string name="double_tap_to_seek_enabled_description">동영상의 왼쪽 또는 오른쪽을 두 번 탭하여 뒤로 또는 앞으로 건너뛰기</string>
+    <string name="double_tap_to_seek_seconds_title">두 번 탭 탐색 건너뛰기 시간</string>
+    <string name="double_tap_to_seek_seconds_description">동영상을 두 번 탭할 때 건너뛸 초</string>
+    <string name="hide_native_seek_buttons_title">기본 탐색 버튼 숨기기</string>
+    <string name="hide_native_seek_buttons_description">동영상 플레이어 컨트롤에서 되감기 및 빨리 감기 버튼 숨기기</string>
+    <string name="remember_video_playback_position_enabled_title">재생 위치 기억</string>
+    <string name="remember_video_playback_position_enabled_description">마지막으로 멈춘 위치부터 동영상 재생 재개</string>
+</resources>

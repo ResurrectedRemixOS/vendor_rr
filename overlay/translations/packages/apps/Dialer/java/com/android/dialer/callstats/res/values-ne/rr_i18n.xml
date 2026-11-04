@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">सम्पर्क तथ्याङ्कको विवरण</string>
+    <string name="call_stats_incoming">आगमन: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">बहिर्गमन: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">छुटेका: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">ब्लक गरिएका: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">जम्मा: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">जम्मा: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">सुरु हुने मिति</string>
+    <string name="call_stats_filter_to">समाप्त हुने मिति</string>
+    <string name="call_stats_filter_picker_title">समय दायरा छान्नुहोस्</string>
+    <string name="date_quick_selection">द्रुत चयन</string>
+    <string name="date_qs_currentmonth">हालको महिना</string>
+    <string name="date_qs_currentquarter">हालको त्रैमास</string>
+    <string name="date_qs_currentyear">हालको वर्ष</string>
+    <string name="date_qs_lastweek">"गत हप्ता"</string>
+    <string name="date_qs_lastmonth">"गत महिना"</string>
+    <string name="date_qs_lastquarter">अघिल्लो त्रैमास</string>
+    <string name="date_qs_lastyear">"गत वर्ष"</string>
+    <string name="call_stats_date_filter">समय दायरा मिलाउनुहोस्</string>
+    <string name="call_stats_reset_filter">समय दायरा रिसेट गर्नुहोस्</string>
+    <string name="call_stats_sort_by_duration">कलको अवधि अनुसार क्रम मिलाउनुहोस्</string>
+    <string name="call_stats_sort_by_count">कलको सङ्ख्या अनुसार क्रम मिलाउनुहोस्</string>
+    <string name="call_stats_title_for_number">यो नम्बर</string>
+    <string name="call_stats_title_of_total">कुलको</string>
+    <string name="call_stats_title_durations">कलको अवधि</string>
+    <string name="call_stats_title_count">कलको सङ्ख्या</string>
+    <string name="call_stats_title_average_duration">औसत कल अवधि</string>
+    <string name="recent_calls_no_items_in_range">छानिएको समय दायरामा तपाईंको कल लगमा कुनै कल छैन।</string>
+</resources>

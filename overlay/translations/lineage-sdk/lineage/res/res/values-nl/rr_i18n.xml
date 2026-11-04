@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">Oplaadsnelheid</string>
+    <string name="charging_speed_slow">"Langzaam"</string>
+    <string name="charging_speed_fast">Snel</string>
+    <string name="charging_speed_super_fast">Supersnel</string>
+</resources>

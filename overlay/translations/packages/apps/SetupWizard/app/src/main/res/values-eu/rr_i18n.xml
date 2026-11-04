@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Utzi"</string>
+    <string name="finish">Amaitu</string>
+    <string name="setup_welcome_message">Ongi etorri <xliff:g id="name" example="LineageOS">%1$s</xliff:g>-era</string>
+    <string name="setup_managed_profile_welcome_message">Konfiguratu laneko profila</string>
+    <string name="accessibility_settings">"Erabilerraztasun-ezarpenak"</string>
+    <string name="device_info">"Gailuari buruzko informazioa"</string>
+    <string name="device_information">"Gailuaren informazioa"</string>
+    <string name="device_info_serial">"Serie-zenbakia"</string>
+    <string name="setup_euicc">Konfiguratu eSIM-a</string>
+    <string name="esim_support_summary">Konfiguratu eSIM bat edo txertatu SIM txartel bat. SIM txartela txertatzeko, irakurri gailuarekin etorri diren argibideak.</string>
+    <string name="sim_missing_skip_title">SIM-a konfiguratzea saltatu?</string>
+    <string name="sim_missing_skip_message">Urrats hau saltatzen baduzu, ez zara sare mugikorrera konektatuko ezarpenetan SIM-a konfiguratu arte.</string>
+    <string name="setup_datetime_section_date">"Data"</string>
+    <string name="setup_datetime_section_time">"Ordua"</string>
+    <string name="setup_date_format">"Formateatu"</string>
+    <string name="date_format_day">Eguna</string>
+    <string name="date_format_month">"Hilabetekoak"</string>
+    <string name="date_format_year">"Urteak"</string>
+    <string name="setup_time_zone">"Ordu-zona"</string>
+    <string name="setup_24_hour_format">"Erabili 24 orduko formatua"</string>
+    <string name="intro_restore_title">Berreskuratu aplikazioak eta datuak</string>
+    <string name="intro_restore_subtitle"><xliff:g id="name" example="LineageOS">%s</xliff:g>-ko edo beste edozein SO-tako Seedvault babeskopia baduzu, hemen berreskura dezakezu.</string>
+    <string name="intro_restore_button">Berreskuratu babeskopiatik</string>
+    <string name="location_summary">Aukeratu gailuak nola kudeatzen duen kokapena</string>
+    <string name="location_access_title">"Erabili kokapena"</string>
+    <string name="location_agps_access_title">Hobetutako kokapena</string>
+    <string name="location_agps_access_summary">Kokapena aktibo dagoenean, deskargatu satelite-laguntzako datuak internetetik, GPSaren abioa asko hobe dezakeelako.</string>
+    <string name="update_recovery_title">Eguneratu Resurrected Remix berreskuratzea</string>
+    <string name="update_recovery_description">Eguneratzen du Resurrected Remix berreskuratzea lehen abioan, eguneratze bakoitzaren ondoren.</string>
+    <string name="update_recovery_warning">Berreskuratzea konfigurazioa amaitzean eguneratuko da. Berdin mantendu nahi baduzu, desgaitu funtzio hau.</string>
+    <string name="update_recovery_setting">Eguneratu Resurrected Remix berreskuratzea SO-arekin batera</string>
+    <string name="services_pp_explanation">Zerbitzu hauek zure gailuaren gaitasunak zabaltzen dituzte. Datuak <xliff:g id="name" example="LineageOS">%1$s</xliff:g>-ren pribatutasun-politikaren arabera erabiliko dira.</string>
+    <string name="services_find_privacy_policy">Pribatutasun-politika beste gailu batean irakur dezakezu bisitatuz:</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g>-k diagnostiko- eta erabilera-datuak automatikoki bidaliz laguntzen du <xliff:g id="name" example="LineageOS">%2$s</xliff:g>-ri. Informazio hau ezin da zu identifikatzeko erabili, eta bateria-iraupena, aplikazioen errendimendua eta <xliff:g id="name" example="LineageOS">%3$s</xliff:g> funtzio berriak bezalako gauzetan lan egiten duten taldeei laguntzen die.</string>
+    <string name="services_metrics_title">Eman diagnostiko-datuak</string>
+    <string name="setup_navigation">Nabigazioa</string>
+    <string name="navigation_summary">Aukeratu nahi duzun nabigazio-metodoa</string>
+    <string name="gesture_navigation">"Keinu bidezko nabigazioa"</string>
+    <string name="navbar_navigation">"3 botoiko nabigazioa"</string>
+    <string name="gesture_navigation_short">Keinua</string>
+    <string name="hide_gesture_hint">Ezkutatu keinu bidezko nabigazioaren iradokizuna</string>
+    <string name="setup_theme">"Gaia"</string>
+    <string name="theme_summary">Gai ilunak fondo beltza erabiltzen du, pantaila batzuetan bateria gehiago irauteko</string>
+    <string name="dark">Iluna</string>
+    <string name="light">Argia</string>
+    <string name="pure_black_theme">Erabili fondo beltz hutsa</string>
+    <string name="theme_preview">Gaiaren aurrebista</string>
+    <string name="swipe_up_to_go_home">"Pasatu hatza gora orri nagusira joateko"</string>
+    <string name="tap_home_to_go_home">Sakatu erdiko nabigazio-ikonoa orri nagusira joateko</string>
+    <string name="press_center_to_go_home">Sakatu erdiko botoia orri nagusira joateko</string>
+</resources>

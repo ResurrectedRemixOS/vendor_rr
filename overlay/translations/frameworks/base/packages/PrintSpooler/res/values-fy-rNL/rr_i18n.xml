@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="print_button">Ofdrukke</string>
+    <string name="search">Sykje</string>
+    <string name="cancel">Annulearje</string>
+</resources>

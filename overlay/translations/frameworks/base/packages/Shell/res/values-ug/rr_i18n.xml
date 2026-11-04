@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bugreport_updating_wait">سەل كۈتۈڭ…</string>
+    <string name="bugreport_info_action">تەپسىلاتى</string>
+    <string name="bugreport_screenshot_action">ئېكراندىن تۇتۇلغان سۈرەت</string>
+    <string name="save">ساقلا</string>
+</resources>

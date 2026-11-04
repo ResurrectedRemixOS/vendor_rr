@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="use_photo_jpeg_ultra_hdr_title">Afbeeldingen opslaan als JPEG Ultra HDR</string>
+    <string name="use_photo_jpeg_ultra_hdr_summary">Afbeeldingen opslaan als JPEG Ultra HDR indien beschikbaar, om HDR-afbeeldingen te verbeteren</string>
+    <string name="enable_raw_image_capture_title">RAW-beeldopname inschakelen</string>
+    <string name="enable_raw_image_capture_summary">RAW-beeldopname inschakelen. Foto\'s kunnen niet als JPEG Ultra HDR worden opgeslagen wanneer RAW-opname is ingeschakeld</string>
+    <string name="disable_jpeg_with_raw_title">JPEG met RAW uitschakelen</string>
+    <string name="disable_jpeg_with_raw_summary">JPEG uitschakelen wanneer RAW-beeldopname is ingeschakeld</string>
+</resources>

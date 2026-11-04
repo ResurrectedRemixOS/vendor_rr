@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Орнату шебері</string>
+    <string name="cancel">"Бас тарту"</string>
+    <string name="next">Келесі</string>
+    <string name="finish">Дайын</string>
+    <string name="skip">Өткізіп жіберу</string>
+    <string name="start">"Бастау"</string>
+    <string name="done">"Дайын"</string>
+    <string name="ok">"Жарайды"</string>
+    <string name="loading">"Күте тұрыңыз…"</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g> жүйесіне қош келдіңіз</string>
+    <string name="setup_managed_profile_welcome_message">Жұмыс профилін орнатыңыз</string>
+    <string name="emergency_call">"Құтқару қызметіне қоңырау шалу"</string>
+    <string name="accessibility_settings">"Қол жетімділік параметрлері"</string>
+    <string name="device_info">"Құрылғы туралы ақпарат"</string>
+    <string name="device_information">"Құрылғы ақпараты"</string>
+    <string name="device_info_serial">"Сериялық нөмірі"</string>
+    <string name="setup_locale">"Тіл"</string>
+    <string name="sim_locale_changed">%1$s SIM анықталды</string>
+    <string name="setup_euicc">eSIM орнату</string>
+    <string name="setup_sim_missing">SIM карта жоқ</string>
+    <string name="esim_support_summary">eSIM орнатыңыз немесе SIM картасын салыңыз. SIM картасын салу үшін құрылғыңызбен бірге берілген нұсқаулықты оқыңыз.</string>
+    <string name="sim_missing_summary" product="tablet">Планшетіңізде SIM карта анықталмады. SIM картасын салу үшін құрылғыңызбен бірге берілген нұсқаулықты оқыңыз.</string>
+    <string name="sim_missing_summary" product="default">Телефоныңызда SIM карта анықталмады. SIM картасын салу үшін құрылғыңызбен бірге берілген нұсқаулықты оқыңыз.</string>
+    <string name="sim_missing_skip_title">SIM орнатуды өткізіп жіберу керек пе?</string>
+    <string name="sim_missing_skip_message">Бұл қадамды өткізіп жіберсеңіз, Параметрлерде SIM орнатқанға дейін ұялы желіге қосылмайсыз.</string>
+    <string name="setup_datetime">"Күн және уақыт"</string>
+    <string name="date_time_summary">Уақыт белдеуін орнатып, қажет болса ағымдағы күн мен уақытты өзгертіңіз</string>
+    <string name="setup_current_date">Ағымдағы күн</string>
+    <string name="setup_current_time">Ағымдағы уақыт</string>
+    <string name="setup_datetime_section_date">"Күн"</string>
+    <string name="setup_datetime_section_time">"Уақыт"</string>
+    <string name="setup_date_format">"Форматтау"</string>
+    <string name="date_format_day">"Күн"</string>
+    <string name="date_format_month">"Ай"</string>
+    <string name="date_format_year">"Жыл"</string>
+    <string name="setup_time_zone">"Уақыт белдеуі"</string>
+    <string name="setup_24_hour_format">"24 сағаттық формат"</string>
+    <string name="intro_restore_title">Қолданбалар мен деректерді қалпына келтіру</string>
+    <string name="intro_restore_subtitle">Сізде <xliff:g id="name" example="LineageOS">%s</xliff:g> немесе басқа ОЖ-дан Seedvault сақтық көшірмесі бар болса, оны осы жерде қалпына келтіруге болады.</string>
+    <string name="intro_restore_button">Сақтық көшірмеден қалпына келтіру</string>
+    <string name="setup_location">"Локация қызметтері"</string>
+    <string name="location_summary">Құрылғы орналасқан жерді қалай басқаратынын таңдаңыз</string>
+    <string name="location_access_title">"Локацияны пайдалану"</string>
+    <string name="location_agps_access_title">Кеңейтілген орналасу</string>
+    <string name="location_access_summary">Орналасу ақпаратыңызды пайдалануға рұқсат сұраған қолданбаларға рұқсат беріңіз. Бұған ағымдағы және бұрынғы орындар кіруі мүмкін.</string>
+    <string name="location_agps_access_summary">Орналасу қосулы кезде спутниктік көмек деректерін интернеттен жүктеңіз, бұл GPS іске қосылу өнімділігін едәуір жақсарта алады.</string>
+    <string name="update_recovery_title">Resurrected Remix қалпына келтіру жүйесін жаңарту</string>
+    <string name="update_recovery_description">Әр жаңартудан кейін алғашқы іске қосылғанда Resurrected Remix қалпына келтіру жүйесін жаңартады.</string>
+    <string name="update_recovery_warning">Орнату аяқталғанда қалпына келтіру жүйесі жаңартылады. Оны өзгеріссіз қалдырғыңыз келсе, бұл функцияны өшіріңіз.</string>
+    <string name="update_recovery_setting">ОЖ-мен бірге Resurrected Remix қалпына келтіру жүйесін жаңарту</string>
+    <string name="setup_services">Resurrected Remix мүмкіндіктері</string>
+    <string name="services_pp_explanation">Бұл қызметтер құрылғыңыздың мүмкіндіктерін кеңейту үшін жұмыс істейді. Деректер <xliff:g id="name" example="LineageOS">%1$s</xliff:g> құпиялылық саясатына сәйкес пайдаланылады.</string>
+    <string name="services_find_privacy_policy">Құпиялылық саясатын басқа құрылғыда мына мекенжай арқылы оқуға болады:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> жетілдіруіне көмектесіңіз</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> диагностикалық және пайдалану деректерін <xliff:g id="name" example="LineageOS">%2$s</xliff:g> компаниясына автоматты түрде жіберу арқылы. Бұл ақпаратты сізді анықтау үшін пайдалану мүмкін емес, ал батарея жұмысы, қолданба өнімділігі және жаңа <xliff:g id="name" example="LineageOS">%3$s</xliff:g> мүмкіндіктері сияқты бағыттарда жұмыс істейтін топтарға көмектеседі.</string>
+    <string name="services_metrics_title">Диагностикалық деректерді жіберу</string>
+    <string name="services_os_nav_keys_label">Аппараттық пернелердің орнына <b>экрандағы навигация пернелерін пайдалану</b>.</string>
+    <string name="setup_navigation">Навигация</string>
+    <string name="navigation_summary">Қалаулы навигация әдісін таңдаңыз</string>
+    <string name="gesture_navigation">"Қимылмен басқару"</string>
+    <string name="navbar_navigation">"3 түймемен басқару"</string>
+    <string name="gesture_navigation_short">Қимыл</string>
+    <string name="hide_gesture_hint">Қимыл арқылы навигация ескертпесін жасыру</string>
+    <string name="setup_theme">"Тақырып"</string>
+    <string name="theme_summary">Қараңғы тақырып кейбір экрандарда батареяның ұзағырақ жұмыс істеуіне көмектесу үшін қара фонды пайдаланады</string>
+    <string name="dark">Қараңғы</string>
+    <string name="light">Ақшыл</string>
+    <string name="pure_black_theme">Таза қара фонды пайдалану</string>
+    <string name="theme_preview">Тақырыпты алдын ала қарау</string>
+    <string name="swipe_up_to_go_home">"Негізгі экранға өту үшін жоғары қарай сырғытыңыз."</string>
+    <string name="tap_home_to_go_home">Негізгі экранға өту үшін навигацияның ортадағы белгішесін түртіңіз</string>
+    <string name="press_center_to_go_home">Негізгі экранға өту үшін ортадағы батырманы басыңыз</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="install">Ynstallearje</string>
+    <string name="done">Foltôge</string>
+    <string name="cancel">Annulearje</string>
+    <string name="app_name_unknown">Unbekend</string>
+    <string name="external_sources_settings">Ynstellingen</string>
+    <string name="unarchive_settings_button">Ynstellingen</string>
+    <string name="button_install">Ynstallearje</string>
+    <string name="button_done">Foltôge</string>
+    <string name="button_cancel">Annulearje</string>
+    <string name="button_delete">Fuortsmite</string>
+    <string name="button_settings">Ynstellingen</string>
+</resources>

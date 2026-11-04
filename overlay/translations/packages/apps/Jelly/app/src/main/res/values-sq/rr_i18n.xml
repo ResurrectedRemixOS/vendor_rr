@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_desktop_shortcuts">Shkurtoret e desktopit</string>
+    <string name="menu_background_shortcuts">Shkurtoret e sfondit</string>
+    <string name="desktop_shortcuts_title">Shkurtoret e desktopit</string>
+    <string name="background_shortcuts_title">Shkurtoret e sfondit</string>
+    <string name="background_shortcuts_notification_channel">Menaxho shkurtoret e sfondit</string>
+    <string name="pref_web_debugging_title">Korrigjimi i uebit</string>
+    <string name="pref_web_debugging_summary">Lejo inspektimin e faqeve të uebit përmes chrome://inspect me korrigjimin USB</string>
+    <string name="pref_fullscreen_shortcuts_title">Shkurtoret me ekran të plotë</string>
+    <string name="pref_fullscreen_shortcuts_summary">Detyro shkurtoret të hapen në modalitetin me ekran të plotë</string>
+</resources>

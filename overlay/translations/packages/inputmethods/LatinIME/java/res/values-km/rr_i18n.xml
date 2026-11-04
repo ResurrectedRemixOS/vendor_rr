@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">ក្បួនអក្សរ (Bépo)</string>
+    <string name="subtype_hu_ZZ">ហុងគ្រី (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - តាមការកំណត់ប្រព័ន្ធ</string>
+    <string name="prefs_keyboard_height_scale">កម្ពស់ក្តារចុច</string>
+    <string name="number_row">ជួរលេខ</string>
+    <string name="number_row_summary">បង្ហាញជួរលេខជានិច្ចសម្រាប់ប្លង់ទាំងអស់ដែលមានជួរគ្រាប់ចុចចំនួន ៤</string>
+    <string name="number_row_password">ជួរលេខសម្រាប់ពាក្យសម្ងាត់</string>
+    <string name="number_row_password_summary">បង្ហាញជួរលេខជានិច្ចសម្រាប់ប្លង់ទាំងអស់ដែលមានជួរគ្រាប់ចុចចំនួន ៤ សម្រាប់បញ្ចូលពាក្យសម្ងាត់</string>
+    <string name="space_trackpad">បញ្ជរតាមដានថ្ងាសដៅ</string>
+    <string name="space_trackpad_summary">អូសលើថ្ងាសដៅដើម្បីផ្លាស់ទីទស្សន៍ទ្រនិច</string>
+    <string name="backspace_trackpad">បញ្ជរតាមដានប៊ូតុងថយក្រោយ</string>
+    <string name="backspace_trackpad_summary">អូសលើប៊ូតុងថយក្រោយដើម្បីលុបពាក្យ</string>
+    <string name="show_longpress_hints">បង្ហាញការណែនាំចុចឱ្យយូរ</string>
+    <string name="show_longpress_hints_summary">បង្ហាញការណែនាំចុចឱ្យយូរសម្រាប់ប៊ូតុងដែលគាំទ្រ</string>
+    <string name="show_emoji_key">បង្ហាញប៊ូតុងអារម្មណ៍</string>
+    <string name="show_emoji_key_summary">បង្ហាញប៊ូតុងអារម្មណ៍ជានិច្ច។ នៅពេលបើកជម្រើសនេះ មិនអាចបង្ហាញប៊ូតុងប្តូរភាសាបានទេ។</string>
+    <string name="enable_split_keyboard_summary">តែក្នុងទិសដេក</string>
+    <string name="split_keyboard_duplicate_keys">ចម្លងគ្រាប់ចុចកណ្តាល</string>
+    <string name="split_keyboard_duplicate_keys_summary">បង្ហាញគ្រាប់ចុចជិតកណ្តាលនៅទាំងពីរផ្នែក</string>
+    <string name="spoken_description_split_keyboard">ក្តារចុចបំបែក</string>
+    <string name="spoken_description_merge_keyboard">បញ្ចូលក្តារចុចវិញ</string>
+    <string name="spoken_description_float_keyboard">ក្តារចុចអណ្តែត</string>
+    <string name="spoken_description_dock_keyboard">ដាក់ក្តារចុចនៅខាង</string>
+    <string name="floating_keyboard_drag_handle">ផ្លាស់ទីក្តារចុច</string>
+    <string name="floating_keyboard_resize_handle">ប្ដូរទំហំក្តារចុច</string>
+    <string name="floating_keyboard_reset">"កំណត់​ឡើងវិញ"</string>
+    <string name="floating_keyboard_hide">លាក់ក្តារចុច</string>
+    <string name="floating_keyboard_switch_ime">"ប្ដូរវិធីសាស្ត្រ​បញ្ចូល"</string>
+</resources>

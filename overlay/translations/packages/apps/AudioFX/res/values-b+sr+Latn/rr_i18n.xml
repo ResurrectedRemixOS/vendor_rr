@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default_set">"Podesi kao podrazumevano"</string>
+    <string name="snack_bar_not_default_not_now">"Ne sada"</string>
+    <string name="normal">Normalno</string>
+    <string name="classical">"Klasična"</string>
+    <string name="dance">"Dens"</string>
+    <string name="flat">Ravno</string>
+    <string name="heavy_metal">"Hevi metal"</string>
+    <string name="hip_hop">"Hip-hop"</string>
+    <string name="custom">Prilagođeno</string>
+    <string name="device_headset">"Naglavne slušalice"</string>
+    <string name="device_speaker">"Zvučnik"</string>
+    <string name="devices">"Uređaji"</string>
+    <string name="rename">"Preimenuj"</string>
+</resources>

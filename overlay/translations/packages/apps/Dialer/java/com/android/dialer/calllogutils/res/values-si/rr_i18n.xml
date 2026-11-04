@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">සියලු ගිණුම්</string>
+    <string name="call_log_all_calls_header">සියලු ඇමතුම්</string>
+    <string name="call_log_incoming_header">ලැබෙන ඇමතුම් පමණි</string>
+    <string name="call_log_outgoing_header">පිටතට යන ඇමතුම් පමණි</string>
+    <string name="call_log_missed_header">මඟ හැරුණු ඇමතුම් පමණි</string>
+    <string name="call_log_voicemail_header">හඬ තැපැල් සහිත ඇමතුම් පමණි</string>
+    <string name="call_log_blacklist_header">අවහිර කළ ඇමතුම් පමණි</string>
+</resources>

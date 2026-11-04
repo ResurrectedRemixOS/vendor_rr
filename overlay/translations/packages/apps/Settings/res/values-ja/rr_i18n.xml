@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"デフォルト"</item>
+        <item>摂氏</item>
+        <item>華氏</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"デフォルト"</item>
+        <item>日</item>
+        <item>月</item>
+        <item>火</item>
+        <item>水</item>
+        <item>木</item>
+        <item>金</item>
+        <item>土</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"デフォルト"</item>
+        <item>メートル法</item>
+        <item>US 単位</item>
+        <item>UK 単位</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"指定しない"</item>
+        <item>"普通"</item>
+        <item>"女性"</item>
+        <item>"男性"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>フランス語</item>
+        <item>スペイン語</item>
+        <item>イタリア語</item>
+        <item>ドイツ語</item>
+    </string-array>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM ツールキット</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> の場合に有効</string>
+    <string name="personal_context_title">パーソナル コンテキスト マネージャー</string>
+</resources>

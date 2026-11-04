@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share_selected">Jaa valitut</string>
+    <string name="delete_all">Poista kaikki</string>
+    <string name="delete_selected">Poista valitut</string>
+    <string name="confirm">"Vahvista"</string>
+    <string name="discard">"Hylkää"</string>
+    <string name="record_again">Tallenna uudelleen</string>
+    <string name="confirm_result_title">Käytetäänkö tallennetta?</string>
+    <string name="confirm_result_message">Haluatko käyttää viimeisintä tallennetta?</string>
+    <string name="dialog_permissions_notifications">Tallennin tarvitsee ilmoitusluvan tallennuksen ohjaimien näyttämiseen</string>
+    <string name="dialog_permissions_mic_notifications">Tallennin tarvitsee mikrofonilupan äänen tallentamiseen ja ilmoitusluvan tallennuksen ohjaimien näyttämiseen</string>
+    <string name="dialog_permissions_phone_notifications">Tallennin tarvitsee puhelimen tilan käyttöoikeuden estääkseen tallennuksen puhelun aikana sekä ilmoitusluvan tallennuksen ohjaimien näyttämiseen</string>
+    <string name="dialog_permissions_mic_phone_notifications">Tallennin tarvitsee mikrofonilupan äänen tallentamiseen, puhelimen tilan käyttöoikeuden estääkseen tallennuksen puhelun aikana sekä ilmoitusluvan tallennuksen ohjaimien näyttämiseen</string>
+    <string name="delete_all_title">Poista kaikki</string>
+    <string name="delete_all_message">Haluatko varmasti poistaa kaikki tallenteet? Tätä ei voi perua</string>
+    <string name="delete_selected_title">Poista valitut</string>
+    <string name="delete_selected_message">Haluatko varmasti poistaa valitut tallenteet? Tätä ei voi perua</string>
+</resources>

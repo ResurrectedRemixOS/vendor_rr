@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Sefsex</string>
+    <string name="finish">Ifuk</string>
+    <string name="setup_datetime_section_date">Azemz</string>
+    <string name="setup_datetime_section_time">Akud</string>
+    <string name="date_format_day">Ass</string>
+    <string name="date_format_month">Aggur</string>
+    <string name="setup_time_zone">Iẓḍi usrig</string>
+    <string name="setup_theme">Asentel</string>
+    <string name="light">Aceɛlal</string>
+</resources>

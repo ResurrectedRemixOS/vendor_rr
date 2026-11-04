@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Klasik</string>
+    <string name="bundle1_color_name">Karbon</string>
+    <string name="bundle2_color_name">Kertas</string>
+    <string name="bundle3_color_name">Matahari</string>
+    <string name="bue_color_name">Lavender</string>
+    <string name="red_color_name">Beri</string>
+    <string name="wht_color_name">Kabus</string>
+    <string name="indigo_color_name">"Biru nila"</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Hijau Jed</string>
+    <string name="lemongrass_color_name">Serai</string>
+    <string name="moonstone_color_name">Batu Bulan</string>
+    <string name="obsidian_color_name">Obsidian</string>
+    <string name="peony_color_name">Peoni</string>
+    <string name="porcelain_color_name">Porselin</string>
+    <string name="fruit1_color_name">Palet dua warna kuning dan merah</string>
+    <string name="fruit2_color_name">Palet dua warna hijau dan oren</string>
+    <string name="fruit3_color_name">Palet dua warna biru dan hijau</string>
+    <string name="fruit4_color_name">Palet dua warna ungu muda dan biru</string>
+    <string name="fruit5_color_name">Palet dua warna merah jambu dan indigo</string>
+</resources>

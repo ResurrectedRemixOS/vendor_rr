@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"গ্যালারি"</string>
+    <string name="app_permissions_toast">ব্যবহারকারী অনুমতি দেননি।</string>
+    <string name="reels_title">রিলস</string>
+    <string name="albums_title">"অ্যালবাম"</string>
+    <string name="categories_title">"বিভাগ"</string>
+    <string name="library_title">লাইব্রেরি</string>
+    <string name="album_favorites">"পছন্দসই"</string>
+    <string name="album_trash">"ট্র্যাশ"</string>
+    <string name="album_reels">রিলস</string>
+    <string name="album_photos">"ফটো"</string>
+    <string name="album_videos">"ভিডিও"</string>
+    <plurals name="move_file_to_trash_successful">
+        <item quantity="one">%d টি ফাইল ট্র্যাশে সরানো হয়েছে</item>
+        <item quantity="other">%d টি ফাইল ট্র্যাশে সরানো হয়েছে</item>
+    </plurals>
+    <plurals name="move_file_to_trash_unsuccessful">
+        <item quantity="one">%d টি ফাইল ট্র্যাশে সরানো যায়নি</item>
+        <item quantity="other">%d টি ফাইল ট্র্যাশে সরানো যায়নি</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_confirm_message">
+        <item quantity="one">আপনি কি ট্র্যাশ থেকে %d টি ফাইল পুনরুদ্ধার করতে চান?</item>
+        <item quantity="other">আপনি কি ট্র্যাশ থেকে %d টি ফাইল পুনরুদ্ধার করতে চান?</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_successful">
+        <item quantity="one">ট্র্যাশ থেকে %d টি ফাইল পুনরুদ্ধার করা হয়েছে</item>
+        <item quantity="other">ট্র্যাশ থেকে %d টি ফাইল পুনরুদ্ধার করা হয়েছে</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_unsuccessful">
+        <item quantity="one">ট্র্যাশ থেকে %d টি ফাইল পুনরুদ্ধার করা যায়নি</item>
+        <item quantity="other">ট্র্যাশ থেকে %d টি ফাইল পুনরুদ্ধার করা যায়নি</item>
+    </plurals>
+    <string name="manage_media_permission_title">মিডিয়া অনুমতি পরিচালনা করুন</string>
+    <string name="manage_media_permission_message">ছবি ও ভিডিও আরও ভালোভাবে পরিচালনার জন্য অ্যাপকে আপনার মিডিয়া ফাইল পরিচালনার অনুমতি দিন</string>
+    <string name="media_info_unknown">"অজানা"</string>
+    <string name="media_info_add_description_hint">বিবরণ যোগ করুন</string>
+    <string name="media_info_write_description_failed">মিডিয়ার বিবরণ পরিবর্তন করা যায়নি</string>
+    <string name="media_info_location_loading_placeholder">লোড হচ্ছে…</string>
+    <string name="media_info_location_open_with">এর সাথে অবস্থান দেখুন</string>
+    <string name="intent_action_not_supported">কার্যক্রমটি সমর্থিত নয়</string>
+    <string name="intent_media_not_found">মিডিয়া পাওয়া যায়নি</string>
+    <string name="intent_media_type_not_found">মিডিয়ার ধরন পাওয়া যায়নি</string>
+    <string name="intent_media_type_not_supported">মিডিয়ার ধরন সমর্থিত নয়</string>
+    <string name="intent_no_system_wallpaper_cropper_available">কোনো সিস্টেম ক্রপার পাওয়া যায়নি</string>
+    <string name="intent_wallpaper_cannot_be_changed">ওয়ালপেপার পরিবর্তন করা যাবে না</string>
+    <string name="file_action_add_to_favorites">"পছন্দগুলিতে জুড়ুন"</string>
+    <string name="file_action_delete_forever">"স্থায়ীভাবে মুছুন"</string>
+    <string name="file_action_edit">"এডিট করুন"</string>
+    <string name="file_action_empty_trash">"ট্র্যাশ খালি করুন"</string>
+    <string name="file_action_information">"তথ্য"</string>
+    <string name="file_action_move_to_trash">"ট্র্যাশে পাঠান"</string>
+    <string name="file_action_remove_from_favorites">পছন্দসই থেকে সরান</string>
+    <string name="file_action_restore_from_trash">ট্র্যাশ থেকে পুনরুদ্ধার করুন</string>
+    <string name="file_action_share">"শেয়ার করুন"</string>
+    <string name="file_action_use_as">হিসেবে ব্যবহার করুন</string>
+    <string name="file_action_undo_action">"আগের অবস্থায় ফিরুন"</string>
+    <string name="no_media">কোনো মিডিয়া নেই</string>
+    <plurals name="thumbnail_selection_count">
+        <item quantity="one">%d টি নির্বাচিত</item>
+        <item quantity="other">%d টি নির্বাচিত</item>
+    </plurals>
+    <string name="pick_a_photo">একটি ছবি বেছে নিন</string>
+    <string name="pick_a_video">একটি ভিডিও বেছে নিন</string>
+    <string name="pick_a_media">একটি মিডিয়া বেছে নিন</string>
+    <string name="picker_done">"হয়ে গেছে"</string>
+    <string name="set_wallpaper_label">"ওয়ালপেপার"</string>
+    <string name="set_wallpaper">"ওয়ালপেপার সেট করুন"</string>
+    <string name="set_wallpaper_dialog_title">"ওয়ালপেপার সেট করুন"</string>
+    <string name="set_wallpaper_home_screen">"হোম স্ক্রিন"</string>
+    <string name="set_wallpaper_lock_screen">"লক স্ক্রিন"</string>
+    <string name="set_wallpaper_both">হোম ও লক স্ক্রিন</string>
+    <string name="warning_bin_time_period">৩০ দিন পর ফাইলগুলো স্থায়ীভাবে মুছে যাবে।</string>
+    <string name="motion_photo_show_video">ভিডিও দেখান</string>
+    <string name="motion_photo_show_photo">ছবি দেখান</string>
+    <string name="title_activity_settings">"সেটিংস"</string>
+    <string name="general_header">"সাধারণ"</string>
+    <string name="video_header">ভিডিও</string>
+    <string name="edge_tap_navigation_enable_title">প্রান্ত ট্যাপ করে নেভিগেশন</string>
+    <string name="edge_tap_navigation_enabled_description">মিডিয়ার মধ্যে যেতে স্ক্রিনের বাঁ বা ডান প্রান্তে ট্যাপ করুন</string>
+    <string name="double_tap_to_seek_enabled_title">ডাবল-ট্যাপে সিক সক্রিয় করুন</string>
+    <string name="double_tap_to_seek_enabled_description">ভিডিওর বাঁ বা ডান পাশে ডাবল-ট্যাপ করে পিছনে বা সামনে যান</string>
+    <string name="double_tap_to_seek_seconds_title">ডাবল-ট্যাপে সিক করার সময়সীমা</string>
+    <string name="double_tap_to_seek_seconds_description">ভিডিওতে ডাবল-ট্যাপ করলে কত সেকেন্ড এগোবে বা পিছাবে</string>
+    <string name="hide_native_seek_buttons_title">নেটিভ সিক বোতাম লুকান</string>
+    <string name="hide_native_seek_buttons_description">ভিডিও প্লেয়ার নিয়ন্ত্রণ থেকে রিওয়াইন্ড ও ফাস্ট-ফরওয়ার্ড বোতাম লুকান</string>
+    <string name="remember_video_playback_position_enabled_title">প্লেব্যাক অবস্থান মনে রাখুন</string>
+    <string name="remember_video_playback_position_enabled_description">শেষবার যেখানে থেমেছিল সেখান থেকে ভিডিও চালু হবে</string>
+</resources>

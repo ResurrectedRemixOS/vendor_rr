@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="screenrecord_longer_timeout_switch_label">Batas ukuran file lebih besar</string>
+    <string name="screenrecord_skip_time_label">Lewati timer</string>
+    <string name="screenrecord_skip_time_summary">Hapus jeda 3 detik</string>
+    <string name="zen_alarm_warning_indef">"Anda tidak akan mendengar alarm berikutnya <xliff:g id="WHEN">%1$s</xliff:g>, jika Anda tidak menonaktifkannya sebelum waktu tersebut"</string>
+</resources>

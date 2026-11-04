@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ڈیفالٹ"</item>
+        <item>سیلسیس</item>
+        <item>فارن ہائیٹ</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ڈیفالٹ"</item>
+        <item>اتوار</item>
+        <item>پیر</item>
+        <item>منگل</item>
+        <item>بدھ</item>
+        <item>جمعرات</item>
+        <item>جمعہ</item>
+        <item>ہفتہ</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ڈیفالٹ"</item>
+        <item>میٹرک</item>
+        <item>امریکی نظام</item>
+        <item>برطانوی نظام</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"متعین نہیں ہے"</item>
+        <item>"نیوٹرل"</item>
+        <item>"مؤنث"</item>
+        <item>"مذکر"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>فرانسیسی</item>
+        <item>ہسپانوی</item>
+        <item>اطالوی</item>
+        <item>جرمن</item>
+    </string-array>
+    <string name="keyboard_extras_title">ایکسٹراز</string>
+    <string name="advanced_keyboard_settings_title">"جدید ترین ترتیبات"</string>
+    <string name="adb_enable_root">روٹڈ ڈی بگنگ</string>
+    <string name="adb_enable_summary_root">Android ڈی بگنگ کو روٹ کے طور پر چلانے کی اجازت دیں</string>
+    <string name="backup_transport_setting_label">بیک اپ فراہم کنندہ تبدیل کریں</string>
+    <string name="backup_transport_title">بیک اپ فراہم کنندہ منتخب کریں</string>
+    <string name="berry_black_theme_title">خالص سیاہ</string>
+    <string name="berry_black_theme_summary">ڈارک تھیم کے لیے خالص سیاہ پس منظر</string>
+    <string name="lineagelicense_title">LineageOS قانونی معلومات</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {اب آپ ڈیویلپمنٹ ترتیبات فعال کرنے سے # قدم دور ہیں۔} other {اب آپ ڈیویلپمنٹ ترتیبات فعال کرنے سے # قدم دور ہیں۔} }</string>
+    <string name="show_dev_on_cm">آپ نے ڈیویلپمنٹ ترتیبات فعال کر لی ہیں!</string>
+    <string name="show_dev_already_cm">ضرورت نہیں، آپ ڈیویلپمنٹ ترتیبات پہلے ہی فعال کر چکے ہیں۔</string>
+    <string name="status_bar_double_tap_to_sleep_title">آلہ مقفل کرنے کے لیے تھپتھپائیں</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ڈسپلے بند کرنے کے لیے اسٹیٹس بار یا لاک اسکرین پر دو بار ٹیپ کریں</string>
+    <string name="high_touch_polling_rate_title">ہائی ٹچ پولنگ ریٹ</string>
+    <string name="high_touch_polling_rate_summary">ٹچ اسکرین پولنگ ریٹ بڑھائیں</string>
+    <string name="heads_up_notifications_enabled_title">ہیڈز اپ</string>
+    <string name="heads_up_notifications_enabled_summary">ترجیحی اطلاعات ایک چھوٹی تیرتی ونڈو میں دکھائیں</string>
+    <string name="high_touch_sensitivity_title">ہائی ٹچ حساسیت</string>
+    <string name="high_touch_sensitivity_summary">ٹچ اسکرین کی حساسیت بڑھائیں تاکہ دستانے پہن کر بھی استعمال ہو سکے</string>
+    <string name="tethering_allow_vpn_upstreams_title">منسلک ڈیوائسز کے لیے VPN استعمال کریں</string>
+    <string name="tethering_allow_vpn_upstreams_summary">جب یہ ڈیوائس VPN استعمال کر رہی ہو تو ہاٹ اسپاٹ سے جڑی تمام ڈیوائسز بھی وہی VPN استعمال کریں گی</string>
+    <string name="lock_settings_picker_pattern_size_message">پیٹرن کا سائز منتخب کریں</string>
+    <string name="lockpattern_settings_enable_error_path_title">پیٹرن کی خرابی دکھائیں</string>
+    <string name="lockpattern_settings_enable_dots_title">پیٹرن کے نقطے دکھائیں</string>
+    <string name="max_refresh_rate_title">اسکرین ریفرش ریٹ کی حد</string>
+    <string name="min_refresh_rate_title">کم از کم ریفریش ریٹ</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">اپنے ٹیبلیٹ کے سامنے والے حصے پر فنگر پرنٹ سینسر تلاش کریں۔</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">اپنی ڈیوائس کے سامنے والے حصے پر فنگر پرنٹ سینسر تلاش کریں۔</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">اپنے فون کے سامنے والے حصے پر فنگر پرنٹ سینسر تلاش کریں۔</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">اپنے ٹیبلیٹ کے پچھلے حصے پر فنگر پرنٹ سینسر تلاش کریں۔</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">اپنی ڈیوائس کے پچھلے حصے پر فنگر پرنٹ سینسر تلاش کریں۔</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">اپنے فون کے پچھلے حصے پر فنگر پرنٹ سینسر تلاش کریں۔</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">اپنے ٹیبلیٹ کے کنارے پر فنگر پرنٹ سینسر تلاش کریں۔</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">اپنی ڈیوائس کے کنارے پر فنگر پرنٹ سینسر تلاش کریں۔</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">اپنے فون کے کنارے پر فنگر پرنٹ سینسر تلاش کریں۔</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">اپنے ٹیبلیٹ کے سامنے والے سینسر کو چھوئیں۔</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">اپنی ڈیوائس کے سامنے والے سینسر کو چھوئیں۔</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">اپنے فون کے سامنے والے سینسر کو چھوئیں۔</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">اپنے ٹیبلیٹ کے پچھلے سینسر کو چھوئیں۔</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">اپنی ڈیوائس کے پچھلے سینسر کو چھوئیں۔</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">اپنے فون کے پچھلے سینسر کو چھوئیں۔</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">اپنے ٹیبلیٹ کے کنارے والے سینسر کو چھوئیں۔</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">اپنی ڈیوائس کے کنارے والے سینسر کو چھوئیں۔</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">اپنے فون کے کنارے والے سینسر کو چھوئیں۔</string>
+    <string name="show_navbar_hint_title">نیویگیشن اشارہ</string>
+    <string name="show_navbar_hint_summary">اسکرین کے نیچے نیویگیشن اشارے کی بار دکھائیں</string>
+    <string name="auto_brightness_one_shot_title">ایک شاٹ خود کار-روشنی</string>
+    <string name="auto_brightness_one_shot_summary">چمک کی مطابقت صرف اس وقت ہوگی جب اسکرین آن ہوگی۔</string>
+    <string name="data_usage_app_restrict_all">نیٹ ورک تک رسائی کی اجازت دیں</string>
+    <string name="data_usage_app_restrict_all_summary">نیٹ ورک کا استعمال فعال کریں</string>
+    <string name="data_usage_app_restrict_mobile">"موبائل ڈیٹا"</string>
+    <string name="data_usage_app_restrict_mobile_summary">موبائل ڈیٹا کا استعمال فعال کریں</string>
+    <string name="data_usage_app_restrict_vpn">VPN ڈیٹا</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN ڈیٹا کا استعمال فعال کریں</string>
+    <string name="data_usage_app_restrict_wifi">"‏Wi‑Fi ڈیٹا"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi ڈیٹا کا استعمال فعال کریں</string>
+    <string name="unlock_scramble_pin_layout_title">لے آؤٹ بدلیں</string>
+    <string name="unlock_scramble_pin_layout_summary">ان لاک کرتے وقت PIN لے آؤٹ بدلیں</string>
+    <string name="proximity_wake_title">غلطی سے جاگنے سے روکیں</string>
+    <string name="proximity_wake_summary">اسکرین جگانے سے پہلے قربت سینسر چیک کریں</string>
+    <string name="touchscreen_hovering_title">ٹچ اسکرین ہوور</string>
+    <string name="touchscreen_hovering_summary">ویب براؤزرز، ریموٹ ڈیسک ٹاپس وغیرہ میں ماؤس کی طرح اسکرین پر ہوور کرنے دیتا ہے</string>
+    <string name="wake_when_plugged_or_unplugged_title">پلگ لگنے پر جگائیں</string>
+    <string name="wake_when_plugged_or_unplugged_summary">بجلی کا کنکشن لگانے یا ہٹانے پر اسکرین آن کریں</string>
+    <string name="storage_warning_internal">انتباہ: یہ آپشن ٹھیک سے کام نہ کر سکتا ہے یا ڈیٹا ضائع ہو سکتا ہے، اس لیے تجویز نہیں کیا جاتا!</string>
+    <string name="assisted_gps">اسسٹڈ GPS استعمال کریں</string>
+    <string name="assisted_gps_summary">انٹرنیٹ سے سیٹلائٹ معاون ڈیٹا ڈاؤن لوڈ کریں جو GPS شروع ہونے کی کارکردگی کو بہتر بنا سکتا ہے۔ ہنگامی کالز کے لیے اسسٹڈ GPS ہمیشہ اجازت یافتہ ہے۔</string>
+    <string name="battery_technology">ٹیکنالوجی</string>
+    <string name="battery_health">"صحت"</string>
+    <string name="battery_health_good">"اچھا"</string>
+    <string name="battery_health_overheat">"بہت زیادہ گرم"</string>
+    <string name="battery_health_dead">"ختم"</string>
+    <string name="battery_health_over_voltage">"زیادہ وولٹیج"</string>
+    <string name="battery_health_unspecified_failure">غیر متعین خرابی</string>
+    <string name="battery_health_cold">"سرد"</string>
+    <string name="battery_health_unknown">"نامعلوم"</string>
+    <string name="battery_temperature">"درجہ حرارت"</string>
+    <string name="battery_voltage">وولٹیج</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">ڈیزائن کی گنجائش</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">زیادہ سے زیادہ گنجائش</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">سیٹ اپ کے دوران فون فولڈ کریں</string>
+    <string name="face_enrolling_close_to_continue_description">فون کو Face Unlock سیٹ اپ یا استعمال کرنے کے لیے فولڈ کرنا ضروری ہے</string>
+    <string name="face_enrolling_do_it_later">"اسے بعد میں کریں"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM toolkit</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> کے لیے فعال</string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

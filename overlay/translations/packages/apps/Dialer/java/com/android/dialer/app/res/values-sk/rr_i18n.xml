@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_dialer_text">Na používanie tejto funkcie musíte nastaviť Telefón ako predvolenú aplikáciu na telefonovanie.</string>
+    <string name="default_dialer_action">"Nastaviť ako predvolené"</string>
+</resources>

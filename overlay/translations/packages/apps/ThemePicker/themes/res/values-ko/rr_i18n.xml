@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">라벤더</string>
+    <string name="red_color_name">베리</string>
+    <string name="wht_color_name">안개</string>
+    <string name="indigo_color_name">"인디고"</string>
+    <string name="iris_color_name">아이리스</string>
+    <string name="jade_color_name">제이드</string>
+    <string name="lemongrass_color_name">레몬그라스</string>
+    <string name="moonstone_color_name">문스톤</string>
+    <string name="peony_color_name">모란</string>
+    <string name="porcelain_color_name">포슬린</string>
+    <string name="fruit1_color_name">노란색과 빨간색 2색 팔레트</string>
+    <string name="fruit2_color_name">초록색과 주황색 2색 팔레트</string>
+    <string name="fruit3_color_name">파란색과 초록색 2색 팔레트</string>
+    <string name="fruit4_color_name">연보라색과 파란색 2색 팔레트</string>
+    <string name="fruit5_color_name">분홍색과 남색 2색 팔레트</string>
+</resources>

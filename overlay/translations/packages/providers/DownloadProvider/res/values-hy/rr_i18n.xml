@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="duration_seconds">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> վրկ</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> վրկ</item>
+    </plurals>
+    <plurals name="duration_hours">
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> ժ</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ժ</item>
+    </plurals>
+    <string name="download_paused">"Դադարեցված է"</string>
+    <string name="download_paused_percent">Դադարեցված է, %d%%</string>
+    <string name="button_resume_download">"Վերսկսել"</string>
+    <string name="button_pause_download">Դադար</string>
+</resources>

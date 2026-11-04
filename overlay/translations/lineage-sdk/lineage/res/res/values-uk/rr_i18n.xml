@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="permdesc_useHardwareFramework">Дозволяє застосунку доступ до апаратного фреймворку Lineage.</string>
+    <string name="permlab_writeSettings">змінювати системні налаштування Lineage</string>
+    <string name="permdesc_writeSettings">Дозволяє застосунку змінювати системні налаштування Lineage.</string>
+    <string name="permlab_writeSecureSettings">змінювати захищені системні налаштування Lineage</string>
+    <string name="permdesc_writeSecureSettings">Дозволяє застосунку змінювати захищені системні налаштування Lineage. Не призначено для звичайних застосунків.</string>
+    <string name="charging_speed">Швидкість заряджання</string>
+    <string name="charging_speed_slow">"Повільно"</string>
+    <string name="charging_speed_fast">Швидко</string>
+    <string name="charging_speed_super_fast">Надшвидка</string>
+    <string name="app_killed_message">Застосунок примусово зупинено</string>
+    <string name="permlab_trustInterface">доступ до інтерфейсу Trust</string>
+    <string name="permdesc_trustInterface">Дозволяє застосунку показувати попередження й поради Trust</string>
+    <string name="trust_notification_channel">Сповіщення Trust</string>
+    <string name="trust_notification_title_security">Trust • Системна безпека</string>
+    <string name="trust_notification_content_selinux">SELinux не в режимі примусового застосування, безпеку знижено</string>
+    <string name="trust_notification_content_keys">Цю збірку підписано відкритими ключами</string>
+    <string name="trust_notification_action_manage">Керувати сповіщеннями</string>
+    <string name="charging_control_notification_channel">Керування зарядкою</string>
+    <string name="charging_control_notification_title">Керування зарядкою</string>
+    <string name="charging_control_notification_cancel_once">"Скасувати"</string>
+    <string name="charging_control_notification_content_limit">Заряд батареї буде доведено до %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">Батарею заряджено до %1$d%%</string>
+    <string name="charging_control_notification_content_target">Батарея повністю зарядиться о %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Батарею заряджено</string>
+</resources>

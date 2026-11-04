@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Yehlulekile ukuqala ukurekhoda ucingo</string>
+    <string name="call_recording_file_location">Ucingo olurekhodiwe lulondoloziwe ku-<xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Rekhoda ucingo</string>
+    <string name="onscreenCallRecordingText">Kurekhodwa ucingo - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Misa ukurekhoda"</string>
+    <string name="recording_warning_title">Nika amandla ukurekhoda ucingo?</string>
+    <string name="recording_warning_text">Isaziso: Uzibophezele ukuthobela yonke imithetho, izimiso namacala asebenza ekusetshenzisweni kwesakhi sokurekhoda ucingo nasekusetshenzisweni noma ekusatshalaliseni lezo zirekhodo.</string>
+</resources>

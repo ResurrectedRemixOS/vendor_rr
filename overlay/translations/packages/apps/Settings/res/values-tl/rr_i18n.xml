@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>default</item>
+        <item>celsius</item>
+        <item>fahrenhe</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>default</item>
+        <item>sun</item>
+        <item>mon</item>
+        <item>tue</item>
+        <item>wed</item>
+        <item>thu</item>
+        <item>fri</item>
+        <item>sat</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>default</item>
+        <item>metric</item>
+        <item>ussystem</item>
+        <item>uksystem</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Hindi tinukoy"</item>
+        <item>Neutral</item>
+        <item>"Pambabae"</item>
+        <item>"Panlalaki"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">Extras</string>
+    <string name="advanced_keyboard_settings_title">"Mga advanced na setting"</string>
+    <string name="adb_enable_root">Rooted debugging</string>
+    <string name="adb_enable_summary_root">Payagan ang Android debugging bilang root</string>
+    <string name="backup_transport_setting_label">Palitan ang backup provider</string>
+    <string name="backup_transport_title">Pumili ng backup provider</string>
+    <string name="berry_black_theme_title">Pure black</string>
+    <string name="berry_black_theme_summary">Pure black na background para sa dark theme</string>
+    <string name="lineagelicense_title">LineageOS legal</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Isang hakbang na lang para ma-enable ang development settings.} other {# na hakbang na lang para ma-enable ang development settings.} }</string>
+    <string name="show_dev_on_cm">Na-enable mo na ang development settings!</string>
+    <string name="show_dev_already_cm">Hindi na kailangan, na-enable mo na ang development settings.</string>
+    <string name="status_bar_double_tap_to_sleep_title">I-tap para matulog</string>
+    <string name="status_bar_double_tap_to_sleep_summary">I-double-tap ang status bar o lockscreen para i-off ang display</string>
+    <string name="high_touch_polling_rate_title">High touch polling rate</string>
+    <string name="high_touch_polling_rate_summary">Dagdagan ang touchscreen polling rate</string>
+    <string name="heads_up_notifications_enabled_title">Heads-up</string>
+    <string name="heads_up_notifications_enabled_summary">Ipakita ang mga priority notification sa maliit na lumulutang na window</string>
+    <string name="high_touch_sensitivity_title">High touch sensitivity</string>
+    <string name="high_touch_sensitivity_summary">Dagdagan ang sensitivity ng touchscreen para magamit habang naka-guwantes</string>
+    <string name="tethering_allow_vpn_upstreams_title">Gumamit ng VPN para sa mga nakakonektang device</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Kapag gumagamit ng VPN ang device na ito, gagamit ng parehong VPN ang lahat ng device na nakakonekta sa hotspot</string>
+    <string name="lock_settings_picker_pattern_size_message">Pumili ng laki ng pattern</string>
+    <string name="lockpattern_settings_enable_error_path_title">Ipakita ang error ng pattern</string>
+    <string name="lockpattern_settings_enable_dots_title">Ipakita ang mga tuldok ng pattern</string>
+    <string name="max_refresh_rate_title">Peak refresh rate</string>
+    <string name="min_refresh_rate_title">Minimum refresh rate</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Hanapin ang fingerprint sensor sa harap ng iyong tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Hanapin ang fingerprint sensor sa harap ng iyong device.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Hanapin ang fingerprint sensor sa harap ng iyong telepono.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Hanapin ang fingerprint sensor sa likod ng iyong tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Hanapin ang fingerprint sensor sa likod ng iyong device.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Hanapin ang fingerprint sensor sa likod ng iyong telepono.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Hanapin ang fingerprint sensor sa gilid ng iyong tablet.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Hanapin ang fingerprint sensor sa gilid ng iyong device.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Hanapin ang fingerprint sensor sa gilid ng iyong telepono.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Hawakan ang sensor sa harap ng iyong tablet.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Hawakan ang sensor sa harap ng iyong device.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Hawakan ang sensor sa harap ng iyong telepono.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Hawakan ang sensor sa likod ng iyong tablet.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Hawakan ang sensor sa likod ng iyong device.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Hawakan ang sensor sa likod ng iyong telepono.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Hawakan ang sensor sa gilid ng iyong tablet.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Hawakan ang sensor sa gilid ng iyong device.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Hawakan ang sensor sa gilid ng iyong telepono.</string>
+    <string name="show_navbar_hint_title">Navigation hint</string>
+    <string name="show_navbar_hint_summary">Ipakita ang navigation hint bar sa ibaba ng screen</string>
+    <string name="auto_brightness_one_shot_title">One shot auto-brightness</string>
+    <string name="auto_brightness_one_shot_summary">Mangyayari lang ang pag-adjust ng brightness sa sandaling i-on ang screen</string>
+    <string name="data_usage_app_restrict_all">Payagan ang network access</string>
+    <string name="data_usage_app_restrict_all_summary">I-enable ang paggamit ng network</string>
+    <string name="data_usage_app_restrict_mobile">Mobile data</string>
+    <string name="data_usage_app_restrict_mobile_summary">I-enable ang paggamit ng mobile data</string>
+    <string name="data_usage_app_restrict_vpn">VPN data</string>
+    <string name="data_usage_app_restrict_vpn_summary">I-enable ang paggamit ng VPN data</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi data"</string>
+    <string name="data_usage_app_restrict_wifi_summary">I-enable ang paggamit ng Wi‑Fi data</string>
+    <string name="unlock_scramble_pin_layout_title">Scramble layout</string>
+    <string name="unlock_scramble_pin_layout_summary">I-scramble ang PIN layout kapag ina-unlock ang device</string>
+    <string name="proximity_wake_title">Pigilan ang aksidenteng pag-wake up</string>
+    <string name="proximity_wake_summary">Suriin ang proximity sensor bago gisingin ang screen</string>
+    <string name="touchscreen_hovering_title">Hover sa touchscreen</string>
+    <string name="touchscreen_hovering_summary">Nagbibigay-daan na mag-hover sa screen na parang mouse sa mga web browser, remote desktop, at iba pa</string>
+    <string name="wake_when_plugged_or_unplugged_title">Gisingin kapag isinaksak</string>
+    <string name="wake_when_plugged_or_unplugged_summary">I-on ang screen kapag nagkakabit o nagtatanggal ng power source</string>
+    <string name="storage_warning_internal">Babala: Maaaring hindi gumana nang maayos ang opsyong ito o magdulot ng pagkawala ng data, kaya hindi ito inirerekomenda!</string>
+    <string name="assisted_gps">Gamitin ang assisted GPS</string>
+    <string name="assisted_gps_summary">I-download ang satellite assistance data mula sa internet na maaaring lubos na magpabilis ng pagsisimula ng GPS. Para sa mga emergency call, palaging pinapayagan ang assisted GPS.</string>
+    <string name="battery_technology">Teknolohiya</string>
+    <string name="battery_health">"Kalagayan"</string>
+    <string name="battery_health_good">"Malakas"</string>
+    <string name="battery_health_overheat">Sobrang init</string>
+    <string name="battery_health_dead">"Wala na"</string>
+    <string name="battery_health_over_voltage">"Sobrang boltahe"</string>
+    <string name="battery_health_unspecified_failure">Hindi tinukoy na pagkabigo</string>
+    <string name="battery_health_cold">"Malamig"</string>
+    <string name="battery_health_unknown">"Hindi Alam"</string>
+    <string name="battery_temperature">"Temperatura"</string>
+    <string name="battery_voltage">Boltahe</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Kapasidad ng disenyo</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Pinakamataas na kapasidad</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Tiklupin ang telepono habang nagse-setup</string>
+    <string name="face_enrolling_close_to_continue_description">Kailangang nakatiklop ang telepono para mag-setup o gamitin ang Face Unlock</string>
+    <string name="face_enrolling_do_it_later">"Gawin sa ibang oras"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM toolkit</string>
+    <string name="platform_compat_target_sdk_title">Naka-enable para sa targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

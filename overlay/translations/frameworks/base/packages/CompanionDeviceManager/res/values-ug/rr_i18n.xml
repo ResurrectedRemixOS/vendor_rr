@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="discovery_wifi">Wi-Fi</string>
+    <string name="consent_yes">يول قوي</string>
+    <string name="consent_cancel">ۋاز كەچ</string>
+    <string name="consent_back">قايت</string>
+    <string name="permission_phone">تېلېفون</string>
+    <string name="permission_sms">قىسقا ئۇچۇر</string>
+    <string name="permission_contacts">ئالاقەداشلار</string>
+    <string name="permission_calendar">يىلنامە</string>
+    <string name="permission_microphone">مىكروفون</string>
+    <string name="permission_notifications">ئۇقتۇرۇشلار</string>
+    <string name="permission_microphone_summary">ئۈن تۇت</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Lavender</string>
+    <string name="red_color_name">Berry</string>
+    <string name="wht_color_name">Kabut</string>
+    <string name="lemongrass_color_name">Lemongrass</string>
+    <string name="porcelain_color_name">Porselen</string>
+    <string name="fruit1_color_name">Palet dua warna kuning dan merah</string>
+    <string name="fruit2_color_name">Palet dua warna hijau dan oranye</string>
+    <string name="fruit3_color_name">Palet dua warna biru dan hijau</string>
+    <string name="fruit4_color_name">Palet dua warna ungu muda dan biru</string>
+    <string name="fruit5_color_name">Palet dua warna merah muda dan indigo</string>
+</resources>

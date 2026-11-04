@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX не е вашата стандардна контролна табла за ефекти.</string>
+    <string name="snack_bar_not_default_set">"Постави стандарден метод"</string>
+    <string name="snack_bar_not_default_not_now">"Не сега"</string>
+    <string name="normal">Нормално</string>
+    <string name="classical">"Класична"</string>
+    <string name="dance">"Денс"</string>
+    <string name="flat">Рамна</string>
+    <string name="folk">"Фолк"</string>
+    <string name="heavy_metal">"Хеви метал"</string>
+    <string name="hip_hop">"Хип-хоп"</string>
+    <string name="electronic">Електронска</string>
+    <string name="small_speakers">Мали звучници</string>
+    <string name="multimedia">Мултимедија</string>
+    <string name="custom">Прилагодено</string>
+    <string name="custom_n">Прилагодено <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">Ефектот не е достапен за режимот на звучник.</string>
+    <string name="device_headset">"Слушалки"</string>
+    <string name="device_speaker">"Звучник"</string>
+    <string name="device_line_out">Линиски излез</string>
+    <string name="reverb">Реверб</string>
+    <string name="devices">"Уреди"</string>
+    <string name="virtualizer">Виртуализатор</string>
+    <string name="bass">Бас</string>
+    <string name="rename">"Преименувај"</string>
+    <string name="remove_custom_preset_warning_message">Дали сте сигурни дека сакате да го отстраните %1$s?</string>
+    <string name="picker_title">Контролна табла за музички ефекти</string>
+</resources>

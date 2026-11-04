@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ringtone_default">Standardschelltoun</string>
+    <string name="notification_sound_default">Standard-Notifikatiounstoun</string>
+    <string name="add_alarm_text">Wecker dobäisetzen</string>
+    <string name="delete_ringtone_text">Läschen</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_retry_face_auth" product="default">Bain triail as Díghlasáil Aghaidhe arís</string>
+    <string name="face_re_enroll_notification_title" product="default">Socraigh Aghaidh Díghlasáil arís</string>
+    <string name="biometric_dialog_tap_confirm_with_face_sfps" product="default">Díghlasáilte ag aghaidh. Tapáil chun leanúint ar aghaidh.</string>
+    <string name="face_re_enroll_notification_name" product="default">Díghlasáil Aghaidhe</string>
+    <string name="face_re_enroll_dialog_title" product="default">Socraigh Díghlasáil Aghaidhe</string>
+    <string name="keyguard_face_successful_unlock_confirm_button" product="default">Díghlasáilte ag an aghaidh. Brúigh dearbhú le leanúint ar aghaidh.</string>
+</resources>

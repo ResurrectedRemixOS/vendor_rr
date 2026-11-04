@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Qo‘ng‘iroqni yozib olishni boshlab bo‘lmadi</string>
+    <string name="call_recording_file_location">Qo‘ng‘iroq yozuvi <xliff:g id="filename">%s</xliff:g> ga saqlandi</string>
+    <string name="onscreenCallRecordText">Qo‘ng‘iroqni yozib olish</string>
+    <string name="onscreenCallRecordingText">Qo‘ng‘iroq yozilmoqda - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Yozuvni toʻxtatish"</string>
+    <string name="recording_warning_title">Qo‘ng‘iroqni yozib olishni yoqasizmi?</string>
+    <string name="recording_warning_text">Diqqat: qo‘ng‘iroqni yozib olish funksiyasidan va yozuvlarni tarqatishdan foydalanishga tegishli barcha qonun, me’yor va qoidalarga rioya qilish uchun o‘zingiz javobgarsiz.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_password">Řada čísel pro hesla</string>
+    <string name="number_row_password_summary">Vždy zobrazovat řadu čísel pro všechna rozložení se 4 řadami kláves pro zadávání hesla</string>
+    <string name="backspace_trackpad">Trackpad na klávese Backspace</string>
+    <string name="backspace_trackpad_summary">Přejetím po klávese Backspace mažte slova</string>
+    <string name="enable_split_keyboard_summary">Pouze na šířku</string>
+    <string name="split_keyboard_duplicate_keys">Duplikovat středové klávesy</string>
+    <string name="split_keyboard_duplicate_keys_summary">Zobrazit klávesy blízko středu na obou polovinách</string>
+    <string name="spoken_description_split_keyboard">Rozdělená klávesnice</string>
+    <string name="spoken_description_merge_keyboard">Sloučit klávesnici</string>
+    <string name="spoken_description_float_keyboard">Plovoucí klávesnice</string>
+    <string name="spoken_description_dock_keyboard">Ukotvená klávesnice</string>
+    <string name="floating_keyboard_drag_handle">Přesunout klávesnici</string>
+    <string name="floating_keyboard_resize_handle">Změnit velikost klávesnice</string>
+    <string name="floating_keyboard_reset">"Resetovat"</string>
+    <string name="floating_keyboard_hide">Skrýt klávesnici</string>
+    <string name="floating_keyboard_switch_ime">"Přepnout metodu zadávání"</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="crop_wallpaper">Prit imazhin e sfondit</string>
+    <string name="wallpaper_instructions">"Cakto imazhin në sfond"</string>
+    <string name="wallpaper_load_fail">Nuk u ngarkua imazhi si sfond</string>
+</resources>

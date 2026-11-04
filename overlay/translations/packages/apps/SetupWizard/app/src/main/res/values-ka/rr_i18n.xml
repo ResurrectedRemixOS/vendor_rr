@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="finish">დასრულება</string>
+    <string name="device_info">"მოწყობილობის ინფორმაცია"</string>
+    <string name="device_information">"მოწყობილობის ინფორმაცია"</string>
+    <string name="device_info_serial">"სერიული ნომერი"</string>
+    <string name="setup_datetime_section_date">"თარიღი"</string>
+    <string name="setup_datetime_section_time">"დრო"</string>
+    <string name="setup_date_format">"ფორმატი"</string>
+    <string name="date_format_day">დღე</string>
+    <string name="date_format_month">"თვე"</string>
+    <string name="date_format_year">"წელი"</string>
+    <string name="setup_time_zone">"დროის სარტყელი"</string>
+    <string name="setup_24_hour_format">"24-საათიანი ფორმატი"</string>
+    <string name="location_summary">აირჩიეთ, როგორ მართავს თქვენი მოწყობილობა მდებარეობას</string>
+    <string name="location_access_title">"მდებარეობის გამოყენება"</string>
+    <string name="location_agps_access_title">გაუმჯობესებული მდებარეობა</string>
+    <string name="services_find_privacy_policy">კონფიდენციალურობის პოლიტიკის წაკითხვა შეგიძლიათ სხვა მოწყობილობიდან, ეწვიეთ:</string>
+    <string name="services_metrics_title">დიაგნოსტიკური მონაცემების გაზიარება</string>
+    <string name="gesture_navigation_short">ჟესტი</string>
+    <string name="pure_black_theme">გამოიყენე სუფთა შავი ფონი</string>
+    <string name="theme_preview">თემის გადახედვა</string>
+    <string name="swipe_up_to_go_home">"მთავარ გვერდზე გადასასვლელად გადაფურცლეთ ზევით"</string>
+    <string name="tap_home_to_go_home">შეეხეთ ცენტრალურ ნავიგაციის ხატულას მთავარ ეკრანზე დასაბრუნებლად</string>
+    <string name="press_center_to_go_home">დააჭირეთ ცენტრალურ ღილაკს მთავარ ეკრანზე დასაბრუნებლად</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Classic</string>
+    <string name="bundle1_color_name">Kaboni</string>
+    <string name="bundle2_color_name">Karatasi</string>
+    <string name="bundle3_color_name">Jua</string>
+    <string name="bue_color_name">Lavenda</string>
+    <string name="red_color_name">Beri</string>
+    <string name="wht_color_name">Ukungu</string>
+    <string name="indigo_color_name">"Nili"</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Yade</string>
+    <string name="lemongrass_color_name">Lemongrass</string>
+    <string name="moonstone_color_name">Mwezi wa jiwe</string>
+    <string name="obsidian_color_name">Obsidian</string>
+    <string name="peony_color_name">Peony</string>
+    <string name="porcelain_color_name">Porcelaini</string>
+    <string name="fruit1_color_name">Rangi mbili za manjano na nyekundu</string>
+    <string name="fruit2_color_name">Rangi mbili za kijani na chungwa</string>
+    <string name="fruit3_color_name">Rangi mbili za buluu na kijani</string>
+    <string name="fruit4_color_name">Rangi mbili za zambarau nyepesi na buluu</string>
+    <string name="fruit5_color_name">Rangi mbili za waridi na indigo</string>
+</resources>

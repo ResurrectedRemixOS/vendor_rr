@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="helplines_loading">Ŝarĝado</string>
+    <string name="helpline_name">Nomo</string>
+    <string name="helpline_website">Retejo</string>
+    <string name="helpline_language_english">Angla</string>
+    <string name="helpline_language_french">Franca</string>
+    <string name="helpline_language_german">Germana</string>
+    <string name="helpline_language_turkish">Turka</string>
+    <string name="helpline_category_family">Familio</string>
+</resources>

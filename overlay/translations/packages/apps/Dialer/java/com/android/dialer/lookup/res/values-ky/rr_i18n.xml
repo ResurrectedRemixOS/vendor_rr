@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Жакын арадагы жерлер</string>
+    <string name="lookup_settings_label">Телефон номерин издөө</string>
+    <string name="enable_forward_lookup_title">Түз издөө</string>
+    <string name="enable_forward_lookup_summary">Терүүчүдө издөөдө жакын жердеги жайларды көрсөтүү</string>
+    <string name="enable_reverse_lookup_title">Тескери издөө</string>
+    <string name="enable_reverse_lookup_summary">Кирүүчү чалуулардагы белгисиз номерлер боюнча адам же жай жөнүндө маалыматты издөө</string>
+    <string name="forward_lookup_provider_title">Түз издөө кызматчысы</string>
+    <string name="reverse_lookup_provider_title">Тескери издөө кызматчысы</string>
+    <string name="lookup_disclaimer">Издөөлөр маалымат чогултуу үчүн алыскы сайттарга коопсуз протокол (https) аркылуу сурамдарды жибериши мүмкүн. Сурамга экинчи тараптын телефон номери же издөө сөзү кириши мүмкүн</string>
+</resources>

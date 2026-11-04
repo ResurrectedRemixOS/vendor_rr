@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Прагляднік PDF</string>
+    <string name="find_in_page">Знайсці на старонцы</string>
+    <string name="share">"Абагуліць"</string>
+    <string name="open_with">Адкрыць з дапамогай…</string>
+    <string name="download">Спампаваць</string>
+    <string name="pdf_document">Дакумент PDF</string>
+    <string name="print">"Друкаваць"</string>
+    <string name="download_successful">Спампоўка выканана</string>
+    <string name="download_error">Памылка пры спампоўцы файла</string>
+</resources>

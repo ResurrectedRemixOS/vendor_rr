@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bluetooth_hearing_aids_presets_error">Impussibil inzornâ la pre-configurazion</string>
+    <string name="hearing_device_spinner_item_selected">Selezionât</string>
+    <string name="clear_adb_keys">Revoche lis autorizazions pal debug USB</string>
+    <string name="adb_keys_warning_message">Revocâ l\'acès al debug USB di ducj i computers che tu âs autorizât in precedence?</string>
+    <string name="disabled_in_phone_call_text">No disponibil intant des clamadis</string>
+    <string name="screen_zoom_summary_smallest">Piçulissim</string>
+    <string name="screen_zoom_summary_smaller">Plui piçul</string>
+    <string name="accessibility_screen_magnification_title">Ingrandiment</string>
+</resources>

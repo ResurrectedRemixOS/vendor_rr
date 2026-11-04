@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">ሁሉም መለያዎች</string>
+    <string name="call_log_all_calls_header">ሁሉም ጥሪዎች</string>
+    <string name="call_log_incoming_header">ገቢ ጥሪዎች ብቻ</string>
+    <string name="call_log_outgoing_header">ወጪ ጥሪዎች ብቻ</string>
+    <string name="call_log_missed_header">ያመለጡ ጥሪዎች ብቻ</string>
+    <string name="call_log_voicemail_header">የድምጽ መልዕክት ያላቸው ጥሪዎች ብቻ</string>
+    <string name="call_log_blacklist_header">የታገዱ ጥሪዎች ብቻ</string>
+</resources>

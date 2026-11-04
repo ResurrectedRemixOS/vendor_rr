@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">دوبارہ شروع کریں…</string>
+    <string name="global_action_restart_system">"سسٹم"</string>
+    <string name="global_action_restart_recovery">"بازیابی"</string>
+    <string name="global_action_restart_bootloader">بوٹ لوڈر</string>
+    <string name="global_action_restart_download">"ڈاؤن لوڈ کریں"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"دوبارہ شروع ہو رہا ہے…"</string>
+    <string name="global_action_restart_recovery_progress">ریکوری موڈ میں دوبارہ شروع ہو رہا ہے…</string>
+    <string name="global_action_restart_bootloader_progress">بوٹ لوڈر موڈ میں دوبارہ شروع ہو رہا ہے…</string>
+    <string name="global_action_restart_download_progress">ڈاؤن لوڈ موڈ میں دوبارہ شروع ہو رہا ہے…</string>
+    <string name="global_action_restart_fastboot_progress">Fastbootd موڈ میں دوبارہ شروع ہو رہا ہے…</string>
+    <string name="global_action_current_user">موجودہ</string>
+    <string name="global_action_users">"صارفین"</string>
+    <string name="clock">"گھڑی"</string>
+    <string name="accessibility_adaptive_brightness">"تغیر پذیر چمک"</string>
+    <string name="status_bar_icons_title">سٹیٹس بار کے آئیکون</string>
+    <string name="quick_settings_ambient_display_label">"ايمبيئنٹ ڈسپلے"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">ایمبیئنٹ ڈسپلے بند۔</string>
+    <string name="accessibility_quick_settings_ambient_display_on">ایمبیئنٹ ڈسپلے آن۔</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD بند\nبیٹری سیور</string>
+    <string name="quick_settings_caffeine_label">"کیفین"</string>
+    <string name="accessibility_quick_settings_caffeine_off">کیفین بند۔</string>
+    <string name="accessibility_quick_settings_caffeine_on">کیفین آن۔</string>
+    <string name="quick_settings_heads_up_label">ہیڈز اپ</string>
+    <string name="accessibility_quick_settings_heads_up_off">ہیڈز اپ بند۔</string>
+    <string name="accessibility_quick_settings_heads_up_on">ہیڈز اپ آن۔</string>
+    <string name="quick_settings_powershare_label">وائرلیس PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">وائرلیس PowerShare بند\nبیٹری سیور</string>
+    <string name="quick_settings_powershare_off_low_battery_label">وائرلیس PowerShare بند\nبیٹری بہت کم ہے</string>
+    <string name="quick_settings_powershare_enabled_label">وائرلیس PowerShare فعال ہے</string>
+    <string name="quick_settings_reading_mode">ریڈنگ موڈ</string>
+    <string name="accessibility_quick_settings_reading_mode_on">ریڈنگ موڈ آن۔</string>
+    <string name="accessibility_quick_settings_reading_mode_off">ریڈنگ موڈ بند۔</string>
+    <string name="quick_settings_sync_label">"مطابقت پذیری کریں"</string>
+    <string name="accessibility_quick_settings_sync_off">سنک بند۔</string>
+    <string name="accessibility_quick_settings_sync_on">سنک آن۔</string>
+    <string name="quick_settings_profiles_label">سسٹم پروفائلز</string>
+    <string name="accessibility_quick_settings_profiles_off">پروفائلز بند۔</string>
+    <string name="accessibility_quick_settings_profiles">پروفائل: <xliff:g id="profile" example="Default">%s</xliff:g>۔</string>
+    <string name="quick_settings_usb_tether_label">"‏USB ٹیدرنگ"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">سے جڑیں…</string>
+    <string name="vpn_credentials_hint"><xliff:g id="name">%s</xliff:g> سے جڑنے کے لیے اپنی اسناد درج کریں</string>
+    <string name="vpn_credentials_username">"صارف نام"</string>
+    <string name="vpn_credentials_password">"پاس ورڈ"</string>
+    <string name="vpn_credentials_dialog_connect">"منسلک کریں"</string>
+    <string name="status_bar_firewall">فائر وال</string>
+    <string name="battery_notification_channel_tv">بیٹری وارننگ</string>
+    <string name="screenshot_delete_label">"حذف کریں"</string>
+    <string name="screenshot_delete_description">اسکرین شاٹ حذف کریں</string>
+    <string name="screenrecord_lowquality_label">کم معیار</string>
+    <string name="screenrecord_lowquality_summary">فائل کا چھوٹا سائز</string>
+    <string name="screenrecord_longer_timeout_switch_label">فائل کی بڑی حد</string>
+    <string name="screenrecord_longer_timeout_switch_summary">ریکارڈنگ کا سائز 15 GB تک محدود کریں</string>
+    <string name="screenrecord_skip_time_label">ٹائمر چھوڑیں</string>
+    <string name="screenrecord_skip_time_summary">3 سیکنڈ کا انتظار ہٹائیں</string>
+    <string name="screenrecord_hevc_switch_label">HEVC انکوڈنگ</string>
+    <string name="screenrecord_hevc_switch_summary">زیادہ مؤثر HEVC انکوڈر استعمال کریں</string>
+    <string name="zen_alarm_warning_indef">"آپ کو <xliff:g id="WHEN">%1$s</xliff:g> بجے اپنا اگلا الارم نہیں سنائی دے گا الّا یہ کہ آپ اسے اس وقت سے پہلے آف کر دیں"</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">تمام اکاؤنٹس</string>
+    <string name="call_log_all_calls_header">تمام کالز</string>
+    <string name="call_log_incoming_header">صرف آنے والی کالز</string>
+    <string name="call_log_outgoing_header">صرف جانے والی کالز</string>
+    <string name="call_log_missed_header">صرف چھوٹی ہوئی کالز</string>
+    <string name="call_log_voicemail_header">صرف وائس میل والی کالز</string>
+    <string name="call_log_blacklist_header">صرف مسدود کالز</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_show_system">Mostre sisteme</string>
+    <string name="menu_hide_system">Plate sisteme</string>
+    <string name="app_permission_summary_allowed">Consintût</string>
+    <string name="app_permission_summary_not_allowed">No consintût</string>
+</resources>

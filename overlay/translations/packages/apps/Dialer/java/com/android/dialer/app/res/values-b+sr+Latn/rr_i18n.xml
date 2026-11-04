@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="allow">"Dozvoli"</string>
+    <string name="deny">"Odbij"</string>
+    <string name="action_menu_helplines">Linije za pomoć</string>
+    <string name="default_dialer_text">Morate postaviti Telefon kao podrazumevanu aplikaciju za telefon da biste je koristili.</string>
+    <string name="default_dialer_action">"Podesi kao podrazumevano"</string>
+</resources>

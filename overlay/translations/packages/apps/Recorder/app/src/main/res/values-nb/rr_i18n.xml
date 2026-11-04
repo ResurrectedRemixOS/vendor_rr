@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share_selected">Del valgte</string>
+    <string name="pause">Pause</string>
+    <string name="resume">"Gjenoppta"</string>
+    <string name="delete_all">Slett alle</string>
+    <string name="delete_selected">Slett valgte</string>
+    <string name="rename">"Gi nytt navn"</string>
+    <string name="delete_recording_message">Er du sikker på at du vil slette denne opptaket? Dette kan ikke angres</string>
+    <string name="confirm">"Bekreft"</string>
+    <string name="discard">"Forkast"</string>
+    <string name="record_again">Ta opp igjen</string>
+    <string name="confirm_result_title">Bruke opptak?</string>
+    <string name="confirm_result_message">Vil du bruke det siste opptaket?</string>
+    <string name="sound_recording_title_paused">"Satt på pause"</string>
+    <string name="sound_channel_title">Lydopptak</string>
+    <string name="sound_channel_desc">Vedvarende varsel under lydopptak og varsel når opptaket er ferdig</string>
+    <string name="settings_title">"Innstillinger"</string>
+    <string name="settings_location_message">Merk opptakene med gjeldende posisjon</string>
+    <string name="settings_quality_high">Ta opp i høy kvalitet</string>
+    <string name="dialog_permissions_notifications">Opptakeren trenger tillatelse til varsler for å vise opptakskontroller</string>
+    <string name="dialog_permissions_mic_notifications">Opptakeren trenger tillatelse til mikrofon for å ta opp lyd og tillatelse til varsler for å vise opptakskontroller</string>
+    <string name="dialog_permissions_phone_notifications">Opptakeren trenger tilgang til telefonstatus for å hindre at appen tar opp under samtaler, og tillatelse til varsler for å vise opptakskontroller</string>
+    <string name="dialog_permissions_mic_phone_notifications">Opptakeren trenger tillatelse til mikrofon for å ta opp lyd, tilgang til telefonstatus for å hindre opptak under samtaler, og tillatelse til varsler for å vise opptakskontroller</string>
+    <string name="dialog_permissions_location">Opptakeren trenger posisjonstillatelse for automatisk å merke opptakene, slik at du lettere kan organisere dem</string>
+    <string name="snack_permissions_no_permission_location">Posisjonstillatelse ble avslått. Aktiver den i Innstillinger for å merke opptakene</string>
+    <string name="list_title">Mine opptak</string>
+    <string name="list_error_empty">Alle opptakene dine vises her</string>
+    <string name="list_edit_title">Rediger navn på opptak</string>
+    <string name="list_edit_confirm">"Endre"</string>
+    <string name="list_item_menu">Flere handlinger</string>
+    <string name="delete_all_title">Slett alle</string>
+    <string name="delete_all_message">Er du sikker på at du vil slette alle opptakene? Dette kan ikke angres</string>
+    <string name="delete_selected_title">Slett valgte</string>
+    <string name="delete_selected_message">Er du sikker på at du vil slette de valgte opptakene? Dette kan ikke angres</string>
+</resources>

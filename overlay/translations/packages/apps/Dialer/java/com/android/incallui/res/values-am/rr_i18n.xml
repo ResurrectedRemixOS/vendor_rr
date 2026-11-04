@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">የጥሪ ቀረጻን መጀመር አልተቻለም</string>
+    <string name="call_recording_file_location">የጥሪ ቀረጻ ወደ <xliff:g id="filename">%s</xliff:g> ተቀምጧል</string>
+    <string name="onscreenCallRecordText">ጥሪን ቅረጽ</string>
+    <string name="onscreenCallRecordingText">ጥሪ በመቅረጽ ላይ - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"መቅረጽ አቁም"</string>
+    <string name="recording_warning_title">የጥሪ ቀረጻን ይፈቅዱ?</string>
+    <string name="recording_warning_text">ማስታወቂያ፡ የጥሪ ቀረጻ ተግባሩን እና የእነዚህን ቀረጻዎች አጠቃቀም ወይም ስርጭት የሚመለከቱ ማናቸውንም ሕጎች፣ ደንቦችና ህጎች ማክበር የእርስዎ ኃላፊነት ነው።</string>
+</resources>

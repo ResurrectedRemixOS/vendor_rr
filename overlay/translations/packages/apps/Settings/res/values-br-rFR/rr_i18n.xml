@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="header_category_system">Reizhiad</string>
+    <string name="private_space_category_system">Reizhiad</string>
+    <string name="unlock_set_unlock_password_title">Ger-tremen</string>
+    <string name="unlock_set_unlock_mode_password">Ger-tremen</string>
+    <string name="ambient_display_screen_title">Skramm-beilh</string>
+    <string name="storage_system_label">Reizhiad</string>
+    <string name="apn_user">Anv implijer</string>
+    <string name="apn_password">Ger-tremen</string>
+    <string name="tether_settings_title_usb">modem USB</string>
+    <string name="usb_tethering_button_text">modem USB</string>
+    <string name="running_processes_header_system_prefix">Reizhiad</string>
+    <string name="trusted_credentials_system_tab">Reizhiad</string>
+    <string name="usb_use_tethering">modem USB</string>
+    <string name="usb_summary_tether">modem USB</string>
+    <string name="storage_system">Reizhiad</string>
+    <string name="audio_sharing_stream_password_title">Ger-tremen</string>
+</resources>

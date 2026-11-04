@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyguard_enter_your_pin">PIN кодыгызны кертегез</string>
+    <string name="keyguard_enter_your_password">Серсүзегезне кертегез</string>
+    <string name="keyguard_enter_password">Серсүзне кертегез</string>
+    <string name="kg_wrong_password">Хаталы серсүз</string>
+    <string name="kg_invalid_sim_pin_hint">4-8 цифрдан торган PIN коды кертегез.</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message">        Сез PIN кодыгызны <xliff:g id="number">%1$d</xliff:g> тапкыр хаталы яздыгыз.
+        \n\n<xliff:g id="number">%2$d</xliff:g> секундтан тагын бер кабатлап карагыз.
+    </string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message">        Сез серсүзегезне <xliff:g id="number">%1$d</xliff:g> тапкыр хаталы яздыгыз.
+        \n\n<xliff:g id="number">%2$d</xliff:g> секундтан тагын бер кабатлап карагыз.
+    </string>
+    <string name="airplane_mode">Очу режимы</string>
+    <string name="clock_title_default">Гадәти</string>
+</resources>

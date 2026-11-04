@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="more_details">Plui detais</string>
+    <string name="title_install_failed_less_storage">No vonde memorie di archivazion</string>
+    <string name="title_uninstall_app_not_found">Aplicazion no cjatade</string>
+    <string name="title_restore_error_user_action_needed">Azion necessarie</string>
+    <string name="title_restore_error_less_storage">No vonde memorie di archivazion</string>
+    <string name="title_restore_error_offline">Tu sês fûr rêt</string>
+    <string name="title_restore_error_generic">Alc al è lât strucj</string>
+    <string name="message_external_source_blocked" product="tablet">Pe tô sigurece, pal moment il to tablet nol à i permès par instalâ aplicazions no cognossudis di cheste origjin. Tu puedis cambiâ cheste opzion tes Impostazions.</string>
+    <string name="message_external_source_blocked" product="tv">Pe tô sigurece, pal moment la tô TV no à i permès par instalâ aplicazions no cognossudis di cheste origjin. Tu puedis cambiâ cheste opzion tes Impostazions.</string>
+    <string name="message_external_source_blocked" product="watch">Pe tô sigurece, pal moment il to orloi nol à i permès par instalâ aplicazions no cognossudis di cheste origjin. Tu puedis cambiâ cheste opzion tes Impostazions.</string>
+    <string name="message_external_source_blocked" product="default">Pe tô sigurece, pal moment il to telefon nol à i permès par instalâ aplicazions no cognossudis di cheste origjin. Tu puedis cambiâ cheste opzion tes Impostazions.</string>
+    <string name="message_anonymous_source_warning" product="default">
+        Il to telefon e i tiei dâts personâi a son plui vulnerabii
+        ai atacs di aplicazions no cognossudis. Se tu instalis cheste
+        aplicazion tu acetis di jessi responsabil di eventuâi dams
+        al to telefon o de eventuâl pierdite di dâts dovude al lôr ûs.
+    </string>
+    <string name="message_anonymous_source_warning" product="tablet">
+        Il to tablet e i tiei dâts personâi a son plui vulnerabii
+        ai atacs di aplicazions no cognossudis. Se tu instalis cheste
+        aplicazion tu acetis di jessi responsabil di eventuâi dams
+        al to tablet o de eventuâl pierdite di dâts dovude al lôr ûs.
+    </string>
+    <string name="message_anonymous_source_warning" product="tv">
+        La tô TV e i tiei dâts personâi a son plui vulnerabii
+        ai atacs di aplicazions no cognossudis. Se tu instalis cheste
+        aplicazion tu acetis di jessi responsabil di eventuâi dams
+        ae tô TV o de eventuâl pierdite di dâts dovude al lôr ûs.
+    </string>
+    <string name="message_restore_error_offline">
+        Par ripristinâ cheste aplicazion, controle la tô conession a internet e torne prove
+    </string>
+    <string name="message_restore_error_installer_disabled">
+        Par ripristinâ cheste aplicazion, ative
+        <xliff:g id="installername" example="App Store">%1$s</xliff:g> tes Impostazions
+    </string>
+    <string name="message_restore_error_generic">
+        Al è vignût fûr un probleme tal cirî di ripristinâ cheste aplicazion
+    </string>
+    <string name="button_install">Instale</string>
+    <string name="button_update">Inzorne</string>
+    <string name="button_update_anyway">Inzorne distès</string>
+    <string name="button_done">Fat</string>
+    <string name="button_cancel">Anule</string>
+    <string name="button_uninstall">Disinstale</string>
+    <string name="button_delete">Elimine</string>
+    <string name="button_manage_apps">Gjestìs aplicazions</string>
+    <string name="button_archive">Archivie</string>
+    <string name="button_restore">Ripristine</string>
+    <string name="button_uninstall_updates_system_app">Disinstale inzornaments</string>
+    <string name="button_settings">Impostazions</string>
+    <string name="button_retry">Torne prove</string>
+    <string name="string_cloned_app_label">Clon di <xliff:g id="package_label">%1$s</xliff:g></string>
+</resources>

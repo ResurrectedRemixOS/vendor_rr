@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dlg_ok">Okéh</string>
+    <string name="settings">Sétingan</string>
+    <string name="off">Pareum</string>
+    <string name="notification_light_phonelist_title">Telepon</string>
+    <string name="notification_light_voicemail_title">Surélékswara</string>
+    <string name="power_menu_airplane_title">Modeu pasawat</string>
+    <string name="power_menu_bug_report_title">Laporan bug</string>
+    <string name="profile_entries_off">Pareum</string>
+    <string name="profile_airplanemode_title">Modeu pasawat</string>
+    <string name="toggleLocation">Lokasi</string>
+    <string name="status_bar_quick_qs_pulldown_off">Pareum</string>
+    <string name="network_traffic_show_units_off">Pareum</string>
+</resources>

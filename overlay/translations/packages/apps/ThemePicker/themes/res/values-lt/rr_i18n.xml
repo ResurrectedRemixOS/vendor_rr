@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Klasikinis</string>
+    <string name="bundle1_color_name">Anglies</string>
+    <string name="bundle2_color_name">Popierinė</string>
+    <string name="bundle3_color_name">Saulės</string>
+    <string name="bue_color_name">Levandų</string>
+    <string name="red_color_name">Uogų</string>
+    <string name="wht_color_name">Rūko</string>
+    <string name="indigo_color_name">Indigo</string>
+    <string name="iris_color_name">Irisų</string>
+    <string name="jade_color_name">Žaliasis</string>
+    <string name="lemongrass_color_name">Citrinžolės</string>
+    <string name="moonstone_color_name">Mėnulio akmens</string>
+    <string name="obsidian_color_name">Obsidiano</string>
+    <string name="peony_color_name">Bijūno</string>
+    <string name="porcelain_color_name">Porceliano</string>
+    <string name="fruit1_color_name">Geltonos ir raudonos dviejų spalvų paletė</string>
+    <string name="fruit2_color_name">Žalios ir oranžinės dviejų spalvų paletė</string>
+    <string name="fruit3_color_name">Mėlynos ir žalios dviejų spalvų paletė</string>
+    <string name="fruit4_color_name">Šviesiai violetinės ir mėlynos dviejų spalvų paletė</string>
+    <string name="fruit5_color_name">Rožinės ir indigo dviejų spalvų paletė</string>
+</resources>

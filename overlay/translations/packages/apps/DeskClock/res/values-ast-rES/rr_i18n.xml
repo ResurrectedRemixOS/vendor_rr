@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="C55">H<xliff:g id="separator">=</xliff:g>Habana L\'<xliff:g id="timezone">|America/Habana L\'</xliff:g></string>
+    <string name="C109">D<xliff:g id="separator">=</xliff:g>Damascu<xliff:g id="timezone">|Asia/Damascu</xliff:g></string>
+    <string name="C142">C<xliff:g id="separator">=</xliff:g>Canaries<xliff:g id="timezone">|Atlantic/Canaries</xliff:g></string>
+    <string name="C143">C<xliff:g id="separator">=</xliff:g>Cape Verde<xliff:g id="timezone">|Atlantic/Cabu_Verde</xliff:g></string>
+    <string name="C174">I<xliff:g id="separator">=</xliff:g>Islla de Man<xliff:g id="timezone">|Europe/Islla_de_Man</xliff:g></string>
+    <string name="C177">L<xliff:g id="separator">=</xliff:g>Lisboa<xliff:g id="timezone">|Europe/Lisboa</xliff:g></string>
+    <string name="C183">M<xliff:g id="separator">=</xliff:g>Mónaco<xliff:g id="timezone">|Europe/Mónaco</xliff:g></string>
+    <string name="C184">M<xliff:g id="separator">=</xliff:g>Moscu<xliff:g id="timezone">|Europe/Moscu</xliff:g></string>
+    <string name="C189">R<xliff:g id="separator">=</xliff:g>Rome<xliff:g id="timezone">|Europe/Roma</xliff:g></string>
+    <string name="C194">S<xliff:g id="separator">=</xliff:g>Sofia<xliff:g id="timezone">|Europe/Sofía</xliff:g></string>
+    <string name="C200">W<xliff:g id="separator">=</xliff:g>Varsovia<xliff:g id="timezone">|Europe/Varsovia</xliff:g></string>
+    <string name="night_mode_enabled_title">Activóse</string>
+</resources>

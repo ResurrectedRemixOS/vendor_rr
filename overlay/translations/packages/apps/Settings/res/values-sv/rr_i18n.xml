@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kbit/s</item>
+        <item>256 kbit/s</item>
+        <item>1 Mbit/s</item>
+        <item>5 Mbit/s</item>
+        <item>15 Mbit/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"standard"</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"standard"</item>
+        <item>sön</item>
+        <item>mån</item>
+        <item>tis</item>
+        <item>ons</item>
+        <item>tors</item>
+        <item>fre</item>
+        <item>lör</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"standard"</item>
+        <item>metrisk</item>
+        <item>USA-system</item>
+        <item>Storbritannien-system</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Inte angivet"</item>
+        <item>Neutral</item>
+        <item>"Femin­informer"</item>
+        <item>"Maskulinformer"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Du är nu # steg från att aktivera utvecklarinställningarna.} other {Du är nu # steg från att aktivera utvecklarinställningarna.} }</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dubbeltryck på statusfältet eller låsskärmen för att stänga av skärmen</string>
+    <string name="high_touch_polling_rate_title">Hög pekavsökningsfrekvens</string>
+    <string name="high_touch_polling_rate_summary">Öka pekskärmens avsökningsfrekvens</string>
+    <string name="heads_up_notifications_enabled_title">Flytande avisering</string>
+    <string name="heads_up_notifications_enabled_summary">Visa prioriterade aviseringar i ett litet flytande fönster</string>
+    <string name="tethering_allow_vpn_upstreams_title">Använd VPN för anslutna enheter</string>
+    <string name="tethering_allow_vpn_upstreams_summary">När den här enheten använder ett VPN används samma VPN av alla enheter som är anslutna till hotspoten</string>
+    <string name="max_refresh_rate_title">Högsta uppdateringsfrekvens</string>
+    <string name="min_refresh_rate_title">Lägsta uppdateringsfrekvens</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Hitta fingeravtryckssensorn på framsidan av surfplattan.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Hitta fingeravtryckssensorn på framsidan av enheten.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Hitta fingeravtryckssensorn på framsidan av telefonen.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Hitta fingeravtryckssensorn på baksidan av surfplattan.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Hitta fingeravtryckssensorn på baksidan av enheten.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Hitta fingeravtryckssensorn på baksidan av telefonen.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Hitta fingeravtryckssensorn på sidan av surfplattan.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Hitta fingeravtryckssensorn på sidan av enheten.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Hitta fingeravtryckssensorn på sidan av telefonen.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Rör sensorn på framsidan av surfplattan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Rör sensorn på framsidan av enheten.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Rör sensorn på framsidan av telefonen.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Rör sensorn på baksidan av surfplattan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Rör sensorn på baksidan av enheten.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Rör sensorn på baksidan av telefonen.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Rör sensorn på sidan av surfplattan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Rör sensorn på sidan av enheten.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Rör sensorn på sidan av telefonen.</string>
+    <string name="show_navbar_hint_title">Navigeringstips</string>
+    <string name="show_navbar_hint_summary">Visa fältet med navigeringstips längst ned på skärmen</string>
+    <string name="auto_brightness_one_shot_title">Automatisk ljusstyrka med en bild</string>
+    <string name="auto_brightness_one_shot_summary">Justering av ljusstyrkan kommer endast att ske när skärmen är påslagen</string>
+    <string name="proximity_wake_summary">Kontrollera närhetssensorn innan skärmen väcks</string>
+    <string name="storage_warning_internal">Varning: Det här alternativet kanske inte fungerar korrekt eller leder till dataförlust och rekommenderas därför inte!</string>
+    <string name="assisted_gps">Använd assisterad GPS</string>
+    <string name="battery_technology">Teknik</string>
+    <string name="battery_health">"Hälsa"</string>
+    <string name="battery_health_good">"Bra"</string>
+    <string name="battery_health_overheat">"Överhettning"</string>
+    <string name="battery_health_dead">"Urladdat"</string>
+    <string name="battery_health_over_voltage">"Överspänning"</string>
+    <string name="battery_health_unspecified_failure">Okänt fel</string>
+    <string name="battery_health_cold">"Kallt"</string>
+    <string name="battery_health_unknown">"Okänd"</string>
+    <string name="battery_temperature">"Temperatur"</string>
+    <string name="battery_voltage">Spänning</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Konstruktionskapacitet</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Maximal kapacitet</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d %%)</string>
+    <string name="face_enrolling_close_to_continue">Vik telefonen under konfigurationen</string>
+    <string name="face_enrolling_close_to_continue_description">Telefonen måste vikas för att konfigurera eller använda ansiktsupplåsning</string>
+    <string name="face_enrolling_do_it_later">"Gör det senare"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM-verktygslåda</string>
+    <string name="platform_compat_target_sdk_title">Aktiverad för targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Hanterare för personligt sammanhang</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Levandulová</string>
+    <string name="red_color_name">Bobulová</string>
+    <string name="wht_color_name">Mlhová</string>
+    <string name="indigo_color_name">"Indigová"</string>
+    <string name="iris_color_name">Duhovková</string>
+    <string name="jade_color_name">Nefritová</string>
+    <string name="lemongrass_color_name">Citronová tráva</string>
+    <string name="moonstone_color_name">Měsíční kámen</string>
+    <string name="obsidian_color_name">Obsidiánová</string>
+    <string name="peony_color_name">Pivoňková</string>
+    <string name="porcelain_color_name">Porcelánová</string>
+    <string name="fruit1_color_name">Žluto-červená dvoubarevná paleta</string>
+    <string name="fruit2_color_name">Zeleno-oranžová dvoubarevná paleta</string>
+    <string name="fruit3_color_name">Modro-zelená dvoubarevná paleta</string>
+    <string name="fruit4_color_name">Světle fialová a modrá dvoubarevná paleta</string>
+    <string name="fruit5_color_name">Růžová a indigo dvoubarevná paleta</string>
+</resources>

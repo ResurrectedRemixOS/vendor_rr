@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Klasikoa</string>
+    <string name="bundle1_color_name">Karbonoa</string>
+    <string name="bundle2_color_name">Papera</string>
+    <string name="bundle3_color_name">Eguzkia</string>
+    <string name="bue_color_name">Lilaska</string>
+    <string name="red_color_name">Mahaspasa</string>
+    <string name="wht_color_name">Lainoa</string>
+    <string name="indigo_color_name">"Indigoa"</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Jade</string>
+    <string name="lemongrass_color_name">Limoi-belarra</string>
+    <string name="moonstone_color_name">Ilargi-harria</string>
+    <string name="obsidian_color_name">Obsidiana</string>
+    <string name="peony_color_name">Peonia</string>
+    <string name="porcelain_color_name">Porzelana</string>
+    <string name="fruit1_color_name">Horia eta gorria bi koloreko paleta</string>
+    <string name="fruit2_color_name">Berdea eta laranja bi koloreko paleta</string>
+    <string name="fruit3_color_name">Urdina eta berdea bi koloreko paleta</string>
+    <string name="fruit4_color_name">Purpura argia eta urdina bi koloreko paleta</string>
+    <string name="fruit5_color_name">Larrosa eta indigoa bi koloreko paleta</string>
+</resources>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kbit/s</item>
+        <item>256 kbit/s</item>
+        <item>1 Mbit/s</item>
+        <item>5 Mbit/s</item>
+        <item>15 Mbit/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"vaikimisi"</item>
+        <item>celsius</item>
+        <item>fahrenhe</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"vaikimisi"</item>
+        <item>sun</item>
+        <item>mon</item>
+        <item>tue</item>
+        <item>wed</item>
+        <item>thu</item>
+        <item>fri</item>
+        <item>sat</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"vaikimisi"</item>
+        <item>metric</item>
+        <item>ussystem</item>
+        <item>uksystem</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Pole määratud"</item>
+        <item>"Neutraalne"</item>
+        <item>"Naissugu"</item>
+        <item>"Meessugu"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Arendaja seadete lubamiseni on jäänud # samm.} other {Arendaja seadete lubamiseni on jäänud # sammu.} }</string>
+    <string name="high_touch_polling_rate_title">Kõrge puuteandurite sagedus</string>
+    <string name="high_touch_polling_rate_summary">Suurenda puuteekraani küsitlussagedust</string>
+    <string name="heads_up_notifications_enabled_summary">Kuva prioriteetsed märguanded väikese hõljuva aknana</string>
+    <string name="tethering_allow_vpn_upstreams_title">Kasuta ühendatud seadmete jaoks VPN-i</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Kui see seade kasutab VPN-i, kasutavad kõik levipunktiga ühendatud seadmed sama VPN-i</string>
+    <string name="lock_settings_picker_pattern_size_message">Vali mustri suurus</string>
+    <string name="lockpattern_settings_enable_error_path_title">Kuva mustri viga</string>
+    <string name="max_refresh_rate_title">Maksimaalne värskendussagedus</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Leia sõrmejäljeanduri asukoht tahvelarvuti esiküljel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Leia sõrmejäljeanduri asukoht seadme esiküljel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Leia sõrmejäljeanduri asukoht telefoni esiküljel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Leia sõrmejäljeanduri asukoht tahvelarvuti tagaküljel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Leia sõrmejäljeanduri asukoht seadme tagaküljel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Leia sõrmejäljeanduri asukoht telefoni tagaküljel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Leia sõrmejäljeanduri asukoht tahvelarvuti küljel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Leia sõrmejäljeanduri asukoht seadme küljel.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Leia sõrmejäljeanduri asukoht telefoni küljel.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Puuduta tahvelarvuti esiküljel olevat andurit.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Puuduta seadme esiküljel olevat andurit.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Puuduta telefoni esiküljel olevat andurit.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Puuduta tahvelarvuti tagaküljel olevat andurit.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Puuduta seadme tagaküljel olevat andurit.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Puuduta telefoni tagaküljel olevat andurit.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Puuduta tahvelarvuti küljel olevat andurit.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Puuduta seadme küljel olevat andurit.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Puuduta telefoni küljel olevat andurit.</string>
+    <string name="auto_brightness_one_shot_title">Ühekordne automaatne heledus</string>
+    <string name="auto_brightness_one_shot_summary">Heledust reguleeritakse vaid hetkel, mil ekraan sisse lülitatakse</string>
+    <string name="storage_warning_internal">Hoiatus: see valik ei pruugi korralikult töötada või võib põhjustada andmekadu, seetõttu ei ole see soovitatav!</string>
+    <string name="assisted_gps">Kasuta abistatud GPS-i</string>
+    <string name="assisted_gps_summary">Laadi internetist alla satelliidi abiandmed, mis võivad oluliselt parandada GPS-i käivitumist. Hädaabikõnede puhul on abistatud GPS alati lubatud.</string>
+    <string name="battery_technology">Tehnoloogia</string>
+    <string name="battery_health">"Seisund"</string>
+    <string name="battery_health_good">"Hea"</string>
+    <string name="battery_health_overheat">"Ülekuumenemine"</string>
+    <string name="battery_health_dead">"Tühi"</string>
+    <string name="battery_health_over_voltage">"Ülepinge"</string>
+    <string name="battery_health_unspecified_failure">Määramata tõrge</string>
+    <string name="battery_health_cold">"Külm"</string>
+    <string name="battery_health_unknown">"Teadmata"</string>
+    <string name="battery_temperature">"Temperatuur"</string>
+    <string name="battery_voltage">Pinge</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Projekteeritud mahutavus</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Maksimaalne mahutavus</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Voldi telefon seadistamise ajal</string>
+    <string name="face_enrolling_close_to_continue_description">Näotuvastuse seadistamiseks või kasutamiseks tuleb telefon voltida</string>
+    <string name="face_enrolling_do_it_later">"Teen seda hiljem"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM-i tööriistakomplekt</string>
+    <string name="platform_compat_target_sdk_title">Lubatud targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> korral</string>
+    <string name="personal_context_title">Isikliku konteksti haldur</string>
+</resources>

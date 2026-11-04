@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_methods_labels">
+        <item>"Bildirishnoma"</item>
+        <item>Email</item>
+        <item>SMS</item>
+        <item>"Signal"</item>
+    </string-array>
+    <string-array name="availability">
+        <item>"Band"</item>
+        <item>"Mavjud"</item>
+        <item>Taxminiy</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Javob yo‘q</item>
+        <item>"Ha"</item>
+        <item>Balki</item>
+        <item>"Yo‘q"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Faqat bu tadbir</item>
+        <item>Bu va kelgusi tadbirlar</item>
+        <item>Barcha tadbirlar</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Faqat bu tadbir</item>
+        <item>Seriyadagi barcha tadbirlar</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>"Kun"</item>
+        <item>"Hafta"</item>
+        <item>"Oy"</item>
+        <item>Kun tartibi</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Faqat rad etilgan bo‘lsa</item>
+        <item>Rad etilgan yoki javob berilmagan bo‘lsa</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>HAR KUNI TAKRORLASH</item>
+        <item>HAR HAFTA TAKRORLASH</item>
+        <item>HAR OY TAKRORLASH</item>
+        <item>HAR YILI TAKRORLASH</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>har birinchi yakshanba</item>
+        <item>har ikkinchi yakshanba</item>
+        <item>har uchinchi yakshanba</item>
+        <item>har to‘rtinchi yakshanba</item>
+        <item>har oxirgi yakshanba</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>har birinchi dushanba</item>
+        <item>har ikkinchi dushanba</item>
+        <item>har uchinchi dushanba</item>
+        <item>har to‘rtinchi dushanba</item>
+        <item>har oxirgi dushanba</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>har birinchi seshanba</item>
+        <item>har ikkinchi seshanba</item>
+        <item>har uchinchi seshanba</item>
+        <item>har to‘rtinchi seshanba</item>
+        <item>har oxirgi seshanba</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>har birinchi chorshanba</item>
+        <item>har ikkinchi chorshanba</item>
+        <item>har uchinchi chorshanba</item>
+        <item>har to‘rtinchi chorshanba</item>
+        <item>har oxirgi chorshanba</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>har birinchi payshanba</item>
+        <item>har ikkinchi payshanba</item>
+        <item>har uchinchi payshanba</item>
+        <item>har to\'rtinchi payshanba kuni</item>
+        <item>har oxirgi payshanba kuni</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>har birinchi juma kuni</item>
+        <item>har ikkinchi juma kuni</item>
+        <item>har uchinchi juma kuni</item>
+        <item>har to\'rtinchi juma kuni</item>
+        <item>har oxirgi juma kuni</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>har birinchi shanba kuni</item>
+        <item>har ikkinchi shanba kuni</item>
+        <item>har uchinchi shanba kuni</item>
+        <item>har to\'rtinchi shanba kuni</item>
+        <item>har oxirgi shanba kuni</item>
+    </string-array>
+    <string name="user_rejected_calendar_write_permission_lineage">Kalendar to\'g\'ri ishlashi uchun kalendarni o\'qish va yozish ruxsatlari kerak. Qaytadan urinib ko\'ring.</string>
+    <string name="preferences_menu_about_lineage">Kalendar haqida</string>
+    <string name="app_label">"Taqvim"</string>
+    <string name="when_label">Qachon</string>
+    <string name="today">"Bugun"</string>
+    <string name="tomorrow">"Ertaga"</string>
+    <string name="today_at_time_fmt">\"Bugun soat <xliff:g id="time_interval">%s</xliff:g> da\"</string>
+    <string name="tomorrow_at_time_fmt">\"Ertaga soat <xliff:g id="time_interval">%s</xliff:g> da\"</string>
+    <string name="no_title_label">"(Nomsiz)"</string>
+    <string name="no_reminder_label">"Hech qanday"</string>
+    <string name="no_snooze_label">"Hech qanday"</string>
+    <string name="calendar_refresh">\"Yangilash\"</string>
+    <string name="show_day_view">\"Kunni ko\'rsatish\"</string>
+    <string name="agenda_view">\"Kun tartibi\"</string>
+    <string name="day_view">\"Kun\"</string>
+    <string name="week_view">\"Hafta\"</string>
+    <string name="month_view">\"Oy\"</string>
+    <string name="event_view">\"Tadbirni ko\'rish\"</string>
+    <string name="event_create">\"Yangi tadbir\"</string>
+    <string name="event_edit">\"Tadbirni tahrirlash\"</string>
+    <string name="event_delete">\"Tadbirni o\'chirish\"</string>
+    <string name="share_label">"Ulashish"</string>
+    <string name="goto_today">\"Bugun\"</string>
+    <string name="goto_date">O\'tish…</string>
+    <string name="menu_preferences">\"Sozlamalar\"</string>
+    <string name="menu_info">"Axborot"</string>
+    <string name="search">\"Qidirish\"</string>
+    <string name="hide_controls">\"Boshqaruvni yashirish\"</string>
+    <string name="show_controls">\"Boshqaruvni ko\'rsatish\"</string>
+    <string name="view_settings">\"Ko\'rinish sozlamalari\"</string>
+    <string name="select_synced_calendars_button">Sinxronlanadigan kalendarlar</string>
+    <string name="hint_what">\"Tadbir nomi\"</string>
+    <string name="hint_where">\"Joylashuv\"</string>
+    <string name="hint_description">\"Tavsif\"</string>
+    <string name="hint_url">\"URL\"</string>
+    <string name="hint_attendees">\"Mehmonlar\"</string>
+    <string name="creating_event">\"Tadbir yaratildi.\"</string>
+    <string name="saving_event">\"Tadbir saqlandi.\"</string>
+    <string name="empty_event">\"Bo\'sh tadbir yaratilmadi.\"</string>
+    <string name="creating_event_with_guest">\"Taklifnomalar yuboriladi.\"</string>
+    <string name="saving_event_with_guest">\"Yangilanishlar yuboriladi.\"</string>
+    <string name="rsvp_accepted">\"Javob: ha.\"</string>
+    <string name="rsvp_tentative">\"Javob: balki.\"</string>
+    <string name="rsvp_declined">\"Javob: yo\'q.\"</string>
+    <string name="create_event_dialog_save">"Saqlash"</string>
+    <string name="alert_title">Kalendar bildirishnomalari</string>
+    <string name="foreground_notification_title">Yangi eslatmalar rejalashtirilmoqda…</string>
+    <string name="foreground_notification_channel_name">Fon vazifalari</string>
+    <string name="foreground_notification_channel_description">Ichki sinxronlash uchun bildirishnomalar kerak. Bu kanalni xavfsiz yashirishingiz mumkin.</string>
+    <string name="event_info_title">Tadbirni ko\'rish</string>
+    <string name="event_info_title_invite">Uchrashuv taklifi</string>
+    <string name="edit_event_all_day_label">Butun kun</string>
+    <string name="edit_event_calendar_label">"Taqvim"</string>
+    <string name="presence_label">Meni shunday ko\'rsatish</string>
+    <string name="privacy_label">"Maxfiylik"</string>
+    <string name="reminders_label">Eslatma qo\'shish</string>
+    <string name="no_syncable_calendars">"Hech qanday taqvim topilmadi"</string>
+    <string name="no_calendars_found">Tadbir qo\'shishdan oldin qurilmangizga kamida bitta kalendar qo\'shishingiz kerak</string>
+    <string name="add_calendar">Kalendar qo\'shish</string>
+    <string name="view_event_calendar_label">Kalendar:</string>
+    <string name="view_event_organizer_label">Tashkilotchi:</string>
+    <string name="choose_event_color_label">Tadbir rangini tanlang</string>
+    <string name="event_color_picker_dialog_title">Tadbir rangi</string>
+    <string name="event_color_set_to_default">Standart kalendar rangiga o\'rnatish</string>
+    <string name="calendar_color_picker_dialog_title">Kalendar rangi</string>
+    <string name="calendar_square_color_picker_description">"Rang tanlash"</string>
+    <string name="view_event_response_label">Ishtirok etasizmi?</string>
+    <string name="response_yes">"Ha"</string>
+    <string name="response_maybe">Balki</string>
+    <string name="response_no">"Yo‘q"</string>
+    <string name="email_guests_label">Mehmonlarga xat yuborish</string>
+    <string name="email_organizer_label">Tashkilotchiga xat yuborish</string>
+    <string name="email_picker_label">Quyidagi orqali xat yuborish:</string>
+    <string name="event_not_found">\"Tadbir topilmadi.\"</string>
+    <string name="map_label">"Xarita"</string>
+    <string name="no_map">Xaritalar ilovasi o\'rnatilmagan</string>
+    <string name="call_label">Qo‘ng‘iroq</string>
+    <string name="quick_response_settings">"Tezkor javoblar"</string>
+    <string name="quick_response_settings_summary">Mehmonlarga xat yuborganda standart javoblarni tahrirlash</string>
+    <string name="quick_response_settings_edit_title">"Tezkor javob"</string>
+    <string name="quick_response_dialog_title">Tezkor javobni tanlang</string>
+    <string name="quick_response_email_failed">Elektron pochta dasturi topilmadi</string>
+    <string-array name="quick_response_defaults">
+        <item>Bir necha daqiqaga kechikaman.</item>
+        <item>Taxminan 10 daqiqada yetib boraman.</item>
+        <item>Mensiz boshlayvering.</item>
+        <item>Kechirasiz, bora olmayman. Boshqa vaqtga ko\'chirishimizga to\'g\'ri keladi.</item>
+    </string-array>
+    <string name="quick_response_custom_msg">O\'zingiz yozing…</string>
+    <string name="event_info_organizer">Tashkilotchi:</string>
+    <string name="event_info_reminders_label">"Eslatmalar"</string>
+    <string name="agenda_today">Bugun, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_yesterday">Kecha, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_tomorrow">Ertaga, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">"Yuklanmoqda…"</string>
+    <string name="show_older_events"><xliff:g id="oldest_search_range">%1$s</xliff:g> dan oldingi tadbirlarni ko\'rish uchun bosing</string>
+    <string name="show_newer_events"><xliff:g id="newest_search_range">%1$s</xliff:g> dan keyingi tadbirlarni ko\'rish uchun bosing</string>
+    <string name="search_title">Kalendarlarimdan qidirish</string>
+    <string name="edit_event_label">\"Batafsil\"</string>
+    <string name="edit_label">\"Tahrirlash\"</string>
+    <string name="delete_label">\"O\'chirish\"</string>
+    <string name="duplicate_label">Nusxalash</string>
+    <string name="save_label">"Tayyor"</string>
+    <string name="discard_label">"Bekor qilish"</string>
+    <string name="dismiss_all_label">\"Hammasini yopish\"</string>
+    <string name="snooze_label">\"Kechiktirish\"</string>
+    <string name="does_not_repeat">Bir martalik tadbir</string>
+    <string name="endByDate">; <xliff:g id="date">%s</xliff:g> gacha</string>
+    <string name="every_weekday">\"Har ish kuni (Du–Ju)\"</string>
+    <string name="monthly">"Oylik"</string>
+    <string name="yearly_plain">Har yili</string>
+    <string name="custom" product="default">\"Maxsus (telefonda sozlab bo\'lmaydi)\"</string>
+    <string name="modify_event">Faqat bu tadbirni o\'zgartirish</string>
+    <string name="modify_all">Seriyadagi barcha tadbirlarni o\'zgartirish</string>
+    <string name="modify_all_following">Bu va barcha kelgusi tadbirlarni o\'zgartirish</string>
+    <string name="new_event_dialog_label">\"Yangi tadbir\"</string>
+    <string name="new_event_dialog_option">\"Yangi tadbir\"</string>
+    <string name="delete_this_event_title">Bu tadbir o\'chirilsinmi?</string>
+    <string name="delete_recurring_event_title"><xliff:g id="eventtitle">%s</xliff:g> o\'chirilsinmi?</string>
+    <string name="change_response_title">Javobni o\'zgartirish</string>
+    <string name="preferences_title">\"Sozlamalar\"</string>
+    <string name="preferences_general_title">Kalendar ko\'rinish sozlamasi</string>
+    <string name="preferences_month_view_portrait">Oy ko\'rinishi joylashuvi (Portret)</string>
+    <string name="preferences_month_view_landscape">Oy ko\'rinishi joylashuvi (Landshaft)</string>
+    <string name="preferences_theme">"Mavzu"</string>
+    <string name="preferences_system_theme">"Tizim standarti"</string>
+    <string name="preferences_light_theme">"Oq"</string>
+    <string name="preferences_dark_theme">Qorong‘i</string>
+    <string name="preferences_black_theme">"Qora"</string>
+    <string name="preferences_color">Asosiy rang</string>
+    <string name="preferences_color_pick">Asosiy rang</string>
+    <string name="preferences_real_event_colors">Haqiqiy tadbir ranglarini ishlatish</string>
+    <string name="preferences_pure_black_night_mode">Sof qora tungi rejim</string>
+    <string name="preferences_reminder_title">Bildirishnomalar va eslatmalar</string>
+    <string name="preferences_hide_declined_title">Rad etilgan tadbirlarni yashirish</string>
+    <string name="default_start_title">Standart ko\'rinish</string>
+    <string name="display_options">"Ekran parametrlari"</string>
+    <string name="display_time">Vaqtni ko\'rsatish</string>
+    <string name="display_location">Joylashuvni ko\'rsatish</string>
+    <string name="maximum_number_of_lines">Tadbirdagi maksimal qatorlar soni</string>
+    <string name="default_start_last">Oldin ishlatilgan ko\'rinish</string>
+    <string name="preferences_week_start_day_title">Hafta quyidagi kundan boshlanadi</string>
+    <string name="preferences_week_start_day_dialog">Hafta quyidagi kundan boshlanadi</string>
+    <string name="week_start_locale_default">Mahalliy standart</string>
+    <string name="preferences_days_per_week_title">Haftada kunlar soni</string>
+    <string name="preferences_days_per_week_dialog">Haftada kunlar soni</string>
+    <string name="preferences_default_event_duration_title">Standart tadbir davomiyligi</string>
+    <string name="preferences_clear_search_history_title">Qidiruv tarixini tozalash</string>
+    <string name="preferences_clear_search_history_summary">Barcha qidiruvlaringizni o\'chirish</string>
+    <string name="search_history_cleared">Qidiruv tarixi tozalandi.</string>
+    <string name="preferences_alerts_title">"Bildirishnomalar"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"Tebranish"</string>
+    <string name="preferences_alerts_ringtone_title">"Tovush"</string>
+    <string name="preferences_alerts_popup_title">Ochiladigan bildirishnoma</string>
+    <string name="preferences_default_reminder_title">Standart eslatma vaqti</string>
+    <string name="preferences_default_reminder_dialog">Standart eslatma vaqti</string>
+    <string name="preferences_use_home_tz_title">"Uydagi vaqt mintaqasi"</string>
+    <string name="preferences_use_home_tz_descrip">Sayohat paytida kalendarlar va tadbir vaqtlarini bosh vaqt mintaqangizda ko\'rsatadi</string>
+    <string name="preferences_home_tz_title">Mening vaqt mintaqam</string>
+    <string name="preferences_show_week_num_title">Hafta raqamini ko\'rsatish</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">Eslatmani kechiktirish muddatini so\'rash</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Eslatmalarni kechiktirganda har safar kechiktirish muddatini so\'rash</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Har doim standart kechiktirish muddatidan foydalanish</string>
+    <string name="snooze_delay_dialog_title">Kechiktirish muddatini o\'rnatish</string>
+    <string name="preferences_default_snooze_delay_title">Standart kechiktirish vaqti</string>
+    <string name="preferences_default_snooze_delay_dialog">Standart kechiktirish muddati</string>
+    <string name="preferences_staggered_display_title">Pog\'onali ko\'rinish</string>
+    <string name="preferences_staggered_display_summary">Ustma-ust tushgan tadbirlarni pog\'onali joylashuvda ko\'rsatish</string>
+    <string name="app_copyright">© 2015-<xliff:g>%1$s</xliff:g> The Etar Project. Qismlar © 2005-<xliff:g>%1$s</xliff:g> The Android Open Source Project.</string>
+    <string name="authors">Mualliflar</string>
+    <string name="changelog">O\'zgarishlar jurnali</string>
+    <string name="license">"Litsenziya"</string>
+    <string name="preferences_build_version">"Versiyasi"</string>
+    <string name="preferences_issues">Xatolar haqida xabar berish</string>
+    <string name="source_code">Manba</string>
+    <string name="gadget_no_events">Yaqinlashayotgan kalendar tadbirlari yo\'q</string>
+    <string name="preferences_experimental_category">"Tajribaviy"</string>
+    <string name="preferences_reminders_responded_label">Eslatmalarni o\'tkazib yuborish</string>
+    <string name="preferences_reminders_responded_dialog">Eslatmalarni o\'tkazib yuborish</string>
+    <string name="copy_db">Ma\'lumotlar bazasini yuborish</string>
+    <string name="directory_searching_fmt"><xliff:g id="domain">%s</xliff:g> qidirilmoqda…</string>
+    <string name="accessibility_remove_attendee">Ishtirokchini olib tashlash</string>
+    <string name="accessibility_pick_start_date">Boshlanish sanasi</string>
+    <string name="accessibility_pick_start_time">"Boshlanish vaqti"</string>
+    <string name="accessibility_pick_end_date">Tugash sanasi</string>
+    <string name="accessibility_pick_end_time">"Tugash vaqti"</string>
+    <string name="accessibility_pick_time_zone">"Vaqt mintaqasi"</string>
+    <string name="accessibility_pick_recurrence">Tadbirni takrorlash</string>
+    <string name="accessibility_add_reminder">Eslatma qo\'shish</string>
+    <string name="accessibility_remove_reminder">Eslatmani olib tashlash</string>
+    <string name="accessibility_add_attendee">Ishtirokchi qo\'shish</string>
+    <string name="accessibility_all_day">Butun kunlik tadbir</string>
+    <string name="accessibility_reminder_time">Eslatma vaqti</string>
+    <string name="accessibility_reminder_type">Eslatma turi</string>
+    <string name="accessibility_reminder_showmeas">Meni shunday ko\'rsatish</string>
+    <string name="accessibility_reminder_privacy">"Maxfiylik"</string>
+    <string name="day_view_new_event_hint">+ Yangi tadbir</string>
+    <string name="template_announce_item_index"><xliff:g id="item_index">%1$s</xliff:g>-tadbir, jami <xliff:g id="item_count">%2$s</xliff:g> tadbirdan.</string>
+    <string name="acessibility_selected_marker_description">Tanlangan tadbir</string>
+    <string name="recurrence_month_pattern_by_day">har oyning bir xil kunida</string>
+    <string name="recurrence_end_continously">Doimiy</string>
+    <string name="recurrence_end_date_label">Sana gacha</string>
+    <string name="recurrence_end_date"><xliff:g id="date">%s</xliff:g> gacha</string>
+    <string name="recurrence_end_count_label">Tadbirlar soni bo\'yicha</string>
+    <string name="acessibility_recurrence_choose_end_date_description">tugash sanasini o\'zgartirish</string>
+    <string name="user_rejected_calendar_write_permission">Etar to\'g\'ri ishlashi uchun kalendarni o\'qish va yozish ruxsatlari kerak. Qaytadan urinib ko\'ring.</string>
+    <string name="calendar_permission_not_granted">Tadbirlarni tahrirlash uchun kerakli ruxsatlar rad etildi. Sozlamalar ilovasida ularni yoqing</string>
+    <string name="visibility_default">"Standart"</string>
+    <string name="visibility_confidential">Maxfiy</string>
+    <string name="visibility_private">"Maxfiy"</string>
+    <string name="visibility_public">Ochiq</string>
+    <string name="two_days">2 kun</string>
+    <string name="three_days">3 kun</string>
+    <string name="four_days">4 kun</string>
+    <string name="five_days">5 kun</string>
+    <string name="six_days">6 kun</string>
+    <string name="seven_days">7 kun</string>
+    <string name="zero_minutes">0 daqiqa</string>
+    <string name="fifteen_minutes">"15 daqiqa"</string>
+    <string name="thirty_minutes">"30 daqiqa"</string>
+    <string name="one_hour">"1 soat"</string>
+    <string name="one_and_a_half_hours">1,5 soat</string>
+    <string name="two_hours">"2 soat"</string>
+    <string name="error_generating_ics">Tadbirni ulashishda muammolar yuz berdi</string>
+    <string name="cal_share_intent_title">Tadbirni yuborish:</string>
+    <string name="cal_export_event_title">Tadbirni eksport qilish</string>
+    <string name="cal_export_success">Tadbir muvaffaqiyatli eksport qilindi</string>
+    <string name="cal_export_error">Tadbirni eksport qilib bo\'lmadi</string>
+    <string name="cal_export_succ_msg">Tadbir muvaffaqiyatli eksport qilindi</string>
+    <string name="cal_import_menu_title">Tadbirni import qilish</string>
+    <string name="cal_nothing_to_import">"Import qilinadigan kontaktlar yo‘q"</string>
+    <string name="cal_import_error_msg">Kalendarga import qilib bo\'lmadi</string>
+    <string name="cal_import_error_time_zone_msg">Berilgan vaqt mintaqasini tushunib bo\'lmadi: %s</string>
+    <string name="cal_import_error_date_msg">Berilgan sanani tushunib bo\'lmadi: %s</string>
+    <string name="cal_pick_ics">Import qilish uchun faylni tanlang</string>
+    <string name="show_time_no">Vaqtni ko\'rsatmaslik</string>
+    <string name="show_time_start">Faqat boshlanish vaqti</string>
+    <string name="show_time_start_end">Boshlanish va tugash vaqti</string>
+    <string name="show_time_start_end_below">Tadbir ostida boshlanish va tugash vaqti</string>
+    <string name="preferences_calendar_no_display_name">Nomsiz kalendar</string>
+    <string name="preferences_calendar_account">%1$s hisobi</string>
+    <string name="preferences_calendar_account_local">Oflayn kalendar</string>
+    <string name="preferences_calendar_configure_account">%1$s da kalendarni sozlash</string>
+    <string name="preferences_calendar_number_of_events">%1$d ta tadbir</string>
+    <string name="preferences_calendar_delete">Kalendarni o‘chirish</string>
+    <string name="preferences_calendar_display_name">"Ismni o‘zgartirish"</string>
+    <string name="preferences_calendar_info_category">Kalendar haqida ma’lumot</string>
+    <string name="preferences_calendar_color">"Rang"</string>
+    <string name="preferences_calendar_visible">Tadbirlarni ko‘rsatish</string>
+    <string name="preferences_manage_notifications">Bildirishnomalarni boshqarish</string>
+    <string name="preferences_calendar_synchronize">Ushbu kalendarni sinxronlash</string>
+    <string name="preferences_calendar_color_warning_title">"Diqqat"</string>
+    <string name="preferences_calendar_color_warning_message">Agar kalendar qayta sinxronlanganda rang o‘zgarishi bekor qilinishi mumkin.\n\nBuning oldini olish uchun DAVx⁵ ichida „Kalendar ranglarini boshqarish“ bo‘limini o‘chirib qo‘yishingiz mumkin.</string>
+    <string name="preferences_calendar_color_warning_button">Tushunarli</string>
+    <string name="preferences_calendar_delete_message">Haqiqatan ham bu kalendarni o‘chirmoqchimisiz?</string>
+    <string name="preferences_calendar_delete_delete">Kalendarni o‘chirish</string>
+    <string name="preferences_calendar_delete_cancel">"Bekor qilish"</string>
+    <string name="preferences_list_calendar_summary_sync_off">Sinxronlanmagan</string>
+    <string name="preferences_list_calendar_summary_invisible">Tadbirlar ko‘rsatilmayapti</string>
+    <string name="preferences_list_general">"Umumiy sozlamalar"</string>
+    <string name="preferences_list_add_remote">CalDAV kalendarini qo‘shish</string>
+    <string name="preferences_list_add_remote_etesync">EteSync kalendarini qo‘shish</string>
+    <string name="preferences_list_add_offline">Oflayn kalendar qo‘shish</string>
+    <string name="preferences_list_add_offline_title">Oflayn kalendar qo‘shish</string>
+    <string name="preferences_list_add_offline_error_empty">Kalendar nomini kiriting!</string>
+    <string name="preferences_list_add_offline_message">Oflayn kalendarlar bulut xizmatiga sinxronlanmaydi va faqat telefoningizda mavjud bo‘ladi.</string>
+    <string name="preferences_list_add_offline_button">Kalendar qo\'shish</string>
+    <string name="preferences_list_add_offline_name">"Nomi"</string>
+    <string name="preferences_list_add_offline_cancel">"Bekor qilish"</string>
+    <string name="preferences_menu_about">Etar haqida</string>
+    <string name="offline_account_name">Oflayn kalendar</string>
+    <string name="after_start_of_event">tadbir boshlangandan keyin</string>
+    <string name="preferences_do_not_check_battery_optimization">Batareya optimallashtirishni tekshirmaslik</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Faqat o‘zingiz xavf ostida foydalaning! Bildirishnomalar ishlamay qoladi, vidjet yangilanmaydi va fon xizmatlari ishdan chiqadi. Ammo fon xizmatini yoqishni xohlaysizmi, deb boshqa so‘ralmaysiz.</string>
+    <string name="calendars">Kalendarlar</string>
+    <string name="discard_event_changes">O‘zgarishlarni bekor qilmoqchimisiz?</string>
+    <string name="discard">"Bekor qilish"</string>
+    <string name="cancel">"Bekor qilish"</string>
+    <string name="chips_action_cancel">"Bekor qilish"</string>
+</resources>

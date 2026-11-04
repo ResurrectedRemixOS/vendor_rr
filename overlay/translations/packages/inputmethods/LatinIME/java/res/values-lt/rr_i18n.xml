@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_hu_ZZ">Vengrų (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material – pagal sistemos nustatymus</string>
+    <string name="prefs_keyboard_height_scale">Klaviatūros aukščio mastelis</string>
+    <string name="number_row">Skaičių eilutė</string>
+    <string name="number_row_summary">Visada rodyti skaičių eilutę visiems išdėstymams, kuriuose yra 4 klavišų eilutės</string>
+    <string name="number_row_password">Skaičių eilutė slaptažodžiams</string>
+    <string name="number_row_password_summary">Visada rodyti skaičių eilutę visiems išdėstymams, turintiems 4 klavišų eilutes, skirtiems slaptažodžiams įvesti</string>
+    <string name="space_trackpad">Tarpo klavišo jutiklinė juosta</string>
+    <string name="space_trackpad_summary">Brūkštelėkite tarpo klavišu, kad perkeltumėte žymeklį</string>
+    <string name="backspace_trackpad">Trynimo klavišo jutiklinė juosta</string>
+    <string name="backspace_trackpad_summary">Brūkštelėkite trynimo klavišu, kad ištrintumėte žodžius</string>
+    <string name="show_longpress_hints">Rodyti ilgo paspaudimo klavišų užuominas</string>
+    <string name="show_longpress_hints_summary">Rodo ilgo paspaudimo užuominas palaikomiems klavišams</string>
+    <string name="show_emoji_key">Rodyti jaustukų klavišą</string>
+    <string name="show_emoji_key_summary">Visada rodyti jaustukų klavišą. Kai ši parinktis įjungta, kalbos perjungimo klavišo rodyti negalima.</string>
+    <string name="enable_split_keyboard_summary">Tik horizontaliai</string>
+    <string name="split_keyboard_duplicate_keys">Dublikuoti centrinius klavišus</string>
+    <string name="split_keyboard_duplicate_keys_summary">Rodyti artimus vidurio klavišus abiejose pusėse</string>
+    <string name="spoken_description_split_keyboard">Padalyti klaviatūrą</string>
+    <string name="spoken_description_merge_keyboard">Sujungti klaviatūrą</string>
+    <string name="spoken_description_float_keyboard">Plaukiojanti klaviatūra</string>
+    <string name="spoken_description_dock_keyboard">Prijungti klaviatūrą</string>
+    <string name="floating_keyboard_drag_handle">Perkelti klaviatūrą</string>
+    <string name="floating_keyboard_resize_handle">Keisti klaviatūros dydį</string>
+    <string name="floating_keyboard_reset">"Nustatyti iš naujo"</string>
+    <string name="floating_keyboard_hide">Slėpti klaviatūrą</string>
+    <string name="floating_keyboard_switch_ime">"Perjungti įvesties metodą"</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Klasický</string>
+    <string name="bundle1_color_name">Uhlík</string>
+    <string name="bundle2_color_name">Papier</string>
+    <string name="bundle3_color_name">Slnko</string>
+    <string name="bue_color_name">Levanduľa</string>
+    <string name="red_color_name">Bobuľa</string>
+    <string name="wht_color_name">Hmla</string>
+    <string name="indigo_color_name">"Indigová"</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Nefrit</string>
+    <string name="lemongrass_color_name">Citrónová tráva</string>
+    <string name="moonstone_color_name">Mesačný kameň</string>
+    <string name="obsidian_color_name">Obsidián</string>
+    <string name="peony_color_name">Pivónia</string>
+    <string name="porcelain_color_name">Porcelán</string>
+    <string name="fruit1_color_name">Dvojfarebná paleta žltá a červená</string>
+    <string name="fruit2_color_name">Dvojfarebná paleta zelená a oranžová</string>
+    <string name="fruit3_color_name">Dvojfarebná paleta modrá a zelená</string>
+    <string name="fruit4_color_name">Dvojfarebná paleta svetlofialová a modrá</string>
+    <string name="fruit5_color_name">Dvojfarebná paleta ružová a indigová</string>
+</resources>

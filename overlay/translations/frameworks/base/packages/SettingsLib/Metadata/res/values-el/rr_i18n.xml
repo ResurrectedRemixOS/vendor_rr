@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Λογική τιμή (boolean).</string>
+    <string name="any_int_type_description">Ακέραια τιμή.</string>
+    <string name="any_string_type_description">Τιμή συμβολοσειράς.</string>
+    <string name="display_id_type_description">Αναγνωριστικό οθόνης συστήματος (μπορεί να είναι εσωτερική ή εξωτερική ανάλογα με τη διαμόρφωση).</string>
+    <string name="installed_package_name_type_description">Οποιοδήποτε πακέτο εγκατεστημένο στη συσκευή.</string>
+    <string name="int_in_range_type_description_from">Ακέραιος αριθμός μεγαλύτερος ή ίσος με %1$d, με βήμα %2$d.</string>
+    <string name="int_in_range_type_description_to">Ακέραιος αριθμός μικρότερος ή ίσος με %1$d, με βήμα %2$d.</string>
+    <string name="int_in_range_type_description_between">Ακέραιος αριθμός στο εύρος [%1$d, %2$d], με βήμα %3$d.</string>
+    <string name="time_of_day_type_description">Ώρα της ημέρας σε μορφή 24ώρου ΩΩ:ΛΛ.</string>
+    <string name="time_duration_type_description">Διάρκεια σε δευτερόλεπτα, ως ακέραιος αριθμός.</string>
+    <string name="sim_slot_id_type_description">Έγκυρο αναγνωριστικό θέσης SIM.</string>
+    <string name="subscription_id_type_description">Έγκυρο αναγνωριστικό συνδρομής.</string>
+    <string name="wifi_ssid_type_description">Το SSID ενός δικτύου Wi-Fi.</string>
+</resources>

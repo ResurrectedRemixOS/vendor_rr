@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Profiles ယုံကြည်မှုပေးသူ</string>
+    <string name="profile_picker_title">"ပရိုဖိုင်များ"</string>
+    <string name="profile_none">"မရှိ"</string>
+    <string name="profile_trust_agent_title">Profiles ယုံကြည်မှုကိုင်တွယ်သူ</string>
+    <string name="profile_trust_agent_summary">Profiles ကို လော့ခ်စခရင်ကာကွယ်မှုကို ယာယီပိတ်ခွင့်ပြုသည်</string>
+    <string name="trust_by_profile">Profile မှ ယုံကြည်ထားသည်</string>
+</resources>

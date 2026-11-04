@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_password">Parolalar için sayı satırı</string>
+    <string name="number_row_password_summary">Parola girişi için 4 sıra tuşu olan tüm düzenlerde her zaman bir sayı satırı göster</string>
+    <string name="backspace_trackpad">Geri tuşu dokunmatik paneli</string>
+    <string name="backspace_trackpad_summary">Kelimeleri silmek için geri tuşunda kaydırın</string>
+    <string name="enable_split_keyboard_summary">Yalnızca yatay modda</string>
+    <string name="split_keyboard_duplicate_keys">Ortadaki tuşları çoğalt</string>
+    <string name="split_keyboard_duplicate_keys_summary">Her iki yarıda ortaya yakın tuşları göster</string>
+    <string name="spoken_description_split_keyboard">Bölünmüş klavye</string>
+    <string name="spoken_description_merge_keyboard">Klavyeyi birleştir</string>
+    <string name="spoken_description_float_keyboard">Klavyeyi yüzdür</string>
+    <string name="spoken_description_dock_keyboard">Klavyeyi yerleştir</string>
+    <string name="floating_keyboard_drag_handle">Klavyeyi taşı</string>
+    <string name="floating_keyboard_resize_handle">Klavyeyi yeniden boyutlandır</string>
+    <string name="floating_keyboard_reset">"Sıfırla"</string>
+    <string name="floating_keyboard_hide">Klavyeyi gizle</string>
+    <string name="floating_keyboard_switch_ime">"Giriş yöntemini değiştir"</string>
+</resources>

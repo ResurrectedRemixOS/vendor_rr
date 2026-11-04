@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dialog_permissions_notifications">O gravador necesita o permiso de notificacións para mostrar os controis de gravación</string>
+    <string name="dialog_permissions_mic_notifications">O gravador necesita o permiso de micrófono para gravar audio e o permiso de notificacións para mostrar os controis de gravación</string>
+    <string name="dialog_permissions_phone_notifications">O gravador necesita acceso ao estado do teléfono para impedir que esta aplicación grave mentres estás chamando, e o permiso de notificacións para mostrar os controis de gravación</string>
+    <string name="dialog_permissions_mic_phone_notifications">O gravador necesita o permiso de micrófono para gravar audio, acceso ao estado do teléfono para impedir que esta aplicación grave mentres estás chamando, e o permiso de notificacións para mostrar os controis de gravación</string>
+</resources>

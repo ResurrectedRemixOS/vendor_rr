@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Galerie</string>
+    <string name="albums_title">Alben</string>
+    <string name="album_favorites">Favoritten</string>
+    <string name="album_photos">Fotoen</string>
+    <string name="album_videos">Videoen</string>
+    <string name="media_info_unknown">Onbekannt</string>
+    <string name="file_action_add_to_favorites">Bei d\'Favoritte setzen</string>
+    <string name="file_action_edit">Änneren</string>
+    <string name="file_action_information">Informatioun</string>
+    <string name="file_action_remove_from_favorites">Aus de Favoritte läschen</string>
+    <string name="file_action_share">Deelen</string>
+    <string name="file_action_undo_action">Réckgängeg maachen</string>
+    <string name="picker_done">Fäerdeg</string>
+    <string name="set_wallpaper_label">Hannergrondbild</string>
+    <string name="set_wallpaper">Hannergrondbild setzen</string>
+    <string name="set_wallpaper_home_screen">Startschierm</string>
+    <string name="title_activity_settings">Astellungen</string>
+    <string name="general_header">Allgemeng</string>
+</resources>

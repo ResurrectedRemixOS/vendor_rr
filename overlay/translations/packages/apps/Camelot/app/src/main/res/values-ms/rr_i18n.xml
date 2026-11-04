@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Pemapar PDF</string>
+    <string name="find_in_page">Cari dalam halaman</string>
+    <string name="share">"Kongsi"</string>
+    <string name="open_with">Buka dengan…</string>
+    <string name="download">"Muat turun"</string>
+    <string name="pdf_document">Dokumen PDF</string>
+    <string name="print">"Cetak"</string>
+    <string name="download_successful">Muat turun berjaya</string>
+    <string name="download_error">Ralat semasa memuat turun fail</string>
+</resources>

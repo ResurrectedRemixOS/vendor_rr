@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kbit/s</item>
+        <item>256 kbit/s</item>
+        <item>1 Mbit/s</item>
+        <item>5 Mbit/s</item>
+        <item>15 Mbit/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"Standard"</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"Standard"</item>
+        <item>So</item>
+        <item>Mo</item>
+        <item>Di</item>
+        <item>Mi</item>
+        <item>Do</item>
+        <item>Fr</item>
+        <item>Sa</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"Standard"</item>
+        <item>Metrisch</item>
+        <item>US-System</item>
+        <item>UK-System</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Nicht angegeben"</item>
+        <item>Neutral</item>
+        <item>"Feminin"</item>
+        <item>"Maskulin"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>Französisch</item>
+        <item>Spanisch</item>
+        <item>Italienisch</item>
+        <item>Deutsch</item>
+    </string-array>
+    <string name="face_enrolling_close_to_continue">Telefon beim Einrichten falten</string>
+    <string name="face_enrolling_close_to_continue_description">Das Telefon muss zum Einrichten oder Verwenden der Gesichtsentsperrung gefaltet sein</string>
+    <string name="face_enrolling_do_it_later">"Später"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM-Toolkit</string>
+    <string name="platform_compat_target_sdk_title">Aktiviert für targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

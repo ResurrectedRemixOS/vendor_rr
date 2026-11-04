@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX আপনার ডিফল্ট ইফেক্ট কন্ট্রোল প্যানেল নয়।</string>
+    <string name="snack_bar_not_default_set">"ডিফল্ট সেট করুন"</string>
+    <string name="snack_bar_not_default_not_now">"এখন নয়"</string>
+    <string name="multimedia">মাল্টিমিডিয়া</string>
+    <string name="custom_n">কাস্টম <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="device_line_out">লাইন আউট</string>
+    <string name="devices">"ডিভাইস"</string>
+    <string name="virtualizer">ভার্চুয়ালাইজার</string>
+    <string name="bass">বেস</string>
+    <string name="rename">"নাম পরিবর্তন করুন"</string>
+    <string name="remove_custom_preset_warning_message">আপনি কি নিশ্চিতভাবে %1$s সরাতে চান?</string>
+    <string name="picker_title">মিউজিক ইফেক্ট কন্ট্রোল প্যানেল</string>
+</resources>

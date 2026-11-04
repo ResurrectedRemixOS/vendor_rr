@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">कॉल के दौरान</string>
+    <string name="incall_enable_dnd_title">कॉल के दौरान परेशान न करें सक्षम करें</string>
+    <string name="incall_vibrate_outgoing_title">उत्तर देने पर वाइब्रेट करें</string>
+    <string name="incall_vibrate_call_waiting_title">कॉल वेटिंग पर वाइब्रेट करें</string>
+    <string name="incall_vibrate_hangup_title">कॉल काटने पर वाइब्रेट करें</string>
+    <string name="incall_vibrate_45_title">हर मिनट वाइब्रेट करें</string>
+    <string name="incall_vibrate_45_summary">आउटगोइंग कॉल के दौरान हर मिनट के 45वें सेकंड पर वाइब्रेट करता है</string>
+    <string name="incall_dnd_dialog_message">परेशान न करें सक्षम करने के लिए, फ़ोन ऐप को परेशान न करें स्थिति नियंत्रित करने की अनुमति देनी होगी।\nकृपया इसकी अनुमति दें।</string>
+    <string name="allow">"अनुमति दें"</string>
+    <string name="deny">"अनुमति न दें"</string>
+    <string name="call_recording_category_title">कॉल रिकॉर्डिंग</string>
+    <string name="call_recording_format">ऑडियो फ़ॉर्मेट</string>
+    <string name="call_via">इसके जरिए कॉल करें</string>
+    <string name="call_via_dialog_title">इसके जरिए कॉल करें…</string>
+    <string name="call_log_stats_title">आंकड़े</string>
+    <string name="action_menu_helplines">हेल्पलाइन</string>
+    <string name="default_dialer_text">इसका उपयोग करने के लिए आपको डायलर को डिफ़ॉल्ट फ़ोन ऐप के रूप में सेट करना होगा।</string>
+    <string name="default_dialer_action">"डिफ़ॉल्ट के तौर पर सेट करें"</string>
+</resources>

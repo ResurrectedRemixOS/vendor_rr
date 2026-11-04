@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Hindi nasimulan ang pag-record ng tawag</string>
+    <string name="call_recording_file_location">Na-save ang recording ng tawag sa <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">I-record ang tawag</string>
+    <string name="onscreenCallRecordingText">Nire-record ang tawag - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Huminto sa pag-record"</string>
+    <string name="recording_warning_title">I-enable ang pag-record ng tawag?</string>
+    <string name="recording_warning_text">Paalala: Ikaw ang responsable sa pagsunod sa anumang batas, regulasyon, at patakarang nalalapat sa paggamit ng functionality ng pag-record ng tawag at sa paggamit o pamamahagi ng mga recording na iyon.</string>
+</resources>

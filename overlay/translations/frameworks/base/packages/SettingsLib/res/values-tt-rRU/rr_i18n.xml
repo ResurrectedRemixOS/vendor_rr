@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hearing_device_spinner_item_selected">Сайланган</string>
+    <string name="bluetooth_pairing_decline">Баш тарту</string>
+    <string name="bluetooth_talkback_phone">Телефон</string>
+    <string name="unknown">Билгесез</string>
+    <string name="development_settings_title">Программист көйләүләре</string>
+    <string name="adb_wireless_qrcode_pairing_title">QR кодны сканлау</string>
+    <string name="loading_injected_setting_summary">Йөкләү\u2026</string>
+    <string name="battery_info_status_unknown">Билгесез</string>
+    <string name="cancel">Баш тарту</string>
+    <string name="save">Саклау</string>
+    <string name="zen_mode_enable_dialog_turn_on">Кабызу</string>
+    <string name="zen_mode_duration_always_prompt_title">Һәрвакыт сорау</string>
+    <string name="zen_mode_starred_contacts_empty_name">(Исемсез)</string>
+    <string name="help_label">Ярдәм &amp; кайтаваз</string>
+    <string name="user_nickname">Кушамат</string>
+    <string name="guest_exit_save_data_button">Саклау</string>
+</resources>

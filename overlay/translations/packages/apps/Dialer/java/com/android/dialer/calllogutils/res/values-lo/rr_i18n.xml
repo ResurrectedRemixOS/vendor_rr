@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">ທຸກບັນຊີ</string>
+    <string name="call_log_all_calls_header">ທຸກການໂທ</string>
+    <string name="call_log_incoming_header">ສະເພາະການໂທເຂົ້າ</string>
+    <string name="call_log_outgoing_header">ສະເພາະການໂທອອກ</string>
+    <string name="call_log_missed_header">ສະເພາະການໂທທີ່ພາດ</string>
+    <string name="call_log_voicemail_header">ສະເພາະການໂທທີ່ມີຂໍ້ຄວາມສຽງ</string>
+    <string name="call_log_blacklist_header">ສະເພາະການໂທທີ່ຖືກບລັອກ</string>
+</resources>

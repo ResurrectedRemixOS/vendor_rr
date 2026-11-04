@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="recents_clear_all">Барысын чистарту</string>
+    <string name="hotseat_prediction_settings">Көйләүләр</string>
+    <string name="gesture_tutorial_action_button_label_settings">Көйләүләр</string>
+    <string name="gesture_tutorial_try_again">Кабатлау</string>
+    <string name="toast_split_select_app_cancel">Баш тарту</string>
+    <string name="action_image_save">Саклау</string>
+    <string name="accessibility_rotate_button">Экранны бору</string>
+    <string name="taskbar_button_a11y">Махсус мөмкинлекләр</string>
+    <string name="taskbar_button_recents">Соңгылары</string>
+    <string name="taskbar_button_more_options">Күбрәк көйләүләр</string>
+    <string name="taskbar_pinned_overflow_a11y_title">Башка кушымталар</string>
+    <string name="bubble_bar_bubble_description"><xliff:g id="app_name" example="YouTube">%2$s</xliff:g>: <xliff:g id="notification_title" example="some title">%1$s</xliff:g></string>
+</resources>

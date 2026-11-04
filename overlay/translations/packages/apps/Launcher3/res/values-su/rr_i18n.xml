@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_picker_widget_options_button_description">Opsi leuwih</string>
+    <string name="widgets_full_sheet_personal_tab">Pribadi</string>
+    <string name="widget_settings">Sétingan</string>
+    <string name="notification_dots_desc_off">Pareum</string>
+    <string name="package_state_unknown">Teu dipikanyaho</string>
+    <string name="all_apps_personal_tab">Pribadi</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">Habang may tawag</string>
+    <string name="incall_enable_dnd_title">I-enable ang Huwag Istorbohin habang may tawag</string>
+    <string name="incall_vibrate_outgoing_title">Mag-vibrate kapag sinagot</string>
+    <string name="incall_vibrate_call_waiting_title">Mag-vibrate kapag may naghihintay na tawag</string>
+    <string name="incall_vibrate_hangup_title">Mag-vibrate kapag binaba ang tawag</string>
+    <string name="incall_vibrate_45_title">Mag-vibrate kada minuto</string>
+    <string name="incall_vibrate_45_summary">Nagvi-vibrate sa ika-45 segundo ng bawat minuto habang may palabas na tawag</string>
+    <string name="incall_dnd_dialog_message">Para ma-enable ang Huwag Istorbohin, kailangang payagan ang Phone app na kontrolin ang status ng Huwag Istorbohin.\nPakipayagan ito.</string>
+    <string name="allow">"Payagan"</string>
+    <string name="deny">"Tanggihan"</string>
+    <string name="call_recording_category_title">Pag-record ng tawag</string>
+    <string name="call_recording_format">Format ng audio</string>
+    <string name="call_via">Tawagan gamit ang</string>
+    <string name="call_via_dialog_title">Tawagan gamit ang…</string>
+    <string name="call_log_stats_title">Mga estadistika</string>
+    <string name="action_menu_helplines">Mga helpline</string>
+    <string name="default_dialer_text">Kailangan mong itakda ang Dialer bilang default na phone app para magamit ito.</string>
+    <string name="default_dialer_action">"Itakda bilang default"</string>
+</resources>

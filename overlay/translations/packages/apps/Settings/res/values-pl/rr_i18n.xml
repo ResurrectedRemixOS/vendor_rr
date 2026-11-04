@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"domyślne"</item>
+        <item>Celsjusz</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"domyślne"</item>
+        <item>niedz</item>
+        <item>pon</item>
+        <item>wt</item>
+        <item>śr</item>
+        <item>czw</item>
+        <item>pt</item>
+        <item>sob</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"domyślne"</item>
+        <item>metryczny</item>
+        <item>system US</item>
+        <item>system UK</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Nie określono"</item>
+        <item>"Nie mam zdania"</item>
+        <item>"Żeński"</item>
+        <item>"Męski"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM Toolkit</string>
+    <string name="platform_compat_target_sdk_title">Włączone dla targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Menedżer kontekstu osobistego</string>
+</resources>

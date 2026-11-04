@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material - jarraitu sistemaren ezarpenak</string>
+    <string name="prefs_keyboard_height_scale">Teklatuaren altuera-eskala</string>
+    <string name="number_row">Zenbaki-errenkada</string>
+    <string name="number_row_summary">Erakutsi beti zenbaki-errenkada 4 tekla-errenkada dituzten diseinu guztietan</string>
+    <string name="number_row_password">Pasahitzetarako zenbaki-errenkada</string>
+    <string name="number_row_password_summary">Erakutsi beti zenbaki-errenkada 4 tekla-errenkada dituzten diseinu guztietan pasahitza sartzeko</string>
+    <string name="space_trackpad">Espazio-barra trackpad</string>
+    <string name="space_trackpad_summary">Irristatu espazio-barran kurtsorea mugitzeko</string>
+    <string name="backspace_trackpad">Atzera-tekla trackpad</string>
+    <string name="backspace_trackpad_summary">Irristatu atzera-teklan hitzak ezabatzeko</string>
+    <string name="show_longpress_hints">Erakutsi sakatze luzeko teklen pistak</string>
+    <string name="show_longpress_hints_summary">Sakatze luzeko pistak erakusten ditu onartzen diren teklentzat</string>
+    <string name="show_emoji_key">Erakutsi emoji tekla</string>
+    <string name="show_emoji_key_summary">Erakutsi beti emoji tekla. Aukera hau gaituta dagoenean, hizkuntza-aldaketa tekla ezin da erakutsi.</string>
+    <string name="enable_split_keyboard_summary">Paisaian soilik</string>
+    <string name="split_keyboard_duplicate_keys">Bikoiztu erdiko teklak</string>
+    <string name="split_keyboard_duplicate_keys_summary">Erakutsi erdialdean dauden teklak bi erdietan</string>
+    <string name="spoken_description_split_keyboard">Banatu teklatua</string>
+    <string name="spoken_description_merge_keyboard">Batu teklatua</string>
+    <string name="spoken_description_float_keyboard">Flotatu teklatua</string>
+    <string name="spoken_description_dock_keyboard">Atrakatu teklatua</string>
+    <string name="floating_keyboard_drag_handle">Mugitu teklatua</string>
+    <string name="floating_keyboard_resize_handle">Aldatu teklatuaren tamaina</string>
+    <string name="floating_keyboard_reset">"Berrezarri"</string>
+    <string name="floating_keyboard_hide">Ezkutatu teklatua</string>
+    <string name="floating_keyboard_switch_ime">"Aldatu idazketa-metodoa"</string>
+</resources>

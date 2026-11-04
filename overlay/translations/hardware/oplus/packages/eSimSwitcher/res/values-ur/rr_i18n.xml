@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM کی ترتیبات</string>
+    <string name="esim_toggle_title">eSIM</string>
+    <string name="esim_toggle_summary">ورچوئل SIM کارڈ استعمال کرنے کے لیے آپریٹر پروفائل ڈاؤن لوڈ کر کے فعال کریں</string>
+    <string name="esim_toggle_dialog_cancel">"منسوخ کریں"</string>
+</resources>

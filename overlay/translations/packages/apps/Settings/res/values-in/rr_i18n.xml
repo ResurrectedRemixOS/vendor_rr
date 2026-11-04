@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>default</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>default</item>
+        <item>Min</item>
+        <item>Sen</item>
+        <item>Sel</item>
+        <item>Rab</item>
+        <item>Kam</item>
+        <item>Jum</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>default</item>
+        <item>metrik</item>
+        <item>sistem AS</item>
+        <item>sistem Inggris</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Tidak ditentukan"</item>
+        <item>"Netral"</item>
+        <item>"Feminin"</item>
+        <item>"Maskulin"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="adb_enable_root">Debugging root</string>
+    <string name="adb_enable_summary_root">Izinkan debugging Android berjalan sebagai root</string>
+    <string name="high_touch_polling_rate_title">Tingkat polling sentuh tinggi</string>
+    <string name="high_touch_polling_rate_summary">Tingkatkan tingkat polling layar sentuh</string>
+    <string name="max_refresh_rate_title">Kecepatan refresh maksimum</string>
+    <string name="show_navbar_hint_title">Petunjuk navigasi</string>
+    <string name="show_navbar_hint_summary">Tampilkan bilah petunjuk navigasi di bagian bawah layar</string>
+    <string name="storage_warning_internal">Peringatan: Opsi ini mungkin tidak berfungsi dengan baik atau menyebabkan kehilangan data, sehingga tidak disarankan!</string>
+    <string name="assisted_gps">Gunakan GPS berbantuan</string>
+    <string name="assisted_gps_summary">Unduh data bantuan satelit dari internet yang dapat sangat meningkatkan performa startup GPS. Untuk panggilan darurat, GPS berbantuan selalu diizinkan.</string>
+    <string name="battery_health_overheat">"Panas berlebih"</string>
+    <string name="battery_health_over_voltage">"Voltase berlebih"</string>
+    <string name="battery_health_unspecified_failure">Kegagalan tidak diketahui</string>
+    <string name="face_enrolling_close_to_continue">Lipat ponsel saat penyiapan</string>
+    <string name="face_enrolling_close_to_continue_description">Ponsel harus dilipat untuk menyiapkan atau menggunakan Buka Kunci dengan Wajah</string>
+    <string name="face_enrolling_do_it_later">"Lakukan nanti"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">Toolkit SIM</string>
+    <string name="platform_compat_target_sdk_title">Diaktifkan untuk targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Pengelola Konteks Pribadi</string>
+</resources>

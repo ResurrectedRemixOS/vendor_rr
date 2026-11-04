@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">Брзина пуњења</string>
+    <string name="charging_speed_slow">"Споро"</string>
+    <string name="charging_speed_fast">"Брзо"</string>
+    <string name="charging_speed_super_fast">Веома брзо</string>
+    <string name="charging_control_notification_channel">Контрола пуњења</string>
+    <string name="charging_control_notification_title">Контрола пуњења</string>
+    <string name="charging_control_notification_cancel_once">"Откажи"</string>
+    <string name="charging_control_notification_content_limit">Батерија ће бити напуњена на %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">Батерија је напуњена на %1$d%%</string>
+    <string name="charging_control_notification_content_target">Батерија ће бити потпуно напуњена у %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Батерија је напуњена</string>
+</resources>

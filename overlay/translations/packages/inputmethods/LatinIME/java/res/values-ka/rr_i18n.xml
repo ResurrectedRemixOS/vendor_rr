@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_password">ციფრების რიგი პაროლებისთვის</string>
+    <string name="number_row_password_summary">ყოველთვის აჩვენე ციფრების რიგი ყველა განლაგებაზე, რომელსაც პაროლის შეყვანისთვის ოთხი რიგი კლავიშები აქვს</string>
+    <string name="backspace_trackpad">backspace კლავიშის სენსორული პანელი</string>
+    <string name="backspace_trackpad_summary">გადაფურცლეთ backspace კლავიშზე სიტყვების წასაშლელად</string>
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">কলৰ সময়ত</string>
+    <string name="incall_enable_dnd_title">কলৰ সময়ত অসুবিধা নিদিব সক্ষম কৰক</string>
+    <string name="incall_vibrate_outgoing_title">কল উত্তৰ দিওঁতে কম্পন</string>
+    <string name="incall_vibrate_call_waiting_title">কল অপেক্ষাত থাকোঁতে কম্পন</string>
+    <string name="incall_vibrate_hangup_title">কল কাটোঁতে কম্পন</string>
+    <string name="incall_vibrate_45_title">প্ৰতি মিনিটে কম্পন</string>
+    <string name="incall_vibrate_45_summary">বহিৰ্গামী কলৰ সময়ত প্ৰতি মিনিটৰ ৪৫ সেকেণ্ডত কম্পন</string>
+    <string name="incall_dnd_dialog_message">অসুবিধা নিদিব সক্ষম কৰিবলৈ, ফ’ন এপ্‌টোক অসুবিধা নিদিব অৱস্থা নিয়ন্ত্ৰণ কৰাৰ অনুমতি দিয়ক।\nঅনুগ্ৰহ কৰি অনুমতি দিয়ক।</string>
+    <string name="allow">"অনুমতি দিয়ক"</string>
+    <string name="deny">"অস্বীকাৰ কৰক"</string>
+    <string name="call_recording_category_title">কল ৰেকৰ্ডিং</string>
+    <string name="call_recording_format">অডিঅ’ ফৰ্মেট</string>
+    <string name="call_via">এইযোগে কল কৰক</string>
+    <string name="call_via_dialog_title">এইযোগে কল কৰক…</string>
+    <string name="call_log_stats_title">পৰিসংখ্যা</string>
+    <string name="action_menu_helplines">সহায়ক হেল্পলাইন</string>
+    <string name="default_dialer_text">ইয়াক ব্যৱহাৰ কৰিবলৈ ডায়েলাৰক আপোনাৰ মূল ফ’ন এপ্‌ হিচাপে ছেট কৰিব লাগিব।</string>
+    <string name="default_dialer_action">"ডিফ’ল্ট হিচাপে ছেট কৰক"</string>
+</resources>

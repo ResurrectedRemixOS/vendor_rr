@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_split_keyboard_summary">تەنها لە دۆخی ئاسۆییدا</string>
+    <string name="split_keyboard_duplicate_keys">دووبارەکردنەوەی کلیلەکانی ناوەڕاست</string>
+    <string name="split_keyboard_duplicate_keys_summary">پیشاندانی کلیلەکانی نزیک ناوەڕاست لەسەر هەردوو نیوەکە</string>
+    <string name="spoken_description_split_keyboard">دووبەشکردنی تەختەکلیل</string>
+    <string name="spoken_description_merge_keyboard">یەکخستنی تەختەکلیل</string>
+    <string name="spoken_description_float_keyboard">سەرئاوخستنی تەختەکلیل</string>
+    <string name="spoken_description_dock_keyboard">چەسپاندنی تەختەکلیل لە خوارەوە</string>
+    <string name="floating_keyboard_drag_handle">جووڵاندنی تەختەکلیل</string>
+    <string name="floating_keyboard_resize_handle">گۆڕینی قەبارەی تەختەکلیل</string>
+    <string name="floating_keyboard_reset">ڕێکخستنەوە</string>
+    <string name="floating_keyboard_hide">شاردنەوەی تەختەکلیل</string>
+    <string name="floating_keyboard_switch_ime">گۆڕینی ڕێگەی تێخستن</string>
+</resources>

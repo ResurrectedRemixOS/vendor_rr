@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Profilių patikimumo teikėjas</string>
+    <string name="profile_picker_title">"Profiliai"</string>
+    <string name="profile_none">"Nėra"</string>
+    <string name="profile_trust_agent_title">Profilių patikimumo agentas</string>
+    <string name="profile_trust_agent_summary">Leidžia profiliams laikinai išjungti užrakinimo ekrano apsaugą</string>
+    <string name="trust_by_profile">Patikima profilio</string>
+</resources>

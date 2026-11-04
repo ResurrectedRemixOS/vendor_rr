@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Sozlash ustasi</string>
+    <string name="cancel">"Bekor qilish"</string>
+    <string name="next">Keyingi</string>
+    <string name="finish">Tayyor</string>
+    <string name="skip">O\'tkazib yuborish</string>
+    <string name="start">"Boshlash"</string>
+    <string name="done">"Tayyor"</string>
+    <string name="ok">OK</string>
+    <string name="loading">"Biroz kuting…"</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g> ga xush kelibsiz</string>
+    <string name="setup_managed_profile_welcome_message">Ish profilini sozlang</string>
+    <string name="emergency_call">"Favqulodda chaqiruv"</string>
+    <string name="accessibility_settings">"Qulayliklar sozlamalari"</string>
+    <string name="device_info">"Qurilma haqida"</string>
+    <string name="device_information">"Qurilma haqida axborot"</string>
+    <string name="device_info_serial">"Seriya raqami"</string>
+    <string name="setup_locale">"Til"</string>
+    <string name="sim_locale_changed">%1$s SIM aniqlandi</string>
+    <string name="setup_euicc">eSIM ni sozlang</string>
+    <string name="setup_sim_missing">SIM karta topilmadi</string>
+    <string name="esim_support_summary">eSIM ni sozlang yoki SIM karta joylashtiring. SIM kartani joylashtirish uchun qurilmangiz bilan birga berilgan yo‘riqnomani o‘qing.</string>
+    <string name="sim_missing_summary" product="tablet">Planshetingizda SIM karta aniqlanmadi. SIM kartani joylashtirish uchun qurilmangiz bilan birga berilgan yo‘riqnomani o‘qing.</string>
+    <string name="sim_missing_summary" product="default">Telefoningizda SIM karta aniqlanmadi. SIM kartani joylashtirish uchun qurilmangiz bilan birga berilgan yo‘riqnomani o‘qing.</string>
+    <string name="sim_missing_skip_title">SIM ni sozlashni o‘tkazib yuborasizmi?</string>
+    <string name="sim_missing_skip_message">Bu bosqichni o‘tkazib yuborsangiz, Sozlamalarda SIM ni sozlamaguncha mobil tarmoqqa ulanmaysiz.</string>
+    <string name="setup_datetime">"Sana va vaqt"</string>
+    <string name="date_time_summary">Vaqt mintaqasini sozlang va kerak bo‘lsa joriy sana va vaqtni o‘zgartiring</string>
+    <string name="setup_current_date">Joriy sana</string>
+    <string name="setup_current_time">Joriy vaqt</string>
+    <string name="setup_datetime_section_date">"Sana"</string>
+    <string name="setup_datetime_section_time">"Vaqt"</string>
+    <string name="setup_date_format">"Formatlash"</string>
+    <string name="date_format_day">"Kun"</string>
+    <string name="date_format_month">"Oy"</string>
+    <string name="date_format_year">"Yil"</string>
+    <string name="setup_time_zone">"Vaqt mintaqasi"</string>
+    <string name="setup_24_hour_format">"24 soatlik format"</string>
+    <string name="intro_restore_title">Ilovalar va ma’lumotlarni tiklang</string>
+    <string name="intro_restore_subtitle">Agar <xliff:g id="name" example="LineageOS">%s</xliff:g> yoki boshqa OS dan Seedvault zaxira nusxangiz bo‘lsa, uni shu yerda tiklashingiz mumkin.</string>
+    <string name="intro_restore_button">Zaxira nusxadan tiklash</string>
+    <string name="setup_location">"Joylashuvni aniqlash xizmatlari"</string>
+    <string name="location_summary">Qurilmangiz joylashuvini qanday boshqarishini tanlang</string>
+    <string name="location_access_title">"Geolokatsiyani yoqish"</string>
+    <string name="location_agps_access_title">Kengaytirilgan joylashuv</string>
+    <string name="location_access_summary">Joylashuv ma’lumotlaringizdan foydalanish uchun ruxsat so‘ragan ilovalarga ruxsat bering. Bunga joriy va oldingi joylashuvlaringiz kirishi mumkin.</string>
+    <string name="location_agps_access_summary">Joylashuv yoniq bo‘lganda, sun’iy yo‘ldosh yordam ma’lumotlarini internetdan yuklab oladi, bu GPS ishga tushish tezligini sezilarli oshirishi mumkin.</string>
+    <string name="update_recovery_title">Resurrected Remix recovery ni yangilang</string>
+    <string name="update_recovery_description">Har bir yangilanishdan keyin birinchi yuklashda Resurrected Remix recovery ni yangilaydi.</string>
+    <string name="update_recovery_warning">Sozlash tugagach, recovery yangilanadi. Uni o‘zgarishsiz saqlamoqchi bo‘lsangiz, bu funksiyani o‘chiring.</string>
+    <string name="update_recovery_setting">Resurrected Remix recovery ni OS bilan birga yangilang</string>
+    <string name="setup_services">Resurrected Remix imkoniyatlari</string>
+    <string name="services_pp_explanation">Bu xizmatlar qurilmangiz imkoniyatlarini kengaytirishga xizmat qiladi. Ma’lumotlar <xliff:g id="name" example="LineageOS">%1$s</xliff:g> ning maxfiylik siyosatiga muvofiq ishlatiladi.</string>
+    <string name="services_find_privacy_policy">Maxfiylik siyosatini boshqa qurilmada quyidagi manzilga o‘tib o‘qishingiz mumkin:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> ni yaxshilashga yordam bering</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> diagnostika va foydalanish ma’lumotlarini avtomatik ravishda <xliff:g id="name" example="LineageOS">%2$s</xliff:g> ga yuboradi. Bu ma’lumotlar sizni aniqlash uchun ishlatilmaydi va batareya quvvati, ilova ishlashi hamda <xliff:g id="name" example="LineageOS">%3$s</xliff:g> ning yangi funksiyalari ustida ishlayotgan jamoalarga yordam beradi.</string>
+    <string name="services_metrics_title">Diagnostika ma’lumotlarini yuborish</string>
+    <string name="services_os_nav_keys_label">Apparat tugmalar o‘rniga <b>ekrandagi navigatsiya tugmalaridan foydalaning</b>.</string>
+    <string name="setup_navigation">Navigatsiya</string>
+    <string name="navigation_summary">Afzal ko‘rilgan navigatsiya usulini tanlang</string>
+    <string name="gesture_navigation">"Ishorali navigatsiya"</string>
+    <string name="navbar_navigation">"3 tugmali navigatsiya"</string>
+    <string name="gesture_navigation_short">Ishora</string>
+    <string name="hide_gesture_hint">Ishora navigatsiyasi maslahatini yashirish</string>
+    <string name="setup_theme">"Mavzu"</string>
+    <string name="theme_summary">Qorong‘i mavzu ba’zi ekranlarda batareya ishlash muddatini uzaytirish uchun qora fondan foydalanadi</string>
+    <string name="dark">Qorong‘i</string>
+    <string name="light">"Oq"</string>
+    <string name="pure_black_theme">Sof qora fondan foydalanish</string>
+    <string name="theme_preview">Mavzu ko‘rinishi</string>
+    <string name="swipe_up_to_go_home">"Boshiga qaytish uchun tepaga suring"</string>
+    <string name="tap_home_to_go_home">Bosh sahifaga o‘tish uchun markaziy navigatsiya belgisini bosing</string>
+    <string name="press_center_to_go_home">Bosh sahifaga o‘tish uchun markaziy tugmani bosing</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Alpabeto (Bépo)</string>
+    <string name="subtype_hu_ZZ">Hungarian (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - sundin ang mga setting ng system</string>
+    <string name="prefs_keyboard_height_scale">Sukat ng taas ng keyboard</string>
+    <string name="number_row">Hanay ng numero</string>
+    <string name="number_row_summary">Laging ipakita ang hanay ng numero sa lahat ng layout na may 4 na hanay ng key</string>
+    <string name="number_row_password">Hanay ng numero para sa password</string>
+    <string name="number_row_password_summary">Laging ipakita ang hanay ng numero sa lahat ng layout na may 4 na hanay ng key kapag naglalagay ng password</string>
+    <string name="space_trackpad">Trackpad ng space bar</string>
+    <string name="space_trackpad_summary">I-swipe ang space bar para igalaw ang cursor</string>
+    <string name="backspace_trackpad">Trackpad ng backspace key</string>
+    <string name="backspace_trackpad_summary">I-swipe ang backspace key para burahin ang mga salita</string>
+    <string name="show_longpress_hints">Ipakita ang mga hint sa matagal na pagpindot</string>
+    <string name="show_longpress_hints_summary">Nagpapakita ng hint sa matagal na pagpindot para sa mga susing sinusuportahan</string>
+    <string name="show_emoji_key">Ipakita ang emoji key</string>
+    <string name="show_emoji_key_summary">Laging ipakita ang emoji key. Kapag naka-enable ang opsyong ito, hindi maipapakita ang language switch key.</string>
+    <string name="enable_split_keyboard_summary">Sa landscape lang</string>
+    <string name="split_keyboard_duplicate_keys">Doblehin ang mga gitnang key</string>
+    <string name="split_keyboard_duplicate_keys_summary">Ipakita ang mga key malapit sa gitna sa magkabilang bahagi</string>
+    <string name="spoken_description_split_keyboard">Hatiin ang keyboard</string>
+    <string name="spoken_description_merge_keyboard">Pagsamahin ang keyboard</string>
+    <string name="spoken_description_float_keyboard">Lumutang na keyboard</string>
+    <string name="spoken_description_dock_keyboard">I-dock ang keyboard</string>
+    <string name="floating_keyboard_drag_handle">Ilipat ang keyboard</string>
+    <string name="floating_keyboard_resize_handle">Baguhin ang laki ng keyboard</string>
+    <string name="floating_keyboard_reset">"I-reset"</string>
+    <string name="floating_keyboard_hide">Itago ang keyboard</string>
+    <string name="floating_keyboard_switch_ime">"Magpalit ng pamamaraan ng pag-input"</string>
+</resources>

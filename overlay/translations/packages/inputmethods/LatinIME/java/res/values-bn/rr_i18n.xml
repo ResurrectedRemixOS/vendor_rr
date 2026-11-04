@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_hu_ZZ">হাঙ্গেরিয়ান (QWERTY)</string>
+    <string name="prefs_keyboard_height_scale">কীবোর্ডের উচ্চতার স্কেল</string>
+    <string name="number_row">সংখ্যা সারি</string>
+    <string name="number_row_summary">৪ সারির কী থাকা সব লেআউটে সর্বদা একটি সংখ্যা সারি দেখান</string>
+    <string name="number_row_password">পাসওয়ার্ডের জন্য সংখ্যা সারি</string>
+    <string name="number_row_password_summary">পাসওয়ার্ড ইনপুটের জন্য ৪ সারির কী থাকা সব লেআউটে সর্বদা একটি সংখ্যা সারি দেখান</string>
+    <string name="space_trackpad">স্পেস বার ট্র্যাকপ্যাড</string>
+    <string name="space_trackpad_summary">কার্সর সরাতে স্পেস বারে সোয়াইপ করুন</string>
+    <string name="backspace_trackpad">ব্যাকস্পেস কী ট্র্যাকপ্যাড</string>
+    <string name="backspace_trackpad_summary">শব্দ মুছতে ব্যাকস্পেস কীতে সোয়াইপ করুন</string>
+    <string name="show_longpress_hints">দীর্ঘ চাপের ইঙ্গিত দেখান</string>
+    <string name="show_longpress_hints_summary">সমর্থিত কীগুলোর জন্য দীর্ঘ চাপের ইঙ্গিত দেখায়</string>
+    <string name="show_emoji_key">ইমোজি কী দেখান</string>
+    <string name="show_emoji_key_summary">সর্বদা ইমোজি কী দেখান। এটি চালু থাকলে ভাষা পরিবর্তনের কী দেখানো যাবে না।</string>
+    <string name="enable_split_keyboard_summary">শুধু ল্যান্ডস্কেপে</string>
+    <string name="split_keyboard_duplicate_keys">মাঝের কী দুটি অংশেই দেখান</string>
+    <string name="split_keyboard_duplicate_keys_summary">উভয় অংশের মাঝের কাছাকাছি কী দেখান</string>
+    <string name="spoken_description_split_keyboard">কীবোর্ড ভাগ করুন</string>
+    <string name="spoken_description_merge_keyboard">কীবোর্ড একত্র করুন</string>
+    <string name="spoken_description_float_keyboard">ভাসমান কীবোর্ড</string>
+    <string name="spoken_description_dock_keyboard">ডক করা কীবোর্ড</string>
+    <string name="floating_keyboard_drag_handle">কীবোর্ড সরান</string>
+    <string name="floating_keyboard_resize_handle">কীবোর্ডের আকার বদলান</string>
+    <string name="floating_keyboard_reset">"রিসেট করুন"</string>
+    <string name="floating_keyboard_hide">কীবোর্ড লুকান</string>
+    <string name="floating_keyboard_switch_ime">"ইনপুট পদ্ধতি পাল্টান"</string>
+</resources>

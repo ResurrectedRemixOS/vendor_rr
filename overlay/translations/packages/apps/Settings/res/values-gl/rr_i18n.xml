@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kbps</item>
+        <item>256 kbps</item>
+        <item>1 Mbps</item>
+        <item>5 Mbps</item>
+        <item>15 Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"predeterminadas"</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"predeterminadas"</item>
+        <item>dom</item>
+        <item>lun</item>
+        <item>mar</item>
+        <item>mér</item>
+        <item>xov</item>
+        <item>ven</item>
+        <item>sáb</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"predeterminadas"</item>
+        <item>Métrico</item>
+        <item>Sistema EUA</item>
+        <item>Sistema RU</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Sen especificar"</item>
+        <item>Neutro</item>
+        <item>"Feminino"</item>
+        <item>"Masculino"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Agora estás a # paso de activar a configuración de desenvolvemento.} other {Agora estás a # pasos de activar a configuración de desenvolvemento.} }</string>
+    <string name="high_touch_polling_rate_title">Taxa alta de sondaxe táctil</string>
+    <string name="high_touch_polling_rate_summary">Aumentar a taxa de sondaxe da pantalla táctil</string>
+    <string name="tethering_allow_vpn_upstreams_title">Usar VPN para dispositivos conectados</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Cando este dispositivo use unha VPN, todos os dispositivos conectados ao punto de acceso usarán a mesma VPN</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Localiza o sensor de impresión dixital na parte frontal da tableta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Localiza o sensor de impresión dixital na parte frontal do dispositivo.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Localiza o sensor de impresión dixital na parte frontal do teléfono.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Localiza o sensor de impresión dixital na parte posterior da tableta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Localiza o sensor de impresión dixital na parte posterior do dispositivo.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Localiza o sensor de impresión dixital na parte posterior do teléfono.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Localiza o sensor de impresión dixital no lateral da tableta.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Localiza o sensor de impresión dixital no lateral do dispositivo.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Localiza o sensor de impresión dixital no lateral do teléfono.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Toca o sensor na parte frontal da tableta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Toca o sensor na parte frontal do dispositivo.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Toca o sensor na parte frontal do teléfono.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Toca o sensor na parte posterior da tableta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Toca o sensor na parte posterior do dispositivo.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Toca o sensor na parte posterior do teléfono.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Toca o sensor no lateral da tableta.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Toca o sensor no lateral do dispositivo.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Toca o sensor no lateral do teléfono.</string>
+    <string name="storage_warning_internal">Aviso: esta opción pode non funcionar correctamente ou provocar perda de datos, polo que non se recomenda.</string>
+    <string name="assisted_gps">Usar GPS asistido</string>
+    <string name="assisted_gps_summary">Descarga da internet datos de asistencia por satélite, que poden mellorar moito o rendemento do GPS ao iniciarse. Para as chamadas de emerxencia, o GPS asistido está sempre permitido.</string>
+    <string name="battery_technology">Tecnoloxía</string>
+    <string name="battery_health">"Estado"</string>
+    <string name="battery_health_good">"En bo estado"</string>
+    <string name="battery_health_overheat">"Con sobrequecemento"</string>
+    <string name="battery_health_dead">"Esgotada"</string>
+    <string name="battery_health_over_voltage">"Con sobretensión"</string>
+    <string name="battery_health_unspecified_failure">Fallo non especificado</string>
+    <string name="battery_health_cold">"Fría"</string>
+    <string name="battery_health_unknown">"Descoñecido"</string>
+    <string name="battery_temperature">"Temperatura"</string>
+    <string name="battery_voltage">Tensión</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Capacidade de deseño</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Capacidade máxima</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Dobra o teléfono durante a configuración</string>
+    <string name="face_enrolling_close_to_continue_description">O teléfono debe estar dobrado para configurar ou usar o desbloqueo facial</string>
+    <string name="face_enrolling_do_it_later">"Facelo máis tarde"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">Kit de ferramentas SIM</string>
+    <string name="platform_compat_target_sdk_title">Activado para targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Xestor de contexto persoal</string>
+</resources>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Galeria"</string>
+    <string name="app_permissions_toast">Erabiltzaileak ez ditu baimenak eman.</string>
+    <string name="reels_title">Bobinak</string>
+    <string name="albums_title">"Albumak"</string>
+    <string name="categories_title">"Kategoriak"</string>
+    <string name="library_title">Liburutegia</string>
+    <string name="album_favorites">"Gogokoak"</string>
+    <string name="album_trash">"Zaborrontzia"</string>
+    <string name="album_reels">Bobinak</string>
+    <string name="album_photos">"Argazkiak"</string>
+    <string name="album_videos">"Bideoak"</string>
+    <plurals name="album_thumbnail_items">
+        <item quantity="other">%d elementu</item>
+    </plurals>
+    <plurals name="delete_file_forever_confirm_message">
+        <item quantity="other">Ziur zaude %d fitxategi betiko ezabatu nahi dituzula?</item>
+    </plurals>
+    <plurals name="delete_file_forever_successful">
+        <item quantity="other">%d fitxategi betiko ezabatu dira</item>
+    </plurals>
+    <plurals name="delete_file_forever_unsuccessful">
+        <item quantity="other">%d fitxategi ezin izan dira betiko ezabatu</item>
+    </plurals>
+    <plurals name="move_file_to_trash_confirm_message">
+        <item quantity="other">Ziur zaude %d fitxategi zakarrontzira mugitu nahi dituzula?</item>
+    </plurals>
+    <plurals name="move_file_to_trash_successful">
+        <item quantity="other">%d fitxategi zakarrontzira mugitu dira</item>
+    </plurals>
+    <plurals name="move_file_to_trash_unsuccessful">
+        <item quantity="other">%d fitxategi ezin izan dira zakarrontzira mugitu</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_confirm_message">
+        <item quantity="other">Ziur zaude %d fitxategi zakarrontzitik berreskuratu nahi dituzula?</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_successful">
+        <item quantity="other">%d fitxategi zakarrontzitik berreskuratu dira</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_unsuccessful">
+        <item quantity="one">%d fitxategi ezin izan dira zakarrontzitik berreskuratu</item>
+        <item quantity="other">%d fitxategi ezin izan dira zakarrontzitik berreskuratu</item>
+    </plurals>
+    <string name="manage_media_permission_title">Kudeatu multimedia-baimena</string>
+    <string name="manage_media_permission_message">Irudiak eta bideoak hobeto kudeatzeko, baimendu aplikazioari multimedia-fitxategiak kudeatzea</string>
+    <string name="media_info_unknown">"Ezezaguna"</string>
+    <string name="media_info_add_description_hint">Gehitu deskribapena</string>
+    <string name="media_info_write_description_failed">Ezin izan da multimedia-deskribapena aldatu</string>
+    <string name="media_info_location_loading_placeholder">Kargatzen…</string>
+    <string name="media_info_location_open_with">Ikusi kokapena honekin</string>
+    <string name="intent_action_not_supported">Ekintza ez da onartzen</string>
+    <string name="intent_media_not_found">Multimedia-fitxategia ez da aurkitu</string>
+    <string name="intent_media_type_not_found">Multimedia-motza ez da aurkitu</string>
+    <string name="intent_media_type_not_supported">Multimedia-mota ez da onartzen</string>
+    <string name="intent_no_system_wallpaper_cropper_available">Ez dago sistemaren moztaile erabilgarririk</string>
+    <string name="intent_wallpaper_cannot_be_changed">Ezin da horma-papera aldatu</string>
+    <string name="file_action_add_to_favorites">"Gehitu gogokoetan"</string>
+    <string name="file_action_delete_forever">"Ezabatu betiko"</string>
+    <string name="file_action_edit">"Editatu"</string>
+    <string name="file_action_empty_trash">"Hustu zaborrontzia"</string>
+    <string name="file_action_information">"Informazioa"</string>
+    <string name="file_action_move_to_trash">"Eraman zaborrontzira"</string>
+    <string name="file_action_remove_from_favorites">Kendu gogokoetatik</string>
+    <string name="file_action_restore_from_trash">Berreskuratu zakarrontzitik</string>
+    <string name="file_action_share">"Partekatu"</string>
+    <string name="file_action_use_as">Erabili honela</string>
+    <string name="file_action_undo_action">"Desegin"</string>
+    <string name="no_media">Ez dago multimediarik</string>
+    <plurals name="thumbnail_selection_count">
+        <item quantity="one">%d hautatuta</item>
+        <item quantity="other">%d hautatuta</item>
+    </plurals>
+    <string name="pick_a_photo">Aukeratu argazki bat</string>
+    <string name="pick_a_video">Aukeratu bideo bat</string>
+    <string name="pick_a_media">Aukeratu multimedia-fitxategi bat</string>
+    <string name="picker_done">"Eginda"</string>
+    <string name="set_wallpaper_label">"Horma-papera"</string>
+    <string name="set_wallpaper">"Ezarri horma-papera"</string>
+    <string name="set_wallpaper_dialog_title">"Ezarri horma-papera"</string>
+    <string name="set_wallpaper_home_screen">"Orri nagusia"</string>
+    <string name="set_wallpaper_lock_screen">"Pantaila blokeatua"</string>
+    <string name="set_wallpaper_both">Orri nagusia eta pantaila blokeatua</string>
+    <string name="warning_bin_time_period">Fitxategiak betirako ezabatuko dira 30 egunen buruan.</string>
+    <string name="motion_photo_show_video">Erakutsi bideoa</string>
+    <string name="motion_photo_show_photo">Erakutsi argazkia</string>
+    <string name="title_activity_settings">"Ezarpenak"</string>
+    <string name="general_header">"Orokorrak"</string>
+    <string name="video_header">Bideoa</string>
+    <string name="edge_tap_navigation_enable_title">Ertzeko sakatze-nabigazioa</string>
+    <string name="edge_tap_navigation_enabled_description">Sakatu pantailaren ezkerreko edo eskuineko ertza multimedia-fitxategien artean nabigatzeko</string>
+    <string name="double_tap_to_seek_enabled_title">Gaitu bi aldiz sakatuta bilatzea</string>
+    <string name="double_tap_to_seek_enabled_description">Bi aldiz sakatu bideoaren ezkerreko edo eskuineko aldea atzera edo aurrera egiteko</string>
+    <string name="double_tap_to_seek_seconds_title">Bi aldiz sakatzean salto egiteko segundoak</string>
+    <string name="double_tap_to_seek_seconds_description">Bideoa bi aldiz sakatzean salto egiteko segundoak</string>
+    <string name="hide_native_seek_buttons_title">Ezkutatu jatorrizko bilaketa-botoiak</string>
+    <string name="hide_native_seek_buttons_description">Ezkutatu atzera eta aurrera botoiak bideo-erreproduzigailuaren kontroletatik</string>
+    <string name="remember_video_playback_position_enabled_title">Gogoratu erreprodukzio-posizioa</string>
+    <string name="remember_video_playback_position_enabled_description">Berrekin bideoei azken gelditu zen tokitik</string>
+</resources>

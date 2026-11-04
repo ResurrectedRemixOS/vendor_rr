@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Umsizi wokusetha</string>
+    <string name="cancel">"Khansela"</string>
+    <string name="next">Okulandelayo</string>
+    <string name="finish">Qeda</string>
+    <string name="skip">Dlula</string>
+    <string name="start">"Qala"</string>
+    <string name="done">"Kwenziwe"</string>
+    <string name="ok">"KULUNGILE"</string>
+    <string name="loading">"Linda kancane…"</string>
+    <string name="setup_welcome_message">Siyakwamukela ku-<xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Setha iphrofayli yakho yomsebenzi</string>
+    <string name="emergency_call">"Ikholi ephuthumayo"</string>
+    <string name="accessibility_settings">"Izilungiselelo zokufinyelela"</string>
+    <string name="device_info">"Ulwazi lwedivayisi"</string>
+    <string name="device_information">"Ulwazi lwedivayisi"</string>
+    <string name="device_info_serial">"Inombolo yomkhiqizo"</string>
+    <string name="setup_locale">"Ulimi"</string>
+    <string name="sim_locale_changed">I-SIM %1$s itholakele</string>
+    <string name="setup_euicc">Setha i-eSIM</string>
+    <string name="setup_sim_missing">Ikhadi le-SIM alitholakali</string>
+    <string name="esim_support_summary">Setha i-eSIM noma faka ikhadi le-SIM. Ukuze ufake ikhadi le-SIM, funda imiyalelo efakwe kudivayisi yakho.</string>
+    <string name="sim_missing_summary" product="tablet">Ikhadi le-SIM alitholakali kuthebhulethi yakho. Ukuze ufake ikhadi le-SIM, funda imiyalelo efakwe kudivayisi yakho.</string>
+    <string name="sim_missing_summary" product="default">Ikhadi le-SIM alitholakali kufoni yakho. Ukuze ufake ikhadi le-SIM, funda imiyalelo efakwe kudivayisi yakho.</string>
+    <string name="sim_missing_skip_title">Yeqa ukusetha i-SIM?</string>
+    <string name="sim_missing_skip_message">Uma weqa lesi sinyathelo, ngeke uxhunyiwe kunethiwekhi yeselula kuze kube yilapho usetha i-SIM kuZilungiselelo.</string>
+    <string name="setup_datetime">"Idethi nesikhathi"</string>
+    <string name="date_time_summary">Setha isikhathi sakho sezone futhi ulungise usuku nesikhathi samanje uma kudingeka</string>
+    <string name="setup_current_date">Usuku lwamanje</string>
+    <string name="setup_current_time">Isikhathi samanje</string>
+    <string name="setup_datetime_section_date">"Idethi"</string>
+    <string name="setup_datetime_section_time">"Isikhathi"</string>
+    <string name="setup_date_format">"Ifomethi"</string>
+    <string name="date_format_day">"Usuku"</string>
+    <string name="date_format_month">"Inyanga"</string>
+    <string name="date_format_year">"Unyaka"</string>
+    <string name="setup_time_zone">"Indawo yesikhathi"</string>
+    <string name="setup_24_hour_format">"Sebenzisa ifomethi ye-24 amahora"</string>
+    <string name="intro_restore_title">Buyisela izinhlelo zokusebenza nedatha</string>
+    <string name="intro_restore_subtitle">Uma unokusekela kwe-Seedvault kusuka ku-<xliff:g id="name" example="LineageOS">%s</xliff:g> noma kunoma yiluphi olunye uhlelo lokusebenza, ungakubuyisela lapha.</string>
+    <string name="intro_restore_button">Buyisela kusukela ekusekeleni</string>
+    <string name="setup_location">"Amasevisi endawo"</string>
+    <string name="location_summary">Khetha ukuthi idivayisi yakho iphatha kanjani indawo yayo</string>
+    <string name="location_access_title">"Sebenzisa indawo"</string>
+    <string name="location_agps_access_title">Indawo ethuthukisiwe</string>
+    <string name="location_access_summary">Vumela izinhlelo zokusebenza ezicele imvume yakho ukusebenzisa ulwazi lwendawo yakho. Lokhu kungafaka indawo yakho yamanje nezindawo zakudala.</string>
+    <string name="location_agps_access_summary">Uma indawo isivuliwe, landa idatha yosizo lwesethelayithi evela ku-inthanethi, okungathuthukisa kakhulu ukusebenza kwe-GPS ekuqaleni.</string>
+    <string name="update_recovery_title">Buyekeza i-recovery ye-Resurrected Remix</string>
+    <string name="update_recovery_description">Ibuyekeza i-recovery ye-Resurrected Remix ekuqaleni kwesistimu ngemva kwakho konke ukubuyekezwa.</string>
+    <string name="update_recovery_warning">I-recovery izobuyekezwa uma usuqedile ukusetha. Uma ufuna ukuyigcina ingashintshiwe, vala lesi sici.</string>
+    <string name="update_recovery_setting">Buyekeza i-recovery ye-Resurrected Remix ndawonye ne-OS</string>
+    <string name="setup_services">Izici ze-Resurrected Remix</string>
+    <string name="services_pp_explanation">Lezi zinsizakalo zisebenzela wena ukwandisa amakhono edivayisi yakho. Idatha izosetshenziswa ngokuhambisana nenqubomgomo yobumfihlo ye-<xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Ungafunda inqubomgomo yobumfihlo kwenye idivayisi ngokuvakashela:</string>
+    <string name="services_help_improve_cm">Siza ukuthuthukisa i-<xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label">I-<xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> ngokuzenzakalelayo ithumela idatha yokuxilonga nokusetshenziswa ku-<xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Lolu lwazi alusetshenziselwa ukukuchonga futhi luba yingxenye yamaqembu asebenza ezintweni ezifana nempilo yebhethri, ukusebenza kwezinhlelo zokusebenza, nezici ezintsha ze-<xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">Nikela ngedatha yokuxilonga</string>
+    <string name="services_os_nav_keys_label"><b>Sebenzisa izinkinani zokuzulazula zesikrini</b> esikhundleni sezinkinobho zehadiwe.</string>
+    <string name="setup_navigation">Ukuzula</string>
+    <string name="navigation_summary">Khetha indlela yokuzulazula oyithandayo</string>
+    <string name="gesture_navigation">"Ukuzula kokwenziwayo"</string>
+    <string name="navbar_navigation">"Ukuzula kwezinkinobho ezingu-3"</string>
+    <string name="gesture_navigation_short">Ukuthinta</string>
+    <string name="hide_gesture_hint">Fihla isiphakamiso sokuzulazula ngokuthinta</string>
+    <string name="setup_theme">"Itimu"</string>
+    <string name="theme_summary">Itimu emnyama isebenzisa ingemuva elimnyama ukusiza ukugcina ibhethri likhona isikhathi eside kwezinye izikrini</string>
+    <string name="dark">Mnyama</string>
+    <string name="light">"Ukukhanya"</string>
+    <string name="pure_black_theme">Sebenzisa ingemuva elimnyama ngokuphelele</string>
+    <string name="theme_preview">Ukubuka kuqala kwetimu</string>
+    <string name="swipe_up_to_go_home">"Swayiphela phezulu ukuze uye ekhaya"</string>
+    <string name="tap_home_to_go_home">Thepha isithonjana esiphakathi sokuzulazula ukuze uye ekhaya</string>
+    <string name="press_center_to_go_home">Cindezela inkinobho ephakathi ukuze uye ekhaya</string>
+</resources>

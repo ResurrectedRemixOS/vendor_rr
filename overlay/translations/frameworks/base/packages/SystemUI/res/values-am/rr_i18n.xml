@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">እንደገና አስነሳ…</string>
+    <string name="global_action_restart_system">"ሥርዓት"</string>
+    <string name="global_action_restart_recovery">"መልሶ ማግኘት"</string>
+    <string name="global_action_restart_bootloader">ቡትሎደር</string>
+    <string name="global_action_restart_download">"አውርድ"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"ዳግም በመጀመር ላይ…"</string>
+    <string name="global_action_restart_recovery_progress">ወደ ማገገሚያ ሁነታ በመነሳት ላይ…</string>
+    <string name="global_action_restart_bootloader_progress">ወደ ቡትloader ሁነታ በመነሳት ላይ…</string>
+    <string name="global_action_restart_download_progress">ወደ ማውረጃ ሁነታ በመነሳት ላይ…</string>
+    <string name="global_action_restart_fastboot_progress">ወደ fastbootd ሁነታ በመነሳት ላይ…</string>
+    <string name="global_action_current_user">አሁን ያለ</string>
+    <string name="global_action_users">"ተጠቃሚዎች"</string>
+    <string name="clock">"ሰዓት"</string>
+    <string name="accessibility_adaptive_brightness">"ተለማማጅ ብሩህነት"</string>
+    <string name="status_bar_icons_title">የሁኔታ አሞሌ አዶዎች</string>
+    <string name="quick_settings_ambient_display_label">"ከባቢያዊ ማሳያ"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">የአምቢየንት ማሳያ ጠፍቷል።</string>
+    <string name="accessibility_quick_settings_ambient_display_on">የአምቢየንት ማሳያ በርቷል።</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD ጠፍቷል\nየባትሪ ቆጣቢ</string>
+    <string name="quick_settings_caffeine_label">"ካፌይን"</string>
+    <string name="accessibility_quick_settings_caffeine_off">ካፌይን ጠፍቷል።</string>
+    <string name="accessibility_quick_settings_caffeine_on">ካፌይን በርቷል።</string>
+    <string name="quick_settings_heads_up_label">ቅድመ-ማሳወቂያ</string>
+    <string name="accessibility_quick_settings_heads_up_off">ቅድመ-ማሳወቂያ ጠፍቷል።</string>
+    <string name="accessibility_quick_settings_heads_up_on">ቅድመ-ማሳወቂያ በርቷል።</string>
+    <string name="quick_settings_powershare_label">ገመድ አልባ PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">ገመድ አልባ PowerShare ጠፍቷል\nየባትሪ ቆጣቢ</string>
+    <string name="quick_settings_powershare_off_low_battery_label">ገመድ አልባ PowerShare ጠፍቷል\nባትሪው በጣም ዝቅተኛ ነው</string>
+    <string name="quick_settings_powershare_enabled_label">ገመድ አልባ PowerShare ነቅቷል</string>
+    <string name="quick_settings_reading_mode">የንባብ ሁነታ</string>
+    <string name="accessibility_quick_settings_reading_mode_on">የንባብ ሁነታ በርቷል።</string>
+    <string name="accessibility_quick_settings_reading_mode_off">የንባብ ሁነታ ጠፍቷል።</string>
+    <string name="quick_settings_sync_label">"ሥምሪያ"</string>
+    <string name="accessibility_quick_settings_sync_off">ማመሳሰል ጠፍቷል።</string>
+    <string name="accessibility_quick_settings_sync_on">ማመሳሰል በርቷል።</string>
+    <string name="quick_settings_profiles_label">የስርዓት መገለጫዎች</string>
+    <string name="accessibility_quick_settings_profiles_off">መገለጫዎች ጠፍተዋል።</string>
+    <string name="accessibility_quick_settings_profiles">መገለጫ: <xliff:g id="profile" example="Default">%s</xliff:g>።</string>
+    <string name="quick_settings_usb_tether_label">"USB መሰካት"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">ከ… ጋር ይገናኙ</string>
+    <string name="vpn_credentials_hint">ከ <xliff:g id="name">%s</xliff:g> ጋር ለመገናኘት መረጃዎን ያስገቡ</string>
+    <string name="vpn_credentials_username">"የተጠቃሚ ስም"</string>
+    <string name="vpn_credentials_password">"የይለፍ ቃል"</string>
+    <string name="vpn_credentials_dialog_connect">"አገናኝ"</string>
+    <string name="status_bar_firewall">ፋየርዎል</string>
+    <string name="battery_notification_channel_tv">የባትሪ ማስጠንቀቂያ</string>
+    <string name="screenshot_delete_label">"ሰርዝ"</string>
+    <string name="screenshot_delete_description">ቅጽበታዊ ገፅ ዕይታን ሰርዝ</string>
+    <string name="screenrecord_lowquality_label">ዝቅተኛ ጥራት</string>
+    <string name="screenrecord_lowquality_summary">ለትንሽ የፋይል መጠን</string>
+    <string name="screenrecord_longer_timeout_switch_label">ትልቅ የፋይል መጠን ገደብ</string>
+    <string name="screenrecord_longer_timeout_switch_summary">የቀረጻ መጠንን በ15 GB ይገድቡ</string>
+    <string name="screenrecord_skip_time_label">የጊዜ ቆጣሪን ዝለል</string>
+    <string name="screenrecord_skip_time_summary">የ3 ሰከንድ መጠበቅን ያስወግዱ</string>
+    <string name="screenrecord_hevc_switch_label">HEVC ኢንኮዲንግ</string>
+    <string name="screenrecord_hevc_switch_summary">ይበልጥ ቀልጣፋውን የHEVC ኢንኮደር ይጠቀሙ</string>
+    <string name="zen_alarm_warning_indef">"ከዚያ በፊት ይህንን ካላጠፉት በቀር የእርስዎን ቀጣይ ማንቂያ <xliff:g id="WHEN">%1$s</xliff:g> አይሰሙም"</string>
+</resources>

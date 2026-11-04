@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM ezarpenak</string>
+    <string name="esim_toggle_title">"eSIMa"</string>
+    <string name="esim_toggle_summary">Deskargatu eta aktibatu operadore-profil bat SIM txartel birtual bat erabiltzeko</string>
+    <string name="esim_toggle_dialog_cancel">"Utzi"</string>
+</resources>

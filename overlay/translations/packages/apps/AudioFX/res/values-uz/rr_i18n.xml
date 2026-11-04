@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">Audio FX sizning standart effektlar boshqaruv paneli emas.</string>
+    <string name="snack_bar_not_default_set">"Asosiy qilib belgilash"</string>
+    <string name="snack_bar_not_default_not_now">"Hozir emas"</string>
+    <string name="normal">Oddiy</string>
+    <string name="classical">"Klassik"</string>
+    <string name="dance">"Raqs"</string>
+    <string name="flat">Tekis</string>
+    <string name="folk">"Folklor"</string>
+    <string name="heavy_metal">"Hevi-metal"</string>
+    <string name="hip_hop">"Hip-hop"</string>
+    <string name="electronic">Elektron</string>
+    <string name="small_speakers">Kichik karnaylar</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="custom">Maxsus</string>
+    <string name="custom_n">Maxsus <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">Effekt karnay rejimida mavjud emas.</string>
+    <string name="device_headset">"Audio moslama"</string>
+    <string name="device_speaker">"Karnay"</string>
+    <string name="device_line_out">Liniya chiqishi</string>
+    <string name="reverb">Reverb</string>
+    <string name="devices">"Qurilmalar"</string>
+    <string name="virtualizer">Virtualizer</string>
+    <string name="bass">Bass</string>
+    <string name="rename">"Qayta nomlash"</string>
+    <string name="remove_custom_preset_warning_message">%1$s ni olib tashlashga ishonchingiz komilmi?</string>
+    <string name="picker_title">Musiqa effektlari boshqaruv paneli</string>
+</resources>

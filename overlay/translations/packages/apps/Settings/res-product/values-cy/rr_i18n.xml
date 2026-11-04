@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bluetooth_hearing_device_input_routing_builtin_option" product="default">Meicroffon y ffôn hwn</string>
+    <string name="security_settings_face_enroll_introduction_message_unlock_disabled" product="default">Defnyddia dy wyneb i ddatgloi dy ffôn neu i awdurdodi taliadau.\n\nNoder: Ni ellir defnyddio dy wyneb i ddatgloi\u2019r ddyfais hon. Am ragor o wybodaeth, cysyllta â gweinyddwr dy sefydliad.</string>
+    <string name="security_settings_face_enroll_introduction_message_setup" product="default">Defnyddia dy wyneb i ddatgloi dy ffôn, caniatáu taliadau, neu mewngofnodi i apiau.</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body" product="default">Rhaid dileu dy fodel wyneb cyfredol i osod Datgloi ag Wyneb eto.\n\nCaiff fodel dy wyneb ei ddileu yn barhaol ac yn ddiogel.\n\nAr ôl ei ddileu, bydd angen dy gyfrinair, PIN neu batrwm i ddatgloi dy ffôn neu ar gyfer dilysiad o fewn apiau.</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint" product="default">Rhaid dileu dy fodel wyneb cyfredol i osod Datgloi ag Wyneb eto.\n\nCaiff fodel dy wyneb ei ddileu yn barhaol ac yn ddiogel.\n\nAr ôl ei ddileu, bydd angen dy ôl bys, dy gyfrinair, PIN neu batrwm i ddatgloi dy ffôn neu ar gyfer dilysiad o fewn apiau.</string>
+    <string name="security_settings_face_settings_require_attention_details" product="default">I ddatgloi\u2019r ffôn, mae\u2019n rhaid bod dy lygaid ar agor</string>
+    <string name="security_settings_face_settings_remove_dialog_details" product="default">Caiff dy fodel wyneb ei ddileu am byth yn ddiogel.\n\nAr ôl ei dileu, bydd angen PIN, patrwm neu gyfrinair i ddatgloi dy ffôn neu ar gyfer dilysiadau o fewn apiau.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_convenience" product="default">Caiff dy fodel wyneb ei ddileu am byth yn ddiogel.\n\nAr ôl ei dileu, bydd angen PIN, patrwm neu gyfrinair i ddatgloi dy ffôn.</string>
+    <string name="security_settings_face_settings_context_subtitle" product="default">Defnyddio Datgloi ag Wyneb i ddatgloi dy ffôn</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Defnyddia dy ôl bys i ddatgloi dy ffôn neu i awdurdodi prynu pethau.\n\nNoder: Ni ellir defnyddio dy ôl bys i ddatgloi\u2019r ddyfais hon. Am ragor o wybodaeth, cysyllta â gweinyddwr dy sefydliad.</string>
+    <string name="security_settings_remoteauth_enroll_introduction_message" product="default">Mae Datgloi ag Oriawr yn fodd cyfleus arall o ddatgloi dy ffôn, er enghraifft, os fydd dy fysedd yn wlyb neu dy wyneb ddim yn cael ei adnabod.\n\nGellir defnyddio dy oriawr i ddatgloi\u2019r ffôn hwn pan fydd:</string>
+    <string name="security_settings_remoteauth_settings_info_footer" product="default">I ddefnyddio Datgloi ag Oriawr, rhaid bod dy oriawr wedi\u2019i datgloi, bod ar dy arddwrn, o fewn cyrraedd, ac wedi cysylltu â\u2019r ffôn hwn. Os caiff y cysylltiad ei golli, bydd rhaid datgloi\u2019r ffôn cyn gallu defnyddio Datgloi ag Oriawr.\n\nNoda:\nGellir ond gosod un oriawr ar y tro. I ychwanegu oriawr arall, rhaid yn gyntaf tynnu\u2019r un gyfredol.</string>
+    <string name="biometric_settings_intro_with_activeunlock" product="default">Pan fyddi wedi gosod Datgloi ag Wyneb a Datgloi ag Ôl Bys, bydd dy ffôn yn gofyn am dy ôl bys pan rwyt yn gwisgo mwgwd neu mewn man tywyll.\n\nMae Datgloi ag Oriawr yn fodd cyfleus arall o ddatgloi dy ffôn, er enghraifft, os fydd dy fysedd yn wlyb neu dy wyneb ddim yn cael ei adnabod.</string>
+    <string name="biometric_settings_intro_with_fingerprint" product="default">Mae Datgloi ag Oriawr yn fodd cyfleus arall o ddatgloi dy ffôn, er enghraifft, pan na fydd dy ôl bys yn cael ei adnabod.</string>
+    <string name="biometric_settings_intro_with_face" product="default">Mae Datgloi ag Oriawr yn fodd cyfleus arall o ddatgloi dy ffôn, er enghraifft, pan na fydd dy wyneb yn cael ei adnabod.</string>
+    <string name="biometric_settings_intro" product="default">Pan fyddi wedi gosod Datgloi ag Wyneb a Datgloi ag Ôl Bys bydd y ffôn yn gofyn am dy ôl bys pan fyddi\'n gwisgo mwgwd neu mewn man tywyll</string>
+    <string name="biometric_settings_use_biometric_unlock_phone" product="default">Datgloi dy ffôn</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message" product="default">Rwyt wedi dewis defnyddio dy ôl bys fel dull i ddatgloi dy ffôn. Os wyt ti\'n neidio\u2019r cam nawr, mi fydd yn rhai gosod hyn yn hwyrach. Dyw ond yn cymryd funud neu ddwy i\'w osod.</string>
+    <string name="unlock_disable_frp_warning_content_pattern" product="default">"Mae patrwm yn gwarchod y ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint" product="default">"Mae patrwm yn gwarchod dy ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn.<xliff:g id="empty_line">\n\n</xliff:g>Mae hyn hefyd yn dileu\u2019r model ôl bys sydd ar dy ddyfais. Ni fydd yn bosib defnyddio dy ôl bys ar gyfer dilysiadau o fewn apiau."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face" product="default">"Mae patrwm yn gwarchod dy ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn.<xliff:g id="empty_line">\n\n</xliff:g>Caiff fodel dy wyneb hefyd ei ddileu am byth yn ddiogel. Ni fydd yn bosib defnyddio dy wyneb ar gyfer dilysiadau o fewn apiau."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint" product="default">"Mae patrwm yn gwarchod dy ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn.<xliff:g id="empty_line">\n\n</xliff:g>Mae hyn yn dileu\u2019r model ôl bys sydd ar dy ddyfais. Caiff fodel dy wyneb hefyd ei ddileu am byth yn ddiogel. Ni fydd yn bosib defnyddio dy wyneb ar gyfer dilysiadau o fewn apiau."</string>
+    <string name="unlock_disable_frp_warning_content_pin" product="default">"Mae PIN yn gwarchod y ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn"</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint" product="default">"Mae PIN yn gwarchod dy ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn.<xliff:g id="empty_line">\n\n</xliff:g>Mae hyn hefyd yn dileu\u2019r model ôl bys sydd ar dy ddyfais. Ni fydd yn bosib defnyddio dy ôl bys ar gyfer dilysiadau o fewn apiau."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face" product="default">"Mae PIN yn gwarchod dy ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn.<xliff:g id="empty_line">\n\n</xliff:g>Caiff fodel dy wyneb hefyd ei ddileu am byth yn ddiogel. Ni fydd yn bosib defnyddio dy wyneb ar gyfer dilysiadau o fewn apiau."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint" product="default">"Mae PIN yn gwarchod dy ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn.<xliff:g id="empty_line">\n\n</xliff:g>Mae hyn yn dileu\u2019r model ôl bys sydd ar dy ddyfais. Caiff fodel dy wyneb hefyd ei ddileu am byth yn ddiogel. Ni fydd yn bosib defnyddio dy wyneb ar gyfer dilysiadau o fewn apiau."</string>
+    <string name="unlock_disable_frp_warning_content_password" product="default">"Mae cyfrinair yn gwarchod y ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn"</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint" product="default">"Mae cyfrinair yn gwarchod dy ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn.<xliff:g id="empty_line">\n\n</xliff:g>Mae hyn hefyd yn dileu\u2019r model ôl bys sydd ar dy ddyfais. Ni fydd yn bosib defnyddio dy ôl bys ar gyfer dilysiadau o fewn apiau."</string>
+    <string name="unlock_disable_frp_warning_content_password_face" product="default">"Mae cyfrinair yn gwarchod dy ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn.<xliff:g id="empty_line">\n\n</xliff:g>Caiff fodel dy wyneb hefyd ei ddileu am byth yn ddiogel. Ni fydd yn bosib defnyddio dy wyneb ar gyfer dilysiadau o fewn apiau."</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint" product="default">"Mae cyfrinair yn gwarchod dy ffôn yn yr achos ei fod yn cael ei golli neu'i ddwyn.<xliff:g id="empty_line">\n\n</xliff:g>Mae hyn yn dileu\u2019r model ôl bys sydd ar dy ddyfais. Caiff fodel dy wyneb hefyd ei ddileu am byth yn ddiogel. Ni fydd yn bosib defnyddio dy wyneb ar gyfer dilysiadau o fewn apiau."</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message" product="tablet">Mae\u2019r synhwyrydd ôl bys ar y botwm pŵer. Dyma\u2019r botwm fflat wrth y botwm sain ar ymyl y llechen.</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message" product="device">Mae\u2019r synhwyrydd ôl bys ar y botwm pŵer. Dyma\u2019r botwm fflat wrth y botwm sain ar ymyl y ddyfais.</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message" product="default">Mae\u2019r synhwyrydd ôl bys ar y botwm pŵer. Dyma\u2019r botwm fflat wrth y botwm sain ar ymyl y ffôn.</string>
+    <string name="suggested_lock_settings_title" product="default">Diogela dy ffôn</string>
+    <string name="wifi_hidden_network_warning" product="default">Os nad yw dy lwybrydd yn darlledu ID rhwydwaith ond rwyt eisiau cysylltu â fo yn y dyfodol, gellir gosod y rhwydwaith fel un cudd.\n\nGall hyn greu risg diogelwch am fydd dy ffôn yn darlledu ei signal yn rheolaidd i geisio canfod y rhwydwaith.\n\nNi fydd gosod y rhwydwaith i fod yn gudd yn newid gosodiadau dy lwybrydd.</string>
+    <string name="status_number" product="default">Rhif ffôn</string>
+    <string name="storage_wizard_init_v2_internal_action" product="tablet">Fformatio</string>
+    <string name="storage_wizard_init_v2_internal_action" product="default">Fformatio</string>
+    <string name="storage_wizard_init_v2_internal_action" product="desktop">Fformatio</string>
+    <string name="main_clear_button_text" product="tablet">Dileu\u2019r holl ddata</string>
+    <string name="main_clear_button_text" product="default">Dileu\u2019r holl ddata</string>
+    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Larymau</string>
+    <string name="really_remove_account_message" product="device">Bydd tynnu\u2019r cyfrif hwn yn dileu ei holl negeseuon, cysylltiadau, a data arall oddi ar y ddyfais!</string>
+    <string name="really_remove_account_message" product="desktop">Bydd tynnu\u2019r cyfrif hwn yn dileu ei holl negeseuon, cysylltiadau, a data arall oddi ar y ddyfais!</string>
+    <string name="audio_sharing_dialog_share_content" product="device">Bydd cerddoriaeth a fideos y ddyfais hon yn chwarae ar y ddau bâr o glustffonau</string>
+    <string name="audio_sharing_dialog_share_content" product="desktop">Bydd cerddoriaeth a fideos y ddyfais hon yn chwarae ar y ddau bâr o glustffonau</string>
+    <string name="top_intro_region_title" product="default">Mae\u2019r rhanbarth a ddewisir yn effeithio ar sut mae\u2019r ffôn yn dangos amser, dyddiadau, tymheredd, a mwy.</string>
+    <string name="style_suggestion_title" product="default">Cyfaddasu dy ffôn</string>
+    <string name="activity_not_found" product="default">Dyw\'r ap heb ei osod ar dy ffôn.</string>
+    <string name="notification_listener_security_warning_summary" product="default">
+        Bydd yr ap <xliff:g id="notification_listener_name">%1$s</xliff:g> yn gallu darllen pob hysbysiad, gan gynnwys gwybodaeth bersonol,
+        fel enwau dy gysylltiadau, lluniau, a thestun y negeseuon rwyt yn eu derbyn.
+        Bydd yr ap hwn hefyd yn gallu hepian neu ddiystyru hysbysiadau neu weithredu ar fotymau hysbysiadau, gan gynnwys ateb galwadau.
+        \n\nBydd hyn hefyd yn rhoi i\u2019r ap y gallu i droi Dim Tarfu ymlaen ac i ffwrdd ac i newid gosodiadau cysylltiedig.
+    </string>
+    <string name="usb_default_info" product="default">Pan fydd dyfais arall wedi\u2019i chysylltu â dy ffôn a\'i datgloi, bydd y gosodiadau hyn ar waith. Paid â chysylltu â dyfeisiau nad wyt yn ymddiried ynddyn nhw.</string>
+    <string name="disabled_by_policy_content_biometric_parental_consent" product="default">Rho\u2019r ddyfais nôl i dy riant i ddechrau gosod hwn</string>
+    <string name="condition_zen_summary_phone_muted" product="default">Ffôn yn ddistaw</string>
+    <string name="disabled_feature_reason_slow_down_phone" product="default">Mae\u2019r nodwed hon wedi\u2019i throi i ffwrdd am ei bod yn arafu dy ffôn</string>
+    <string name="mobile_data_settings_summary_auto_switch" product="default">Bydd y ffôn yn newid yn awtomatig i\u2019r darparwr gwasanaeth hwn pan fo signal ar gael</string>
+    <string name="bluetooth_connect_access_dialog_content" product="default">Mae <xliff:g id="device_name" example="My device">%1$s</xliff:g> eisiau cysylltu â\u2019r ffôn hwn.\n\nNid wyt wedi cysylltu â <xliff:g id="device_name" example="My device">%2$s</xliff:g> o\u2019r blaen.</string>
+    <string name="bluetooth_details_permissions_sync_title" product="default">Cydweddu caniatâd o\u2019r ffôn</string>
+    <string name="dream_setup_description" product="default">Dewisa beth fydd di\u2019n ei weld ar dy sgrin pan fydd dy lechen wedi docio. Bydd dy ddyfais yn defnyddio mwy o bŵer pan ddefnyddir achubydd sgrin.</string>
+    <string name="sound_settings" product="default">Sain a dirgrynu</string>
+    <string name="sound_settings" product="desktop">Sain</string>
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Caniatáu Datgloi ag Wyneb</string>
+    <string name="security_settings_face_enroll_introduction_title" product="default">Datgloi gyda dy wyneb</string>
+    <string name="security_settings_face_enroll_introduction_title" product="desktop">Datgloi gyda dy wyneb</string>
+    <string name="security_settings_face_preference_title" product="default">Datgloi ag Wyneb</string>
+    <string name="security_settings_face_profile_preference_title" product="default">Datgloi ag Wyneb ar gyfer gwaith</string>
+    <string name="security_settings_face_enroll_education_title" product="default">Sut i osod Datgloi ag Wyneb</string>
+    <string name="security_settings_face_enroll_education_title_accessibility" product="default">Gosod Datgloi ag Wyneb</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message" product="default">Os yw Datgloi ag Wyneb hygyrchedd wedi\u2019i ddiffodd, efallai na fydd rhai camau gosod yn gweithio\'n iawn gyda TalkBack.</string>
+    <string name="security_settings_face_enroll_should_re_enroll_title" product="default">Gwella perfformiad Datgloi ag Wyneb</string>
+    <string name="security_settings_face_enroll_should_re_enroll_subtitle" product="default">Gosod Datgloi ag Wyneb eto</string>
+    <string name="security_settings_face_enroll_must_re_enroll_title" product="default">Gosod Datgloi ag Wyneb eto</string>
+    <string name="security_settings_face_enroll_improve_face_alert_title" product="default">Gosod Datgloi ag Wyneb</string>
+    <string name="security_settings_face_settings_use_face_category" product="default">Defnyddio Datgloi ag Wyneb ar gyfer</string>
+    <string name="security_settings_face_settings_preferences_category" product="default">Wrth ddefnyddio Datgloi ag Wyneb</string>
+    <string name="security_settings_face_settings_require_confirmation_details" product="default">Wrth ddefnyddio Datgloi ag Wyneb mewn apiau, gofyn am y cam cadarnhau pob tro</string>
+    <string name="security_settings_face_settings_enroll" product="default">Gosod Datgloi ag Wyneb</string>
+    <string name="security_settings_activeunlock_require_face_fingerprint_setup_title" product="default">Gosoda Datgloi ag Wyneb neu Ôl Bys gyntaf</string>
+    <string name="security_settings_activeunlock_require_face_setup_title" product="default">Gosoda Datgloi ag Wyneb gyntaf</string>
+    <string name="security_settings_biometric_preference_title" product="default">Datgloi ag Wyneb ac Ôl Bys</string>
+    <string name="security_settings_work_biometric_preference_title" product="default">Datgloi ag Wyneb ac Ôl Bys ar gyfer gwaith</string>
+    <string name="private_space_biometric_title" product="default">Datgloi ag Wyneb ac Ôl Bys</string>
+    <string name="private_space_face_title" product="default">Datgloi ag Wyneb</string>
+    <string name="face_unlock_skip_face" product="default">Parhau heb Datgloi ag Wyneb</string>
+    <string name="unlock_disable_frp_warning_content_face_authbound_keys" product="default">"Caiff dy glo sgrin a Datgloi ag Wyneb eu tynnu.<xliff:g id="empty_line">\n\n</xliff:g>Ni fydd yn bosib tapio i dalu.<xliff:g id="empty_line">\n\n</xliff:g>Efallai na fydd y waled, taliadau, ac apiau eraill sydd angen dilysiad yn gweithio yn iawn."</string>
+    <string name="unlock_disable_frp_warning_content_face_fingerprint_authbound_keys" product="default">"Caiff dy glo sgrin, Datgloi ag Ôl Bys a Wyneb eu dynnu.<xliff:g id="empty_line">\n\n</xliff:g>Ni fydd yn bosib tapio i dalu.<xliff:g id="empty_line">\n\n</xliff:g>Efallai na fydd y waled, taliadau, ac apiau eraill sydd angen dilysiad yn gweithio yn iawn."</string>
+    <string name="lockpassword_choose_your_password_header_for_face" product="default">I ddefnyddio Datgloi ag Wyneb, gosoda gyfrinair</string>
+    <string name="lockpassword_choose_your_pattern_header_for_face" product="default">I ddefnyddio Datgloi ag Wyneb, gosoda batrwm</string>
+    <string name="lockpassword_choose_your_pin_header_for_face" product="default">I ddefnyddio Datgloi ag Wyneb, gosoda PIN</string>
+    <string name="usb_use_file_transfers" product="desktop">Trosglwyddo ffeiliau</string>
+</resources>

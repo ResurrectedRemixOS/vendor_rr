@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="none">"Ekkert"</string>
+    <string name="stylus_panel_title">"Penni"</string>
+    <string name="stylus_panel_summary">Stjórna hegðun penna</string>
+    <string name="stylus_removed_category_title">Penni fjarlægður</string>
+    <string name="stylus_inserted_category_title">Penni settur í</string>
+    <string name="stylus_screen_on_when_removed_title">"Kveikja á skjánum"</string>
+    <string name="stylus_screen_on_when_removed_summary">Kveikja á skjánum þegar penni er fjarlægður</string>
+    <string name="stylus_screen_off_when_inserted_title">"Slökkva á skjánum"</string>
+    <string name="stylus_screen_off_when_inserted_summary">Slökkva á skjánum þegar penni er settur í</string>
+    <string name="stylus_vibrate_title">"Titringur"</string>
+    <string name="stylus_vibrate_when_removed_summary">Titra þegar penni er fjarlægður</string>
+    <string name="stylus_vibrate_when_inserted_summary">Titra þegar penni er settur í</string>
+    <string name="stylus_launch_app_title">Ræsa forrit þegar penni er fjarlægður</string>
+    <string name="popup_title">Stillingar frammyndavélar</string>
+    <string name="popup_calibration_title">"Kvörðun"</string>
+    <string name="popup_calibration_summary">Kvarða sprettimyndavélarmótorinn</string>
+    <string name="popup_calibration_warning_title">Kvörðun mótors</string>
+    <string name="popup_calibration_warning_text">Óþarfa notkun kvörðunar getur valdið varanlegum skemmdum. Mælt er með að kvarða sprettimyndavélarmótorinn aðeins ef hann hreyfist ekki rétt eða er í röngum stöðu!</string>
+    <string name="popup_camera_tip">Aðvörun</string>
+    <string name="popup_camera_takeback_failed_calibrate">Ekki tókst að loka frammyndavélinni. Prófaðu að kvarða mótorinn.</string>
+    <string name="popup_camera_popup_failed_calibrate">Ekki tókst að opna frammyndavélina. Prófaðu að kvarða mótorinn.</string>
+    <string name="popup_camera_calibrate_running">Ekki er hægt að nota frammyndavélina meðan á kvörðun stendur.</string>
+    <string name="popup_camera_calibrate_now">Kvarða</string>
+    <string name="popup_camera_calibrate_failed">Tókst ekki að kvarða</string>
+    <string name="popup_camera_calibrate_success">Kvarðað með góðum árangri. Þú getur opnað myndavélina að framan núna.</string>
+    <string name="popup_led_title">LED á myndavél</string>
+    <string name="popup_led_summary">Kveikja á LED ljósi meðan myndavélin að framan birtist og dregst inn</string>
+    <string name="popup_sound_title">Hljóðbrellur</string>
+    <string name="popup_sound_muqin">Xýlófónn</string>
+    <string name="popup_sound_yingyan">Condor</string>
+    <string name="popup_sound_mofa">"Töfrabrögð"</string>
+    <string name="popup_sound_jijia">Mecha</string>
+    <string name="popup_sound_chilun">Tannhjól</string>
+    <string name="popup_sound_cangmen">Klefahurð</string>
+    <string name="doze_brightness_title">Birta alltaf á</string>
+    <string name="doze_brightness_summary"><xliff:g id="mode" example="Low brightness">%s</xliff:g> hamur er virkur</string>
+    <string name="doze_brightness_low">Lítil birta</string>
+    <string name="doze_brightness_high">Mikil birta</string>
+    <string name="doze_brightness_adaptive">"Aðlögun birtustigs"</string>
+    <string name="alert_slider_mode_none">"Ekkert"</string>
+    <string name="alert_slider_mode_torch_on">"Kveikt á vasaljósi"</string>
+    <string name="alert_slider_mode_torch_off">"Slökkt á vasaljósi"</string>
+    <string name="alert_slider_notification_dialog_title">Sýna renniglugga</string>
+    <string name="alert_slider_notification_dialog_summary">Birta glugga þegar staða viðvörunarrennunnar breytist</string>
+</resources>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="status_bar_icons_title">Tignitin n ufeggag n uddad</string>
+    <string name="screenshot_delete_label">Kkes</string>
+    <string name="screenshot_copy_label">Nγel</string>
+    <string name="screenshot_default_files_app_name">Ifuyla</string>
+    <string name="screenrecord_stop_description">Seḥbes asekles</string>
+    <string name="screenrecord_stop_dialog_button">Seḥbes asekles</string>
+    <string name="screen_record_should_show_touches_label">Sken tiqeffalin</string>
+    <string name="screen_record_color_picker">Fren ini</string>
+    <string name="screen_record_unmute">Rétablir le son</string>
+    <string name="biometric_dialog_enter_pin">Sekcem PIN inek·inem</string>
+    <string name="biometric_dialog_enter_password">Sekcem awal-ik uffir</string>
+    <string name="work_challenge_emergency_button_text">Amerwas</string>
+    <string name="biometric_re_enroll_dialog_cancel">Mačči tura</string>
+    <string name="accessibility_status_bar_assistant_icon">Tallalt</string>
+    <string name="accessibility_status_bar_input_method_indicator">Anasiw</string>
+    <string name="input_method_switcher_title_large_screen">Anasiw</string>
+    <string name="see_all_bluetooth_devices">Wali akk</string>
+    <string name="quick_settings_bluetooth_device_saved">Yettwasekles</string>
+    <string name="quick_settings_camera_mic_available">Yewjed</string>
+    <string name="quick_settings_camera_mic_blocked">Yettusewḥel</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_cast_title">Snewzi</string>
+    <string name="quick_settings_cast_disconnect">Ffeɣ</string>
+    <string name="quick_settings_inversion_label">Inversion de couleur</string>
+    <string name="quick_settings_font_scaling_label">Teγzi n tsefsit</string>
+    <string name="flashlight_dialog_turn_off">Sens</string>
+    <string name="quick_settings_work_mode_paused_state">Yettraǧu</string>
+    <string name="performance">Amlazmar</string>
+    <string name="quick_settings_hearing_devices_connected">Urmid</string>
+    <string name="quick_settings_hearing_devices_disconnected">Ur yeqqin ara</string>
+    <string name="hearing_devices_tools_label">Ifecka</string>
+    <string name="zen_mode_set_up">Ur ittwasbadu ara</string>
+    <string name="go_to_adaptive_notification_settings">Sens</string>
+    <string name="stream_music">Amidya</string>
+    <string name="stream_assistant">Tallalt</string>
+    <string name="media_device_cast">Snewzi</string>
+    <string name="wallet_app_button_label">Sken meṛṛa</string>
+    <string name="accessibility_status_bar_satellite_symbol">Aṣatilit</string>
+    <string name="inline_turn_off_notifications">Sens</string>
+    <string name="notification_alert_title">Akk-a kan</string>
+    <string name="notification_automatic_title">Awurman</string>
+    <string name="notification_inline_disable_promotion">Sens</string>
+    <string name="group_system_go_back">Uγal γer deffir</string>
+    <string name="keyboard_shortcut_group_applications_assist">Tallalt</string>
+    <string name="qs_edit_menu_content_description">Iɣewwaṛen</string>
+    <string name="accessibility_quick_settings_power_menu">Umuɣ n usenker/useḥbes</string>
+    <string name="accessibility_quick_settings_power_menu_expanded">Yettusnefli</string>
+    <string name="notification_channel_setup">Sbadu</string>
+    <string name="privacy_chip_container_leading_title">Tabaḍnit</string>
+    <string name="accessibility_control_move_up">Ali d asawen</string>
+    <string name="accessibility_control_move_down">Ader d akesser</string>
+    <string name="accessibility_magnification_medium">Alemmas</string>
+    <string name="accessibility_magnification_small">Meẓẓi</string>
+    <string name="accessibility_magnification_large">Ameqran</string>
+    <string name="accessibility_magnification_fullscreen">Agdil ačuran</string>
+    <string name="controls_settings_dialog_positive_button">Ih</string>
+    <string name="controls_media_title">Amidya</string>
+    <string name="controls_media_button_prev">Tafuɣalt tuzwirt</string>
+    <string name="controls_media_button_next">Tafuɣalt tuḍfirt</string>
+    <string name="controls_media_button_connecting">Tuqqna ɣer</string>
+    <string name="media_transfer_loading">Asali</string>
+    <string name="media_output_dialog_accessibility_seekbar">Imesli</string>
+    <string name="media_output_group_title_suggested">Asumer</string>
+    <string name="birthday_status">Azemz n tlalit</string>
+    <string name="anniversary_status">Amulli</string>
+    <string name="missed_call">Asiwel yettwazgalen</string>
+    <string name="people_tile_title">Asqerdec</string>
+    <string name="person_available">Yewjed</string>
+    <string name="mobile_data_no_connection">ulac tuqna</string>
+    <string name="see_all_networks">Wali akk</string>
+    <string name="priority_mode_dream_overlay_content_description">Ur yettcebbil ara</string>
+    <string name="shortcutHelper_category_split_screen">Agdil yettwabḍa</string>
+    <string name="shortcut_helper_add_shortcut_button_label">Rnu anegzum</string>
+    <string name="touchpad_tutorial_back_gesture_button">Uγal γer deffir</string>
+    <string name="touchpad_back_gesture_action_title">Uγal γer deffir</string>
+    <string name="qs_edit_mode_category_accessibility">Tuffart</string>
+    <string name="qs_edit_mode_category_privacy">Tabaḍnit</string>
+    <string name="qs_edit_mode_category_unknown">Arussin</string>
+    <string name="ambientcue_first_time_edu_icon_description">D tignit n wesnas</string>
+    <string name="sign_in_button_on_bouncer">Qqen</string>
+    <string name="ambient_cue_expand_action">snefli</string>
+    <string name="av_panel_title">Tabaḍnit</string>
+    <string name="more_options_move">Senkez</string>
+    <string name="floating_menu_more_options_label">Ugar n iɣewwaṛen</string>
+    <string name="dream_setup_button_not_now">Mačči tura</string>
+    <string-array name="tile_states_internet">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_modes_dnd">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_notes">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+    <string-array name="tile_states_desktopeffects">
+        <item>Ulac-it</item>
+        <item>Insa</item>
+        <item>Irmed</item>
+    </string-array>
+</resources>

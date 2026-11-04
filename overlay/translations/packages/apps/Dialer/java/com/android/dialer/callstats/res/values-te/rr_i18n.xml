@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">కాంటాక్ట్ గణాంకాల వివరాలు</string>
+    <string name="call_stats_incoming">ఇన్‌కమింగ్: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">అవుట్‌గోయింగ్: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">మిస్ అయినవి: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">బ్లాక్ చేసినవి: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">మొత్తం: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">మొత్తం: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">ప్రారంభ తేదీ</string>
+    <string name="call_stats_filter_to">ముగింపు తేదీ</string>
+    <string name="call_stats_filter_picker_title">సమయ పరిధి ఫిల్టర్</string>
+    <string name="date_quick_selection">త్వరిత ఎంపిక</string>
+    <string name="date_qs_currentmonth">ప్రస్తుత నెల</string>
+    <string name="date_qs_currentquarter">ప్రస్తుత త్రైమాసికం</string>
+    <string name="date_qs_currentyear">ప్రస్తుత సంవత్సరం</string>
+    <string name="date_qs_lastweek">"గత వారం"</string>
+    <string name="date_qs_lastmonth">"గత నెల"</string>
+    <string name="date_qs_lastquarter">గత త్రైమాసికం</string>
+    <string name="date_qs_lastyear">"గత సంవత్సరం"</string>
+    <string name="call_stats_date_filter">సమయ పరిధిని సర్దుబాటు చేయండి</string>
+    <string name="call_stats_reset_filter">సమయ పరిధిని రీసెట్ చేయండి</string>
+    <string name="call_stats_sort_by_duration">కాల్ వ్యవధి ప్రకారం క్రమబద్ధీకరించండి</string>
+    <string name="call_stats_sort_by_count">కాల్ సంఖ్య ప్రకారం క్రమబద్ధీకరించండి</string>
+    <string name="call_stats_title_for_number">ఈ సంఖ్య</string>
+    <string name="call_stats_title_of_total">మొత్తంలో</string>
+    <string name="call_stats_title_durations">కాల్ వ్యవధులు</string>
+    <string name="call_stats_title_count">కాల్ సంఖ్య</string>
+    <string name="call_stats_title_average_duration">సగటు కాల్ వ్యవధి</string>
+    <string name="recent_calls_no_items_in_range">మీ కాల్ లాగ్‌లో ఎంచుకున్న సమయ పరిధిలో ఎలాంటి కాల్స్ లేవు.</string>
+</resources>

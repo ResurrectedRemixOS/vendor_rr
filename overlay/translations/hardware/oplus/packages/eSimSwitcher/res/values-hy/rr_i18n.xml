@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM կարգավորումներ</string>
+    <string name="esim_toggle_title">"eSIM քարտ"</string>
+    <string name="esim_toggle_summary">Ներբեռնեք և ակտիվացրեք օպերատորի պրոֆիլ՝ վիրտուալ SIM քարտը օգտագործելու համար</string>
+    <string name="esim_toggle_dialog_cancel">"Չեղարկել"</string>
+</resources>

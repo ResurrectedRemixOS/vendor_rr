@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="recent_task_option_pin">Fixar</string>
+    <string name="recents_clear_all">Quitar too</string>
+    <string name="back_gesture_tutorial_title">Dir p\'atrás</string>
+    <string name="home_gesture_tutorial_title">Dir a Aniciu</string>
+    <string name="gesture_tutorial_action_button_label">Fecho</string>
+    <string name="gesture_tutorial_try_again">Retentar</string>
+    <string name="allset_title">¡Acabesti!</string>
+    <string name="allset_device_type_tablet">tableta</string>
+    <string name="allset_device_type_phone">teléfonu</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_screenshot">Captura de pantalla</string>
+    <string name="toast_split_select_app_cancel">Encaboxar</string>
+    <string name="action_image_copy">Copiar</string>
+    <string name="action_image_save">Guardar</string>
+    <string name="accessibility_rotate_button">Voltiar la pantalla</string>
+    <string name="taskbar_button_back">Atrás</string>
+    <string name="taskbar_button_recents">Elementos de recién</string>
+    <string name="taskbar_button_notifications">Avisos</string>
+    <string name="taskbar_button_more_options">Más opciones</string>
+    <string name="taskbar_phone_a11y_title">Barra de navegación</string>
+    <string name="taskbar_pinned_overflow_a11y_title">Otres aplicaciones</string>
+    <string name="quick_switch_pane_title">Aplicaciones de recién</string>
+    <string name="bubble_bar_bubble_description">«<xliff:g id="notification_title" example="some title">%1$s</xliff:g>» de: <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="ambientcue_first_time_edu_icon_description">Iconu</string>
+</resources>

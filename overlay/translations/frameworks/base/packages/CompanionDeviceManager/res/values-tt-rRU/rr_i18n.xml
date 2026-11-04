@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="discovery_wifi">Wi-Fi</string>
+    <string name="consent_cancel">Баш тарту</string>
+    <string name="permission_phone">Телефон</string>
+    <string name="permission_contacts">Контактлар</string>
+    <string name="permission_calendar">Календарь</string>
+    <string name="permission_microphone">Микрофон</string>
+    <string name="permission_call_logs">Шалтыратулар журналы</string>
+    <string name="permission_nearby_devices">Якындагы җайланмалар</string>
+    <string name="permission_microphone_summary">Аудио яздыру</string>
+</resources>

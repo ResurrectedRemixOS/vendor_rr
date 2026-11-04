@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material – följ systeminställningar</string>
+    <string name="prefs_keyboard_height_scale">Tangentbordshöjdsskala</string>
+    <string name="number_row">Sifferrad</string>
+    <string name="number_row_summary">Visa alltid en sifferrad för alla layouter som har 4 tangentrader</string>
+    <string name="number_row_password">Sifferrad för lösenord</string>
+    <string name="number_row_password_summary">Visa alltid en sifferrad för alla layouter med 4 tangentrader vid inmatning av lösenord</string>
+    <string name="space_trackpad">Styrplatta på mellanslagstangenten</string>
+    <string name="space_trackpad_summary">Svep över mellanslagstangenten för att flytta markören</string>
+    <string name="backspace_trackpad">Styrplatta på backstegstangenten</string>
+    <string name="backspace_trackpad_summary">Svep över backstegstangenten för att ta bort ord</string>
+    <string name="show_longpress_hints">Visa tips för långtryckning på tangenter</string>
+    <string name="show_longpress_hints_summary">Visar tips för långtryckning på tangenter som stöds</string>
+    <string name="show_emoji_key">Visa emojitangent</string>
+    <string name="show_emoji_key_summary">Visa alltid emojitangenten. När det här alternativet är aktiverat kan språkväxlingstangenten inte visas.</string>
+    <string name="enable_split_keyboard_summary">Endast i liggande läge</string>
+    <string name="split_keyboard_duplicate_keys">Duplicera mittentangenter</string>
+    <string name="split_keyboard_duplicate_keys_summary">Visa tangenter nära mitten på båda halvorna</string>
+    <string name="spoken_description_split_keyboard">Dela tangentbordet</string>
+    <string name="spoken_description_merge_keyboard">Slå ihop tangentbordet</string>
+    <string name="spoken_description_float_keyboard">Flytande tangentbord</string>
+    <string name="spoken_description_dock_keyboard">Dockat tangentbord</string>
+    <string name="floating_keyboard_drag_handle">Flytta tangentbordet</string>
+    <string name="floating_keyboard_resize_handle">Ändra storlek på tangentbordet</string>
+    <string name="floating_keyboard_reset">"Återställ"</string>
+    <string name="floating_keyboard_hide">Dölj tangentbordet</string>
+    <string name="floating_keyboard_switch_ime">"Byt inmatningsmetod"</string>
+</resources>

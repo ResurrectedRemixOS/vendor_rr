@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_methods_labels">
+        <item>"Эскертме"</item>
+        <item>"Электрондук почта"</item>
+        <item>SMS</item>
+        <item>"Ойготкуч"</item>
+    </string-array>
+    <string-array name="availability">
+        <item>"Бош эмес"</item>
+        <item>"Жеткиликтүү"</item>
+        <item>Болжолдуу</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Жооп жок</item>
+        <item>"Ооба"</item>
+        <item>Балким</item>
+        <item>"Жок"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Ушул окуя гана</item>
+        <item>Ушул жана келечектеги окуялар</item>
+        <item>Бардык окуялар</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Ушул окуя гана</item>
+        <item>Сериядагы бардык окуялар</item>
+    </string-array>
+    <string-array name="buttons_list">
+        <item>"Күн"</item>
+        <item>"Апта"</item>
+        <item>"Ай"</item>
+        <item>Күн тартиби</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>Баш тартылган учурда гана</item>
+        <item>Баш тартылса же жооп берилбесе</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>КҮН САЙЫН ТАКРАРЛОО</item>
+        <item>ЖУМА САЙЫН ТАКРАРЛОО</item>
+        <item>АЙ САЙЫН ТАКРАРЛОО</item>
+        <item>ЖЫЛ САЙЫН ТАКРАРЛОО</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ар бир биринчи жекшембиде</item>
+        <item>ар бир экинчи жекшембиде</item>
+        <item>ар бир үчүнчү жекшембиде</item>
+        <item>ар бир төртүнчү жекшембиде</item>
+        <item>ар бир акыркы жекшембиде</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ар бир биринчи дүйшөмбүдө</item>
+        <item>ар бир экинчи дүйшөмбүдө</item>
+        <item>ар бир үчүнчү дүйшөмбүдө</item>
+        <item>ар бир төртүнчү дүйшөмбүдө</item>
+        <item>ар бир акыркы дүйшөмбүдө</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ар бир биринчи шейшембиде</item>
+        <item>ар бир экинчи шейшембиде</item>
+        <item>ар бир үчүнчү шейшембиде</item>
+        <item>ар бир төртүнчү шейшембиде</item>
+        <item>ар бир акыркы шейшембиде</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ар бир биринчи шаршембиде</item>
+        <item>ар бир экинчи шаршембиде</item>
+        <item>ар бир үчүнчү шаршембиде</item>
+        <item>ар бир төртүнчү шаршембиде</item>
+        <item>ар бир акыркы шаршембиде</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ар бир биринчи бейшембиде</item>
+        <item>ар бир экинчи бейшембиде</item>
+        <item>ар бир үчүнчү бейшембиде</item>
+        <item>ар бир төртүнчү бейшембиде</item>
+        <item>ар бир соңку бейшембиде</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ар бир биринчи жумада</item>
+        <item>ар бир экинчи жумада</item>
+        <item>ар бир үчүнчү жумада</item>
+        <item>ар бир төртүнчү жумада</item>
+        <item>ар бир соңку жумада</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ар бир биринчи ишембиде</item>
+        <item>ар бир экинчи ишембиде</item>
+        <item>ар бир үчүнчү ишембиде</item>
+        <item>ар бир төртүнчү ишембиде</item>
+        <item>ар бир соңку ишембиде</item>
+    </string-array>
+    <string name="user_rejected_calendar_write_permission_lineage">Календарга окууга жана жазууга уруксаттар керек. Кайра аракет кылыңыз.</string>
+    <string name="preferences_menu_about_lineage">Календарь жөнүндө</string>
+    <string name="app_label">"Жылнаама"</string>
+    <string name="when_label">Качан</string>
+    <string name="today">"Бүгүн"</string>
+    <string name="tomorrow">"Эртең"</string>
+    <string name="today_at_time_fmt">\"Бүгүн саат <xliff:g id="time_interval">%s</xliff:g>\"</string>
+    <string name="tomorrow_at_time_fmt">\"Эртең саат <xliff:g id="time_interval">%s</xliff:g>\"</string>
+    <string name="no_title_label">"(Аталышы жок)"</string>
+    <string name="no_reminder_label">"Жок"</string>
+    <string name="no_snooze_label">"Жок"</string>
+    <plurals name="Nminutes">
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> мүнөт</item>
+    </plurals>
+    <plurals name="Nmins">
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> мүн.</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> саат</item>
+    </plurals>
+    <plurals name="Ndays">
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> күн</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> жума</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">Жума <xliff:g id="count">%d</xliff:g></item>
+    </plurals>
+    <string name="calendar_refresh">\"Жаңыртуу\"</string>
+    <string name="show_day_view">\"Күндү көрсөтүү\"</string>
+    <string name="agenda_view">\"Программа\"</string>
+    <string name="day_view">\"Күн\"</string>
+    <string name="week_view">\"Жума\"</string>
+    <string name="month_view">\"Ай\"</string>
+    <string name="event_view">\"Окуяны көрүү\"</string>
+    <string name="event_create">\"Жаңы окуя\"</string>
+    <string name="event_edit">\"Окуяны түзөтүү\"</string>
+    <string name="event_delete">\"Окуяны өчүрүү\"</string>
+    <string name="share_label">"Бөлүшүү"</string>
+    <string name="goto_today">\"Бүгүн\"</string>
+    <string name="goto_date">Өтүү…</string>
+    <string name="menu_preferences">\"Жөндөөлөр\"</string>
+    <string name="menu_info">"Маалымат"</string>
+    <string name="search">\"Издөө\"</string>
+    <string name="hide_controls">\"Башкарууну жашыруу\"</string>
+    <string name="show_controls">\"Башкарууну көрсөтүү\"</string>
+    <string name="view_settings">\"Көрүнүш жөндөөлөрү\"</string>
+    <string name="select_synced_calendars_button">Шайкештирилүүчү календарлар</string>
+    <string name="hint_what">\"Окуянын аталышы\"</string>
+    <string name="hint_where">\"Жайгашкан жери\"</string>
+    <string name="hint_description">\"Сүрөттөмө\"</string>
+    <string name="hint_url">\"URL\"</string>
+    <string name="hint_attendees">\"Конокторлор\"</string>
+    <string name="creating_event">\"Окуя түзүлдү.\"</string>
+    <string name="saving_event">\"Окуя сакталды.\"</string>
+    <string name="empty_event">\"Бош окуя түзүлгөн жок.\"</string>
+    <string name="creating_event_with_guest">\"Чакыруулар жөнөтүлөт.\"</string>
+    <string name="saving_event_with_guest">\"Жаңылоолор жөнөтүлөт.\"</string>
+    <string name="rsvp_accepted">\"Ооба деп жооп берилди.\"</string>
+    <string name="rsvp_tentative">\"Балки деп жооп берилди.\"</string>
+    <string name="rsvp_declined">\"Жок деп жооп берилди.\"</string>
+    <string name="create_event_dialog_save">"Сактоо"</string>
+    <string name="alert_title">Календарь билдирмелери</string>
+    <string name="foreground_notification_title">Жаңы эскертмелерди пландоо…</string>
+    <string name="foreground_notification_channel_name">Фондогу тапшырмалар</string>
+    <string name="foreground_notification_channel_description">Ички шайкештирүү үчүн билдирмелер керек. Бул каналды коопсуз жашырсаңыз болот.</string>
+    <string name="event_info_title">Окуяны көрүү</string>
+    <string name="event_info_title_invite">Жолугушууга чакыруу</string>
+    <string name="edit_event_all_day_label">Күн бою</string>
+    <string name="edit_event_calendar_label">"Жылнаама"</string>
+    <string name="presence_label">Мени катары көрсөтүү</string>
+    <string name="privacy_label">"Купуялык"</string>
+    <string name="reminders_label">Эскертме кошуу</string>
+    <string name="no_syncable_calendars">"Жылнаамалар жок"</string>
+    <string name="no_calendars_found">Окуя кошуудан мурун, түзмөгүңүзгө кеминде бир календарь кошуңуз</string>
+    <string name="add_calendar">Календарь кошуу</string>
+    <string name="view_event_calendar_label">Календарь:</string>
+    <string name="view_event_organizer_label">Уюштуруучу:</string>
+    <string name="choose_event_color_label">Окуянын түсүн тандоо</string>
+    <string name="event_color_picker_dialog_title">Окуянын түсү</string>
+    <string name="event_color_set_to_default">Календардын демейки түсүн коюу</string>
+    <string name="calendar_color_picker_dialog_title">Календарь түсү</string>
+    <string name="calendar_square_color_picker_description">"Түс тандагыч"</string>
+    <string name="view_event_response_label">Катышасызбы?</string>
+    <string name="response_yes">"Ооба"</string>
+    <string name="response_maybe">Балким</string>
+    <string name="response_no">"Жок"</string>
+    <string name="email_guests_label">Конокторго кат жөнөтүү</string>
+    <string name="email_organizer_label">Уюштуруучуга кат жөнөтүү</string>
+    <string name="email_picker_label">Кат жөнөтүү:</string>
+    <string name="event_not_found">\"Окуя табылган жок.\"</string>
+    <string name="map_label">"Карта"</string>
+    <string name="no_map">Карталар колдонмосу орнотулган эмес</string>
+    <string name="call_label">Чалуу</string>
+    <string name="quick_response_settings">"Тез жооптор"</string>
+    <string name="quick_response_settings_summary">Конокторго кат жөнөтүүдө демейки жоопторду түзөтүү</string>
+    <string name="quick_response_settings_edit_title">"Тез жооп"</string>
+    <string name="quick_response_dialog_title">Ыкчам жоопту тандоо</string>
+    <string name="quick_response_email_failed">Почта программасы табылган жок</string>
+    <string-array name="quick_response_defaults">
+        <item>Бир нече мүнөткө кечигип жатам.</item>
+        <item>Болжол менен 10 мүнөттө жетем.</item>
+        <item>Мени күтпөй эле баштаңыз.</item>
+        <item>Кечириңиз, бара албайм. Убакытты башкага которууга туура келет.</item>
+    </string-array>
+    <string name="quick_response_custom_msg">Өзүңүз жазыңыз…</string>
+    <string name="event_info_organizer">Уюштуруучу:</string>
+    <string name="event_info_reminders_label">"Эстеткичтер"</string>
+    <string name="agenda_today">Бүгүн, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_yesterday">Кечээ, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_tomorrow">Эртең, <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="loading">"Жүктөлүүдө…"</string>
+    <string name="show_older_events"><xliff:g id="oldest_search_range">%1$s</xliff:g> чейинки окууларды көрүү үчүн басыңыз</string>
+    <string name="show_newer_events"><xliff:g id="newest_search_range">%1$s</xliff:g> кийинки окууларды көрүү үчүн басыңыз</string>
+    <string name="search_title">Календарларымды издөө</string>
+    <string name="edit_event_label">\"Чоо-жайы\"</string>
+    <string name="edit_label">\"Түзөтүү\"</string>
+    <string name="delete_label">\"Өчүрүү\"</string>
+    <string name="duplicate_label">Көчүрмөсүн түзүү</string>
+    <string name="save_label">"Бүттү"</string>
+    <string name="discard_label">"Жок"</string>
+    <string name="dismiss_all_label">\"Баарын жабуу\"</string>
+    <string name="snooze_label">\"Кийинкиге калтыруу\"</string>
+    <string name="does_not_repeat">Бир жолку окуя</string>
+    <string name="endByDate">; <xliff:g id="date">%s</xliff:g> чейин</string>
+    <plurals name="endByCount">
+        <item quantity="other">; <xliff:g id="number">%d</xliff:g> жолу</item>
+    </plurals>
+    <plurals name="daily">
+        <item quantity="other">Ар бир <xliff:g id="number">%d</xliff:g> күн сайын</item>
+    </plurals>
+    <string name="every_weekday">\"Ар бир жумуш күнү (Дүй–Жум)\"</string>
+    <plurals name="weekly">
+        <item quantity="other">Ар бир <xliff:g id="number">%1$d</xliff:g> жумада <xliff:g id="days_of_week">%2$s</xliff:g> күнү</item>
+    </plurals>
+    <string name="monthly">"Ай сайын"</string>
+    <string name="yearly_plain">Жыл сайын</string>
+    <string name="custom" product="default">Ыңгайлаштырылган (телефондо ыңгайлаштыруу мүмкүн эмес)</string>
+    <string name="modify_event">Ушул окуяны гана өзгөртүү</string>
+    <string name="modify_all">Сериядагы бардык окууларды өзгөртүү</string>
+    <string name="modify_all_following">Муну жана кийинки бардык окууларды өзгөртүү</string>
+    <string name="new_event_dialog_label">\"Жаңы окуя\"</string>
+    <string name="new_event_dialog_option">\"Жаңы окуя\"</string>
+    <string name="delete_this_event_title">Бул окуяны өчүрөсүзбү?</string>
+    <string name="delete_recurring_event_title"><xliff:g id="eventtitle">%s</xliff:g> өчүрөсүзбү?</string>
+    <string name="change_response_title">Жоопту өзгөртүү</string>
+    <string name="preferences_title">\"Жөндөөлөр\"</string>
+    <string name="preferences_general_title">Календарь көрүнүшүнүн жөндөөсү</string>
+    <string name="preferences_month_view_portrait">Айлык көрүнүш (тик)</string>
+    <string name="preferences_month_view_landscape">Айлык көрүнүш (жатык)</string>
+    <string name="preferences_theme">"Тема"</string>
+    <string name="preferences_system_theme">"Системанын демейки параметрлери"</string>
+    <string name="preferences_light_theme">"Жарык"</string>
+    <string name="preferences_dark_theme">Караңгы</string>
+    <string name="preferences_black_theme">"Кара"</string>
+    <string name="preferences_color">Негизги түс</string>
+    <string name="preferences_color_pick">Негизги түс</string>
+    <string name="preferences_real_event_colors">Окуялардын чыныгы түстөрүн колдонуу</string>
+    <string name="preferences_pure_black_night_mode">Таза кара түнкү режим</string>
+    <string name="preferences_reminder_title">Билдирмелер жана эскертмелер</string>
+    <string name="preferences_hide_declined_title">Четке кагылган окууларды жашыруу</string>
+    <string name="default_start_title">Демейки көрүнүш</string>
+    <string name="display_options">"Көрүнүш параметрлери"</string>
+    <string name="display_time">Убакытты көрсөтүү</string>
+    <string name="display_location">Жайгашкан жерди көрсөтүү</string>
+    <string name="maximum_number_of_lines">Окуядагы сап сандынын максималдуу саны</string>
+    <string name="default_start_last">Мурун колдонулган көрүнүш</string>
+    <string name="preferences_week_start_day_title">Жума башталат</string>
+    <string name="preferences_week_start_day_dialog">Жума башталат</string>
+    <string name="week_start_locale_default">Аймактын демейкиси</string>
+    <string name="preferences_days_per_week_title">Жумадагы күндөр</string>
+    <string name="preferences_days_per_week_dialog">Жумадагы күндөр</string>
+    <string name="preferences_default_event_duration_title">Окуянын демейки узактыгы</string>
+    <string name="preferences_clear_search_history_title">Издөө тарыхын тазалоо</string>
+    <string name="preferences_clear_search_history_summary">Сиз жүргүзгөн бардык издөөлөрдү өчүрүү</string>
+    <string name="search_history_cleared">Издөө тарыхы тазаланды.</string>
+    <string name="preferences_alerts_title">"Билдирмелер"</string>
+    <string name="preferences_alerts_vibrateWhen_title">"Дирилдөө"</string>
+    <string name="preferences_alerts_ringtone_title">"Үн"</string>
+    <string name="preferences_alerts_popup_title">Калкыма билдирме</string>
+    <string name="preferences_default_reminder_title">Эскертменин демейки убактысы</string>
+    <string name="preferences_default_reminder_dialog">Эскертменин демейки убактысы</string>
+    <string name="preferences_use_home_tz_title">"Үйдөгү убакыт алкагын колдонуу"</string>
+    <string name="preferences_use_home_tz_descrip">Саякатта календарларды жана окуялардын убактысын үйүңүздүн убакыт алкагында көрсөтөт</string>
+    <string name="preferences_home_tz_title">Үйдөгү убакыт аймагы</string>
+    <string name="preferences_show_week_num_title">Жуманын номерин көрсөтүү</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">Эскертмени кийинкиге калтыруунун убактысын сурау</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">Эскертмелерди кийинкиге калтырганда, убакытты сурай берүү</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">Ар дайым демейки кийинкиге калтыруу убактысын колдонуу</string>
+    <string name="snooze_delay_dialog_title">Кийинкиге калтыруу убактысын коюу</string>
+    <string name="preferences_default_snooze_delay_title">Кийинкиге калтыруунун демейки убактысы</string>
+    <string name="preferences_default_snooze_delay_dialog">Кийинкиге калтыруунун демейкиси</string>
+    <string name="preferences_staggered_display_title">Шахматтык көрүнүш</string>
+    <string name="preferences_staggered_display_summary">Кесилишкен окууларды шахматтык макетте көрсөтүү</string>
+    <string name="app_copyright">© 2015-<xliff:g>%1$s</xliff:g> The Etar Project. Айрым бөлүктөр © 2005-<xliff:g>%1$s</xliff:g> The Android Open Source Project.</string>
+    <string name="authors">Авторлор</string>
+    <string name="changelog">Өзгөртүүлөр тизмеси</string>
+    <string name="license">"Уруксаттама"</string>
+    <string name="preferences_build_version">"Курама версиясы"</string>
+    <string name="preferences_issues">Маселелерди билдирүү</string>
+    <string name="source_code">Булак</string>
+    <string name="gadget_no_events">Жакынкы календарь окуялары жок</string>
+    <string name="preferences_experimental_category">"Сынамык"</string>
+    <string name="preferences_reminders_responded_label">Эскертмелерди өткөрүп жиберүү</string>
+    <string name="preferences_reminders_responded_dialog">Эскертмелерди өткөрүп жиберүү</string>
+    <string name="copy_db">Базаны жөнөтүү</string>
+    <string name="directory_searching_fmt"><xliff:g id="domain">%s</xliff:g> изделүүдө…</string>
+    <string name="accessibility_remove_attendee">Катышуучуну өчүрүү</string>
+    <string name="accessibility_pick_start_date">Баштоо датасы</string>
+    <string name="accessibility_pick_start_time">"Качан башталат:"</string>
+    <string name="accessibility_pick_end_date">Аяктоо датасы</string>
+    <string name="accessibility_pick_end_time">"Качан аяктайт:"</string>
+    <string name="accessibility_pick_time_zone">"Убакыт алкагы"</string>
+    <string name="accessibility_pick_recurrence">Окууну кайталоо</string>
+    <string name="accessibility_add_reminder">Эскертме кошуу</string>
+    <string name="accessibility_remove_reminder">Эскертмени өчүрүү</string>
+    <string name="accessibility_add_attendee">Катышуучу кошуу</string>
+    <string name="accessibility_all_day">Күн бою окуя</string>
+    <string name="accessibility_reminder_time">Эскертме убактысы</string>
+    <string name="accessibility_reminder_type">Эскертме түрү</string>
+    <string name="accessibility_reminder_showmeas">Мени катары көрсөтүү</string>
+    <string name="accessibility_reminder_privacy">"Купуялык"</string>
+    <string name="day_view_new_event_hint">+ Жаңы окуя</string>
+    <string name="template_announce_item_index">Окуя <xliff:g id="item_index">%1$s</xliff:g> / <xliff:g id="item_count">%2$s</xliff:g>.</string>
+    <plurals name="Nevents">
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> окуя</item>
+    </plurals>
+    <plurals name="N_remaining_events">
+        <item quantity="other">+<xliff:g id="count">%d</xliff:g> окуя</item>
+    </plurals>
+    <string name="acessibility_selected_marker_description">Тандалган окуя</string>
+    <plurals name="recurrence_interval_daily">
+        <item quantity="other">Ар бир <xliff:g id="count">%d</xliff:g> күн сайын</item>
+    </plurals>
+    <plurals name="recurrence_interval_weekly">
+        <item quantity="other">Ар бир <xliff:g id="count">%d</xliff:g> жума сайын</item>
+    </plurals>
+    <plurals name="recurrence_interval_monthly">
+        <item quantity="other">Ар бир <xliff:g id="count">%d</xliff:g> ай сайын</item>
+    </plurals>
+    <plurals name="recurrence_interval_yearly">
+        <item quantity="other">Ар бир <xliff:g id="count">%d</xliff:g> жыл сайын</item>
+    </plurals>
+    <string name="recurrence_month_pattern_by_day">ар бир айда ошол күнү</string>
+    <string name="recurrence_end_continously">Түбөлүк</string>
+    <string name="recurrence_end_date_label">Белгилүү күнгө чейин</string>
+    <string name="recurrence_end_date"><xliff:g id="date">%s</xliff:g> чейин</string>
+    <string name="recurrence_end_count_label">Окуялардын санына чейин</string>
+    <plurals name="recurrence_end_count">
+        <item quantity="other"><xliff:g id="event_count">%d</xliff:g> окуяга чейин</item>
+    </plurals>
+    <string name="acessibility_recurrence_choose_end_date_description">аяктоо датасын өзгөртүү</string>
+    <string name="user_rejected_calendar_write_permission">Etar туура иштеши үчүн календарга окууга жана жазууга уруксаттар керек. Кайра аракет кылыңыз.</string>
+    <string name="calendar_permission_not_granted">Керектүү уруксаттар берилген жок. Окууларды түзөтүү үчүн Жөндөөлөр колдонмосунан аларды иштетиңиз</string>
+    <string name="visibility_default">"Демейки"</string>
+    <string name="visibility_confidential">Купуя</string>
+    <string name="visibility_private">"Купуя"</string>
+    <string name="visibility_public">Ачык</string>
+    <string name="two_days">2 күн</string>
+    <string name="three_days">3 күн</string>
+    <string name="four_days">4 күн</string>
+    <string name="five_days">5 күн</string>
+    <string name="six_days">6 күн</string>
+    <string name="seven_days">7 күн</string>
+    <string name="zero_minutes">0 мүнөт</string>
+    <string name="fifteen_minutes">"15 мүнөт"</string>
+    <string name="thirty_minutes">"30 мүнөт"</string>
+    <string name="one_hour">"1 саат"</string>
+    <string name="one_and_a_half_hours">1,5 саат</string>
+    <string name="two_hours">"2 саат"</string>
+    <string name="error_generating_ics">Окуяны бөлүшүүдө көйгөйлөр чыкты</string>
+    <string name="cal_share_intent_title">Окууну жөнөтүү:</string>
+    <string name="cal_export_event_title">Окууну экспорттоо</string>
+    <string name="cal_export_success">Окуя ийгиликтүү экспорттолду</string>
+    <string name="cal_export_error">Окууну экспорттоо болбоду</string>
+    <string name="cal_export_succ_msg">Окуя ийгиликтүү экспорттолду</string>
+    <string name="cal_import_menu_title">Окууну импорттоо</string>
+    <string name="cal_nothing_to_import">"Импорттоого эч нерсе жок"</string>
+    <string name="cal_import_error_msg">Календарга импорттоо ишке ашкан жок</string>
+    <string name="cal_import_error_time_zone_msg">Берилген убакыт алкагын түшүнүү мүмкүн эмес: %s</string>
+    <string name="cal_import_error_date_msg">Берилген датаны түшүнүү мүмкүн эмес: %s</string>
+    <string name="cal_pick_ics">Импорттоо үчүн файлды тандаңыз</string>
+    <string name="show_time_no">Убакытты көрсөтпөө</string>
+    <string name="show_time_start">Башталыш убактысы гана</string>
+    <string name="show_time_start_end">Башталыш жана аяктоо убактысы</string>
+    <string name="show_time_start_end_below">Башталыш жана аяктоо убактысы окуянын астында</string>
+    <string name="preferences_calendar_no_display_name">Аталышсыз календарь</string>
+    <string name="preferences_calendar_account">%1$s эсеби</string>
+    <string name="preferences_calendar_account_local">Оффлайн календарь</string>
+    <string name="preferences_calendar_configure_account">%1$s ичинде календарды баптоо</string>
+    <string name="preferences_calendar_number_of_events">%1$d окуя</string>
+    <string name="preferences_calendar_delete">Календарды өчүрүү</string>
+    <string name="preferences_calendar_display_name">"Атын өзгөртүү"</string>
+    <string name="preferences_calendar_info_category">Календарь маалыматы</string>
+    <string name="preferences_calendar_color">"Түс"</string>
+    <string name="preferences_calendar_visible">Иш-чараларды көрсөтүү</string>
+    <string name="preferences_manage_notifications">Билдирмелерди башкаруу</string>
+    <string name="preferences_calendar_synchronize">Бул календарды синхрондоштуруу</string>
+    <string name="preferences_calendar_color_warning_title">"Эскертүү"</string>
+    <string name="preferences_calendar_color_warning_message">Түс кайра синхрондоштурулганда кайтарылышы мүмкүн.\n\nDAVx⁵ ичинде бул кайталанбашы үчүн «Календарь түстөрүн башкаруу» өчүрүлүшү мүмкүн.</string>
+    <string name="preferences_calendar_color_warning_button">Түшүндүм</string>
+    <string name="preferences_calendar_delete_message">Бул календарды чын эле өчүргүңүз келеби?</string>
+    <string name="preferences_calendar_delete_delete">Календарды өчүрүү</string>
+    <string name="preferences_calendar_delete_cancel">"Жок"</string>
+    <string name="preferences_list_calendar_summary_sync_off">Синхрондоштурулган эмес</string>
+    <string name="preferences_list_calendar_summary_invisible">Иш-чаралар көрсөтүлбөйт</string>
+    <string name="preferences_list_general">"Жалпы жөндөөлөр"</string>
+    <string name="preferences_list_add_remote">CalDAV календарын кошуу</string>
+    <string name="preferences_list_add_remote_etesync">EteSync календарын кошуу</string>
+    <string name="preferences_list_add_offline">Оффлайн календарын кошуу</string>
+    <string name="preferences_list_add_offline_title">Оффлайн календарын кошуу</string>
+    <string name="preferences_list_add_offline_error_empty">Календардын атын киргизиңиз!</string>
+    <string name="preferences_list_add_offline_message">Оффлайн календарлар булут кызматына синхрондошпойт жана телефонуңузда гана жеткиликтүү.</string>
+    <string name="preferences_list_add_offline_button">Календарь кошуу</string>
+    <string name="preferences_list_add_offline_name">"Аталышы"</string>
+    <string name="preferences_list_add_offline_cancel">"Жок"</string>
+    <string name="preferences_menu_about">Etar жөнүндө</string>
+    <string name="offline_account_name">Оффлайн календарь</string>
+    <string name="after_start_of_event">иш-чара башталгандан кийин</string>
+    <string name="preferences_do_not_check_battery_optimization">Батареяны оптималдаштырууну текшербе</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Өз тобокелиңиз менен колдонуңуз! Билдирмелер иштебей калат, виджет жаңыланбайт жана фондук кызматтар токтойт. Бирок фондук кызматты иштетүүнү дагы суранбайсыз.</string>
+    <string name="calendars">Календарлар</string>
+    <string name="discard_event_changes">Өзгөртүүлөрдү таштоону каалайсызбы?</string>
+    <string name="discard">"Жарактан чыгаруу"</string>
+    <string name="cancel">"Жок"</string>
+    <string name="chips_action_cancel">"Жок"</string>
+</resources>

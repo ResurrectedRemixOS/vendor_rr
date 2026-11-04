@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Lavendel</string>
+    <string name="red_color_name">Björnbär</string>
+    <string name="wht_color_name">Dimma</string>
+    <string name="indigo_color_name">"Indigoblå"</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Jade</string>
+    <string name="lemongrass_color_name">Citrongräs</string>
+    <string name="moonstone_color_name">Månsten</string>
+    <string name="obsidian_color_name">Obsidian</string>
+    <string name="peony_color_name">Pion</string>
+    <string name="porcelain_color_name">Porslin</string>
+    <string name="fruit1_color_name">Gul och röd tvåfärgspalett</string>
+    <string name="fruit2_color_name">Grön och orange tvåfärgspalett</string>
+    <string name="fruit3_color_name">Blå och grön tvåfärgspalett</string>
+    <string name="fruit4_color_name">Ljuslila och blå tvåfärgspalett</string>
+    <string name="fruit5_color_name">Rosa och indigo tvåfärgspalett</string>
+</resources>

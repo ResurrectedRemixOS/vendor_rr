@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_playback_no_app_found_toast">തിരഞ്ഞെടുത്ത റെക്കോർഡിംഗ് പ്ലേ ചെയ്യാൻ ആപ്പ് ഒന്നും കണ്ടെത്തിയില്ല.</string>
+</resources>

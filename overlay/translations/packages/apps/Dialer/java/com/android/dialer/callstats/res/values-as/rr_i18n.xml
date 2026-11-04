@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">সম্পৰ্ক পৰিসংখ্যাৰ বিৱৰণ</string>
+    <string name="call_stats_incoming">ভিতৰলৈ অহা: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">বাহিৰলৈ যোৱা: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">মিচ্ড: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">ব্লক কৰা: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">মুঠ: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">মুঠ: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">আৰম্ভৰ তাৰিখ</string>
+    <string name="call_stats_filter_to">সমাপ্তিৰ তাৰিখ</string>
+    <string name="call_stats_filter_picker_title">পৰিসীমা ফিল্টাৰ কৰক</string>
+    <string name="date_quick_selection">দ্ৰুত নিৰ্বাচন</string>
+    <string name="date_qs_currentmonth">চলতি মাহ</string>
+    <string name="date_qs_currentquarter">চলতি ত্ৰৈমাসিক</string>
+    <string name="date_qs_currentyear">চলতি বছৰ</string>
+    <string name="date_qs_lastweek">"যোৱা সপ্তাহ"</string>
+    <string name="date_qs_lastmonth">"যোৱা মাহ"</string>
+    <string name="date_qs_lastquarter">শেহতীয়া ত্ৰৈমাসিক</string>
+    <string name="date_qs_lastyear">"যোৱা বছৰ"</string>
+    <string name="call_stats_date_filter">সময়সীমা সলনি কৰক</string>
+    <string name="call_stats_reset_filter">সময়সীমা পুনৰ ছেট কৰক</string>
+    <string name="call_stats_sort_by_duration">কলৰ সময়অবধি অনুসৰি সজাওক</string>
+    <string name="call_stats_sort_by_count">কলৰ সংখ্যা অনুসৰি সজাওক</string>
+    <string name="call_stats_title_for_number">এই সংখ্যা</string>
+    <string name="call_stats_title_of_total">মুঠৰ শতাংশ</string>
+    <string name="call_stats_title_durations">কলৰ সময়অবধি</string>
+    <string name="call_stats_title_count">কলৰ সংখ্যা</string>
+    <string name="call_stats_title_average_duration">গড় কলৰ সময়অবধি</string>
+    <string name="recent_calls_no_items_in_range">নিৰ্বাচিত সময়সীমাৰ ভিতৰত আপোনাৰ কল লগত কোনো কল নাই।</string>
+</resources>

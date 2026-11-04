@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">Velocidade de carga</string>
+    <string name="charging_speed_slow">"Lenta"</string>
+    <string name="charging_speed_fast">"Rápida"</string>
+    <string name="charging_speed_super_fast">Moi rápida</string>
+    <string name="charging_control_notification_channel">Control de carga</string>
+    <string name="charging_control_notification_title">Control de carga</string>
+    <string name="charging_control_notification_cancel_once">"Cancelar"</string>
+    <string name="charging_control_notification_content_limit">A batería cargarase ata o %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">A batería está cargada ata o %1$d%%</string>
+    <string name="charging_control_notification_content_target">A batería estará totalmente cargada ás %1$s</string>
+    <string name="charging_control_notification_content_target_reached">A batería está cargada</string>
+</resources>

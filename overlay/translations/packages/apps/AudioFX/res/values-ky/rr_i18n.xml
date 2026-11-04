@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX сиздин демейки эффекттерди башкаруу панели эмес.</string>
+    <string name="snack_bar_not_default_set">"Демейки кылып жөндөө"</string>
+    <string name="snack_bar_not_default_not_now">"Азыр эмес"</string>
+    <string name="normal">Кадимки</string>
+    <string name="classical">"Классикалык"</string>
+    <string name="dance">"Бий"</string>
+    <string name="flat">Жалпак</string>
+    <string name="folk">"Элдик"</string>
+    <string name="heavy_metal">"Оор металл"</string>
+    <string name="hip_hop">"Хип-хоп"</string>
+    <string name="electronic">Электрондук</string>
+    <string name="small_speakers">Кичинекей динамиктер</string>
+    <string name="multimedia">Мультимедиа</string>
+    <string name="custom">Ыңгайлаштырылган</string>
+    <string name="custom_n">Ыңгайлаштырылган <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">Динамик режими үчүн эффект жеткиликсиз.</string>
+    <string name="device_headset">"Гарнитура"</string>
+    <string name="device_speaker">Катуу сүйлөткүч</string>
+    <string name="device_line_out">Линиялык чыгуу</string>
+    <string name="reverb">Жаңырык</string>
+    <string name="devices">"Түзмөктөр"</string>
+    <string name="virtualizer">Виртуализатор</string>
+    <string name="bass">Бас</string>
+    <string name="rename">"Аталышын өзгөртүү"</string>
+    <string name="remove_custom_preset_warning_message">%1$s өчүрүүнү каалайсызбы?</string>
+    <string name="picker_title">Музыка эффекттерин башкаруу панели</string>
+</resources>

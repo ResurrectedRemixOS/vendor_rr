@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">Яриа явагдаж байх үед</string>
+    <string name="incall_enable_dnd_title">Яриа явж байх үед Бүү саад бол-ыг идэвхжүүлэх</string>
+    <string name="incall_vibrate_outgoing_title">Хариулахад чичрэх</string>
+    <string name="incall_vibrate_call_waiting_title">Хүлээлтийн дуудлагад чичрэх</string>
+    <string name="incall_vibrate_hangup_title">Тасрахад чичрэх</string>
+    <string name="incall_vibrate_45_title">Минут бүр чичрэх</string>
+    <string name="incall_vibrate_45_summary">Гарах дуудлагын үеэр минут бүрийн 45 дахь секундэд чичрэнэ</string>
+    <string name="incall_dnd_dialog_message">Бүү саад бол-ыг идэвхжүүлэхийн тулд Утас аппд Бүү саад бол-ын төлөвийг удирдах зөвшөөрөл олгох шаардлагатай.\nЗөвшөөрнө үү.</string>
+    <string name="allow">"Зөвшөөрөх"</string>
+    <string name="deny">"Татгалзах"</string>
+    <string name="call_recording_category_title">Дуудлага бичих</string>
+    <string name="call_recording_format">Аудио формат</string>
+    <string name="call_via">Дамжуулан залгах</string>
+    <string name="call_via_dialog_title">Дамжуулан залгах…</string>
+    <string name="call_log_stats_title">Статистик</string>
+    <string name="action_menu_helplines">Туслах утсууд</string>
+    <string name="default_dialer_text">Үүнийг ашиглахын тулд Залгагчийг үндсэн утасны апп болгох шаардлагатай.</string>
+    <string name="default_dialer_action">"Өгөгдмөлөөр тохируулах"</string>
+</resources>

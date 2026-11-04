@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="ssl_error_warning">Tá fadhbanna slándála ag baint leis an líonra atá tú ag iarraidh dul isteach ann.</string>
+    <string name="ssl_error_example">Mar shampla, b’fhéidir nach leis an eagraíocht a thaispeántar an leathanach logála isteach.</string>
+    <string name="ssl_error_continue">Lean ar aghaidh ar aon nós tríd an mbrabhsálaí</string>
+    <string name="performance_boost_notification_button_not_now">Ní anois</string>
+    <string name="performance_boost_notification_button_manage">Bainistigh</string>
+</resources>

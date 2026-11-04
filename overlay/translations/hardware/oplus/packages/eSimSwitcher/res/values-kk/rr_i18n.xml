@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM параметрлері</string>
+    <string name="esim_toggle_title">eSIM</string>
+    <string name="esim_toggle_summary">Виртуалды SIM картасын пайдалану үшін оператор профилін жүктеп, белсендіріңіз</string>
+    <string name="esim_toggle_dialog_cancel">"Бас тарту"</string>
+</resources>

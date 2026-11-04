@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="crop_wallpaper">Recortar fondo de pantalla</string>
+    <string name="wallpaper_instructions">"Establecer fondo de pantalla"</string>
+    <string name="wallpaper_load_fail">Non se puido cargar a imaxe como fondo de pantalla</string>
+</resources>

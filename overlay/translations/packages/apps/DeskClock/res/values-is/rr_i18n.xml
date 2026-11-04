@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="alarm_missed_channel">Ósvöruð vekjaraklukkuviðvörun</string>
+    <string name="alarm_snooze_channel">Vekjarar í bið</string>
+    <string name="widget_name_transparent">Ekki öryggisafrituð</string>
+    <string name="widget_name_solid">Öryggisafrituð</string>
+    <string name="night_mode_enabled_title">"Virkt"</string>
+    <string name="night_mode_dnd_title">Fylgja stöðu Ónáðið ekki</string>
+    <string name="night_mode_dnd_summary">Næturhamur fylgir stöðu Ónáðið ekki</string>
+    <string name="show_ampm_title">Sýna AM/PM-vísi</string>
+    <string name="bold_text_title">Feitletraður klukkutexti</string>
+    <string name="night_mode_brightness_text_title">"Birtustig"</string>
+    <string name="clock_color_title">"Litur"</string>
+    <string-array name="clock_color_entries">
+        <item>"Hvítur"</item>
+        <item>"Rauður"</item>
+        <item>"Grænn"</item>
+        <item>"Blár"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"Skjávari"</string>
+    <string name="screensaver_preview">"Forskoða"</string>
+    <string name="screensaver_preview_summary">Ræsir skjávara strax</string>
+    <string name="screensaver_change_settings_summary">Opnar stillingar skjávara í Klukku</string>
+    <string name="screensaver_daydream_settings">Velja/virkja skjávara</string>
+    <string name="screensaver_daydream_settings_summary">Opnar aðalstillingar skjávara</string>
+</resources>

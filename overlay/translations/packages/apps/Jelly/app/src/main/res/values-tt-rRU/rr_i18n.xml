@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="url_bar_search_clear">Эзләүне чистарту</string>
+    <string name="menu_fav_add">Сайланмаларга өстәү</string>
+    <string name="menu_settings">Көйләүләр</string>
+    <string name="background_shortcuts_save_action">Саклау</string>
+    <string name="settings_title">Көйләүләр</string>
+    <string name="pref_location_title">Урнашу урыны</string>
+    <string name="favorite_added">Сайланмаларга өстәлде</string>
+    <string name="protected_media_dialog_deny">Кире кагу</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Herbegin…</string>
+    <string name="global_action_restart_recovery">"Herwin"</string>
+    <string name="global_action_restart_bootloader">Bootlaaier</string>
+    <string name="global_action_restart_download">"Laai af"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Herbegin tans …"</string>
+    <string name="global_action_restart_recovery_progress">Herbegin na herstelmodus…</string>
+    <string name="global_action_restart_bootloader_progress">Herbegin na laaiermodus…</string>
+    <string name="global_action_restart_download_progress">Herbegin na aflaaimodus…</string>
+    <string name="global_action_restart_fastboot_progress">Herbegin na fastbootd-modus…</string>
+    <string name="global_action_current_user">Huidige</string>
+    <string name="global_action_users">"Gebruikers"</string>
+    <string name="clock">"Horlosie"</string>
+    <string name="accessibility_adaptive_brightness">"Aanpasbare helderheid"</string>
+    <string name="status_bar_icons_title">Statusbalkikone</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD af\nBatterybesparing</string>
+    <string name="quick_settings_powershare_label">Draadlose PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Draadlose PowerShare af\nBatterybesparing</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Draadlose PowerShare af\nBattery te laag</string>
+    <string name="quick_settings_powershare_enabled_label">Draadlose PowerShare is aangeskakel</string>
+    <string name="quick_settings_reading_mode">Leesmodus</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Leesmodus aan.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Leesmodus af.</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Koppel aan…</string>
+    <string name="vpn_credentials_hint">Voer asseblief jou magtigings in om aan <xliff:g id="name">%s</xliff:g> te koppel</string>
+    <string name="vpn_credentials_username">"Gebruikernaam"</string>
+    <string name="vpn_credentials_password">"Wagwoord"</string>
+    <string name="vpn_credentials_dialog_connect">"Koppel"</string>
+    <string name="status_bar_firewall">Vuurmuur</string>
+    <string name="battery_notification_channel_tv">Batterywaarskuwing</string>
+    <string name="screenshot_delete_label">"Vee uit"</string>
+    <string name="screenshot_delete_description">Vee skermskoot uit</string>
+    <string name="screenrecord_lowquality_label">Laer gehalte</string>
+    <string name="screenrecord_lowquality_summary">Vir kleiner lêergrootte</string>
+    <string name="screenrecord_longer_timeout_switch_label">Groter lêergrootte-limiet</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Beperk opnamegrootte tot 15 GB</string>
+    <string name="screenrecord_skip_time_label">Oorslaan-timer</string>
+    <string name="screenrecord_skip_time_summary">Verwyder die 3 sekonde wag</string>
+    <string name="screenrecord_hevc_switch_label">HEVC-enkodering</string>
+    <string name="screenrecord_hevc_switch_summary">Gebruik die doeltreffender HEVC-enkodeerder</string>
+    <string name="zen_alarm_warning_indef">"Jy sal nie jou volgende wekker om <xliff:g id="WHEN">%1$s</xliff:g> hoor nie tensy jy dit voor die tyd afskakel"</string>
+</resources>

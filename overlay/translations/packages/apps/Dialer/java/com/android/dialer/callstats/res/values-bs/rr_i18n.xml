@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hour">
+        <item quantity="one">%d sat</item>
+        <item quantity="few">%d sata</item>
+        <item quantity="other">%d sati</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="one">%d min</item>
+        <item quantity="few">%d min</item>
+        <item quantity="other">%d min</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="one">%d sek</item>
+        <item quantity="few">%d sek</item>
+        <item quantity="other">%d sek</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="one">%d poziv</item>
+        <item quantity="few">%d poziva</item>
+        <item quantity="other">%d poziva</item>
+    </plurals>
+    <string name="call_stats_detail_title">Detalji statistike kontakta</string>
+    <string name="call_stats_incoming">Dolazni: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Odlazni: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Propušteni: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Blokirani: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Ukupno: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">Datum početka</string>
+    <string name="call_stats_filter_to">Datum završetka</string>
+    <string name="call_stats_filter_picker_title">Filtriraj period</string>
+    <string name="date_quick_selection">Brzi odabir</string>
+    <string name="date_qs_currentmonth">Tekući mjesec</string>
+    <string name="date_qs_currentquarter">Tekući kvartal</string>
+    <string name="date_qs_currentyear">Tekuća godina</string>
+    <string name="date_qs_lastweek">"Prošla sedmica"</string>
+    <string name="date_qs_lastmonth">"Prošli mjesec"</string>
+    <string name="date_qs_lastquarter">Prošli kvartal</string>
+    <string name="date_qs_lastyear">"Prošla godina"</string>
+    <string name="call_stats_date_filter">Prilagodi vremenski raspon</string>
+    <string name="call_stats_reset_filter">Poništi vremenski raspon</string>
+    <string name="call_stats_sort_by_duration">Sortiraj po trajanju poziva</string>
+    <string name="call_stats_sort_by_count">Sortiraj po broju poziva</string>
+    <string name="call_stats_title_for_number">Ovaj broj</string>
+    <string name="call_stats_title_of_total">Od ukupnog</string>
+    <string name="call_stats_title_durations">Trajanja poziva</string>
+    <string name="call_stats_title_count">Broj poziva</string>
+    <string name="call_stats_title_average_duration">Prosječno trajanje poziva</string>
+    <string name="recent_calls_no_items_in_range">Vaš dnevnik poziva ne sadrži pozive u odabranom vremenskom periodu.</string>
+</resources>

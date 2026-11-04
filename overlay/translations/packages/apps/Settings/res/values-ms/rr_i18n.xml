@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"lalai"</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"lalai"</item>
+        <item>Ahd</item>
+        <item>Isn</item>
+        <item>Sel</item>
+        <item>Rab</item>
+        <item>Kha</item>
+        <item>Jum</item>
+        <item>Sab</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"lalai"</item>
+        <item>Metrik</item>
+        <item>Sistem AS</item>
+        <item>Sistem UK</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Tidak dinyatakan"</item>
+        <item>Neutral</item>
+        <item>"Feminin"</item>
+        <item>"Maskulin"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>Perancis</item>
+        <item>Sepanyol</item>
+        <item>Itali</item>
+        <item>Jerman</item>
+    </string-array>
+    <string name="keyboard_extras_title">Tambahan</string>
+    <string name="advanced_keyboard_settings_title">"Tetapan terperinci"</string>
+    <string name="adb_enable_root">Nyahpepijat berakar</string>
+    <string name="adb_enable_summary_root">Benarkan nyahpepijat Android dijalankan sebagai root</string>
+    <string name="backup_transport_setting_label">Tukar penyedia sandaran</string>
+    <string name="backup_transport_title">Pilih penyedia sandaran</string>
+    <string name="berry_black_theme_title">Hitam tulen</string>
+    <string name="berry_black_theme_summary">Latar hitam tulen untuk tema gelap</string>
+    <string name="lineagelicense_title">Undang-undang LineageOS</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Anda kini #  langkah lagi untuk mendayakan tetapan pembangunan.} other {Anda kini # langkah lagi untuk mendayakan tetapan pembangunan.} }</string>
+    <string name="show_dev_on_cm">Anda telah mendayakan tetapan pembangunan!</string>
+    <string name="show_dev_already_cm">Tidak perlu, anda sudah mendayakan tetapan pembangunan.</string>
+    <string name="status_bar_double_tap_to_sleep_title">Ketik untuk tidur</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Ketik dua kali pada bar status atau skrin kunci untuk mematikan paparan</string>
+    <string name="high_touch_polling_rate_title">Kadar pengundian sentuhan tinggi</string>
+    <string name="high_touch_polling_rate_summary">Tingkatkan kadar pengundian skrin sentuh</string>
+    <string name="heads_up_notifications_enabled_title">Pemberitahuan timbul</string>
+    <string name="heads_up_notifications_enabled_summary">Paparkan pemberitahuan keutamaan dalam tetingkap terapung kecil</string>
+    <string name="high_touch_sensitivity_title">Kepekaan sentuhan tinggi</string>
+    <string name="high_touch_sensitivity_summary">Tingkatkan kepekaan skrin sentuh supaya ia boleh digunakan semasa memakai sarung tangan</string>
+    <string name="tethering_allow_vpn_upstreams_title">Gunakan VPN untuk peranti yang disambungkan</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Apabila peranti ini menggunakan VPN, semua peranti yang disambung ke hotspot akan menggunakan VPN yang sama</string>
+    <string name="lock_settings_picker_pattern_size_message">Pilih saiz corak</string>
+    <string name="lockpattern_settings_enable_error_path_title">Paparkan ralat corak</string>
+    <string name="lockpattern_settings_enable_dots_title">Paparkan titik corak</string>
+    <string name="max_refresh_rate_title">Kadar penyegaran puncak</string>
+    <string name="min_refresh_rate_title">Kadar penyegaran minimum</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Cari penderia cap jari di bahagian hadapan tablet anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Cari penderia cap jari di bahagian hadapan peranti anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Cari penderia cap jari di bahagian hadapan telefon anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Cari penderia cap jari di bahagian belakang tablet anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Cari penderia cap jari di bahagian belakang peranti anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Cari penderia cap jari di bahagian belakang telefon anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Cari penderia cap jari di bahagian sisi tablet anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Cari penderia cap jari di bahagian sisi peranti anda.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Cari penderia cap jari di bahagian sisi telefon anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Sentuh penderia di bahagian hadapan tablet anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Sentuh penderia di bahagian hadapan peranti anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Sentuh penderia di bahagian hadapan telefon anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Sentuh penderia di bahagian belakang tablet anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Sentuh penderia di bahagian belakang peranti anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Sentuh penderia di bahagian belakang telefon anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Sentuh penderia di bahagian sisi tablet anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Sentuh penderia di bahagian sisi peranti anda.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Sentuh penderia di bahagian sisi telefon anda.</string>
+    <string name="show_navbar_hint_title">Petunjuk navigasi</string>
+    <string name="show_navbar_hint_summary">Paparkan bar petunjuk navigasi di bahagian bawah skrin</string>
+    <string name="auto_brightness_one_shot_title">Kecerahan auto satu kali</string>
+    <string name="auto_brightness_one_shot_summary">Pelarasan kecerahan hanya berlaku pada saat skrin dihidupkan</string>
+    <string name="data_usage_app_restrict_all">Benarkan akses rangkaian</string>
+    <string name="data_usage_app_restrict_all_summary">Dayakan penggunaan rangkaian</string>
+    <string name="data_usage_app_restrict_mobile">"Data mudah alih"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Dayakan penggunaan data mudah alih</string>
+    <string name="data_usage_app_restrict_vpn">Data VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">Dayakan penggunaan data VPN</string>
+    <string name="data_usage_app_restrict_wifi">"Data Wi‑Fi"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Dayakan penggunaan data Wi‑Fi</string>
+    <string name="unlock_scramble_pin_layout_title">Kacau susun atur</string>
+    <string name="unlock_scramble_pin_layout_summary">Kacau susun atur PIN semasa membuka kunci peranti</string>
+    <string name="proximity_wake_title">Elakkan bangun tanpa sengaja</string>
+    <string name="proximity_wake_summary">Semak penderia jarak sebelum mengaktifkan skrin</string>
+    <string name="touchscreen_hovering_title">Skrin sentuh berlegar</string>
+    <string name="touchscreen_hovering_summary">Membolehkan anda menggerakkan kursor di atas skrin seperti tetikus dalam pelayar web, desktop jauh, dll.</string>
+    <string name="wake_when_plugged_or_unplugged_title">Bangunkan apabila dicas</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Hidupkan skrin apabila menyambung atau memutuskan sumber kuasa</string>
+    <string name="storage_warning_internal">Amaran: Pilihan ini mungkin tidak berfungsi dengan betul atau menyebabkan kehilangan data dan oleh itu tidak disyorkan!</string>
+    <string name="assisted_gps">Guna GPS berbantu</string>
+    <string name="assisted_gps_summary">Muat turun data bantuan satelit dari internet yang boleh meningkatkan prestasi permulaan GPS dengan ketara. Untuk panggilan kecemasan, GPS berbantu sentiasa dibenarkan.</string>
+    <string name="battery_technology">Teknologi</string>
+    <string name="battery_health">"Kesihatan"</string>
+    <string name="battery_health_good">"Baik"</string>
+    <string name="battery_health_overheat">"Terlalu panas"</string>
+    <string name="battery_health_dead">"Mati"</string>
+    <string name="battery_health_over_voltage">"Terlebih voltan"</string>
+    <string name="battery_health_unspecified_failure">Kegagalan tidak dinyatakan</string>
+    <string name="battery_health_cold">"Sejuk"</string>
+    <string name="battery_health_unknown">"Tidak diketahui"</string>
+    <string name="battery_temperature">"Suhu"</string>
+    <string name="battery_voltage">Voltan</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Kapasiti reka bentuk</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Kapasiti maksimum</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Lipat telefon semasa persediaan</string>
+    <string name="face_enrolling_close_to_continue_description">Telefon mesti dilipat untuk menyediakan atau menggunakan Buka Kunci Wajah</string>
+    <string name="face_enrolling_do_it_later">"Buat kemudian"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">Alat SIM</string>
+    <string name="platform_compat_target_sdk_title">Didayakan untuk targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Pengurus Konteks Peribadi</string>
+</resources>

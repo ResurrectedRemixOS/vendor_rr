@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="recent_task_option_split_screen">ئېكراننى بۆل</string>
+    <string name="widget_picker_widget_options_button_description">تېخىمۇ كۆپ تاللانما</string>
+    <string name="suggested_widgets_header_title">تەۋسىيە</string>
+    <string name="all_apps_label">ھەممە ئەپ</string>
+    <string name="notifications_header">ئۇقتۇرۇشلار</string>
+    <string name="uninstall_drop_target_label">ئۆچۈر</string>
+    <string name="app_info_drop_target_label">ئەپ ئۇچۇرى</string>
+    <string name="uninstall_private_system_shortcut_label">ئەپنى ئۆچۈر</string>
+    <string name="install_drop_target_label">ئورنات</string>
+    <string name="widget_settings">تەڭشەكلەر</string>
+    <string name="home_screen_files_context_menu_copy_label">كۆچۈر</string>
+    <string name="home_screen_files_context_menu_rename_label">ئات ئۆزگەرت</string>
+    <string name="home_screen_files_context_menu_move_to_trash_label">ئەخلەتخانىغا يۆتكە</string>
+    <string name="actions_popup_menu_button">ھەرىكەت</string>
+    <string name="permlab_install_shortcut">قىسقا يول ئورنىتىش</string>
+    <string name="notification_dots_desc_on">ئوچۇق</string>
+    <string name="notification_dots_desc_off">تاقاق</string>
+    <string name="package_state_unknown">يوچۇن</string>
+    <string name="abandoned_search">ئىزدە</string>
+    <string name="dialog_update">يېڭىلا</string>
+    <string name="undo">يېنىۋال</string>
+    <string name="action_dismiss_notification">پەرۋا قىلما</string>
+    <string name="work_apps_paused_edu_accept">بىلدىم</string>
+    <string name="developer_options_filter_hint">سۈزگۈچ</string>
+    <string name="ps_container_title">خۇسۇسىي</string>
+    <string name="ps_add_button_label">ئورنات</string>
+    <string name="circle_shape_title">چەمبەر</string>
+    <string name="home_screen_files_rename_dialog_neutral_button">ۋاز كەچ</string>
+    <string name="home_screen_files_rename_dialog_positive_button">ئات ئۆزگەرت</string>
+</resources>

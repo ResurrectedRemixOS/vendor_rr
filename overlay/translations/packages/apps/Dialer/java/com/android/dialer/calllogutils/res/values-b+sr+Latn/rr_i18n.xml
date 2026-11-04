@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_incoming_header">Samo dolazni pozivi</string>
+    <string name="call_log_outgoing_header">Samo odlazni pozivi</string>
+    <string name="call_log_missed_header">Samo propušteni pozivi</string>
+    <string name="call_log_voicemail_header">Samo pozivi sa govornom poštom</string>
+</resources>

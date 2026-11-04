@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material: seguir a configuración do sistema</string>
+    <string name="number_row">Fila de números</string>
+    <string name="number_row_summary">Mostra sempre unha fila de números en todas as disposicións que teñan 4 filas de teclas</string>
+    <string name="number_row_password">Fila de números para contrasinais</string>
+    <string name="number_row_password_summary">Mostra sempre unha fila de números en todas as disposicións que teñan 4 filas de teclas para introducir contrasinais</string>
+    <string name="space_trackpad">Trackpad na barra espazadora</string>
+    <string name="space_trackpad_summary">Desliza sobre a barra espazadora para mover o cursor</string>
+    <string name="backspace_trackpad">Trackpad na tecla de retroceso</string>
+    <string name="backspace_trackpad_summary">Desliza sobre a tecla de retroceso para borrar palabras</string>
+    <string name="show_longpress_hints">Mostrar suxestións de pulsación longa</string>
+    <string name="show_longpress_hints_summary">Mostra suxestións de pulsación longa para as teclas compatibles</string>
+    <string name="show_emoji_key">Mostrar a tecla de emoji</string>
+    <string name="show_emoji_key_summary">Mostra sempre a tecla de emoji. Cando esta opción está activada, non se pode mostrar a tecla de cambio de idioma.</string>
+    <string name="enable_split_keyboard_summary">Só en horizontal</string>
+    <string name="split_keyboard_duplicate_keys">Duplicar as teclas centrais</string>
+    <string name="split_keyboard_duplicate_keys_summary">Mostrar as teclas cercanas ao centro en ambas as metades</string>
+    <string name="spoken_description_split_keyboard">Teclado dividido</string>
+    <string name="spoken_description_merge_keyboard">Unir o teclado</string>
+    <string name="spoken_description_float_keyboard">Teclado flotante</string>
+    <string name="spoken_description_dock_keyboard">Acoplar o teclado</string>
+    <string name="floating_keyboard_drag_handle">Mover o teclado</string>
+    <string name="floating_keyboard_resize_handle">Cambiar o tamaño do teclado</string>
+    <string name="floating_keyboard_reset">"Restablecer"</string>
+    <string name="floating_keyboard_hide">Ocultar o teclado</string>
+    <string name="floating_keyboard_switch_ime">"Cambia o método de introdución"</string>
+</resources>

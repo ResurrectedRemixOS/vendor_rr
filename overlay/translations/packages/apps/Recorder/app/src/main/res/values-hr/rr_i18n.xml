@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share_selected">Podijeli odabrano</string>
+    <string name="delete_all">Izbriši sve</string>
+    <string name="delete_selected">Izbriši odabrano</string>
+    <string name="confirm">"Potvrdi"</string>
+    <string name="discard">"Odbaci"</string>
+    <string name="record_again">Snimi ponovo</string>
+    <string name="confirm_result_title">Upotrijebiti snimku?</string>
+    <string name="confirm_result_message">Želite li upotrijebiti posljednju snimku?</string>
+    <string name="dialog_permissions_notifications">Snimač treba dopuštenje za obavijesti kako bi prikazao upravljačke elemente snimanja</string>
+    <string name="dialog_permissions_mic_notifications">Snimaču je potrebno dopuštenje za mikrofon za snimanje zvuka i dopuštenje za obavijesti za prikaz upravljačkih elemenata snimanja</string>
+    <string name="dialog_permissions_phone_notifications">Snimaču je potreban pristup stanju telefona kako bi spriječio snimanje tijekom poziva te dopuštenje za obavijesti za prikaz upravljačkih elemenata snimanja</string>
+    <string name="dialog_permissions_mic_phone_notifications">Snimaču je potrebno dopuštenje za mikrofon za snimanje zvuka, pristup stanju telefona kako bi spriječio snimanje tijekom poziva te dopuštenje za obavijesti za prikaz upravljačkih elemenata snimanja</string>
+    <string name="delete_all_title">Izbriši sve</string>
+    <string name="delete_all_message">Želite li sigurno izbrisati sve snimke? Ova radnja se ne može poništiti</string>
+    <string name="delete_selected_title">Izbriši odabrano</string>
+    <string name="delete_selected_message">Želite li sigurno izbrisati odabrane snimke? Ova radnja se ne može poništiti</string>
+</resources>

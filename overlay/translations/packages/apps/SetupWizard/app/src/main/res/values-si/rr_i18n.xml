@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">පිහිටුවීම් විශාරද</string>
+    <string name="cancel">"අවලංගු කරන්න"</string>
+    <string name="next">ඊළඟ</string>
+    <string name="finish">අවසන්</string>
+    <string name="skip">මඟ හරින්න</string>
+    <string name="start">"අරඹන්න"</string>
+    <string name="done">"නිමයි"</string>
+    <string name="ok">"හරි"</string>
+    <string name="loading">"තත්පරයක් ඉන්න…"</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g> වෙත සාදරයෙන් පිළිගනිමු</string>
+    <string name="setup_managed_profile_welcome_message">ඔබේ කාර්ය පැතිකඩ සකසන්න</string>
+    <string name="emergency_call">"හදිසි ඇමතුම"</string>
+    <string name="accessibility_settings">"ළඟාවීමේ සැකසීම්"</string>
+    <string name="device_info">"උපාංග තතු"</string>
+    <string name="device_information">"උපාංග තොරතුරු"</string>
+    <string name="device_info_serial">"අනුක්‍රමික අංකය"</string>
+    <string name="setup_locale">"භාෂාව"</string>
+    <string name="sim_locale_changed">%1$s SIM හඳුනා ගෙන ඇත</string>
+    <string name="setup_euicc">eSIM සකසන්න</string>
+    <string name="setup_sim_missing">SIM කාඩ්පත නොමැත</string>
+    <string name="esim_support_summary">eSIM එකක් සකසන්න හෝ SIM කාඩ්පතක් ඇතුළු කරන්න. SIM කාඩ්පතක් ඇතුළු කිරීමට, ඔබේ උපාංගය සමග ලබා දුන් උපදෙස් කියවන්න.</string>
+    <string name="sim_missing_summary" product="tablet">ඔබේ ටැබ්ලටයේ SIM කාඩ්පතක් හඳුනාගෙන නැත. SIM කාඩ්පතක් ඇතුළු කිරීමට, ඔබේ උපාංගය සමග ලබා දුන් උපදෙස් කියවන්න.</string>
+    <string name="sim_missing_summary" product="default">ඔබේ දුරකථනයේ SIM කාඩ්පතක් හඳුනාගෙන නැත. SIM කාඩ්පතක් ඇතුළු කිරීමට, ඔබේ උපාංගය සමග ලබා දුන් උපදෙස් කියවන්න.</string>
+    <string name="sim_missing_skip_title">SIM සැකසීම අතහරින්නද?</string>
+    <string name="sim_missing_skip_message">මෙම පියවර මඟ හැරියහොත්, සැකසීම් තුළ SIM එකක් සකසන තුරු ඔබ ජංගම ජාලයකට සම්බන්ධ නොවනු ඇත.</string>
+    <string name="setup_datetime">"දිනය සහ වේලාව"</string>
+    <string name="date_time_summary">ඔබේ වේලා කලාපය සකසා අවශ්‍ය නම් වර්තමාන දිනය සහ වේලාව සීරුමාරු කරන්න</string>
+    <string name="setup_current_date">වර්තමාන දිනය</string>
+    <string name="setup_current_time">වර්තමාන වේලාව</string>
+    <string name="setup_datetime_section_date">"දිනය"</string>
+    <string name="setup_datetime_section_time">"වේලාව"</string>
+    <string name="setup_date_format">"ෆෝමැට් කරන්න"</string>
+    <string name="date_format_day">"දිනය"</string>
+    <string name="date_format_month">"මාසය"</string>
+    <string name="date_format_year">"වසර"</string>
+    <string name="setup_time_zone">"කාල කලාපය"</string>
+    <string name="setup_24_hour_format">"පැය 24 ආකාරය භාවිත කරන්න"</string>
+    <string name="intro_restore_title">යෙදුම් සහ දත්ත ප්‍රතිෂ්ඨාපනය කරන්න</string>
+    <string name="intro_restore_subtitle"><xliff:g id="name" example="LineageOS">%s</xliff:g> හෝ වෙනත් OS එකකින් ඔබට Seedvault උපස්ථයක් තිබේ නම්, එය මෙහි ප්‍රතිෂ්ඨාපනය කළ හැක.</string>
+    <string name="intro_restore_button">උපස්ථයෙන් ප්‍රතිෂ්ඨාපනය කරන්න</string>
+    <string name="setup_location">"ස්ථාන සේවා"</string>
+    <string name="location_summary">ඔබේ උපාංගය ස්ථානය කළමනාකරණය කරන ආකාරය තෝරන්න</string>
+    <string name="location_access_title">"ස්ථානය භාවිත කරන්න"</string>
+    <string name="location_agps_access_title">වැඩිදියුණු කළ ස්ථානය</string>
+    <string name="location_access_summary">ඔබේ ස්ථාන තොරතුරු භාවිත කිරීමට ඔබේ අවසරය ඉල්ලා ඇති යෙදුම්වලට ඉඩ දෙන්න. මෙයට ඔබේ වත්මන් ස්ථානය සහ පෙර ස්ථාන ඇතුළත් විය හැක.</string>
+    <string name="location_agps_access_summary">ස්ථානය සක්‍රිය විට, අන්තර්ජාලයෙන් චන්ද්‍රිකා සහාය දත්ත බාගන්න, එමඟින් GPS ආරම්භ කිරීමේ කාර්ය සාධනය විශාල ලෙස වැඩි දියුණු කළ හැක.</string>
+    <string name="update_recovery_title">Resurrected Remix ප්‍රතිසාධනය යාවත්කාලීන කරන්න</string>
+    <string name="update_recovery_description">සෑම යාවත්කාලීනයකින් පසුව පළමු ආරම්භයේදී Resurrected Remix ප්‍රතිසාධනය යාවත්කාලීන කරයි.</string>
+    <string name="update_recovery_warning">ඔබ සැකසීම අවසන් කළ පසු ප්‍රතිසාධනය යාවත්කාලීන වනු ඇත. එය එලෙසම තබා ගැනීමට ඔබ කැමති නම්, මෙම විශේෂාංගය අක්‍රිය කරන්න.</string>
+    <string name="update_recovery_setting">OS සමඟ Resurrected Remix ප්‍රතිසාධනය යාවත්කාලීන කරන්න</string>
+    <string name="setup_services">Resurrected Remix විශේෂාංග</string>
+    <string name="services_pp_explanation">මෙම සේවා ඔබේ උපාංගයේ හැකියාවන් පුළුල් කිරීමට ඔබ වෙනුවෙන් ක්‍රියා කරයි. දත්ත <xliff:g id="name" example="LineageOS">%1$s</xliff:g> හි පෞද්ගලිකත්ව ප්‍රතිපත්තියට අනුකූලව භාවිත කෙරේ.</string>
+    <string name="services_find_privacy_policy">ඔබට වෙනත් උපාංගයක පෞද්ගලිකත්ව ප්‍රතිපත්තිය මෙහි පිවිසීමෙන් කියවිය හැක:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> වැඩිදියුණු කිරීමට උපකාරී වන්න</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="LineageOS">%2$s</xliff:g> වෙත රෝග විනිශ්චය සහ භාවිත දත්ත ස්වයංක්‍රීයව යැවීමෙන් <xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g>. මෙම තොරතුරු ඔබව හඳුනා ගැනීමට භාවිත කළ නොහැකි අතර බැටරි ආයු කාලය, යෙදුම් කාර්ය සාධනය සහ නව <xliff:g id="name" example="LineageOS">%3$s</xliff:g> විශේෂාංග වැනි දේවල් මත වැඩ කරන කණ්ඩායම් වලට උපකාරී වේ.</string>
+    <string name="services_metrics_title">රෝග විනිශ්චය දත්ත දායක කරන්න</string>
+    <string name="services_os_nav_keys_label">දෘඪාංග යතුරු වෙනුවට <b>තිරය මත සංචලන යතුරු භාවිත කරන්න</b>.</string>
+    <string name="setup_navigation">සංචලනය</string>
+    <string name="navigation_summary">කැමති සංචලන ක්‍රමය තෝරන්න</string>
+    <string name="gesture_navigation">"අභින සංචලනය"</string>
+    <string name="navbar_navigation">"3-බොත්තම් සංචලනය"</string>
+    <string name="gesture_navigation_short">ඉංගිත</string>
+    <string name="hide_gesture_hint">ඉංගිත සංචලන ඉඟිය සඟවන්න</string>
+    <string name="setup_theme">"තේමාව"</string>
+    <string name="theme_summary">අඳුරු තේමාව සමහර තිරවල බැටරි ආයු කාලය දීර්ඝ කිරීමට කළු පසුබිමක් භාවිත කරයි</string>
+    <string name="dark">අඳුරු</string>
+    <string name="light">"සැහැල්ලු"</string>
+    <string name="pure_black_theme">සිසිල් කළු පසුබිම භාවිත කරන්න</string>
+    <string name="theme_preview">තේමා පෙරදසුන</string>
+    <string name="swipe_up_to_go_home">"මුල් පිටුවට යාමට ඉහළට ස්වයිප් කරන්න"</string>
+    <string name="tap_home_to_go_home">මුල් පිටුවට යාමට මැද සංචලන නිරූපකය තට්ටු කරන්න</string>
+    <string name="press_center_to_go_home">මුල් පිටුවට යාමට මැද බොත්තම එබීම</string>
+</resources>

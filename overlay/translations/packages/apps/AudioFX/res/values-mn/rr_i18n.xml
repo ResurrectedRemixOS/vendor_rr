@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX нь таны үндсэн эффектийн удирдлагын самбар биш.</string>
+    <string name="snack_bar_not_default_set">"Өгөгдмөлөөр тохируулах"</string>
+    <string name="snack_bar_not_default_not_now">"Одоо биш"</string>
+    <string name="normal">Энгийн</string>
+    <string name="classical">"Сонгодог"</string>
+    <string name="dance">"Бүжиг"</string>
+    <string name="flat">Хавтгай</string>
+    <string name="folk">"Ардын хөгжим"</string>
+    <string name="heavy_metal">"Хүнд металл"</string>
+    <string name="hip_hop">"Хип Хоп"</string>
+    <string name="electronic">Электрон</string>
+    <string name="small_speakers">Жижиг чанга яригч</string>
+    <string name="multimedia">Мультимедиа</string>
+    <string name="custom">Өөрийн</string>
+    <string name="custom_n">Захиалгат <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">Чанга яригчийн горимд эффект боломжгүй.</string>
+    <string name="device_headset">"Чихэвч"</string>
+    <string name="device_speaker">"Чанга яригч"</string>
+    <string name="device_line_out">Шугаман гаралт</string>
+    <string name="reverb">Реверб</string>
+    <string name="devices">"Төхөөрөмжүүд"</string>
+    <string name="virtualizer">Виртуалайзер</string>
+    <string name="bass">Бас</string>
+    <string name="rename">"Нэр өөрчлөх"</string>
+    <string name="remove_custom_preset_warning_message">%1$s-г устгахдаа итгэлтэй байна уу?</string>
+    <string name="picker_title">Хөгжмийн эффектийн удирдлагын самбар</string>
+</resources>

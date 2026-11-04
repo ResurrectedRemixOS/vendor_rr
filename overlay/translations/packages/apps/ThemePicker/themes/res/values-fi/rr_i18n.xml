@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Klassinen</string>
+    <string name="bundle1_color_name">Hiili</string>
+    <string name="bundle2_color_name">Paperi</string>
+    <string name="bundle3_color_name">Aurinko</string>
+    <string name="bue_color_name">Laventeli</string>
+    <string name="red_color_name">Karhunvatukka</string>
+    <string name="wht_color_name">Sumu</string>
+    <string name="indigo_color_name">Indigo</string>
+    <string name="iris_color_name">Iiris</string>
+    <string name="jade_color_name">Jade</string>
+    <string name="lemongrass_color_name">Sitruunaruoho</string>
+    <string name="moonstone_color_name">Kuunkivi</string>
+    <string name="obsidian_color_name">Obsidiaani</string>
+    <string name="peony_color_name">Pioni</string>
+    <string name="porcelain_color_name">Posliini</string>
+    <string name="fruit1_color_name">Keltainen ja punainen kaksivärinen paletti</string>
+    <string name="fruit2_color_name">Vihreä ja oranssi kaksivärinen paletti</string>
+    <string name="fruit3_color_name">Sininen ja vihreä kaksivärinen paletti</string>
+    <string name="fruit4_color_name">Vaaleanvioletti ja sininen kaksivärinen paletti</string>
+    <string name="fruit5_color_name">Vaaleanpunainen ja indigo kaksivärinen paletti</string>
+</resources>

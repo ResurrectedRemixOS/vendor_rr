@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Qalisa kabusha…</string>
+    <string name="global_action_restart_system">"Isistimu"</string>
+    <string name="global_action_restart_recovery">"Ukuthola"</string>
+    <string name="global_action_restart_bootloader">I-Bootloader</string>
+    <string name="global_action_restart_download">"Landa"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Iqala kabusha…"</string>
+    <string name="global_action_restart_recovery_progress">Iqalisa kabusha kumodi yokubuyisela…</string>
+    <string name="global_action_restart_bootloader_progress">Iqalisa kabusha kumodi ye-bootloader…</string>
+    <string name="global_action_restart_download_progress">Iqalisa kabusha kumodi yokulanda…</string>
+    <string name="global_action_restart_fastboot_progress">Iqalisa kabusha kumodi ye-fastbootd…</string>
+    <string name="global_action_current_user">Okwamanje</string>
+    <string name="global_action_users">"Abasebenzisi"</string>
+    <string name="clock">"Iwashi"</string>
+    <string name="accessibility_adaptive_brightness">"Ukukhanya okuguqukayo"</string>
+    <string name="status_bar_icons_title">Izithonjana zebha yesimo</string>
+    <string name="quick_settings_ambient_display_label">"Isibonisi esi-Ambient"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Isikrini esicimile sokulindile sivuliwe.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Isikrini sokulindile sivuliwe.</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">I-AOD icimile\nIsilondolozi sebhethri</string>
+    <string name="quick_settings_caffeine_label">"I-Caffeine"</string>
+    <string name="accessibility_quick_settings_caffeine_off">I-Caffeine icimile.</string>
+    <string name="accessibility_quick_settings_caffeine_on">I-Caffeine ivuliwe.</string>
+    <string name="quick_settings_heads_up_label">Isaziso esiphakamayo</string>
+    <string name="accessibility_quick_settings_heads_up_off">Isaziso esiphakamayo sicimile.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Isaziso esiphakamayo sivuliwe.</string>
+    <string name="quick_settings_powershare_label">Wireless PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">I-Wireless PowerShare icimile\nIsilondolozi sebhethri</string>
+    <string name="quick_settings_powershare_off_low_battery_label">I-Wireless PowerShare icimile\nIbhethri lisephansi kakhulu</string>
+    <string name="quick_settings_powershare_enabled_label">I-Wireless PowerShare ivuliwe</string>
+    <string name="quick_settings_reading_mode">Imodi yokufunda</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Imodi yokufunda ivuliwe.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Imodi yokufunda icimile.</string>
+    <string name="quick_settings_sync_label">"Vumelanisa"</string>
+    <string name="accessibility_quick_settings_sync_off">Ukuvumelanisa kucimile.</string>
+    <string name="accessibility_quick_settings_sync_on">Ukuvumelanisa kuvuliwe.</string>
+    <string name="quick_settings_profiles_label">Amaphrofayili wesistimu</string>
+    <string name="accessibility_quick_settings_profiles_off">Amaphrofayili acimile.</string>
+    <string name="accessibility_quick_settings_profiles">Iphrofayili: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"Imodemu nge-USB"</string>
+    <string name="quick_settings_vpn_label">"I-VPN"</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Xhumeka ku…</string>
+    <string name="vpn_credentials_hint">Sicela uthayiphe izitifiketi zakho zokuxhuma ku-<xliff:g id="name">%s</xliff:g></string>
+    <string name="vpn_credentials_username">"Igama lomsebenzisi"</string>
+    <string name="vpn_credentials_password">"Iphasiwedi"</string>
+    <string name="vpn_credentials_dialog_connect">"Xhuma"</string>
+    <string name="status_bar_firewall">Ifayili yomlilo</string>
+    <string name="battery_notification_channel_tv">Isixwayiso sebhethri</string>
+    <string name="screenshot_delete_label">"Susa"</string>
+    <string name="screenshot_delete_description">Susa isithombe-skrini</string>
+    <string name="screenrecord_lowquality_label">Ikhwalithi ephansi</string>
+    <string name="screenrecord_lowquality_summary">Ngosayizi womfaka omncane</string>
+    <string name="screenrecord_longer_timeout_switch_label">Umkhawulo omkhulu wosayizi wefayili</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Khawulela usayizi wokurekhoda ku-15 GB</string>
+    <string name="screenrecord_skip_time_label">Yeqa isikhathi</string>
+    <string name="screenrecord_skip_time_summary">Susa ukulinda kwamasekhondi angu-3</string>
+    <string name="screenrecord_hevc_switch_label">Ukufakwa kwekhodi ye-HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Sebenzisa i-HEVC encoder esebenza kahle kakhulu</string>
+    <string name="zen_alarm_warning_indef">"Ngeke uzwe i-alamu yakho elandelayo ngo-<xliff:g id="WHEN">%1$s</xliff:g> ngaphandle kokuthi uvale lokhu ngaphambi kwalokho"</string>
+</resources>

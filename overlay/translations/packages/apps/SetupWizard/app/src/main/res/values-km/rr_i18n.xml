@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">កម្មវិធីណែនាំការដំឡើង</string>
+    <string name="cancel">"បោះបង់"</string>
+    <string name="next">បន្ទាប់</string>
+    <string name="finish">រួចរាល់</string>
+    <string name="skip">រំលង</string>
+    <string name="start">"ចាប់ផ្ដើម"</string>
+    <string name="done">"រួចរាល់"</string>
+    <string name="ok">"យល់ព្រម"</string>
+    <string name="loading">"សូមរង់ចាំ​មួយភ្លែត…"</string>
+    <string name="setup_welcome_message">សូមស្វាគមន៍មកកាន់ <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">កំណត់ប្រវត្តិការងាររបស់អ្នក</string>
+    <string name="emergency_call">"ការហៅ​ទូរសព្ទសង្គ្រោះ​បន្ទាន់"</string>
+    <string name="accessibility_settings">"កំណត់​ការ​ចូល​ដំណើរការ"</string>
+    <string name="device_info">"ព័ត៌មានឧបករណ៍"</string>
+    <string name="device_information">"ព័ត៌មានឧបករណ៍"</string>
+    <string name="device_info_serial">"លេខស៊េរី"</string>
+    <string name="setup_locale">"ភាសា"</string>
+    <string name="sim_locale_changed">បានរកឃើញស៊ីមកាត %1$s</string>
+    <string name="setup_euicc">កំណត់ eSIM</string>
+    <string name="setup_sim_missing">គ្មានស៊ីមកាត</string>
+    <string name="esim_support_summary">កំណត់ eSIM ឬដាក់ស៊ីមកាត។ ដើម្បីដាក់ស៊ីមកាត សូមអានការណែនាំដែលមកជាមួយឧបករណ៍របស់អ្នក។</string>
+    <string name="sim_missing_summary" product="tablet">មិនបានរកឃើញស៊ីមកាតនៅក្នុងថេប្លេតរបស់អ្នកទេ។ ដើម្បីដាក់ស៊ីមកាត សូមអានការណែនាំដែលមកជាមួយឧបករណ៍របស់អ្នក។</string>
+    <string name="sim_missing_summary" product="default">មិនបានរកឃើញស៊ីមកាតនៅក្នុងទូរស័ព្ទរបស់អ្នកទេ។ ដើម្បីដាក់ស៊ីមកាត សូមអានការណែនាំដែលមកជាមួយឧបករណ៍របស់អ្នក។</string>
+    <string name="sim_missing_skip_title">ចង់រំលងការកំណត់ស៊ីមឬ?</string>
+    <string name="sim_missing_skip_message">ប្រសិនបើអ្នករំលងជំហាននេះ អ្នកនឹងមិនភ្ជាប់ទៅបណ្តាញចល័តរហូតដល់អ្នកកំណត់ស៊ីមនៅក្នុងការកំណត់ទេ។</string>
+    <string name="setup_datetime">"កាលបរិច្ឆេទ និងម៉ោង"</string>
+    <string name="date_time_summary">កំណត់តំបន់ម៉ោងរបស់អ្នក និងកែកាលបរិច្ឆេទ និងម៉ោងបច្ចុប្បន្ន ប្រសិនបើចាំបាច់</string>
+    <string name="setup_current_date">កាលបរិច្ឆេទបច្ចុប្បន្ន</string>
+    <string name="setup_current_time">ម៉ោងបច្ចុប្បន្ន</string>
+    <string name="setup_datetime_section_date">"កាលបរិច្ឆេទ"</string>
+    <string name="setup_datetime_section_time">"ម៉ោង"</string>
+    <string name="setup_date_format">"ឈូស"</string>
+    <string name="date_format_day">"ថ្ងៃ"</string>
+    <string name="date_format_month">"ខែ"</string>
+    <string name="date_format_year">"ឆ្នាំ"</string>
+    <string name="setup_time_zone">"ល្វែងម៉ោង"</string>
+    <string name="setup_24_hour_format">"ប្រើ​ទម្រង់ 24 ម៉ោង"</string>
+    <string name="intro_restore_title">ស្តារកម្មវិធី និងទិន្នន័យ</string>
+    <string name="intro_restore_subtitle">ប្រសិនបើអ្នកមានការបម្រុងទុក Seedvault ពី <xliff:g id="name" example="LineageOS">%s</xliff:g> ឬ OS ផ្សេងទៀត អ្នកអាចស្តារវានៅទីនេះ។</string>
+    <string name="intro_restore_button">ស្តារពីការបម្រុងទុក</string>
+    <string name="setup_location">"សេវាកម្ម​ទីតាំង"</string>
+    <string name="location_summary">ជ្រើសរើសរបៀបដែលឧបករណ៍របស់អ្នកគ្រប់គ្រងទីតាំង</string>
+    <string name="location_access_title">"ប្រើទីតាំង"</string>
+    <string name="location_agps_access_title">ទីតាំងកម្រិតខ្ពស់</string>
+    <string name="location_access_summary">អនុញ្ញាតកម្មវិធីដែលបានស្នើសុំការអនុញ្ញាតរបស់អ្នកឱ្យប្រើព័ត៌មានទីតាំងរបស់អ្នក។ វាអាចរួមបញ្ចូលទីតាំងបច្ចុប្បន្ន និងទីតាំងពីមុន។</string>
+    <string name="location_agps_access_summary">នៅពេលបើកទីតាំង ទាញយកទិន្នន័យជំនួយផ្កាយរណបពីអ៊ីនធឺណិត ដែលអាចធ្វើឱ្យការចាប់ផ្តើម GPS កាន់តែប្រសើរ។</string>
+    <string name="update_recovery_title">ធ្វើបច្ចុប្បន្នភាពការយកឡើងវិញ Resurrected Remix</string>
+    <string name="update_recovery_description">ធ្វើបច្ចុប្បន្នភាពការយកឡើងវិញ Resurrected Remix នៅពេលចាប់ផ្តើមដំបូងបន្ទាប់ពីការធ្វើបច្ចុប្បន្នភាពនីមួយៗ។</string>
+    <string name="update_recovery_warning">ការយកឡើងវិញនឹងត្រូវបានធ្វើបច្ចុប្បន្នភាពភ្លាមៗនៅពេលអ្នកបញ្ចប់ការកំណត់។ ប្រសិនបើអ្នកចង់រក្សាវាឱ្យនៅដដែល សូមបិទមុខងារនេះ។</string>
+    <string name="update_recovery_setting">ធ្វើបច្ចុប្បន្នភាពការយកឡើងវិញ Resurrected Remix ជាមួយ OS</string>
+    <string name="setup_services">មុខងារ Resurrected Remix</string>
+    <string name="services_pp_explanation">សេវាកម្មទាំងនេះធ្វើការសម្រាប់អ្នក ដើម្បីពង្រីកសមត្ថភាពឧបករណ៍របស់អ្នក។ ទិន្នន័យនឹងត្រូវបានប្រើប្រាស់ស្របតាមគោលការណ៍ឯកជនភាពរបស់ <xliff:g id="name" example="LineageOS">%1$s</xliff:g>។</string>
+    <string name="services_find_privacy_policy">អ្នកអាចអានគោលការណ៍ឯកជនភាពនៅលើឧបករណ៍មួយទៀតដោយចូលទៅកាន់៖</string>
+    <string name="services_help_improve_cm">ជួយកែលម្អ <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> ដោយស្វ័យប្រវត្តិផ្ញើទិន្នន័យវិនិច្ឆ័យ និងការប្រើប្រាស់ទៅ <xliff:g id="name" example="LineageOS">%2$s</xliff:g>។ ព័ត៌មាននេះមិនអាចប្រើដើម្បីកំណត់អត្តសញ្ញាណអ្នកបានទេ ហើយជួយដល់ក្រុមដែលកំពុងធ្វើការលើរឿងដូចជាថាមពលថ្ម ដំណើរការកម្មវិធី និងមុខងារ <xliff:g id="name" example="LineageOS">%3$s</xliff:g> ថ្មី។</string>
+    <string name="services_metrics_title">ចូលរួមចំណែកទិន្នន័យវិនិច្ឆ័យ</string>
+    <string name="services_os_nav_keys_label"><b>ប្រើប៊ូតុងរុករកនៅលើអេក្រង់</b> ជំនួសឱ្យប៊ូតុងផ្នែកភ្លើង។</string>
+    <string name="setup_navigation">ការរុករក</string>
+    <string name="navigation_summary">ជ្រើសរើសវិធីរុករកដែលចង់បាន</string>
+    <string name="gesture_navigation">"ការរុករក​ដោយប្រើចលនា"</string>
+    <string name="navbar_navigation">"ការរុករកដោយប្រើ​​ប៊ូតុង 3"</string>
+    <string name="gesture_navigation_short">ចលនា</string>
+    <string name="hide_gesture_hint">លាក់ការណែនាំចលនារុករក</string>
+    <string name="setup_theme">"ទម្រង់រចនា"</string>
+    <string name="theme_summary">ទម្រង់រចនាងងឹតប្រើផ្ទៃខាងក្រោយពណ៌ខ្មៅ ដើម្បីជួយរក្សាថ្មឱ្យបានយូរនៅលើអេក្រង់មួយចំនួន</string>
+    <string name="dark">ងងឹត</string>
+    <string name="light">"ភ្លឺ"</string>
+    <string name="pure_black_theme">ប្រើផ្ទៃខាងក្រោយពណ៌ខ្មៅសុទ្ធ</string>
+    <string name="theme_preview">ការមើលជាមុនទម្រង់រចនា</string>
+    <string name="swipe_up_to_go_home">"អូស​ឡើង​លើ ​ដើម្បី​ចូលទៅកាន់អេក្រង់ដើម"</string>
+    <string name="tap_home_to_go_home">ប៉ះរូបតំណាងរុករកកណ្តាលដើម្បីត្រលប់ទៅអេក្រង់ដើម</string>
+    <string name="press_center_to_go_home">ចុចប៊ូតុងកណ្តាលដើម្បីត្រលប់ទៅអេក្រង់ដើម</string>
+</resources>

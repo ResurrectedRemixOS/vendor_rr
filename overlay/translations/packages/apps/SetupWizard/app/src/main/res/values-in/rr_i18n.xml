@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="setup_euicc">Siapkan eSIM</string>
+    <string name="esim_support_summary">Siapkan eSIM atau masukkan kartu SIM. Untuk memasukkan kartu SIM, baca petunjuk yang disertakan dengan perangkat Anda.</string>
+    <string name="sim_missing_skip_title">Lewati penyiapan SIM?</string>
+    <string name="sim_missing_skip_message">Jika Anda melewati langkah ini, Anda tidak akan terhubung ke jaringan seluler hingga Anda menyiapkan SIM di Setelan.</string>
+    <string name="intro_restore_subtitle">Jika Anda memiliki cadangan Seedvault dari <xliff:g id="name" example="LineageOS">%s</xliff:g> atau OS lain, Anda dapat memulihkannya di sini.</string>
+    <string name="location_summary">Pilih cara perangkat Anda mengelola lokasi</string>
+    <string name="location_agps_access_title">Lokasi yang ditingkatkan</string>
+    <string name="location_agps_access_summary">Saat lokasi aktif, unduh data bantuan satelit dari internet, yang dapat sangat meningkatkan performa startup GPS.</string>
+    <string name="services_find_privacy_policy">Anda dapat membaca kebijakan privasi di perangkat lain dengan mengunjungi:</string>
+    <string name="services_metrics_title">Kirim data diagnostik</string>
+    <string name="gesture_navigation_short">Gerakan</string>
+    <string name="theme_summary">Tema gelap menggunakan latar belakang hitam untuk membantu menghemat baterai lebih lama di beberapa layar</string>
+    <string name="pure_black_theme">Gunakan latar belakang hitam pekat</string>
+    <string name="swipe_up_to_go_home">"Geser ke atas untuk membuka Layar utama"</string>
+    <string name="tap_home_to_go_home">Ketuk ikon navigasi tengah untuk ke beranda</string>
+    <string name="press_center_to_go_home">Tekan tombol tengah untuk ke beranda</string>
+</resources>

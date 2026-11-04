@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">डिवाइस फ़्लिप क्रिया</string>
+    <string name="shake_action_title">डिवाइस हिलाने की क्रिया</string>
+    <string-array name="action_setting_entries">
+        <item>याद दिलाएं</item>
+        <item>"खारिज करें"</item>
+        <item>"कुछ भी नहीं"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">बजने वाले अलार्म और टाइमर</string>
+    <string name="alarm_missed_channel">छूटे हुए अलार्म</string>
+    <string name="alarm_snooze_channel">स्नूज़ किए गए अलार्म</string>
+    <string name="alarm_upcoming_channel">आने वाले अलार्म</string>
+    <string name="stopwatch_channel">स्टॉपवॉच</string>
+    <string name="timer_channel">टाइमर</string>
+    <string name="add_label">लेबल जोड़ें</string>
+    <string name="dialog_permissions_title">"अनुमतियां"</string>
+    <string name="dialog_permissions_ask">फिर से पूछें</string>
+    <string name="dialog_permissions_dismiss">"खारिज करें"</string>
+    <string name="dialog_permissions_settings">"सेटिंग"</string>
+    <string name="dialog_permissions_power_off_alarm">इस अनुमति के बिना आपका डिवाइस अलार्म बजाने के लिए खुद चालू नहीं हो पाएगा</string>
+    <string name="dialog_permissions_no_permission">ज़रूरी अनुमतियां अस्वीकार की गईं, इन्हें सेटिंग ऐप से सक्षम करें</string>
+    <string name="dialog_permissions_post_notifications">यह ऐप सूचनाओं पर निर्भर है। इनके बिना इसे चलाया नहीं जा सकता!</string>
+    <string name="selected">"चुना गया"</string>
+    <string name="more_options">"ज़्यादा विकल्प"</string>
+    <string name="widget_choice_title">अपनी शैली चुनें</string>
+    <string name="widget_name_transparent">बिना बैकअप</string>
+    <string name="widget_name_solid">बैकअप सहित</string>
+    <string name="night_mode_enabled_title">"चालू है"</string>
+    <string name="night_mode_dnd_title">DND स्थिति का पालन करें</string>
+    <string name="night_mode_dnd_summary">नाइट मोड परेशान न करें की स्थिति का पालन करता है</string>
+    <string name="show_ampm_title">AM/PM संकेतक दिखाएं</string>
+    <string name="bold_text_title">घड़ी का टेक्स्ट बोल्ड करें</string>
+    <string name="night_mode_brightness_text_title">"स्क्रीन की रोशनी"</string>
+    <string name="clock_color_title">"रंग"</string>
+    <string-array name="clock_color_entries">
+        <item>"सफ़ेद"</item>
+        <item>"लाल"</item>
+        <item>"हरा"</item>
+        <item>"नीला"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"स्क्रीन सेवर"</string>
+    <string name="screensaver_preview">"झलक देखें"</string>
+    <string name="screensaver_preview_summary">स्क्रीन सेवर तुरंत शुरू करें</string>
+    <string name="screensaver_change_settings">"सेटिंग"</string>
+    <string name="screensaver_change_settings_summary">घड़ी की स्क्रीन सेवर सेटिंग खोलें</string>
+    <string name="screensaver_daydream_settings">स्क्रीन सेवर चुनें/सक्षम करें</string>
+    <string name="screensaver_daydream_settings_summary">मुख्य स्क्रीन सेवर सेटिंग खोलें</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Boolean маани.</string>
+    <string name="any_int_type_description">Бүтүн сан маани.</string>
+    <string name="any_string_type_description">Сап маани.</string>
+    <string name="display_id_type_description">Системалык дисплей идентификатору (конфигурацияга жараша ички же тышкы болушу мүмкүн).</string>
+    <string name="installed_package_name_type_description">Түзмөккө орнотулган каалаган пакет.</string>
+    <string name="int_in_range_type_description_from">%1$d дан чоң же барабар бүтүн сан, кадам %2$d.</string>
+    <string name="int_in_range_type_description_to">%1$d дан кичине же барабар бүтүн сан, кадам %2$d.</string>
+    <string name="int_in_range_type_description_between">[%1$d, %2$d] диапазонундагы бүтүн сан, кадам %3$d.</string>
+    <string name="time_of_day_type_description">24 сааттык форматта HH:mm түрүндөгү убакыт.</string>
+    <string name="time_duration_type_description">Секунддун тактыгы менен бүтүн сан түрүндөгү убакыт узактыгы.</string>
+    <string name="sim_slot_id_type_description">Жарамдуу SIM слоту ID.</string>
+    <string name="subscription_id_type_description">Жарамдуу жазылуу ID.</string>
+    <string name="wifi_ssid_type_description">Wi-Fi тармагынын SSID.</string>
+</resources>

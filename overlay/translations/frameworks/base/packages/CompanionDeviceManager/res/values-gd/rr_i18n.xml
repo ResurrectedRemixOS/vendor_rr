@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="discovery_wifi">WiFi</string>
+    <string name="profile_name_glasses">uidheam</string>
+    <string name="profile_name_generic">uidheam</string>
+    <string name="consent_yes">Ceadaich</string>
+    <string name="consent_no">Na ceadaich</string>
+    <string name="consent_cancel">Sguir dheth</string>
+    <string name="consent_back">Air ais</string>
+    <string name="permission_phone">Fòn</string>
+    <string name="permission_contacts">Luchd-aithne</string>
+    <string name="permission_calendar">Mìosachan</string>
+    <string name="permission_microphone">Micreofon</string>
+    <string name="permission_call_logs">Loga nan gairm</string>
+    <string name="permission_notifications">Brathan</string>
+    <string name="permission_microphone_summary">Clàraich fuaim</string>
+    <string name="device_type" product="default">fòn</string>
+    <string name="device_type" product="device">uidheam</string>
+</resources>

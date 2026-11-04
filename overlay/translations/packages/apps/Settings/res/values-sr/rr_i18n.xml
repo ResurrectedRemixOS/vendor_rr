@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"подразумевано"</item>
+        <item>целзијус</item>
+        <item>фаренхајт</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"подразумевано"</item>
+        <item>нед</item>
+        <item>пон</item>
+        <item>уто</item>
+        <item>сре</item>
+        <item>чет</item>
+        <item>пет</item>
+        <item>суб</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"подразумевано"</item>
+        <item>метрички</item>
+        <item>амерички систем</item>
+        <item>британски систем</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Није наведено"</item>
+        <item>"Неутрално"</item>
+        <item>"Женски род"</item>
+        <item>"Мушки род"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">Додатно</string>
+    <string name="advanced_keyboard_settings_title">"Напредна подешавања"</string>
+    <string name="backup_transport_setting_label">Промени добављача резервне копије</string>
+    <string name="backup_transport_title">Изаберите добављача резервне копије</string>
+    <string name="berry_black_theme_title">Чисто црна</string>
+    <string name="berry_black_theme_summary">Чисто црна позадина за тамну тему</string>
+    <string name="show_dev_countdown_cm">{count, plural, one {Још # корак до укључивања подешавања за програмере.} few {Још # корака до укључивања подешавања за програмере.} other {Још # корака до укључивања подешавања за програмере.} }</string>
+    <string name="high_touch_polling_rate_title">Велика брзина очитавања додира</string>
+    <string name="high_touch_polling_rate_summary">Повећај брзину очитавања екрана осетљивог на додир</string>
+    <string name="tethering_allow_vpn_upstreams_title">Користи VPN за повезане уређаје</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Када овај уређај користи VPN, сви уређаји повезани на хотспот користиће исти VPN</string>
+    <string name="max_refresh_rate_title">Najviše osvežavanje ekrana</string>
+    <string name="min_refresh_rate_title">Минимална учесталост освежавања</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Пронађите сензор за отисак прста на предњој страни таблета.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Пронађите сензор за отисак прста на предњој страни уређаја.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Пронађите сензор за отисак прста на предњој страни телефона.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Пронађите сензор за отисак прста на задњој страни таблета.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Пронађите сензор за отисак прста на задњој страни уређаја.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Пронађите сензор за отисак прста на задњој страни телефона.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Пронађите сензор за отисак прста на бочној страни таблета.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Пронађите сензор за отисак прста на бочној страни уређаја.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Пронађите сензор за отисак прста на бочној страни телефона.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Додирните сензор на предњој страни таблета.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Додирните сензор на предњој страни уређаја.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Додирните сензор на предњој страни телефона.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Додирните сензор на задњој страни таблета.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Додирните сензор на задњој страни уређаја.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Додирните сензор на задњој страни телефона.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Додирните сензор на бочној страни таблета.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Додирните сензор на бочној страни уређаја.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Додирните сензор на бочној страни телефона.</string>
+    <string name="show_navbar_hint_title">Савет за навигацију</string>
+    <string name="show_navbar_hint_summary">Прикажи траку са саветом за навигацију на дну екрана</string>
+    <string name="auto_brightness_one_shot_title">Једнократно аутоматско подешавање осветљености</string>
+    <string name="auto_brightness_one_shot_summary">Подешавање осветљености се врши само у тренутку укључивања екрана</string>
+    <string name="data_usage_app_restrict_all">Дозволи приступ мрежи</string>
+    <string name="data_usage_app_restrict_all_summary">Омогући коришћење мреже</string>
+    <string name="data_usage_app_restrict_mobile">"Мобилни подаци"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Омогући коришћење мобилних података</string>
+    <string name="data_usage_app_restrict_vpn">VPN подаци</string>
+    <string name="data_usage_app_restrict_vpn_summary">Омогући коришћење VPN података</string>
+    <string name="storage_warning_internal">Упозорење: ова опција можда неће радити исправно или може довести до губитка података, па се не препоручује!</string>
+    <string name="assisted_gps">Користи помоћни GPS</string>
+    <string name="assisted_gps_summary">Преузимајте податке помоћи са сателита са интернета, што може знатно побољшати брзину покретања GPS-а. За хитне позиве помоћни GPS је увек дозвољен.</string>
+    <string name="battery_technology">Технологија</string>
+    <string name="battery_health">"Стање"</string>
+    <string name="battery_health_good">"Добро"</string>
+    <string name="battery_health_overheat">"Прегрејана батерија"</string>
+    <string name="battery_health_dead">"Празна батерија"</string>
+    <string name="battery_health_over_voltage">"Пренапон"</string>
+    <string name="battery_health_unspecified_failure">Непознат квар</string>
+    <string name="battery_health_cold">"Ниска температура"</string>
+    <string name="battery_health_unknown">"Непознато"</string>
+    <string name="battery_temperature">"Температура"</string>
+    <string name="battery_voltage">Напон</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Пројектовани капацитет</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Максимални капацитет</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Савијте телефон током подешавања</string>
+    <string name="face_enrolling_close_to_continue_description">Телефон мора бити савијен да бисте подесили или користили откључавање лицем</string>
+    <string name="face_enrolling_do_it_later">"Урадићу то касније"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM алатке</string>
+    <string name="platform_compat_target_sdk_title">Омогућено за targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Менаџер личног контекста</string>
+</resources>

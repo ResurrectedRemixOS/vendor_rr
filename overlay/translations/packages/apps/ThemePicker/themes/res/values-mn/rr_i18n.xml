@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Сонгодог</string>
+    <string name="bundle1_color_name">Нүүрс</string>
+    <string name="bundle2_color_name">Цаас</string>
+    <string name="bundle3_color_name">Нар</string>
+    <string name="bue_color_name">Лаванда</string>
+    <string name="red_color_name">Жимс</string>
+    <string name="wht_color_name">Манан</string>
+    <string name="indigo_color_name">"Хөх нил ягаан"</string>
+    <string name="iris_color_name">Иris</string>
+    <string name="jade_color_name">Нефрит</string>
+    <string name="lemongrass_color_name">Лимонграсс</string>
+    <string name="moonstone_color_name">Сарны чулуу</string>
+    <string name="obsidian_color_name">Обсидиан</string>
+    <string name="peony_color_name">Пион</string>
+    <string name="porcelain_color_name">Шаазан</string>
+    <string name="fruit1_color_name">Шар ба улаан хоёр өнгийн палитр</string>
+    <string name="fruit2_color_name">Ногоон ба улбар шар хоёр өнгийн палитр</string>
+    <string name="fruit3_color_name">Цэнхэр ба ногоон хоёр өнгийн палитр</string>
+    <string name="fruit4_color_name">Цайвар ягаан ба цэнхэр хоёр өнгийн палитр</string>
+    <string name="fruit5_color_name">Ягаан ба индиго хоёр өнгийн палитр</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX ບໍ່ແມ່ນແຜງຄວບຄຸມເອັບເຟັກຫຼັກຂອງທ່ານ.</string>
+    <string name="snack_bar_not_default_set">"ຕັ້ງຄ່າເລີ່ມຕົ້ນ"</string>
+    <string name="snack_bar_not_default_not_now">"ບໍ່ຟ້າວເທື່ອ"</string>
+    <string name="normal">ປົກກະຕິ</string>
+    <string name="classical">"ຄລາດສິກ"</string>
+    <string name="dance">"ເຕັ້ນ"</string>
+    <string name="flat">ແບນ</string>
+    <string name="folk">"ໂຟກ"</string>
+    <string name="heavy_metal">"ເຮວີ ເມທັລ"</string>
+    <string name="hip_hop">"ຮິບ​ຮັອບ"</string>
+    <string name="electronic">ອີເລັກໂທຣນິກ</string>
+    <string name="small_speakers">ລຳໂພງນ້ອຍ</string>
+    <string name="multimedia">ມັນຕິມີເດຍ</string>
+    <string name="custom">ກຳນົດເອງ</string>
+    <string name="custom_n">ກຳນົດເອງ <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">ເອັບເຟັກນີ້ໃຊ້ບໍ່ໄດ້ໃນໂໝດລຳໂພງ.</string>
+    <string name="device_headset">"ຊຸດຫູຟັງ"</string>
+    <string name="device_speaker">"ລຳໂພງ"</string>
+    <string name="device_line_out">ເອົ້າທ໌ສາຍ</string>
+    <string name="reverb">ຣີເວີບ</string>
+    <string name="devices">"ອຸປະກອນ"</string>
+    <string name="virtualizer">ວີຣຈວລໄລເຊີ</string>
+    <string name="bass">ເບສ</string>
+    <string name="rename">"ປ່ຽນຊື່"</string>
+    <string name="remove_custom_preset_warning_message">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບ %1$s?</string>
+    <string name="picker_title">ແຜງຄວບຄຸມເອັບເຟັກເພງ</string>
+</resources>

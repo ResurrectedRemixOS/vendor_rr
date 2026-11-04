@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dialog_permissions_settings">Көйләүләр</string>
+    <string name="selected">Сайланган</string>
+    <string name="more_options">Күбрәк көйләүләр</string>
+    <string name="night_mode_brightness_text_title">Яктылык</string>
+    <string name="screensaver_change_settings">Көйләүләр</string>
+    <string name="app_label">Cәгать</string>
+    <string name="default_alarm_ringtone_title">Уяткычның гадәти тавышы</string>
+    <string name="alarm_tomorrow">Иртәгә</string>
+    <string name="alarm_today">Бүген</string>
+    <string name="loading_widget">Йөкләү\u2026</string>
+    <string name="settings">Көйләүләр</string>
+    <string name="unknown_ringtone_title">Билгесез</string>
+    <string name="menu_clock">Cәгать</string>
+    <string name="button_alarms">Уяткыч өстәү</string>
+    <string name="menu_item_settings">Көйләүләр</string>
+    <string name="timer_cancel">Баш тарту</string>
+    <string name="clock_settings">Cәгать</string>
+</resources>

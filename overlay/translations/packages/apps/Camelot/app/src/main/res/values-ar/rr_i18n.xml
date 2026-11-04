@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">عارض PDF</string>
+    <string name="find_in_page">البحث في الصفحة</string>
+    <string name="share">"مشاركة"</string>
+    <string name="open_with">فتح باستخدام…</string>
+    <string name="download">"تنزيل"</string>
+    <string name="pdf_document">مستند PDF</string>
+    <string name="print">"طباعة"</string>
+    <string name="download_successful">تم التنزيل بنجاح</string>
+    <string name="download_error">حدث خطأ أثناء تنزيل الملف</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX nije tvoj zadani upravljački panel za efekte.</string>
+    <string name="snack_bar_not_default_set">"Postavi zadano"</string>
+    <string name="flat">Ravno</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="effect_unavalable_for_speaker">Efekat nije dostupan u režimu zvučnika.</string>
+    <string name="device_line_out">Linijski izlaz</string>
+    <string name="reverb">Reverb</string>
+    <string name="virtualizer">Virtualizer</string>
+    <string name="bass">Bas</string>
+</resources>

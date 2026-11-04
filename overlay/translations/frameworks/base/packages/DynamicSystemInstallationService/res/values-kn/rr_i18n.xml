@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ಡೈನಾಮಿಕ್ ಸಿಸ್ಟಮ್ ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
+    <string name="notification_channel_name">ಡೈನಾಮಿಕ್ ಸಿಸ್ಟಮ್ ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
+    <string name="keyguard_title">ಡೈನಾಮಿಕ್ ಸಿಸ್ಟಮ್ ಅಪ್‌ಡೇಟ್‌ಗಳು</string>
+</resources>

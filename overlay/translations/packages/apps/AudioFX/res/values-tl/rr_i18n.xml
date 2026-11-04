@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">Hindi default na control panel ng mga effect ang AudioFX.</string>
+    <string name="snack_bar_not_default_set">"Itakda ang default"</string>
+    <string name="snack_bar_not_default_not_now">"Hindi ngayon"</string>
+    <string name="normal">Normal</string>
+    <string name="classical">Classical</string>
+    <string name="dance">Dance</string>
+    <string name="flat">Patag</string>
+    <string name="folk">Folk</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="electronic">Electronic</string>
+    <string name="small_speakers">Maliliit na speaker</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="custom">Custom</string>
+    <string name="custom_n">Custom <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">Hindi available ang effect sa Speaker mode.</string>
+    <string name="device_headset">Headset</string>
+    <string name="device_speaker">Speaker</string>
+    <string name="device_line_out">Line out</string>
+    <string name="reverb">Reverb</string>
+    <string name="devices">"Mga Device"</string>
+    <string name="virtualizer">Virtualizer</string>
+    <string name="bass">Bass</string>
+    <string name="rename">"Palitan ang pangalan"</string>
+    <string name="remove_custom_preset_warning_message">Sigurado ka bang gusto mong alisin ang %1$s?</string>
+</resources>

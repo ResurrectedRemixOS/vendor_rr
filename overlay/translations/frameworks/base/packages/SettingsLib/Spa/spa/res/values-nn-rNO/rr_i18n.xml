@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="spa_unavailable">Utilgjengeleg</string>
+    <string name="spa_learn_more">Finn ut meir</string>
+    <string name="spa_spinner_selected_item">Valt</string>
+</resources>

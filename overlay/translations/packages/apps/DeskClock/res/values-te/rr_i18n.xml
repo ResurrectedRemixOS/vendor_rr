@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">పరికరాన్ని ఫ్లిప్ చేసినప్పుడు చర్య</string>
+    <string name="shake_action_title">పరికరాన్ని షేక్ చేసినప్పుడు చర్య</string>
+    <string-array name="action_setting_entries">
+        <item>తాత్కాలికంగా ఆపివేయి</item>
+        <item>"విస్మరించండి"</item>
+        <item>"ఏదీ వద్దు"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">మోగుతున్న అలారాలు &amp; టైమర్లు</string>
+    <string name="alarm_missed_channel">మిస్ అయిన అలారాలు</string>
+    <string name="alarm_snooze_channel">స్నూజ్ చేసిన అలారాలు</string>
+    <string name="alarm_upcoming_channel">రాబోయే అలారాలు</string>
+    <string name="stopwatch_channel">స్టాప్ వాచ్</string>
+    <string name="timer_channel">టైమర్</string>
+    <string name="add_label">లేబుల్‌ను జోడించండి</string>
+    <string name="dialog_permissions_title">"అనుమతులు"</string>
+    <string name="dialog_permissions_ask">మళ్ళీ అడుగు</string>
+    <string name="dialog_permissions_dismiss">"విస్మరించండి"</string>
+    <string name="dialog_permissions_settings">"సెట్టింగ్‌లు"</string>
+    <string name="dialog_permissions_power_off_alarm">ఈ అనుమతి లేకుండా, అలారం మోగించడానికి మీ పరికరం తనంతట తానుగా ఆన్ కాలేదు</string>
+    <string name="dialog_permissions_no_permission">అవసరమైన అనుమతులు తిరస్కరించబడ్డాయి, సెట్టింగ్స్ యాప్ నుండి వాటిని ప్రారంభించండి</string>
+    <string name="dialog_permissions_post_notifications">ఈ యాప్ నోటిఫికేషన్‌లపై ఆధారపడి ఉంది. అవి లేకుండా దీన్ని నడపలేము!</string>
+    <string name="selected">"ఎంచుకోబడింది"</string>
+    <string name="more_options">"మరిన్ని ఆప్షన్‌లు"</string>
+    <string name="widget_choice_title">మీ శైలిని ఎంచుకోండి</string>
+    <string name="widget_name_transparent">బ్యాకప్ లేనిది</string>
+    <string name="widget_name_solid">బ్యాకప్ చేయబడింది</string>
+    <string name="night_mode_enabled_title">"ప్రారంభించబడింది"</string>
+    <string name="night_mode_dnd_title">డిస్టర్బ్ చేయవద్దు స్థితిని అనుసరించు</string>
+    <string name="night_mode_dnd_summary">డిస్టర్బ్ చేయవద్దు స్థితిని నైట్ మోడ్ అనుసరిస్తుంది</string>
+    <string name="show_ampm_title">AM/PM సూచికను చూపండి</string>
+    <string name="bold_text_title">గడియార వచనాన్ని బోల్డ్ చేయండి</string>
+    <string name="night_mode_brightness_text_title">"ప్రకాశం"</string>
+    <string name="clock_color_title">"రంగు"</string>
+    <string-array name="clock_color_entries">
+        <item>"తెలుపు రంగు"</item>
+        <item>"ఎరుపు రంగు"</item>
+        <item>"ఆకుపచ్చ రంగు"</item>
+        <item>"నీలి రంగు"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"స్క్రీన్ సేవర్"</string>
+    <string name="screensaver_preview">"ప్రివ్యూ"</string>
+    <string name="screensaver_preview_summary">స్క్రీన్ సేవర్‌ను వెంటనే ప్రారంభిస్తుంది</string>
+    <string name="screensaver_change_settings">"సెట్టింగ్‌లు"</string>
+    <string name="screensaver_change_settings_summary">గడియారం యొక్క స్క్రీన్ సేవర్ సెట్టింగ్‌లను తెరుస్తుంది</string>
+    <string name="screensaver_daydream_settings">స్క్రీన్ సేవర్‌ను ఎంచుకోండి/ప్రారంభించండి</string>
+    <string name="screensaver_daydream_settings_summary">ప్రధాన స్క్రీన్ సేవర్ సెట్టింగ్‌లను తెరుస్తుంది</string>
+</resources>

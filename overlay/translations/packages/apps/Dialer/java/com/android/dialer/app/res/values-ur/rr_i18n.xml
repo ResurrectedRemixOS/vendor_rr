@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">کال کے دوران</string>
+    <string name="incall_enable_dnd_title">کالز کے دوران ڈسٹرب نہ کریں فعال کریں</string>
+    <string name="incall_vibrate_outgoing_title">جواب دینے پر وائبریٹ کریں</string>
+    <string name="incall_vibrate_call_waiting_title">کال ویٹنگ پر تھرتھراہٹ کریں۔</string>
+    <string name="incall_vibrate_hangup_title">کال ختم کرنے پر وائبریٹ کریں</string>
+    <string name="incall_vibrate_45_title">ہر منٹ وائبریٹ کریں</string>
+    <string name="incall_vibrate_45_summary">آؤٹ گوئنگ کالز کے دوران ہر منٹ کے 45 ویں سیکنڈ پر وائبریٹ کرتا ہے</string>
+    <string name="incall_dnd_dialog_message">ڈسٹرب نہ کریں فعال کرنے کے لیے فون ایپ کو ڈسٹرب نہ کریں کی حالت کنٹرول کرنے کی اجازت دینا ضروری ہے۔\nبراہ کرم اجازت دیں۔</string>
+    <string name="allow">"اجازت دیں"</string>
+    <string name="deny">"مسترد کریں"</string>
+    <string name="call_recording_category_title">کال ریکارڈنگ</string>
+    <string name="call_recording_format">آڈیو فارمیٹ</string>
+    <string name="call_via">کال کے ذریعے</string>
+    <string name="call_via_dialog_title">کال کے ذریعے…</string>
+    <string name="call_log_stats_title">شماریات</string>
+    <string name="action_menu_helplines">ہیلپ لائنز</string>
+    <string name="default_dialer_text">اسے استعمال کرنے کے لیے ڈائلر کو ڈیفالٹ فون ایپ بنانا ضروری ہے۔</string>
+    <string name="default_dialer_action">"بطور ڈیفالٹ سیٹ کریں"</string>
+</resources>

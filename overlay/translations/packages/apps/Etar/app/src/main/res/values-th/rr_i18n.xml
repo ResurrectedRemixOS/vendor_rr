@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="no_snooze_label">"ไม่มี"</string>
+    <string name="menu_info">"ข้อมูล"</string>
+    <string name="hint_url">\"URL\"</string>
+    <string name="foreground_notification_title">กำลังกำหนดการเตือนใหม่…</string>
+    <string name="foreground_notification_channel_name">งานเบื้องหลัง</string>
+    <string name="foreground_notification_channel_description">การแจ้งเตือนจำเป็นสำหรับการซิงค์ภายใน คุณซ่อนช่องนี้ได้โดยไม่มีปัญหา</string>
+    <string name="no_calendars_found">ก่อนเพิ่มกิจกรรมได้ คุณต้องเพิ่มปฏิทินอย่างน้อยหนึ่งรายการลงในอุปกรณ์ก่อน</string>
+    <string name="add_calendar">เพิ่มปฏิทิน</string>
+    <string name="duplicate_label">ทำซ้ำ</string>
+    <string name="preferences_system_theme">"ค่าเริ่มต้นของระบบ"</string>
+    <string name="preferences_real_event_colors">ใช้สีกิจกรรมจริง</string>
+    <string name="preferences_pure_black_night_mode">โหมดกลางคืนสีดำสนิท</string>
+    <string name="week_start_locale_default">ค่าเริ่มต้นของโลแคล</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">ถามระยะเวลาเลื่อนการเตือน</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">ถามระยะเวลาเลื่อนทุกครั้งที่เลื่อนการเตือน</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">ใช้ระยะเวลาเลื่อนเริ่มต้นเสมอ</string>
+    <string name="preferences_staggered_display_title">การแสดงแบบสลับตำแหน่ง</string>
+    <string name="preferences_staggered_display_summary">แสดงกิจกรรมที่ซ้อนทับกันในผังแบบสลับตำแหน่ง</string>
+    <string name="app_copyright">© 2015-<xliff:g>%1$s</xliff:g> โครงการ The Etar Project บางส่วน © 2005-<xliff:g>%1$s</xliff:g> โครงการ The Android Open Source Project</string>
+    <string name="user_rejected_calendar_write_permission">Etar ต้องใช้สิทธิ์อ่านและเขียนปฏิทินจึงจะทำงานได้อย่างถูกต้อง โปรดลองอีกครั้ง</string>
+    <string name="cal_export_event_title">ส่งออกกิจกรรม</string>
+    <string name="cal_export_success">ส่งออกกิจกรรมสำเร็จ</string>
+    <string name="cal_export_error">ส่งออกกิจกรรมไม่สำเร็จ</string>
+    <string name="cal_export_succ_msg">ส่งออกกิจกรรมสำเร็จ</string>
+    <string name="preferences_manage_notifications">จัดการการแจ้งเตือน</string>
+    <string name="preferences_list_add_remote">เพิ่มปฏิทิน CalDAV</string>
+    <string name="preferences_list_add_remote_etesync">เพิ่มปฏิทิน EteSync</string>
+    <string name="preferences_menu_about">เกี่ยวกับ Etar</string>
+    <string name="preferences_do_not_check_battery_optimization">ไม่ตรวจสอบการเพิ่มประสิทธิภาพแบตเตอรี่</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">ใช้ด้วยความเสี่ยงของคุณเอง! การแจ้งเตือนจะไม่ทำงานอีกต่อไป วิดเจ็ตจะไม่อัปเดต และบริการเบื้องหลังจะขัดข้อง แต่คุณจะไม่ถูกถามอีกว่าต้องการเปิดใช้บริการเบื้องหลังหรือไม่</string>
+    <string name="calendars">ปฏิทิน</string>
+    <string name="discard_event_changes">ต้องการทิ้งการเปลี่ยนแปลงหรือไม่?</string>
+    <string name="discard">"ทิ้ง"</string>
+</resources>

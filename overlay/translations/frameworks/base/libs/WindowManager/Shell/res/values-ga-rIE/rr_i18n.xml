@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_expand">Leathnaigh</string>
+    <string name="pip_phone_settings">Socruithe</string>
+    <string name="pip_menu_title">Roghchlár</string>
+    <string name="accessibility_action_pip_resize">Athraigh méid</string>
+    <string name="pip_phone_minimize">Íoslaghdaigh</string>
+    <string name="bubble_overflow_button_content_description">Cur thar maoil</string>
+    <string name="bubble_content_description_single"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> ó <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="bubble_accessibility_action_move_bottom_right">Bog bun ar dheis</string>
+    <string name="bubble_accessibility_action_move_bar_left">Bog ar chlé</string>
+    <string name="bubble_accessibility_action_move_bar_right">Bog ar dheis</string>
+    <string name="bubbles_user_education_got_it">Tuigim é.</string>
+    <string name="notification_bubble_title">Mboilgeog</string>
+    <string name="manage_bubbles_text">Bainistigh</string>
+    <string name="user_aspect_ratio_settings_button_description">Athraigh cóimheas gné</string>
+    <string name="letterbox_education_got_it">Tuigim é.</string>
+    <string name="letterbox_restart_cancel">Cealaigh</string>
+    <string name="letterbox_restart_restart">Atosaigh</string>
+    <string name="back_button_text">Ar ais</string>
+    <string name="more_button_text">Tuilleadh</string>
+    <string name="select_text">Roghnaigh</string>
+    <string name="screenshot_text">Seat scáileáin</string>
+    <string name="new_window_text">Fuinneog Nua</string>
+    <string name="manage_windows_text">Bainistigh Windows</string>
+    <string name="change_aspect_ratio_text">Athraigh cóimheas gné</string>
+    <string name="desktop_mode_layout_menu_snap_text">Athraigh méid</string>
+    <string name="desktop_mode_layout_menu_immersive_restore_button_text">Athchóirigh</string>
+    <string name="desktop_mode_layout_menu_restore_button_text">Athchóirigh</string>
+    <string name="open_by_default_dialog_subheader_text">Roghnaigh conas naisc ghréasáin a oscailt don aip seo</string>
+    <string name="open_by_default_dialog_in_app_text">Sa aip</string>
+    <string name="open_by_default_dialog_in_browser_text">I do bhrabhsálaí</string>
+    <string name="open_by_default_dialog_dismiss_button_text">Ceart go leor</string>
+    <string name="pip_fullscreen">Scáileán iomlán</string>
+    <string name="pip_move">Bog</string>
+    <string name="pip_expand">Leathnaigh</string>
+    <string name="pip_collapse">Laghdaigh</string>
+    <string name="a11y_action_pip_move_left">Bog ar chlé</string>
+    <string name="a11y_action_pip_move_right">Bog ar dheis</string>
+    <string name="a11y_action_pip_move_up">Bog suas</string>
+    <string name="a11y_action_pip_move_down">Bog síos</string>
+    <string name="a11y_action_pip_move_done">Déanta</string>
+</resources>

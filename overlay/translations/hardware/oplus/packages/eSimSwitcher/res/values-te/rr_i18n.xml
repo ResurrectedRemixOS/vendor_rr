@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM సెట్టింగ్‌లు</string>
+    <string name="esim_toggle_title">eSIM</string>
+    <string name="esim_toggle_summary">వర్చువల్ SIM కార్డ్‌ను ఉపయోగించడానికి ఆపరేటర్ ప్రొఫైల్‌ను డౌన్‌లోడ్ చేసి యాక్టివేట్ చేయండి</string>
+    <string name="esim_toggle_dialog_cancel">"రద్దు చేయండి"</string>
+</resources>

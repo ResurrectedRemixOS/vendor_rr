@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Alfabeti (Bépo)</string>
+    <string name="subtype_hu_ZZ">Kihungaria (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - fuata mipangilio ya mfumo</string>
+    <string name="prefs_keyboard_height_scale">Ukubwa wa urefu wa kibodi</string>
+    <string name="number_row">Safu ya namba</string>
+    <string name="number_row_summary">Onyesha kila mara safu ya namba kwa mipangilio yote yenye safu 4 za herufi</string>
+    <string name="number_row_password">Safu ya namba kwa nywila</string>
+    <string name="number_row_password_summary">Onyesha kila mara safu ya namba kwa mipangilio yote yenye safu 4 za herufi unapoandika nywila</string>
+    <string name="space_trackpad">Pedi ya kuelekeza upau wa nafasi</string>
+    <string name="space_trackpad_summary">Telezesha kwenye upau wa nafasi ili kusogeza kishale</string>
+    <string name="backspace_trackpad">Pedi ya kuelekeza kitufe cha kufuta</string>
+    <string name="backspace_trackpad_summary">Telezesha kwenye kitufe cha kufuta ili kufuta maneno</string>
+    <string name="show_longpress_hints">Onyesha vidokezo vya kubonyeza kwa muda mrefu</string>
+    <string name="show_longpress_hints_summary">Huonyesha vidokezo vya kubonyeza kwa muda mrefu kwa vitufe vinavyotumika</string>
+    <string name="show_emoji_key">Onyesha kitufe cha emoji</string>
+    <string name="show_emoji_key_summary">Onyesha kitufe cha emoji kila wakati. Mpangilio huu ukiwashwa, kitufe cha kubadilisha lugha hakitaonyeshwa.</string>
+    <string name="enable_split_keyboard_summary">Katika mkao wa mlalo pekee</string>
+    <string name="split_keyboard_duplicate_keys">Rudufu vitufe vya katikati</string>
+    <string name="split_keyboard_duplicate_keys_summary">Onyesha vitufe vilivyo karibu na katikati pande zote mbili</string>
+    <string name="spoken_description_split_keyboard">Gawanya kibodi</string>
+    <string name="spoken_description_merge_keyboard">Unganisha kibodi</string>
+    <string name="spoken_description_float_keyboard">Elea kibodi</string>
+    <string name="spoken_description_dock_keyboard">Bandika kibodi</string>
+    <string name="floating_keyboard_drag_handle">Sogeza kibodi</string>
+    <string name="floating_keyboard_resize_handle">Badilisha ukubwa wa kibodi</string>
+    <string name="floating_keyboard_reset">"Weka upya"</string>
+    <string name="floating_keyboard_hide">Ficha kibodi</string>
+    <string name="floating_keyboard_switch_ime">"Badilisha mbinu ya kuingiza data"</string>
+</resources>

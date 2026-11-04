@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Альфабет (Bépo)</string>
+    <string name="subtype_hu_ZZ">Унгарын (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - системийн тохиргоог дагах</string>
+    <string name="prefs_keyboard_height_scale">Гарын самбарын өндрийн масштаб</string>
+    <string name="number_row">Тооны мөр</string>
+    <string name="number_row_summary">4 мөр товчтой бүх зохįгдлуудад тооны мөрийг үргэлж харуулах</string>
+    <string name="number_row_password">Нууц үгний тооны мөр</string>
+    <string name="number_row_password_summary">Нууц үг оруулахад 4 мөр товчтой бүх зохįгдлуудад тооны мөрийг үргэлж харуулах</string>
+    <string name="space_trackpad">Зайны товчны трекпад</string>
+    <string name="space_trackpad_summary">Курсорыг зөөхийн тулд зайны товчоор шудрах</string>
+    <string name="backspace_trackpad">Backspace товчны трекпад</string>
+    <string name="backspace_trackpad_summary">Үгийг устгахын тулд backspace товчоор шудрах</string>
+    <string name="show_longpress_hints">Урт дарсан товчны зөвлөмжийг харуулах</string>
+    <string name="show_longpress_hints_summary">Дэмжигдсэн товчнуудын урт дарах зөвлөмжийг харуулна</string>
+    <string name="show_emoji_key">Эможи товчийг харуулах</string>
+    <string name="show_emoji_key_summary">Эможи товчийг үргэлж харуулна. Энэ сонголтыг идэвхжүүлсэн үед хэлний солих товчийг харуулах боломжгүй.</string>
+    <string name="enable_split_keyboard_summary">Зөвхөн хэвтээ горимд</string>
+    <string name="split_keyboard_duplicate_keys">Төв товчнуудыг давхардуулах</string>
+    <string name="split_keyboard_duplicate_keys_summary">Хоёр талд дунд ойролцоох товчнуудыг харуулах</string>
+    <string name="spoken_description_split_keyboard">Хуваасан гарын самбар</string>
+    <string name="spoken_description_merge_keyboard">Нэгтгэсэн гарын самбар</string>
+    <string name="spoken_description_float_keyboard">Хөвөх гарын самбар</string>
+    <string name="spoken_description_dock_keyboard">Залгах гарын самбар</string>
+    <string name="floating_keyboard_drag_handle">Гарын самбарыг зөөх</string>
+    <string name="floating_keyboard_resize_handle">Гарын самбарын хэмжээг өөрчлөх</string>
+    <string name="floating_keyboard_reset">"Шинэчлэх"</string>
+    <string name="floating_keyboard_hide">Гарын самбарыг нуух</string>
+    <string name="floating_keyboard_switch_ime">"Оруулах аргыг сэлгэх"</string>
+</resources>

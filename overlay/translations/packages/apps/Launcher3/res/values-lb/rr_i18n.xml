@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="work_folder_name">Aarbecht</string>
+    <string name="widget_picker_widget_options_button_description">Méi Optiounen</string>
+    <string name="widgets_full_sheet_personal_tab">Perséinlech</string>
+    <string name="widgets_full_sheet_work_tab">Aarbecht</string>
+    <string name="notifications_header">Notifikatiounen</string>
+    <string name="install_drop_target_label">Installéieren</string>
+    <string name="widget_settings">Astellungen</string>
+    <string name="home_screen_files_context_menu_copy_label">Kopéieren</string>
+    <string name="home_screen_files_context_menu_rename_label">Ëmbenennen</string>
+    <string name="actions_popup_menu_button">Aktiounen</string>
+    <string name="notification_dots_desc_on">Un</string>
+    <string name="notification_dots_desc_off">Aus</string>
+    <string name="dialog_update">Aktualiséieren</string>
+    <string name="undo">Réckgängeg maachen</string>
+    <string name="action_dismiss_notification">Verwerfen</string>
+    <string name="all_apps_personal_tab">Perséinlech</string>
+    <string name="all_apps_work_tab">Aarbecht</string>
+    <string name="work_profile_toggle_label">Aarbechtsprofil</string>
+    <string name="work_apps_paused_edu_accept">Verstanen</string>
+    <string name="ps_container_lock_title">Schlass</string>
+    <string name="ps_add_button_label">Installéieren</string>
+    <string name="home_screen_files_rename_dialog_neutral_button">Ofbriechen</string>
+    <string name="home_screen_files_rename_dialog_positive_button">Ëmbenennen</string>
+</resources>

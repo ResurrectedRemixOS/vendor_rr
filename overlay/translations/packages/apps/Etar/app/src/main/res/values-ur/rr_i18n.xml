@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="reminder_methods_labels">
+        <item>"اطلاع"</item>
+        <item>"ای میل"</item>
+        <item>SMS</item>
+        <item>"الارم"</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>کوئی جواب نہیں</item>
+        <item>"ہاں"</item>
+        <item>شاید</item>
+        <item>"نہیں"</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>صرف یہ ایونٹ</item>
+        <item>یہ اور آئندہ کے واقعات</item>
+        <item>تمام واقعات</item>
+    </string-array>
+    <string-array name="preferences_skip_reminders_labels">
+        <item>صرف انکار کی صورت میں</item>
+        <item>انکار یا جواب نہ دینے کی صورت میں</item>
+    </string-array>
+    <string-array name="recurrence_freq">
+        <item>ہر روز دہرائیں</item>
+        <item>ہر ہفتے دہرائیں</item>
+        <item>ہر مہینے دہرائیں</item>
+        <item>ہر سال دہرائیں</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sun">
+        <item>ہر پہلے اتوار کو</item>
+        <item>ہر دوسرے اتوار کو</item>
+        <item>ہر تیسرے اتوار کو</item>
+        <item>ہر چوتھے اتوار کو</item>
+        <item>ہر آخری اتوار کو</item>
+    </string-array>
+    <string-array name="repeat_by_nth_mon">
+        <item>ہر پہلے پیر کو</item>
+        <item>ہر دوسرے پیر کو</item>
+        <item>ہر تیسرے پیر کو</item>
+        <item>ہر چوتھے پیر کو</item>
+        <item>ہر آخری پیر کو</item>
+    </string-array>
+    <string-array name="repeat_by_nth_tues">
+        <item>ہر پہلے منگل کو</item>
+        <item>ہر دوسرے منگل کو</item>
+        <item>ہر تیسرے منگل کو</item>
+        <item>ہر چوتھے منگل کو</item>
+        <item>ہر آخری منگل کو</item>
+    </string-array>
+    <string-array name="repeat_by_nth_wed">
+        <item>ہر پہلے بدھ کو</item>
+        <item>ہر دوسرے بدھ کو</item>
+        <item>ہر تیسرے بدھ کو</item>
+        <item>ہر چوتھے بدھ کو</item>
+        <item>ہر آخری بدھ کو</item>
+    </string-array>
+    <string-array name="repeat_by_nth_thurs">
+        <item>ہر پہلے جمعرات کو</item>
+        <item>ہر دوسرے جمعرات کو</item>
+        <item>ہر تیسرے جمعرات کو</item>
+        <item>ہر چوتھے جمعرات کو</item>
+        <item>ہر آخری جمعرات کو</item>
+    </string-array>
+    <string-array name="repeat_by_nth_fri">
+        <item>ہر پہلے جمعہ کو</item>
+        <item>ہر دوسرے جمعہ کو</item>
+        <item>ہر تیسرے جمعہ کو</item>
+        <item>ہر چوتھے جمعہ کو</item>
+        <item>ہر آخری جمعہ کو</item>
+    </string-array>
+    <string-array name="repeat_by_nth_sat">
+        <item>ہر پہلے ہفتہ کو</item>
+        <item>ہر دوسرے ہفتہ کو</item>
+        <item>ہر تیسرے ہفتہ کو</item>
+        <item>ہر چوتھے ہفتہ کو</item>
+        <item>ہر آخری ہفتہ کو</item>
+    </string-array>
+    <string name="user_rejected_calendar_write_permission_lineage">کیلنڈر کو درست طریقے سے کام کرنے کے لیے کیلنڈر پڑھنے اور لکھنے کی اجازتیں درکار ہیں۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="preferences_menu_about_lineage">کیلنڈر کے بارے میں</string>
+    <string name="no_reminder_label">"کوئی نہیں"</string>
+    <string name="no_snooze_label">"کوئی نہیں"</string>
+    <string name="calendar_refresh">ریفریش</string>
+    <string name="agenda_view">ایجنڈا</string>
+    <string name="share_label">"اشتراک کریں"</string>
+    <string name="goto_today">آج</string>
+    <string name="goto_date">یہاں جائیں…</string>
+    <string name="menu_preferences">"ترتیبات"</string>
+    <string name="menu_info">"معلومات"</string>
+    <string name="hide_controls">کنٹرول چھپائیں</string>
+    <string name="show_controls">کنٹرول دکھائیں</string>
+    <string name="view_settings">ویو کی ترتیبات</string>
+    <string name="select_synced_calendars_button">ہم آہنگ کرنے کے لیے کیلنڈر</string>
+    <string name="hint_url">یو آر ایل</string>
+    <string name="hint_attendees">مہمان</string>
+    <string name="foreground_notification_title">نئی یاددہانیاں شیڈول ہو رہی ہیں…</string>
+    <string name="foreground_notification_channel_name">پس منظر کے کام</string>
+    <string name="foreground_notification_channel_description">اندرونی ہم آہنگی کے لیے اطلاعات درکار ہیں۔ آپ یہ چینل محفوظ طریقے سے چھپا سکتے ہیں۔</string>
+    <string name="edit_event_calendar_label">"کیلنڈر"</string>
+    <string name="reminders_label">یاد دہانی شامل کریں</string>
+    <string name="no_calendars_found">ایونٹ شامل کرنے سے پہلے اپنے آلے میں کم از کم ایک کیلنڈر شامل کرنا ضروری ہے</string>
+    <string name="add_calendar">کیلنڈر شامل کریں</string>
+    <string name="calendar_square_color_picker_description">"رنگ چنندہ"</string>
+    <string name="view_event_response_label">شرکت کریں گے؟</string>
+    <string name="no_map">کوئی میپس ایپ انسٹال نہیں ہے</string>
+    <string name="call_label">کال</string>
+    <string name="event_info_organizer">منتظم:</string>
+    <string name="event_info_reminders_label">"یاد دہانیاں"</string>
+    <string name="agenda_today">آج، <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_yesterday">کل، <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="agenda_tomorrow">کل، <xliff:g id="date">%1$s</xliff:g></string>
+    <string name="delete_label">حذف کریں</string>
+    <string name="duplicate_label">نقل بنائیں</string>
+    <string name="save_label">"ہو گیا"</string>
+    <string name="discard_label">"منسوخ کریں"</string>
+    <string name="dismiss_all_label">سب برخاست کریں</string>
+    <string name="snooze_label">ملتوی کریں</string>
+    <string name="does_not_repeat">ایک بار کا ایونٹ</string>
+    <string name="endByDate">؛ <xliff:g id="date">%s</xliff:g> تک</string>
+    <string name="every_weekday">ہر ہفتے کا دن (پیر تا جمعہ)</string>
+    <string name="monthly">"ماہانہ"</string>
+    <string name="yearly_plain">سالانہ</string>
+    <string name="custom" product="default">حسب ضرورت (فون پر تبدیل نہیں ہو سکتا)</string>
+    <string name="preferences_month_view_portrait">ماہ کا ویو لے آؤٹ (عمودی)</string>
+    <string name="preferences_month_view_landscape">ماہ کا ویو لے آؤٹ (افقی)</string>
+    <string name="preferences_theme">"تھیم"</string>
+    <string name="preferences_system_theme">"سسٹم ڈیفالٹ"</string>
+    <string name="preferences_light_theme">"ہلکا"</string>
+    <string name="preferences_dark_theme">گہرا</string>
+    <string name="preferences_black_theme">"سیاہ"</string>
+    <string name="preferences_color">بنیادی رنگ</string>
+    <string name="preferences_color_pick">بنیادی رنگ</string>
+    <string name="preferences_real_event_colors">ایونٹس کے اصل رنگ استعمال کریں</string>
+    <string name="preferences_pure_black_night_mode">خالص سیاہ رات کا موڈ</string>
+    <string name="default_start_title">ڈیفالٹ ویو</string>
+    <string name="display_options">"ڈسپلے کے اختیارات"</string>
+    <string name="display_time">وقت دکھائیں</string>
+    <string name="display_location">مقام دکھائیں</string>
+    <string name="maximum_number_of_lines">ایونٹ میں سطروں کی زیادہ سے زیادہ تعداد</string>
+    <string name="default_start_last">پہلے استعمال کیا گیا ویو</string>
+    <string name="preferences_week_start_day_title">ہفتہ اس دن سے شروع ہو</string>
+    <string name="preferences_week_start_day_dialog">ہفتہ اس دن سے شروع ہو</string>
+    <string name="week_start_locale_default">لوکیل کا ڈیفالٹ</string>
+    <string name="preferences_days_per_week_title">ہفتے کے دن فی ہفتہ</string>
+    <string name="preferences_days_per_week_dialog">ہفتے کے دن فی ہفتہ</string>
+    <string name="preferences_default_event_duration_title">ڈیفالٹ ایونٹ کا دورانیہ</string>
+    <string name="preferences_alerts_popup_title">پاپ اپ اطلاع</string>
+    <string name="preferences_show_week_num_title">ہفتے کا نمبر دکھائیں</string>
+    <string name="preferences_alerts_custom_snooze_delay_title">یاددہانی ملتوی کرنے کا وقت پوچھیں</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_on">یاددہانیاں ملتوی کرتے وقت ہر بار ملتوی کرنے کا وقت پوچھیں</string>
+    <string name="preferences_alerts_custom_snooze_delay_summary_off">ہمیشہ ڈیفالٹ ملتوی وقت استعمال کریں</string>
+    <string name="snooze_delay_dialog_title">ملتوی کرنے کا وقت مقرر کریں</string>
+    <string name="preferences_default_snooze_delay_title">ڈیفالٹ ملتوی کرنے کا وقت</string>
+    <string name="preferences_default_snooze_delay_dialog">ڈیفالٹ ملتوی کرنے کا وقت</string>
+    <string name="preferences_staggered_display_title">سٹیگرڈ ڈسپلے</string>
+    <string name="preferences_staggered_display_summary">اوورلیپ ہونے والے ایونٹس کو سٹیگرڈ لے آؤٹ میں دکھائیں</string>
+    <string name="app_copyright">© 2015-<xliff:g>%1$s</xliff:g> دی ایٹار پروجیکٹ۔ کچھ حصے © 2005-<xliff:g>%1$s</xliff:g> دی اینڈرائیڈ اوپن سورس پروجیکٹ۔</string>
+    <string name="authors">مصنفین</string>
+    <string name="changelog">تبدیلیوں کی فہرست</string>
+    <string name="license">"لائسنس"</string>
+    <string name="preferences_build_version">"بلڈ ورژن"</string>
+    <string name="preferences_issues">مسائل رپورٹ کریں</string>
+    <string name="source_code">ماخذ</string>
+    <string name="gadget_no_events">کوئی آنے والا کیلنڈر ایونٹ نہیں</string>
+    <string name="preferences_experimental_category">"تجرباتی"</string>
+    <string name="preferences_reminders_responded_label">یاددہانیاں چھوڑیں</string>
+    <string name="preferences_reminders_responded_dialog">یاددہانیاں چھوڑیں</string>
+    <string name="copy_db">ڈیٹا بیس بھیجیں</string>
+    <string name="accessibility_remove_attendee">شریک کار ہٹائیں</string>
+    <string name="accessibility_pick_start_date">شروع کی تاریخ</string>
+    <string name="accessibility_pick_start_time">"وقت آغاز"</string>
+    <string name="accessibility_pick_end_date">اختتامی تاریخ</string>
+    <string name="accessibility_pick_end_time">"وقت اختتام"</string>
+    <string name="accessibility_remove_reminder">یاددہانی ہٹائیں</string>
+    <string name="accessibility_add_attendee">شریک کار شامل کریں</string>
+    <string name="accessibility_reminder_privacy">"رازداری"</string>
+    <string name="recurrence_month_pattern_by_day">ہر ماہ اسی دن</string>
+    <string name="recurrence_end_continously">ہمیشہ کے لیے</string>
+    <string name="recurrence_end_date_label">تاریخ تک</string>
+    <string name="recurrence_end_date"><xliff:g id="date">%s</xliff:g> تک</string>
+    <string name="recurrence_end_count_label">ایونٹس کی تعداد کے لیے</string>
+    <string name="acessibility_recurrence_choose_end_date_description">اختتامی تاریخ تبدیل کریں</string>
+    <string name="user_rejected_calendar_write_permission">Etar کو درست طریقے سے کام کرنے کے لیے کیلنڈر پڑھنے اور لکھنے کی اجازتیں درکار ہیں۔ براہ کرم دوبارہ کوشش کریں۔</string>
+    <string name="calendar_permission_not_granted">مطلوبہ اجازتیں مسترد کر دی گئیں، ایونٹس میں ترمیم کرنے کے لیے انہیں ترتیبات ایپ سے فعال کریں</string>
+    <string name="visibility_default">"ڈیفالٹ"</string>
+    <string name="visibility_confidential">خفیہ</string>
+    <string name="visibility_private">"پرائیویٹ"</string>
+    <string name="visibility_public">عوامی</string>
+    <string name="two_days">2 دن</string>
+    <string name="three_days">3 دن</string>
+    <string name="four_days">4 دن</string>
+    <string name="five_days">5 دن</string>
+    <string name="six_days">6 دن</string>
+    <string name="seven_days">7 دن</string>
+    <string name="zero_minutes">0 منٹ</string>
+    <string name="fifteen_minutes">"15 منٹ"</string>
+    <string name="thirty_minutes">"30 منٹ"</string>
+    <string name="one_hour">"1 گھنٹہ"</string>
+    <string name="one_and_a_half_hours">1.5 گھنٹے</string>
+    <string name="two_hours">"2 گھنٹے"</string>
+    <string name="error_generating_ics">ایونٹ شیئر کرتے وقت مسائل پیش آئے</string>
+    <string name="cal_share_intent_title">ایونٹ بھیجیں بذریعہ:</string>
+    <string name="cal_export_event_title">ایونٹ برآمد کریں</string>
+    <string name="cal_export_success">ایونٹ کامیابی سے برآمد ہو گیا</string>
+    <string name="cal_export_error">ایونٹ برآمد کرنے میں ناکام</string>
+    <string name="cal_export_succ_msg">ایونٹ کامیابی سے برآمد ہو گیا</string>
+    <string name="cal_import_menu_title">ایونٹ درآمد کریں</string>
+    <string name="cal_nothing_to_import">"درآمد کرنے کیلئے کچھ نہیں ہے"</string>
+    <string name="cal_import_error_msg">کیلنڈر میں درآمد ناکام ہو گیا</string>
+    <string name="cal_import_error_time_zone_msg">ٹائم زون سمجھ نہیں آیا: %s</string>
+    <string name="cal_import_error_date_msg">تاریخ سمجھ نہیں آئی: %s</string>
+    <string name="cal_pick_ics">درآمد کے لیے فائل منتخب کریں</string>
+    <string name="show_time_no">وقت نہ دکھائیں</string>
+    <string name="show_time_start">صرف شروع کا وقت</string>
+    <string name="show_time_start_end">شروع اور اختتامی وقت</string>
+    <string name="show_time_start_end_below">واقعے کے نیچے شروع اور اختتامی وقت</string>
+    <string name="preferences_calendar_no_display_name">بے نام کیلنڈر</string>
+    <string name="preferences_calendar_account">%1$s اکاؤنٹ</string>
+    <string name="preferences_calendar_account_local">آف لائن کیلنڈر</string>
+    <string name="preferences_calendar_configure_account">%1$s میں کیلنڈر ترتیب دیں</string>
+    <string name="preferences_calendar_number_of_events">%1$d واقعات</string>
+    <string name="preferences_calendar_delete">کیلنڈر حذف کریں</string>
+    <string name="preferences_calendar_display_name">"نام تبدیل کریں"</string>
+    <string name="preferences_calendar_info_category">کیلنڈر کی معلومات</string>
+    <string name="preferences_calendar_color">"رنگ"</string>
+    <string name="preferences_calendar_visible">واقعات دکھائیں</string>
+    <string name="preferences_manage_notifications">اطلاعات کا نظم کریں</string>
+    <string name="preferences_calendar_synchronize">اس کیلنڈر کو ہم آہنگ کریں</string>
+    <string name="preferences_calendar_color_warning_title">"وارننگ"</string>
+    <string name="preferences_calendar_color_warning_message">رنگ تبدیل کرنے سے، کیلنڈر دوبارہ ہم آہنگ ہونے پر یہ واپس ہو سکتا ہے۔\n\nاس سے بچنے کے لیے DAVx⁵ میں \'کیلنڈر کے رنگ کا نظم کریں\' کو غیر فعال کیا جا سکتا ہے۔</string>
+    <string name="preferences_calendar_color_warning_button">میں سمجھ گیا</string>
+    <string name="preferences_calendar_delete_message">کیا آپ واقعی یہ کیلنڈر حذف کرنا چاہتے ہیں؟</string>
+    <string name="preferences_calendar_delete_delete">کیلنڈر حذف کریں</string>
+    <string name="preferences_calendar_delete_cancel">"منسوخ کریں"</string>
+    <string name="preferences_list_calendar_summary_sync_off">ہم آہنگ نہیں</string>
+    <string name="preferences_list_calendar_summary_invisible">واقعات نہیں دکھائے جا رہے</string>
+    <string name="preferences_list_general">"عام ترتیبات"</string>
+    <string name="preferences_list_add_remote">CalDAV کیلنڈر شامل کریں</string>
+    <string name="preferences_list_add_remote_etesync">EteSync کیلنڈر شامل کریں</string>
+    <string name="preferences_list_add_offline">آف لائن کیلنڈر شامل کریں</string>
+    <string name="preferences_list_add_offline_title">آف لائن کیلنڈر شامل کریں</string>
+    <string name="preferences_list_add_offline_error_empty">کیلنڈر کا نام درج کریں!</string>
+    <string name="preferences_list_add_offline_message">آف لائن کیلنڈر کسی کلاؤڈ سروس کے ساتھ ہم آہنگ نہیں ہوتے اور صرف آپ کے فون پر دستیاب ہوتے ہیں۔</string>
+    <string name="preferences_list_add_offline_button">کیلنڈر شامل کریں</string>
+    <string name="preferences_list_add_offline_name">"نام"</string>
+    <string name="preferences_list_add_offline_cancel">"منسوخ کریں"</string>
+    <string name="preferences_menu_about">Etar کے بارے میں</string>
+    <string name="offline_account_name">آف لائن کیلنڈر</string>
+    <string name="after_start_of_event">واقعے کے شروع ہونے کے بعد</string>
+    <string name="preferences_do_not_check_battery_optimization">بیٹری آپٹیمائزیشن کی جانچ نہ کریں</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">اپنے خطرے پر استعمال کریں! اطلاعات کام نہیں کریں گی، ویجٹ اپڈیٹ نہیں ہوگا اور پس منظر کی سروسز کریش ہو جائیں گی۔ لیکن آپ سے دوبارہ نہیں پوچھا جائے گا کہ کیا آپ پس منظر کی سروس فعال کرنا چاہتے ہیں۔</string>
+    <string name="calendars">کیلنڈرز</string>
+    <string name="discard_event_changes">کیا آپ تبدیلیاں مسترد کرنا چاہتے ہیں؟</string>
+    <string name="discard">"مسترد کریں"</string>
+    <string name="cancel">"منسوخ کریں"</string>
+    <string name="chips_action_cancel">"منسوخ کریں"</string>
+</resources>

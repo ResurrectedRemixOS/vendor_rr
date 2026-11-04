@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">Laadimiskiirus</string>
+    <string name="charging_speed_slow">"Aeglane"</string>
+    <string name="charging_speed_fast">"Kiire"</string>
+    <string name="charging_speed_super_fast">Väga kiire</string>
+    <string name="charging_control_notification_channel">Laadimise juhtimine</string>
+    <string name="charging_control_notification_title">Laadimise juhtimine</string>
+    <string name="charging_control_notification_cancel_once">"Tühista"</string>
+    <string name="charging_control_notification_content_limit">Akut laaditakse %1$d%%-ni</string>
+    <string name="charging_control_notification_content_limit_reached">Aku on laetud %1$d%%-ni</string>
+    <string name="charging_control_notification_content_target">Aku laetakse täiesti kell %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Aku on laetud</string>
+</resources>

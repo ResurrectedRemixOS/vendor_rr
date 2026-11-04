@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Paleisti iš naujo…</string>
+    <string name="global_action_restart_system">"Sistema"</string>
+    <string name="global_action_restart_recovery">"Atkūrimas"</string>
+    <string name="global_action_restart_bootloader">Įkrovos krovėjas</string>
+    <string name="global_action_restart_download">"Atsisiųsti"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Paleidžiama iš naujo…"</string>
+    <string name="global_action_restart_recovery_progress">Paleidžiama iš naujo į atkūrimo režimą…</string>
+    <string name="global_action_restart_bootloader_progress">Paleidžiama iš naujo į paleidyklės režimą…</string>
+    <string name="global_action_restart_download_progress">Paleidžiama iš naujo į atsisiuntimo režimą…</string>
+    <string name="global_action_restart_fastboot_progress">Paleidžiama iš naujo į fastbootd režimą…</string>
+    <string name="global_action_current_user">Dabartinis</string>
+    <string name="global_action_users">"Naudotojai"</string>
+    <string name="clock">"Laikrodis"</string>
+    <string name="accessibility_adaptive_brightness">"Prisitaikantis šviesumas"</string>
+    <string name="status_bar_icons_title">Būsenos juostos piktogramos</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD išjungtas\nAkumuliatoriaus taupymas</string>
+    <string name="quick_settings_caffeine_label">"Kofeinas"</string>
+    <string name="accessibility_quick_settings_caffeine_off">Budrumas išjungtas.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Budrumas įjungtas.</string>
+    <string name="quick_settings_powershare_label">Belaidis PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Belaidis PowerShare išjungtas\nAkumuliatoriaus taupymas</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Belaidis PowerShare išjungtas\nAkumuliatoriaus per mažas</string>
+    <string name="quick_settings_powershare_enabled_label">Belaidis PowerShare įjungtas</string>
+    <string name="quick_settings_reading_mode">Skaitymo režimas</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Skaitymo režimas įjungtas.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Skaitymo režimas išjungtas.</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Prisijungti prie…</string>
+    <string name="vpn_credentials_hint">Įveskite prisijungimo duomenis, kad prisijungtumėte prie <xliff:g id="name">%s</xliff:g></string>
+    <string name="vpn_credentials_username">"Naudotojo vardas"</string>
+    <string name="vpn_credentials_password">"Slaptažodis"</string>
+    <string name="vpn_credentials_dialog_connect">"Prisijungti"</string>
+    <string name="status_bar_firewall">Ugniasienė</string>
+    <string name="battery_notification_channel_tv">Akumuliatoriaus įspėjimas</string>
+    <string name="screenshot_delete_label">"Ištrinti"</string>
+    <string name="screenshot_delete_description">Ištrinti ekrano kopiją</string>
+    <string name="screenrecord_lowquality_label">Mažesnė kokybė</string>
+    <string name="screenrecord_lowquality_summary">Mažesnis failo dydis</string>
+    <string name="screenrecord_longer_timeout_switch_label">Didesnė failo dydžio riba</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Riboti įrašo dydį iki 15 GB</string>
+    <string name="screenrecord_skip_time_label">Praleisti laikmatį</string>
+    <string name="screenrecord_skip_time_summary">Pašalinti 3 sekundžių laukimą</string>
+    <string name="screenrecord_hevc_switch_label">HEVC kodavimas</string>
+    <string name="screenrecord_hevc_switch_summary">Naudoti efektyvesnį HEVC koduotuvą</string>
+    <string name="zen_alarm_warning_indef">"Negirdėsite kito signalo <xliff:g id="WHEN">%1$s</xliff:g>, nebent iki to laiko išjungsite šį režimą"</string>
+</resources>

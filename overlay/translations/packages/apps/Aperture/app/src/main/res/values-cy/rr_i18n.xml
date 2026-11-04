@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="qr_share_with_action">Rhannu trwy</string>
+    <string name="noise_reduction_mode_minimal">Lleiafol</string>
+    <string name="shading_mode_fast">Cyflym</string>
+    <string name="shading_mode_high_quality">Ansawdd uchel</string>
+    <string name="color_correction_aberration_mode_fast">Cyflym</string>
+    <string name="color_correction_aberration_mode_high_quality">Ansawdd uchel</string>
+    <string name="distortion_correction_mode_fast">Cyflym</string>
+    <string name="distortion_correction_mode_high_quality">Ansawdd uchel</string>
+    <string name="hot_pixel_mode_fast">Cyflym</string>
+    <string name="hot_pixel_mode_high_quality">Ansawdd uchel</string>
+    <string name="gesture_action_shutter">Caead</string>
+    <string name="gesture_action_zoom">Chwyddo</string>
+    <string name="gesture_action_nothing">Dim byd</string>
+    <string name="camera_mode_photo">Llun</string>
+</resources>

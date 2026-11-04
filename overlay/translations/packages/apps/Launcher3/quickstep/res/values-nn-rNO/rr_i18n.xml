@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="action_image_copy">Kopier</string>
+    <string name="action_image_save">Lagra</string>
+    <string name="taskbar_edu_stashing">Sveip sakte oppover for å visa oppgåverada</string>
+    <string name="taskbar_button_more_options">Fleire val</string>
+    <string name="taskbar_pinned_overflow_a11y_title">Andre appar</string>
+    <string name="quick_switch_task_with_position_in_parent"><xliff:g id="task_description" example="Chrome">%1$s</xliff:g>, element <xliff:g id="index_in_parent" example="1">%2$d</xliff:g> av <xliff:g id="total_tasks" example="5">%3$d</xliff:g></string>
+    <string name="bubble_bar_bubble_description"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> frå <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="ambientcue_first_time_edu_icon_description">Ikon</string>
+    <string name="ambientcue_first_time_edu_title">Få nyttige forslag</string>
+    <string name="ambientcue_first_time_edu_text">Me brukar KI for å føreslå informasjon og handlingar som er relevante for det du gjer på skjermen</string>
+    <string name="ambient_cue_expand_action">utvid</string>
+    <string name="ambient_cue_icon_content_description">Ikon for omgivnadsforslag</string>
+    <string name="ambientcue_long_press_edu_text">Hald inne for å sjå korleis forslaga vert laga</string>
+    <string name="ambient_cue_autofill_action">fyll ut automatisk</string>
+</resources>

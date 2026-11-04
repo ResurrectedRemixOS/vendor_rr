@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="none">Dim</string>
+    <string name="stylus_screen_on_when_removed_title">Troi\u2019r sgrin ymlaen</string>
+    <string name="stylus_screen_off_when_inserted_title">Troi\'r sgrin i ffwrdd</string>
+    <string name="stylus_vibrate_title">Dirgrynu</string>
+    <string name="popup_camera_tip">Rhybudd</string>
+    <string name="doze_brightness_adaptive">Disgleirdeb addasedig</string>
+    <string name="alert_slider_mode_none">Dim</string>
+</resources>

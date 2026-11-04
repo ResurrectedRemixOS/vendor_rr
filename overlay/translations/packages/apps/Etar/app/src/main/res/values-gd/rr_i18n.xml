@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="no_snooze_label">Chan eil gin</string>
+    <string name="add_calendar">Cuir mìosachan ris</string>
+    <string name="discard">Tilg air falbh</string>
+    <string name="searchview_description_clear">Falamhaich a’ ceist</string>
+    <string name="chips_action_copy">Dèan lethbhreac</string>
+</resources>

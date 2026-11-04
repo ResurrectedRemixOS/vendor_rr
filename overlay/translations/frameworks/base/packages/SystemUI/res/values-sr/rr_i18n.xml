@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Поново покрени…</string>
+    <string name="global_action_users">"Корисници"</string>
+    <string name="clock">"Сат"</string>
+    <string name="accessibility_adaptive_brightness">"Прилагодљива осветљеност"</string>
+    <string name="status_bar_icons_title">Иконе у статусној траци</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD искључен\nШтедња батерије</string>
+    <string name="quick_settings_powershare_label">Бежично дељење напајања</string>
+    <string name="quick_settings_powershare_off_powersave_label">Бежично дељење напајања искључено\nШтедња батерије</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Бежично дељење напајања искључено\nБатерија је преслаба</string>
+    <string name="quick_settings_powershare_enabled_label">Бежично дељење напајања је укључено</string>
+    <string name="status_bar_firewall">Заштитни зид</string>
+    <string name="battery_notification_channel_tv">Упозорење о батерији</string>
+    <string name="screenshot_delete_label">"Избриши"</string>
+    <string name="screenshot_delete_description">Избриши снимак екрана</string>
+    <string name="screenrecord_lowquality_label">Нижи квалитет</string>
+    <string name="screenrecord_lowquality_summary">За мању величину фајла</string>
+    <string name="screenrecord_longer_timeout_switch_label">Већа ограничења величине фајла</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Ограничи величину снимка на 15 GB</string>
+    <string name="screenrecord_skip_time_label">Прескочи тајмер</string>
+    <string name="screenrecord_skip_time_summary">Уклони чекање од 3 секунде</string>
+    <string name="screenrecord_hevc_switch_label">HEVC кодирање</string>
+    <string name="screenrecord_hevc_switch_summary">Користи ефикаснији HEVC кодер</string>
+    <string name="zen_alarm_warning_indef">"Нећете чути следећи аларм у <xliff:g id="WHEN">%1$s</xliff:g> ако не искључите ово пре тога"</string>
+</resources>

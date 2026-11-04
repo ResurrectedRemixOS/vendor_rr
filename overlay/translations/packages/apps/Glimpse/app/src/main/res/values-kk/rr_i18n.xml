@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Галерея"</string>
+    <string name="app_permissions_toast">Пайдаланушы рұқсат бермеген.</string>
+    <string name="reels_title">Reels</string>
+    <string name="albums_title">"Aльбомдар"</string>
+    <string name="categories_title">"Санаттар"</string>
+    <string name="library_title">Кітапхана</string>
+    <string name="album_favorites">"Таңдаулылар"</string>
+    <string name="album_trash">"Себет"</string>
+    <string name="album_reels">Reels</string>
+    <string name="album_photos">"Фотосуреттер"</string>
+    <string name="album_videos">"Бейнелер"</string>
+    <plurals name="album_thumbnail_items">
+        <item quantity="one">%d элемент</item>
+        <item quantity="few">%d элемент</item>
+        <item quantity="many">%d элемент</item>
+        <item quantity="other">%d элемент</item>
+    </plurals>
+    <plurals name="delete_file_forever_confirm_message">
+        <item quantity="one">%d файлды біржола жойғыңыз келетініне сенімдісіз бе?</item>
+        <item quantity="few">%d файлды біржола жойғыңыз келетініне сенімдісіз бе?</item>
+        <item quantity="many">%d файлды біржола жойғыңыз келетініне сенімдісіз бе?</item>
+        <item quantity="other">%d файлды біржола жойғыңыз келетініне сенімдісіз бе?</item>
+    </plurals>
+    <plurals name="delete_file_forever_successful">
+        <item quantity="one">%d файл біржола жойылды</item>
+        <item quantity="few">%d файл біржола жойылды</item>
+        <item quantity="many">%d файл біржола жойылды</item>
+        <item quantity="other">%d файл біржола жойылды</item>
+    </plurals>
+    <plurals name="delete_file_forever_unsuccessful">
+        <item quantity="one">%d файлды біржола жою мүмкін болмады</item>
+        <item quantity="few">%d файлды біржола жою мүмкін болмады</item>
+        <item quantity="many">%d файлды біржола жою мүмкін болмады</item>
+        <item quantity="other">%d файлды біржола жою мүмкін болмады</item>
+    </plurals>
+    <plurals name="move_file_to_trash_confirm_message">
+        <item quantity="one">%d файлды себетке жібергіңіз келетініне сенімдісіз бе?</item>
+        <item quantity="few">%d файлды себетке жібергіңіз келетініне сенімдісіз бе?</item>
+        <item quantity="many">%d файлды себетке жібергіңіз келетініне сенімдісіз бе?</item>
+        <item quantity="other">%d файлды себетке жібергіңіз келетініне сенімдісіз бе?</item>
+    </plurals>
+    <plurals name="move_file_to_trash_successful">
+        <item quantity="one">%d файл себетке жiберілді</item>
+        <item quantity="few">%d файл себетке жiберілді</item>
+        <item quantity="many">%d файл себетке жiберілді</item>
+        <item quantity="other">%d файл себетке жiберілді</item>
+    </plurals>
+    <plurals name="move_file_to_trash_unsuccessful">
+        <item quantity="one">%d файлды себетке жiберу мүмкін болмады</item>
+        <item quantity="few">%d файлды себетке жiберу мүмкін болмады</item>
+        <item quantity="many">%d файлды себетке жiберу мүмкін болмады</item>
+        <item quantity="other">%d файлды себетке жiберу мүмкін болмады</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_confirm_message">
+        <item quantity="one">%d файлды себеттен қалпына келтіргіңіз келетініне сенімдісіз бе?</item>
+        <item quantity="few">%d файлды себеттен қалпына келтіргіңіз келетініне сенімдісіз бе?</item>
+        <item quantity="many">%d файлды себеттен қалпына келтіргіңіз келетініне сенімдісіз бе?</item>
+        <item quantity="other">%d файлды себеттен қалпына келтіргіңіз келетініне сенімдісіз бе?</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_successful">
+        <item quantity="one">%d файл себеттен қалпына келтірілді</item>
+        <item quantity="few">%d файл себеттен қалпына келтірілді</item>
+        <item quantity="many">%d файл себеттен қалпына келтірілді</item>
+        <item quantity="other">%d файл себеттен қалпына келтірілді</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_unsuccessful">
+        <item quantity="one">%d файлды себеттен қалпына келтіру мүмкін болмады</item>
+        <item quantity="few">%d файлды себеттен қалпына келтіру мүмкін болмады</item>
+        <item quantity="many">%d файлды себеттен қалпына келтіру мүмкін болмады</item>
+        <item quantity="other">%d файлды себеттен қалпына келтіру мүмкін болмады</item>
+    </plurals>
+    <string name="manage_media_permission_title">Медиа рұқсатын басқару</string>
+    <string name="manage_media_permission_message">Суреттер мен бейнелеріңізді жақсырақ басқару үшін қолданбаға медиа файлдарды басқаруға рұқсат беріңіз</string>
+    <string name="media_info_unknown">"Белгісіз"</string>
+    <string name="media_info_add_description_hint">Сипаттама қосу</string>
+    <string name="media_info_write_description_failed">Медиа сипаттамасын өзгерту сәтсіз аяқталды</string>
+    <string name="media_info_location_loading_placeholder">Жүктелуде…</string>
+    <string name="media_info_location_open_with">Орынды мынамен көру</string>
+    <string name="intent_action_not_supported">Әрекет қолдаухылмайды</string>
+    <string name="intent_media_not_found">Медиа табылмады</string>
+    <string name="intent_media_type_not_found">Медиа түрі табылмады</string>
+    <string name="intent_media_type_not_supported">Медиа түрі қолдаухылмайды</string>
+    <string name="intent_no_system_wallpaper_cropper_available">Жүйелік кесу құралы жоқ</string>
+    <string name="intent_wallpaper_cannot_be_changed">Тұсқағазды өзгерту мүмкін емес</string>
+    <string name="file_action_add_to_favorites">"Таңдаулыларға қосу"</string>
+    <string name="file_action_delete_forever">"Біржола жою"</string>
+    <string name="file_action_edit">"Өзгерту"</string>
+    <string name="file_action_empty_trash">"Себетті босату"</string>
+    <string name="file_action_information">"Ақпарат"</string>
+    <string name="file_action_move_to_trash">"Себетке жіберу"</string>
+    <string name="file_action_remove_from_favorites">Таңдаулылар тізімінен жою</string>
+    <string name="file_action_restore_from_trash">Себеттен қалпына келтіру</string>
+    <string name="file_action_share">"Бөлісу"</string>
+    <string name="file_action_use_as">Мынадай ретінде пайдалану</string>
+    <string name="file_action_undo_action">"Қайтару"</string>
+    <string name="no_media">Медиа жоқ</string>
+    <plurals name="thumbnail_selection_count">
+        <item quantity="one">%d таңдалды</item>
+        <item quantity="few">%d таңдалды</item>
+        <item quantity="many">%d таңдалды</item>
+        <item quantity="other">%d таңдалды</item>
+    </plurals>
+    <string name="pick_a_photo">Фотосурет таңдау</string>
+    <string name="pick_a_video">Бейне таңдау</string>
+    <string name="pick_a_media">Медиа таңдау</string>
+    <string name="picker_done">"Дайын"</string>
+    <string name="set_wallpaper_label">"Тұсқағаз"</string>
+    <string name="set_wallpaper">"Тұсқағаз орнату"</string>
+    <string name="set_wallpaper_dialog_title">"Тұсқағаз ретінде орнату"</string>
+    <string name="set_wallpaper_home_screen">"Негізгі экран"</string>
+    <string name="set_wallpaper_lock_screen">"Құлыптаулы экран"</string>
+    <string name="set_wallpaper_both">Негізгі және құлыптаулы экран</string>
+    <string name="warning_bin_time_period">Файлдар 30 күннен кейін біржола жойылады.</string>
+    <string name="motion_photo_show_video">Бейнені көрсету</string>
+    <string name="motion_photo_show_photo">Фотоны көрсету</string>
+    <string name="title_activity_settings">"Параметрлер"</string>
+    <string name="general_header">"Жалпы"</string>
+    <string name="video_header">Бейне</string>
+    <string name="edge_tap_navigation_enable_title">Шеттерді түрту арқылы навигация</string>
+    <string name="edge_tap_navigation_enabled_description">Медиа арасында өту үшін экранның сол немесе оң шетін түртіңіз</string>
+    <string name="double_tap_to_seek_enabled_title">Екі рет түрту арқылы іздеуді қосу</string>
+    <string name="double_tap_to_seek_enabled_description">Артқа немесе алға өткізу үшін бейненің сол немесе оң жағын екі рет түртіңіз</string>
+    <string name="double_tap_to_seek_seconds_title">Екі рет түрту кезіндегі өткізу ұзақтығы</string>
+    <string name="double_tap_to_seek_seconds_description">Бейнені екі рет түрткенде өткізілетін секундтар</string>
+    <string name="hide_native_seek_buttons_title">Жүйелік іздеу түймелерін жасыру</string>
+    <string name="hide_native_seek_buttons_description">Бейне ойнатқыш басқару элементтерінен кері және алға түймелерін жасыру</string>
+    <string name="remember_video_playback_position_enabled_title">Ойнату орнын есте сақтау</string>
+    <string name="remember_video_playback_position_enabled_description">Бейнелерді соңғы тоқтатылған орыннан жалғастыру</string>
+</resources>

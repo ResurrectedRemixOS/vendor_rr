@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">အနီးတဝိုက်ရှိ နေရာများ</string>
+    <string name="lookup_settings_label">ဖုန်းနံပါတ် ရှာဖွေခြင်း</string>
+    <string name="enable_forward_lookup_title">ရှေ့သို့ ရှာဖွေခြင်း</string>
+    <string name="enable_forward_lookup_summary">ဖုန်းခေါ်ရာတွင် ရှာဖွေသောအခါ အနီးရှိနေရာများကို ပြရန်</string>
+    <string name="enable_reverse_lookup_title">နောက်သို့ ရှာဖွေခြင်း</string>
+    <string name="enable_reverse_lookup_summary">ဝင်လာသောခေါ်ဆိုမှုများတွင် အမည်မသိနံပါတ်များအတွက် ပုဂ္ဂိုလ် သို့မဟုတ် နေရာအကြောင်း အချက်အလက်ကို ရှာဖွေရန်</string>
+    <string name="forward_lookup_provider_title">ရှေ့သို့ ရှာဖွေမှု ဝန်ဆောင်မှုပေးသူ</string>
+    <string name="reverse_lookup_provider_title">နောက်သို့ ရှာဖွေမှု ဝန်ဆောင်မှုပေးသူ</string>
+    <string name="lookup_disclaimer">ရှာဖွေမှုများသည် အချက်အလက်ရယူရန် လုံခြုံသော ပရိုတိုကော (https) မှတစ်ဆင့် အပြင်ဝက်ဘ်ဆိုက်များသို့ မေးမြန်းချက်များ ပို့နိုင်ပါသည်။ မေးမြန်းချက်တွင် အခြားဘက်၏ ဖုန်းနံပါတ် သို့မဟုတ် ရှာဖွေစာသား ပါဝင်နိုင်ပါသည်</string>
+</resources>

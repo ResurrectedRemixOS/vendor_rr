@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Lavanda</string>
+    <string name="red_color_name">Mora</string>
+    <string name="wht_color_name">Nebbia</string>
+    <string name="fruit1_color_name">Tavolozza a due colori giallo e rosso</string>
+    <string name="fruit2_color_name">Tavolozza a due colori verde e arancione</string>
+    <string name="fruit3_color_name">Tavolozza a due colori blu e verde</string>
+    <string name="fruit4_color_name">Tavolozza a due colori viola chiaro e blu</string>
+    <string name="fruit5_color_name">Tavolozza a due colori rosa e indaco</string>
+</resources>

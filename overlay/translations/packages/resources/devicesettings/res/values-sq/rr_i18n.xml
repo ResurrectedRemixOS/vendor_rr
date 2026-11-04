@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="stylus_panel_title">"Stilolapsi"</string>
+    <string name="stylus_panel_summary">Kontrollo sjelljen e stilolapsit</string>
+    <string name="stylus_removed_category_title">Stilolapsi u hoq</string>
+    <string name="stylus_inserted_category_title">Stilolapsi u fut</string>
+    <string name="stylus_screen_on_when_removed_title">"Ndiz ekranin"</string>
+    <string name="stylus_screen_on_when_removed_summary">Ndiz ekranin kur hiqet stilolapsi</string>
+    <string name="stylus_screen_off_when_inserted_title">"Çaktivizo ekranin"</string>
+    <string name="stylus_screen_off_when_inserted_summary">Fik ekranin kur futet stilolapsi</string>
+    <string name="stylus_vibrate_title">"Dridhje"</string>
+    <string name="stylus_vibrate_when_removed_summary">Dridhu kur hiqet stilolapsi</string>
+    <string name="stylus_vibrate_when_inserted_summary">Dridhu kur futet stilolapsi</string>
+    <string name="stylus_launch_app_title">Hap aplikacionin kur hiqet</string>
+    <string name="alert_slider_mode_torch_on">"Elektriku i dorës është i aktivizuar"</string>
+    <string name="alert_slider_mode_torch_off">"Elektriku i dorës është i çaktivizuar"</string>
+</resources>

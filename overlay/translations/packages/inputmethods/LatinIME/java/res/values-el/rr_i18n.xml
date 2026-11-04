@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_split_keyboard_summary">Μόνο σε οριζόντια λειτουργία</string>
+    <string name="split_keyboard_duplicate_keys">Διπλά κεντρικά πλήκτρα</string>
+    <string name="split_keyboard_duplicate_keys_summary">Εμφάνιση πλήκτρων κοντά στη μέση και στα δύο μισά</string>
+    <string name="spoken_description_split_keyboard">Διαχωρισμένο πληκτρολόγιο</string>
+    <string name="spoken_description_merge_keyboard">Συγχώνευση πληκτρολογίου</string>
+    <string name="spoken_description_float_keyboard">Πλωτό πληκτρολόγιο</string>
+    <string name="spoken_description_dock_keyboard">Αγκύρωση πληκτρολογίου</string>
+    <string name="floating_keyboard_drag_handle">Μετακίνηση πληκτρολογίου</string>
+    <string name="floating_keyboard_resize_handle">Αλλαγή μεγέθους πληκτρολογίου</string>
+    <string name="floating_keyboard_reset">"Επαναφορά"</string>
+    <string name="floating_keyboard_hide">Απόκρυψη πληκτρολογίου</string>
+    <string name="floating_keyboard_switch_ime">"Εναλλαγή μεθόδου εισαγωγής"</string>
+</resources>

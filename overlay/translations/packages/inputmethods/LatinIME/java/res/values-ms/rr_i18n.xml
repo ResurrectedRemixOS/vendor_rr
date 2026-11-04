@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Abjad (Bépo)</string>
+    <string name="subtype_hu_ZZ">Hungary (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - ikut tetapan sistem</string>
+    <string name="prefs_keyboard_height_scale">Skala ketinggian papan kekunci</string>
+    <string name="number_row">Baris nombor</string>
+    <string name="number_row_summary">Sentiasa tunjukkan baris nombor untuk semua susun atur yang mempunyai 4 baris kekunci</string>
+    <string name="number_row_password">Baris nombor untuk kata laluan</string>
+    <string name="number_row_password_summary">Sentiasa tunjukkan baris nombor untuk semua susun atur yang mempunyai 4 baris kekunci bagi input kata laluan</string>
+    <string name="space_trackpad">Trackpad bar ruang</string>
+    <string name="space_trackpad_summary">Leret pada bar ruang untuk mengalihkan kursor</string>
+    <string name="backspace_trackpad">Trackpad kekunci padam</string>
+    <string name="backspace_trackpad_summary">Leret pada kekunci padam untuk memadam perkataan</string>
+    <string name="show_longpress_hints">Tunjukkan petunjuk tekan lama kekunci</string>
+    <string name="show_longpress_hints_summary">Menunjukkan petunjuk tekan lama untuk kekunci yang disokong</string>
+    <string name="show_emoji_key">Tunjukkan kekunci emoji</string>
+    <string name="show_emoji_key_summary">Sentiasa tunjukkan kekunci emoji. Apabila pilihan ini didayakan, kekunci tukar bahasa tidak boleh dipaparkan.</string>
+    <string name="enable_split_keyboard_summary">Hanya dalam landskap</string>
+    <string name="split_keyboard_duplicate_keys">Gandakan kekunci tengah</string>
+    <string name="split_keyboard_duplicate_keys_summary">Tunjukkan kekunci berhampiran tengah pada kedua-dua bahagian</string>
+    <string name="spoken_description_split_keyboard">Papan kekunci berpisah</string>
+    <string name="spoken_description_merge_keyboard">Gabungkan papan kekunci</string>
+    <string name="spoken_description_float_keyboard">Papan kekunci terapung</string>
+    <string name="spoken_description_dock_keyboard">Labuhkan papan kekunci</string>
+    <string name="floating_keyboard_drag_handle">Alihkan papan kekunci</string>
+    <string name="floating_keyboard_resize_handle">Ubah saiz papan kekunci</string>
+    <string name="floating_keyboard_reset">"Tetapkan semula"</string>
+    <string name="floating_keyboard_hide">Sembunyikan papan kekunci</string>
+    <string name="floating_keyboard_switch_ime">"Tukar kaedah masukan"</string>
+</resources>

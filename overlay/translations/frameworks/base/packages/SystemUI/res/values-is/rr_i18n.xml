@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">"Aðlögun birtustigs"</string>
+    <string name="battery_notification_channel_tv">Viðvörun um rafhlöðu</string>
+    <string name="screenshot_delete_label">"Eyða"</string>
+    <string name="screenshot_delete_description">Eyða skjámynd</string>
+    <string name="screenrecord_lowquality_label">Minni gæði</string>
+    <string name="screenrecord_lowquality_summary">Fyrir minni skráarstærð</string>
+    <string name="screenrecord_longer_timeout_switch_label">Stærri hámarksstærð skráar</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Takmarka stærð upptöku við 15 GB</string>
+    <string name="screenrecord_skip_time_label">Sleppa tímamæli</string>
+    <string name="screenrecord_skip_time_summary">Fjarlægja 3 sekúndna bið</string>
+    <string name="screenrecord_hevc_switch_label">HEVC-kóðun</string>
+    <string name="screenrecord_hevc_switch_summary">Nota skilvirkari HEVC-kóðara</string>
+    <string name="zen_alarm_warning_indef">"Ekki mun heyrast í næsta vekjara <xliff:g id="WHEN">%1$s</xliff:g> nema slökkt sé á þessu fyrir þann tíma"</string>
+</resources>

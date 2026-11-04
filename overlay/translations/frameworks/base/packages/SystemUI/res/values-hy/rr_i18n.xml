@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Վերագործարկել…</string>
+    <string name="global_action_restart_system">"Համակարգ"</string>
+    <string name="global_action_restart_recovery">"Վերականգ­նում"</string>
+    <string name="global_action_restart_bootloader">Բեռնիչ</string>
+    <string name="global_action_restart_download">"Ներբեռնել"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Վերագործարկում…"</string>
+    <string name="global_action_restart_recovery_progress">Վերագործարկում վերականգնման ռեժիմի…</string>
+    <string name="global_action_restart_bootloader_progress">Վերագործարկում բեռնիչի ռեժիմի…</string>
+    <string name="global_action_restart_download_progress">Վերագործարկում ներբեռնման ռեժիմի…</string>
+    <string name="global_action_restart_fastboot_progress">Վերագործարկում fastbootd ռեժիմի…</string>
+    <string name="global_action_current_user">Ընթացիկ</string>
+    <string name="global_action_users">"Օգտատերեր"</string>
+    <string name="clock">"Ժամացույց"</string>
+    <string name="accessibility_adaptive_brightness">"Հարմարվող պայծառություն"</string>
+    <string name="status_bar_icons_title">Կարգավիճակի գոտու պատկերակներ</string>
+    <string name="quick_settings_ambient_display_label">"Ամբիենտ էկրան"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Ambient էկրանն անջատված է։</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Ambient էկրանը միացված է։</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD անջատված\nՄարտկոցի խնայում</string>
+    <string name="quick_settings_caffeine_label">"Կոֆեին"</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine-ն անջատված է։</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine-ն միացված է։</string>
+    <string name="quick_settings_heads_up_label">Heads up</string>
+    <string name="accessibility_quick_settings_heads_up_off">Heads up-ն անջատված է։</string>
+    <string name="accessibility_quick_settings_heads_up_on">Heads up-ն միացված է։</string>
+    <string name="quick_settings_powershare_label">Wireless PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Wireless PowerShare-ն անջատված\nՄարտկոցի խնայում</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Wireless PowerShare-ն անջատված\nՄարտկոցը շատ ցածր է</string>
+    <string name="quick_settings_powershare_enabled_label">Wireless PowerShare-ն միացված է</string>
+    <string name="quick_settings_reading_mode">Ընթերցման ռեժիմ</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Ընթերցման ռեժիմը միացված է։</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Ընթերցման ռեժիմն անջատված է։</string>
+    <string name="quick_settings_sync_label">"Համաժամացնել"</string>
+    <string name="accessibility_quick_settings_sync_off">Համաժամեցումն անջատված է։</string>
+    <string name="accessibility_quick_settings_sync_on">Համաժամեցումը միացված է։</string>
+    <string name="quick_settings_profiles_label">Համակարգի պրոֆիլներ</string>
+    <string name="accessibility_quick_settings_profiles_off">Պրոֆիլներն անջատված են։</string>
+    <string name="accessibility_quick_settings_profiles">Պրոֆիլ՝ <xliff:g id="profile" example="Default">%s</xliff:g>։</string>
+    <string name="quick_settings_usb_tether_label">"USB մոդեմ"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Միանալ…</string>
+    <string name="vpn_credentials_hint">Մուտքագրեք <xliff:g id="name">%s</xliff:g>-ին միանալու տվյալները</string>
+    <string name="vpn_credentials_username">"Օգտանուն"</string>
+    <string name="vpn_credentials_password">"Գաղտնաբառ"</string>
+    <string name="vpn_credentials_dialog_connect">"Միանալ"</string>
+    <string name="status_bar_firewall">Firewall</string>
+    <string name="battery_notification_channel_tv">Մարտկոցի նախազգուշացում</string>
+    <string name="screenshot_delete_label">"Ջնջել"</string>
+    <string name="screenshot_delete_description">Ջնջել սքրինշոթը</string>
+    <string name="screenrecord_lowquality_label">Ցածր որակ</string>
+    <string name="screenrecord_lowquality_summary">Ավելի փոքր ֆայլի չափի համար</string>
+    <string name="screenrecord_longer_timeout_switch_label">Ֆայլի ավելի մեծ սահման</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Սահմանափակել ձայնագրության չափը 15 ԳԲ-ով</string>
+    <string name="screenrecord_skip_time_label">Բաց թողնել taymer-ը</string>
+    <string name="screenrecord_skip_time_summary">Հեռացնել 3 վայրկյանանոց սպասումը</string>
+    <string name="screenrecord_hevc_switch_label">HEVC կոդավորում</string>
+    <string name="screenrecord_hevc_switch_summary">Օգտագործել ավելի արդյունավետ HEVC կոդավորիչը</string>
+    <string name="zen_alarm_warning_indef">"Ժամը <xliff:g id="WHEN">%1$s</xliff:g>-ի զարթուցիչը չի զանգի, եթե մինչ այդ չանջատեք այս կարգավորումը"</string>
+</resources>

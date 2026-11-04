@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="none">"Žádné"</string>
+    <string name="stylus_panel_title">"Dotykové pero"</string>
+    <string name="stylus_panel_summary">Ovládání chování stylusu</string>
+    <string name="stylus_removed_category_title">Stylus vyjmut</string>
+    <string name="stylus_inserted_category_title">Stylus vložen</string>
+    <string name="stylus_screen_on_when_removed_title">"Zapnout obrazovku"</string>
+    <string name="stylus_screen_on_when_removed_summary">Zapnout obrazovku při vyjmutí stylusu</string>
+    <string name="stylus_screen_off_when_inserted_title">"Vypnout obrazovku"</string>
+    <string name="stylus_screen_off_when_inserted_summary">Vypnout obrazovku při vložení stylusu</string>
+    <string name="stylus_vibrate_title">"Vibrace"</string>
+    <string name="stylus_vibrate_when_removed_summary">Vibrovat při vyjmutí stylusu</string>
+    <string name="stylus_vibrate_when_inserted_summary">Vibrovat při vložení stylusu</string>
+    <string name="stylus_launch_app_title">Spustit aplikaci při vyjmutí</string>
+    <string name="popup_title">Nastavení přední kamery</string>
+    <string name="popup_calibration_title">"Kalibrace"</string>
+    <string name="popup_calibration_summary">Kalibrovat motor vyskakovací kamery</string>
+    <string name="popup_calibration_warning_title">Kalibrace motoru</string>
+    <string name="popup_calibration_warning_text">Zbytečné používání kalibrace může způsobit trvalé poškození. Motor vyskakovací kamery doporučujeme kalibrovat pouze tehdy, pokud se nehýbe správně nebo je v nesprávné poloze!</string>
+    <string name="popup_camera_tip">Varování</string>
+    <string name="popup_camera_takeback_failed_calibrate">Přední kameru nelze zavřít. Zkuste kalibrovat motor.</string>
+    <string name="popup_camera_popup_failed_calibrate">Přední kameru nelze otevřít. Zkuste kalibrovat motor.</string>
+    <string name="popup_camera_calibrate_running">Přední kameru nelze použít během kalibrace.</string>
+    <string name="popup_camera_calibrate_now">Kalibrovat</string>
+    <string name="popup_camera_calibrate_failed">Kalibraci nelze provést</string>
+    <string name="popup_camera_calibrate_success">Kalibrace proběhla úspěšně. Přední kameru nyní můžete otevřít.</string>
+    <string name="popup_led_title">LED kamery</string>
+    <string name="popup_led_summary">Rozsvítit LED při vysouvání a zasouvání přední kamery</string>
+    <string name="popup_sound_title">"Zvukové efekty"</string>
+    <string name="popup_sound_muqin">Xylofon</string>
+    <string name="popup_sound_yingyan">Kondor</string>
+    <string name="popup_sound_mofa">"Magie"</string>
+    <string name="popup_sound_jijia">Mecha</string>
+    <string name="popup_sound_chilun">Ozubené kolo</string>
+    <string name="popup_sound_cangmen">Dveře kabiny</string>
+    <string name="doze_brightness_title">Jas při trvalém zobrazení</string>
+    <string name="doze_brightness_summary">režim <xliff:g id="mode" example="Low brightness">%s</xliff:g> je zapnutý</string>
+    <string name="doze_brightness_low">Nízký jas</string>
+    <string name="doze_brightness_high">Vysoký jas</string>
+    <string name="doze_brightness_adaptive">"Adaptivní jas"</string>
+    <string name="alert_slider_mode_none">"Žádné"</string>
+    <string name="alert_slider_mode_torch_on">"Svítilna zapnuta"</string>
+    <string name="alert_slider_mode_torch_off">"Svítilna vypnuta"</string>
+    <string name="alert_slider_notification_dialog_title">Zobrazit dialog posuvníku</string>
+    <string name="alert_slider_notification_dialog_summary">Zobrazit dialog při změně polohy posuvníku upozornění</string>
+</resources>

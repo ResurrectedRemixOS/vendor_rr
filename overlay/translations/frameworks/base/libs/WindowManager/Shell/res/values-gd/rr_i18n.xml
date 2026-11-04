@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_expand">Leudaich</string>
+    <string name="pip_phone_settings">Roghainnean</string>
+    <string name="pip_menu_title">Clàr-taice</string>
+    <string name="accessibility_action_pip_resize">Ath-mheudaich</string>
+    <string name="pip_phone_minimize">Fìor-lùghdaich</string>
+    <string name="bubble_accessibility_action_move_top_left">Gluais gun bhàrr taobh clì</string>
+    <string name="bubble_accessibility_action_move_top_right">Gluais gun bhàrr taobh deas</string>
+    <string name="bubble_accessibility_action_move_bottom_left">Gluais gun bhonn taobh clì</string>
+    <string name="bubble_accessibility_action_move_bottom_right">Gluais gun bhonn taobh deas</string>
+    <string name="bubbles_user_education_got_it">Tha mi agaibh</string>
+    <string name="notification_bubble_title">Builgean</string>
+    <string name="manage_bubbles_text">Stiùirich</string>
+    <string name="letterbox_education_got_it">Tha mi agaibh</string>
+    <string name="letterbox_restart_cancel">Sguir dheth</string>
+    <string name="letterbox_restart_restart">Ath-thòisich</string>
+    <string name="back_button_text">Air ais</string>
+    <string name="more_button_text">Barrachd</string>
+    <string name="select_text">Tagh</string>
+    <string name="screenshot_text">Glacadh-sgrìn</string>
+    <string name="desktop_mode_layout_menu_snap_text">Ath-mheudaich</string>
+    <string name="desktop_mode_layout_menu_maximize_button_text">Làn-mheudaich</string>
+    <string name="open_by_default_dialog_dismiss_button_text">Ceart ma-thà</string>
+    <string name="open_by_default_splash_dialog_checkbox_text">Cuimhnich mo roghainn</string>
+    <string name="pip_fullscreen">Làn-sgrìn</string>
+    <string name="pip_move">Gluais</string>
+    <string name="pip_expand">Leudaich</string>
+    <string name="pip_collapse">Co-theannaich</string>
+    <string name="a11y_action_pip_move_up">Gluais suas</string>
+    <string name="a11y_action_pip_move_down">Gluais sìos</string>
+    <string name="a11y_action_pip_move_done">Deiseil</string>
+</resources>

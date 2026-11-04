@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_desktop_shortcuts">Преки пътища на работния плот</string>
+    <string name="desktop_shortcuts_title">Преки пътища на работния плот</string>
+    <string name="pref_web_debugging_title">Уеб отстраняване на грешки</string>
+    <string name="pref_web_debugging_summary">Разрешаване на инспекция на уеб страници чрез chrome://inspect при отстраняване на грешки през USB</string>
+    <string name="pref_fullscreen_shortcuts_title">Преки пътища на цял екран</string>
+    <string name="pref_fullscreen_shortcuts_summary">Принудително отваряне на преките пътища в режим на цял екран</string>
+</resources>

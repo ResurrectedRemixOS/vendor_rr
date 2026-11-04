@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share_selected">Partekatu hautatuak</string>
+    <string name="pause">Pausatu</string>
+    <string name="resume">"Berrekin"</string>
+    <string name="delete_all">Ezabatu dena</string>
+    <string name="delete_selected">Ezabatu hautatuak</string>
+    <string name="rename">"Aldatu izena"</string>
+    <string name="delete_recording_message">Ziur zaude grabaketa hau ezabatu nahi duzula? Ezin da desegin</string>
+    <string name="confirm">"Berretsi"</string>
+    <string name="discard">"Baztertu"</string>
+    <string name="record_again">Grabatu berriro</string>
+    <string name="confirm_result_title">Grabaketa erabili?</string>
+    <string name="confirm_result_message">Azken grabaketa erabili nahi duzu?</string>
+    <string name="sound_recording_title_paused">"Pausatuta"</string>
+    <string name="settings_title">"Ezarpenak"</string>
+    <string name="settings_location_message">Etiketatu grabaketak uneko kokapenarekin</string>
+    <string name="settings_quality_high">Grabatu kalitate handian</string>
+    <string name="dialog_permissions_notifications">Grabagailuak jakinarazpen-baimena behar du grabaketa-kontrolak erakusteko</string>
+    <string name="dialog_permissions_mic_notifications">Grabagailuak mikrofono-baimena behar du audioa grabatzeko eta jakinarazpen-baimena grabaketa-kontrolak erakusteko</string>
+    <string name="dialog_permissions_phone_notifications">Grabagailuak telefono-egoeraren sarbidea behar du deiak egiten ari zarenean grabatzea eragozteko, eta jakinarazpen-baimena grabaketa-kontrolak erakusteko</string>
+    <string name="dialog_permissions_mic_phone_notifications">Grabagailuak mikrofono-baimena behar du audioa grabatzeko, telefono-egoeraren sarbidea deiak egiten ari zarenean grabatzea eragozteko, eta jakinarazpen-baimena grabaketa-kontrolak erakusteko</string>
+    <string name="dialog_permissions_location">Grabagailuak kokapen-baimena behar du grabaketak automatikoki etiketatzeko, antolatzen laguntzeko</string>
+    <string name="snack_permissions_no_permission_location">Kokapen-baimena ukatu da. Gaitu ezazu ezarpenen aplikazioan grabaketak etiketatzeko</string>
+    <string name="list_title">Nire grabaketak</string>
+    <string name="list_error_empty">Grabaketa guztiak hemen agertuko dira</string>
+    <string name="list_edit_title">Editatu grabaketaren izena</string>
+    <string name="list_edit_confirm">"Aldatu"</string>
+    <string name="list_item_menu">Ekintza gehiago</string>
+    <string name="delete_all_title">Ezabatu dena</string>
+    <string name="delete_all_message">Ziur zaude grabaketa guztiak ezabatu nahi dituzula? Ezin da desegin</string>
+    <string name="delete_selected_title">Ezabatu hautatuak</string>
+    <string name="delete_selected_message">Ziur zaude hautatutako grabaketak ezabatu nahi dituzula? Ezin da desegin</string>
+    <plurals name="recording_selection_count">
+        <item quantity="one">%d hautatuta</item>
+        <item quantity="other">%d hautatuta</item>
+    </plurals>
+</resources>

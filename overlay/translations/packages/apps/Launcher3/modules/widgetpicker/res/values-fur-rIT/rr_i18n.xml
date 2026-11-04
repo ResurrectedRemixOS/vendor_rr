@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_span_dimensions_accessible_format">%1$d di largjece par %2$d di altece</string>
+    <string name="widget_details_accessibility_label">        <xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g> widget, %2$d di largjece par %3$d di altece
+    </string>
+    <string name="widget_tap_to_show_add_button_label">Mostre boton par zontâ</string>
+    <string name="widget_tap_to_hide_add_button_label">Plate boton par zontâ</string>
+    <string name="widget_tap_to_add_button_content_description">Zonte widget <xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g></string>
+    <string name="browse_widgets_tab_label">Sgarfe</string>
+    <string name="widget_picker_right_pane_accessibility_label">I widgets <xliff:g id="selected_header" example="Calendar">%1$s</xliff:g> a diestre, ricercje e opzions a çampe</string>
+    <string name="widgets_search_bar_hint">Cîr</string>
+    <string name="widget_search_bar_back_button_label">Indaûr</string>
+    <string name="widgets_list_no_widgets_available">I Widgets e lis scurtis no son disponibii</string>
+    <string name="widgets_no_search_results">No son stâts cjatâts ni widgets ni scurtis</string>
+    <string name="widget_add_to_homescreen_button_label">Zonte ae schermade di inizi</string>
+    <string name="widget_cancel_pin_button_label">Anule</string>
+</resources>

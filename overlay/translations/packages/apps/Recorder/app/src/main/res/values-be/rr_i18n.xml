@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Дыктафон</string>
+    <string name="pause">Паўза</string>
+    <string name="resume">"Узнавіць"</string>
+    <string name="delete_selected">Выдаліць абранае</string>
+    <string name="rename">"Перайменаваць"</string>
+    <string name="delete_recording_message">Выдаліць гэты запіс? Гэта нельга адмяніць</string>
+    <string name="confirm">"Пацвердзіць"</string>
+    <string name="discard">"Адхіліць"</string>
+    <string name="record_again">Запісаць зноў</string>
+    <string name="confirm_result_title">Выкарыстоўваць запіс?</string>
+    <string name="sound_notification_message">Даўжыня аўдыё: %1$s</string>
+    <string name="settings_location_message">Пазначаць запісы бягучым месцазнаходжаннем</string>
+    <string name="settings_quality_high">Запісваць у высокай якасці</string>
+    <string name="dialog_permissions_mic">Дыктафону патрэбны дазвол на мікрафон для запісу гуку</string>
+    <string name="dialog_permissions_phone">Дыктафону патрэбны доступ да стану тэлефона, каб не запісваць падчас выкліку</string>
+    <string name="dialog_permissions_notifications">Дыктафону патрэбны дазвол на апавяшчэнні, каб паказаць элементы кіравання запісам</string>
+    <string name="dialog_permissions_mic_phone">Дыктафону патрэбны дазвол на мікрафон для запісу гуку і доступ да стану тэлефона, каб не запісваць падчас выкліку</string>
+    <string name="dialog_permissions_mic_notifications">Дыктафону патрэбны дазвол на мікрафон для запісу гуку і дазвол на апавяшчэнні, каб паказаць элементы кіравання запісам</string>
+    <string name="dialog_permissions_phone_notifications">Дыктафону патрэбны доступ да стану тэлефона, каб не запісваць падчас выкліку, і дазвол на апавяшчэнні, каб паказаць элементы кіравання запісам</string>
+    <string name="dialog_permissions_mic_phone_notifications">Дыктафону патрэбны дазвол на мікрафон для запісу гуку, доступ да стану тэлефона, каб не запісваць падчас выкліку, і дазвол на апавяшчэнні, каб паказаць элементы кіравання запісам</string>
+    <string name="dialog_permissions_location">Дыктафону патрэбны доступ да месцазнаходжання, каб аўтаматычна пазначаць запісы для іх упарадкавання</string>
+    <string name="snack_permissions_no_permission">Патрэбныя дазволы не далі. Уключыце іх у праграме «Налады», каб пачаць запіс</string>
+    <string name="snack_permissions_no_permission_location">Доступ да месцазнаходжання не даны. Уключыце яго ў праграме «Налады», каб пазначаць запісы</string>
+    <string name="list_error_empty">Тут будуць паказаныя ўсе вашы запісы</string>
+    <string name="list_edit_title">Змяніць назву запісу</string>
+    <string name="list_item_menu">Дадатковыя дзеянні</string>
+    <string name="delete_all_message">Выдаліць усе запісы? Гэта нельга адмяніць</string>
+    <string name="delete_selected_title">Выдаліць абранае</string>
+    <string name="delete_selected_message">Выдаліць абраныя запісы? Гэта нельга адмяніць</string>
+</resources>

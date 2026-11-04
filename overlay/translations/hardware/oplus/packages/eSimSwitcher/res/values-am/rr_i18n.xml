@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">የeSIM ቅንብሮች</string>
+    <string name="esim_toggle_title">"ኢሲም"</string>
+    <string name="esim_toggle_summary">ምናባዊ ሲም ካርድ ለመጠቀም የኦፕሬተር መገለጫ ያውርዱ እና ያግብሩ</string>
+    <string name="esim_toggle_dialog_cancel">"ይቅር"</string>
+</resources>

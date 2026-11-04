@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"លំនាំដើម"</item>
+        <item>ចេលស៊ីយ៉ុស</item>
+        <item>ហ្វារិនហៃ</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"លំនាំដើម"</item>
+        <item>អាទិត្យ</item>
+        <item>ច័ន្ទ</item>
+        <item>អង្គារ</item>
+        <item>ពុធ</item>
+        <item>ព្រហស្បតិ៍</item>
+        <item>សុក្រ</item>
+        <item>សៅរ៍</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"លំនាំដើម"</item>
+        <item>មេទ្រិក</item>
+        <item>ប្រព័ន្ធអាមេរិក</item>
+        <item>ប្រព័ន្ធអង់គ្លេស</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"មិនបានបញ្ជាក់"</item>
+        <item>"ធម្មតា"</item>
+        <item>"ស្រី"</item>
+        <item>"ប្រុស"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>ហ្វ្រង់ស្វ័រ</item>
+        <item>អេស្ប៉ាញ</item>
+        <item>អ៊ីតាលី</item>
+        <item>អាល្លឺម៉ង់</item>
+    </string-array>
+    <string name="keyboard_extras_title">ផ្សេងៗ</string>
+    <string name="advanced_keyboard_settings_title">"ការ​កំណត់​កម្រិត​ខ្ពស់"</string>
+    <string name="adb_enable_root">ការ debug ដែល root</string>
+    <string name="adb_enable_summary_root">អនុញ្ញាតឱ្យដំណើរការការ debug របស់ Android ជា root</string>
+    <string name="backup_transport_setting_label">ផ្លាស់ប្តូរអ្នកផ្តល់បម្រុងទុក</string>
+    <string name="backup_transport_title">ជ្រើសរើសអ្នកផ្តល់បម្រុងទុក</string>
+    <string name="berry_black_theme_title">ខ្មៅសុទ្ធ</string>
+    <string name="berry_black_theme_summary">ផ្ទៃខាងក្រោយខ្មៅសុទ្ធសម្រាប់ទម្រង់ងងឹត</string>
+    <string name="lineagelicense_title">ច្បាប់ LineageOS</string>
+    <string name="show_dev_on_cm">អ្នកបានបើកការកំណត់អ្នកអភិវឌ្ឍន៍!</string>
+    <string name="show_dev_already_cm">មិនចាំបាច់ទេ អ្នកបានបើកការកំណត់អ្នកអភិវឌ្ឍន៍រួចហើយ។</string>
+    <string name="status_bar_double_tap_to_sleep_title">ចុចដើម្បីដេក</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ចុចទ្វេដងលើរបារស្ថានភាព ឬអេក្រង់ចាក់សោ ដើម្បីបិទផ្ទាំងបង្ហាញ</string>
+    <string name="high_touch_polling_rate_title">អត្រាស្ទង់ការប៉ះខ្ពស់</string>
+    <string name="high_touch_polling_rate_summary">បង្កើនអត្រាស្ទង់ផ្ទាំងប៉ះ</string>
+    <string name="heads_up_notifications_enabled_title">ការជូនដំណឹងលោត</string>
+    <string name="heads_up_notifications_enabled_summary">បង្ហាញការជូនដំណឹងអាទិភាពក្នុងបង្អួចអណ្តែតតូច</string>
+    <string name="high_touch_sensitivity_title">ភាពប៉ះប្រតិកម្មខ្ពស់</string>
+    <string name="high_touch_sensitivity_summary">បង្កើនភាពប្រកដនៃផ្ទាំងប៉ះ ដើម្បីអាចប្រើពេលពាក់ស្រោមដៃ</string>
+    <string name="tethering_allow_vpn_upstreams_title">ប្រើ VPN សម្រាប់ឧបករណ៍ដែលបានភ្ជាប់</string>
+    <string name="tethering_allow_vpn_upstreams_summary">នៅពេលឧបករណ៍នេះប្រើ VPN ឧបករណ៍ទាំងអស់ដែលភ្ជាប់ទៅចំណុចភ្ជាប់ដោយប្រើ VPN ដូចគ្នា</string>
+    <string name="lock_settings_picker_pattern_size_message">ជ្រើសរើសទំហំលំនាំ</string>
+    <string name="lockpattern_settings_enable_error_path_title">បង្ហាញកំហុសលំនាំ</string>
+    <string name="lockpattern_settings_enable_dots_title">បង្ហាញចំណុចលំនាំ</string>
+    <string name="max_refresh_rate_title">អត្រាផ្ទុកអេក្រង់កំពូល</string>
+    <string name="min_refresh_rate_title">អត្រាផ្ទុកអេក្រង់ទាបបំផុត</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">ស្វែងរកឧបករណ៍ស្កេនស្នាមម្រាមដៃនៅផ្នែកខាងមុខនៃថេប្លេតរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">ស្វែងរកឧបករណ៍ស្កេនស្នាមម្រាមដៃនៅផ្នែកខាងមុខនៃឧបករណ៍របស់អ្នក។</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">ស្វែងរកឧបករណ៍ស្កេនស្នាមម្រាមដៃនៅផ្នែកខាងមុខនៃទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">ស្វែងរកឧបករណ៍ស្កេនស្នាមម្រាមដៃនៅផ្នែកខាងក្រោយនៃថេប្លេតរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">ស្វែងរកឧបករណ៍ស្កេនស្នាមម្រាមដៃនៅផ្នែកខាងក្រោយនៃឧបករណ៍របស់អ្នក។</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">ស្វែងរកឧបករណ៍ស្កេនស្នាមម្រាមដៃនៅផ្នែកខាងក្រោយនៃទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">ស្វែងរកឧបករណ៍ស្កេនស្នាមម្រាមដៃនៅផ្នែកចំហៀងនៃថេប្លេតរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">ស្វែងរកឧបករណ៍ស្កេនស្នាមម្រាមដៃនៅផ្នែកចំហៀងនៃឧបករណ៍របស់អ្នក។</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">ស្វែងរកឧបករណ៍ស្កេនស្នាមម្រាមដៃនៅផ្នែកចំហៀងនៃទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">ប៉ះឧបករណ៍ចាប់នៅផ្នែកខាងមុខនៃថេប្លេតរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">ប៉ះឧបករណ៍ចាប់នៅផ្នែកខាងមុខនៃឧបករណ៍របស់អ្នក។</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">ប៉ះឧបករណ៍ចាប់នៅផ្នែកខាងមុខនៃទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">ប៉ះឧបករណ៍ចាប់នៅផ្នែកខាងក្រោយនៃថេប្លេតរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">ប៉ះឧបករណ៍ចាប់នៅផ្នែកខាងក្រោយនៃឧបករណ៍របស់អ្នក។</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">ប៉ះឧបករណ៍ចាប់នៅផ្នែកខាងក្រោយនៃទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">ប៉ះឧបករណ៍ចាប់នៅផ្នែកចំហៀងនៃថេប្លេតរបស់អ្នក។</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">ប៉ះឧបករណ៍ចាប់នៅផ្នែកចំហៀងនៃឧបករណ៍របស់អ្នក។</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">ប៉ះឧបករណ៍ចាប់នៅផ្នែកចំហៀងនៃទូរស័ព្ទរបស់អ្នក។</string>
+    <string name="show_navbar_hint_title">ការណែនាំការរុករក</string>
+    <string name="show_navbar_hint_summary">បង្ហាញរបារណែនាំការរុករកនៅផ្នែកខាងក្រោមនៃអេក្រង់</string>
+    <string name="auto_brightness_one_shot_title">ការកែពន្លឺស្វ័យប្រវត្តិម្តង</string>
+    <string name="auto_brightness_one_shot_summary">ការកែពន្លឺនឹងកើតឡើងតែនៅពេលអេក្រង់បើកប៉ុណ្ណោះ</string>
+    <string name="data_usage_app_restrict_all">អនុញ្ញាតការចូលប្រើបណ្តាញ</string>
+    <string name="data_usage_app_restrict_all_summary">បើកការប្រើប្រាស់បណ្តាញ</string>
+    <string name="data_usage_app_restrict_mobile">"ទិន្នន័យ​ទូរសព្ទចល័ត"</string>
+    <string name="data_usage_app_restrict_mobile_summary">បើកការប្រើប្រាស់ទិន្នន័យទូរស័ព្ទចល័ត</string>
+    <string name="data_usage_app_restrict_vpn">ទិន្នន័យ VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">បើកការប្រើប្រាស់ទិន្នន័យ VPN</string>
+    <string name="data_usage_app_restrict_wifi">"ទិន្នន័យ Wi‑Fi"</string>
+    <string name="data_usage_app_restrict_wifi_summary">បើកការប្រើប្រាស់ទិន្នន័យ Wi‑Fi</string>
+    <string name="unlock_scramble_pin_layout_title">ច្របល់ប្លង់</string>
+    <string name="unlock_scramble_pin_layout_summary">ច្របល់ប្លង់ PIN ពេលដោះសោឧបករណ៍</string>
+    <string name="proximity_wake_title">ការពារការភ្ញាក់ដោយចៃដន្យ</string>
+    <string name="proximity_wake_summary">ពិនិត្យឧបករណ៍ចាប់ចម្ងាយមុនពេលបើកអេក្រង់</string>
+    <string name="touchscreen_hovering_title">ការលើកកណ្តុរលើផ្ទាំងប៉ះ</string>
+    <string name="touchscreen_hovering_summary">អនុញ្ញាតឱ្យអ្នកដាក់កណ្ដុរលើអេក្រង់ដូចកណ្ដុរក្នុងកម្មវិធីរុករកវេប ដេស្គតុបពីចម្ងាយ ។ល។</string>
+    <string name="wake_when_plugged_or_unplugged_title">ភ្ញាក់ពេលពេលដោតថាម</string>
+    <string name="wake_when_plugged_or_unplugged_summary">បើកអេក្រង់ពេលភ្ជាប់ ឬផ្តាច់ប្រភពថាមពល</string>
+    <string name="storage_warning_internal">ការព្រមាន៖ ជម្រើសនេះអាចមិនដំណើរការត្រឹមត្រូវ ឬនាំឱ្យបាត់បង់ទិន្នន័យ ដូច្នេះមិនណែនាំឱ្យប្រើទេ!</string>
+    <string name="assisted_gps">ប្រើ GPS ដែលមានជំនួយ</string>
+    <string name="assisted_gps_summary">ទាញយកទិន្នន័យជំនួយផ្កាយរណបពីអ៊ីនធឺណិត ដែលអាចបង្កើនល្បឿនចាប់ផ្តើម GPS យ៉ាងច្រើន។ សម្រាប់ការហៅសង្គ្រោះបន្ទាន់ GPS ដែលមានជំនួយតែងតែត្រូវបានអនុញ្ញាត។</string>
+    <string name="battery_technology">បច្ចេកវិទ្យា</string>
+    <string name="battery_health">"គុណភាព"</string>
+    <string name="battery_health_good">"ល្អ"</string>
+    <string name="battery_health_overheat">"ក្ដៅ​ខ្លាំង"</string>
+    <string name="battery_health_dead">"ខូច"</string>
+    <string name="battery_health_over_voltage">"លើស​តង់ស្យុង"</string>
+    <string name="battery_health_unspecified_failure">មិនបានបញ្ជាក់ពីបញ្ហា</string>
+    <string name="battery_health_cold">"ត្រជាក់"</string>
+    <string name="battery_health_unknown">"មិនស្គាល់"</string>
+    <string name="battery_temperature">"សីតុណ្ហភាព"</string>
+    <string name="battery_voltage">វ៉ុលតage</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">សមត្ថភាពរចនា</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">សមត្ថភាពអតិបរមា</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">បត់ទូរស័ព្ទក្នុងពេលរៀបចំ</string>
+    <string name="face_enrolling_close_to_continue_description">ត្រូវបត់ទូរស័ព្ទដើម្បីរៀបចំ ឬប្រើ Face Unlock</string>
+    <string name="face_enrolling_do_it_later">"ធ្វើ​នៅ​ពេលក្រោយ"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">ឧបករណ៍ SIM toolkit</string>
+    <string name="platform_compat_target_sdk_title">បានបើកសម្រាប់ targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

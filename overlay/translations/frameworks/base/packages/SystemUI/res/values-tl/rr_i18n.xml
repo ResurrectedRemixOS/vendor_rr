@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">I-restart…</string>
+    <string name="global_action_restart_system">System</string>
+    <string name="global_action_restart_recovery">"Pag-recover"</string>
+    <string name="global_action_restart_bootloader">Bootloader</string>
+    <string name="global_action_restart_download">"I-download"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Nagre-restart…"</string>
+    <string name="global_action_restart_recovery_progress">Nagre-restart papunta sa recovery mode…</string>
+    <string name="global_action_restart_bootloader_progress">Nagre-restart papunta sa bootloader mode…</string>
+    <string name="global_action_restart_download_progress">Nagre-restart papunta sa download mode…</string>
+    <string name="global_action_restart_fastboot_progress">Nagre-restart papunta sa fastbootd mode…</string>
+    <string name="global_action_current_user">Kasalukuyan</string>
+    <string name="global_action_users">"Mga User"</string>
+    <string name="clock">"Orasan"</string>
+    <string name="accessibility_adaptive_brightness">Adaptive brightness</string>
+    <string name="status_bar_icons_title">Mga icon ng status bar</string>
+    <string name="quick_settings_ambient_display_label">"Ambient na display"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Naka-off ang ambient display.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Naka-on ang ambient display.</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">Naka-off ang AOD\nBattery Saver</string>
+    <string name="quick_settings_caffeine_label">Caffeine</string>
+    <string name="accessibility_quick_settings_caffeine_off">Naka-off ang Caffeine.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Naka-on ang Caffeine.</string>
+    <string name="quick_settings_heads_up_label">Heads up</string>
+    <string name="accessibility_quick_settings_heads_up_off">Naka-off ang heads up.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Naka-on ang heads up.</string>
+    <string name="quick_settings_powershare_label">Wireless PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Naka-off ang Wireless PowerShare\nBattery Saver</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Naka-off ang Wireless PowerShare\nMasyadong mababa ang battery</string>
+    <string name="quick_settings_powershare_enabled_label">Naka-enable ang Wireless PowerShare</string>
+    <string name="quick_settings_reading_mode">Reading mode</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Naka-on ang reading mode.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Naka-off ang reading mode.</string>
+    <string name="quick_settings_sync_label">"I-sync"</string>
+    <string name="accessibility_quick_settings_sync_off">Naka-off ang sync.</string>
+    <string name="accessibility_quick_settings_sync_on">Naka-on ang sync.</string>
+    <string name="quick_settings_profiles_label">System profiles</string>
+    <string name="accessibility_quick_settings_profiles_off">Naka-off ang mga profile.</string>
+    <string name="accessibility_quick_settings_profiles">Profile: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"Pag-tether ng USB"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Kumonekta sa…</string>
+    <string name="vpn_credentials_hint">Pakilagay ang iyong mga credential para kumonekta sa <xliff:g id="name">%s</xliff:g></string>
+    <string name="vpn_credentials_username">Username</string>
+    <string name="vpn_credentials_password">Password</string>
+    <string name="vpn_credentials_dialog_connect">"Kumonekta"</string>
+    <string name="status_bar_firewall">Firewall</string>
+    <string name="battery_notification_channel_tv">Babala sa battery</string>
+    <string name="screenshot_delete_label">"I-delete"</string>
+    <string name="screenshot_delete_description">Burahin ang screenshot</string>
+    <string name="screenrecord_lowquality_label">Mas mababang kalidad</string>
+    <string name="screenrecord_lowquality_summary">Para sa mas maliit na laki ng file</string>
+    <string name="screenrecord_longer_timeout_switch_label">Mas malaking limitasyon sa laki ng file</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Limitahan ang laki ng recording sa 15 GB</string>
+    <string name="screenrecord_skip_time_label">Skip timer</string>
+    <string name="screenrecord_skip_time_summary">Alisin ang 3 segundong paghihintay</string>
+    <string name="screenrecord_hevc_switch_label">HEVC encoding</string>
+    <string name="screenrecord_hevc_switch_summary">Gamitin ang mas episyenteng HEVC encoder</string>
+    <string name="zen_alarm_warning_indef">"Hindi mo maririnig ang iyong susunod na alarm <xliff:g id="WHEN">%1$s</xliff:g> maliban na lang kung io-off mo ito bago sumapit ang oras na iyon"</string>
+</resources>

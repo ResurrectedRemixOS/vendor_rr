@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="download_paused">"ਰੋਕਿਆ ਗਿਆ"</string>
+    <string name="download_paused_percent">ਰੋਕਿਆ ਗਿਆ, %d%%</string>
+    <string name="button_resume_download">"ਮੁੜ-ਚਾਲੂ ਕਰੋ"</string>
+    <string name="button_pause_download">ਰੋਕੋ</string>
+    <string name="notif_summary_paused">%d ਰੋਕੇ ਗਏ</string>
+</resources>

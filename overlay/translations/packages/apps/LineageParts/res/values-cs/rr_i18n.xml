@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_control_limit_summary">Aktuální limit: %d%%</string>
+    <string name="live_display_color_profile_preview">"Náhled barvy"</string>
+    <string name="volume_panel_position_title">Pozice panelu hlasitosti</string>
+    <string name="status_bar_battery_style_icon_landscape">Ikona na šířku</string>
+    <string name="status_bar_battery_style_dotted_circle">Tečkovaný kruh</string>
+    <string name="status_bar_brightness_slider_position_title">Pozice posuvníku jasu</string>
+    <string name="status_bar_brightness_slider_position_top">Nahoře</string>
+    <string name="status_bar_brightness_slider_position_bottom">Dole</string>
+    <string name="network_traffic_hide_arrows">Skrýt šipky</string>
+    <string name="network_traffic_hide_arrows_summary">Skrýt šipky směru nahrávání a stahování</string>
+</resources>

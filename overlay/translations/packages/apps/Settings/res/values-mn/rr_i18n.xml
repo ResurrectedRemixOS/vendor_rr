@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"өгөгдмөл"</item>
+        <item>Цельсий</item>
+        <item>Фаренгейт</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"өгөгдмөл"</item>
+        <item>Ням</item>
+        <item>Даваа</item>
+        <item>Мягмар</item>
+        <item>Лхагва</item>
+        <item>Пүрэв</item>
+        <item>Баасан</item>
+        <item>Бямба</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"өгөгдмөл"</item>
+        <item>Метр</item>
+        <item>АНУ систем</item>
+        <item>Их Британи систем</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Заагаагүй"</item>
+        <item>"Дундаж"</item>
+        <item>"Эм үг"</item>
+        <item>"Эр үг"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">Нэмэлт</string>
+    <string name="advanced_keyboard_settings_title">"Дэлгэрэнгүй тохиргоо"</string>
+    <string name="adb_enable_root">Root-оор дебаг хийх</string>
+    <string name="adb_enable_summary_root">Android дебагийг root эрхээр ажиллуулахыг зөвшөөрөх</string>
+    <string name="backup_transport_setting_label">Нөөцлөх үйлчилгээ солих</string>
+    <string name="backup_transport_title">Нөөцлөх үйлчилгээ сонгох</string>
+    <string name="berry_black_theme_title">Цэвэр хар</string>
+    <string name="berry_black_theme_summary">Харанхуй загварт цэвэр хар дэвсгэр</string>
+    <string name="lineagelicense_title">LineageOS эрх зүй</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Та хөгжүүлэгчийн тохиргоог асаахад # алхам үлдлээ.} other {Та хөгжүүлэгчийн тохиргоог асаахад # алхам үлдлээ.} }</string>
+    <string name="show_dev_on_cm">Та хөгжүүлэгчийн тохиргоог асаалаа!</string>
+    <string name="show_dev_already_cm">Шаардлагагүй, та хөгжүүлэгчийн тохиргоог аль хэдийн асаасан байна.</string>
+    <string name="status_bar_double_tap_to_sleep_title">Унтраахын тулд товшино уу</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Дэлгэцийг унтраахын тулд статус самбар эсвэл түгжээтэй дэлгэц дээр хоёр удаа товшино уу</string>
+    <string name="high_touch_polling_rate_title">Өндөр хурдтай товшилтын түвшин</string>
+    <string name="high_touch_polling_rate_summary">Дэлгэцийн мэдрэгчийн санал авах хурдыг нэмэх</string>
+    <string name="heads_up_notifications_enabled_title">Heads-up</string>
+    <string name="heads_up_notifications_enabled_summary">Чухал мэдэгдлийг жижиг хөвөх цонхонд харуулах</string>
+    <string name="high_touch_sensitivity_title">Өндөр мэдрэмжтэй товшилт</string>
+    <string name="high_touch_sensitivity_summary">Бээлий өмссөн үед ашиглах боломжтойгоор дэлгэцийн мэдрэмжийг нэмэх</string>
+    <string name="tethering_allow_vpn_upstreams_title">Холбогдсон төхөөрөмжүүдэд VPN ашиглах</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Энэ төхөөрөмж VPN ашиглаж байх үед хот цэгт холбогдсон бүх төхөөрөмж ижил VPN-ийг ашиглана</string>
+    <string name="lock_settings_picker_pattern_size_message">Хээний хэмжээг сонгох</string>
+    <string name="lockpattern_settings_enable_error_path_title">Хээний алдааг харуулах</string>
+    <string name="lockpattern_settings_enable_dots_title">Хээний цэгүүдийг харуулах</string>
+    <string name="max_refresh_rate_title">Хамгийн их сэргээлтийн хурд</string>
+    <string name="min_refresh_rate_title">Хамгийн бага сэргээлтийн хурд</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Таблетынхаа урд талд байгаа хурууны хээний мэдрэгчийг олно уу.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Төхөөрөмжийнхөө урд талд байгаа хурууны хээний мэдрэгчийг олно уу.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Утасныхаа урд талд байгаа хурууны хээний мэдрэгчийг олно уу.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Таблетынхаа ард байгаа хурууны хээний мэдрэгчийг олно уу.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Төхөөрөмжийнхөө ард байгаа хурууны хээний мэдрэгчийг олно уу.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Утасныхаа ард байгаа хурууны хээний мэдрэгчийг олно уу.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Таблетынхаа хажуу талд байгаа хурууны хээний мэдрэгчийг олно уу.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Төхөөрөмжийнхөө хажуу талд байгаа хурууны хээний мэдрэгчийг олно уу.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Утасныхаа хажуу талд байгаа хурууны хээний мэдрэгчийг олно уу.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Таблетынхаа урд талд байгаа мэдрэгчид хүрнэ үү.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Төхөөрөмжийнхөө урд талд байгаа мэдрэгчид хүрнэ үү.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Утасныхаа урд талд байгаа мэдрэгчид хүрнэ үү.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Таблетынхаа ард байгаа мэдрэгчид хүрнэ үү.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Төхөөрөмжийнхөө ард байгаа мэдрэгчид хүрнэ үү.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Утасныхаа ард байгаа мэдрэгчид хүрнэ үү.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Таблетынхаа хажуу талд байгаа мэдрэгчид хүрнэ үү.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Төхөөрөмжийнхөө хажуу талд байгаа мэдрэгчид хүрнэ үү.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Утасныхаа хажуу талд байгаа мэдрэгчид хүрнэ үү.</string>
+    <string name="show_navbar_hint_title">Навигацын зөвлөмж</string>
+    <string name="show_navbar_hint_summary">Дэлгэцийн доод талд навигацын зөвлөмжийн самбарыг харуулах</string>
+    <string name="auto_brightness_one_shot_title">Нэг удаагийн автомат гэрэлтүүлэг</string>
+    <string name="auto_brightness_one_shot_summary">Гэрлийн тохируулга зөвхөн дэлгэц асаах мөчид л хийгдэнэ</string>
+    <string name="data_usage_app_restrict_all">Сүлжээнд хандахыг зөвшөөрөх</string>
+    <string name="data_usage_app_restrict_all_summary">Сүлжээний ашиглалтыг идэвхжүүлэх</string>
+    <string name="data_usage_app_restrict_mobile">"Мобайл дата"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Мобайл дата ашиглахыг идэвхжүүлэх</string>
+    <string name="data_usage_app_restrict_vpn">VPN дата</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN датаг ашиглахыг идэвхжүүлэх</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi өгөгдөл"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi дата ашиглахыг идэвхжүүлэх</string>
+    <string name="unlock_scramble_pin_layout_title">PIN бүдүүвчийг холих</string>
+    <string name="unlock_scramble_pin_layout_summary">Төхөөрөмжийг түгжээнээс гаргах үед PIN бүдүүвчийг холих</string>
+    <string name="proximity_wake_title">Санамсаргүй сэрэхээс сэргийлэх</string>
+    <string name="proximity_wake_summary">Дэлгэцийг асаахаас өмнө ойрын мэдрэгчийг шалгах</string>
+    <string name="touchscreen_hovering_title">Дэлгэцийн дээгүүр хових</string>
+    <string name="touchscreen_hovering_summary">Вэб хөтөч, алсын дэсктоп гэх мэт дээр дэлгэцийг хулганы адил дээгүүр нь хөдөлгөх боломжтой болгоно</string>
+    <string name="wake_when_plugged_or_unplugged_title">Залгах үед сэрээх</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Тэжээлийн эх үүсвэрт холбогдох эсвэл салгах үед дэлгэцийг асаана</string>
+    <string name="storage_warning_internal">Анхааруулга: Энэ сонголт зөв ажиллахгүй эсвэл өгөгдөл алдагдахад хүргэж болзошгүй тул санал болгохгүй!</string>
+    <string name="assisted_gps">Туслалцаатай GPS ашиглах</string>
+    <string name="assisted_gps_summary">Интернетээс хиймэл дагуулын туслах мэдээллийг татаж, GPS-ийн эхлэх гүйцэтгэлийг ихээр сайжруулж болно. Яаралтай дуудлагад туслалцаатай GPS үргэлж зөвшөөрөгдсөн байна.</string>
+    <string name="battery_technology">Технологи</string>
+    <string name="battery_health">"Хэрэглээний төлөв"</string>
+    <string name="battery_health_good">"Сайн"</string>
+    <string name="battery_health_overheat">"Хэт халалт"</string>
+    <string name="battery_health_dead">"Цэнэггүй"</string>
+    <string name="battery_health_over_voltage">"Хүчдэл хэтэрсэн"</string>
+    <string name="battery_health_unspecified_failure">Тодорхойгүй алдаа</string>
+    <string name="battery_health_cold">"Хүйтэн"</string>
+    <string name="battery_health_unknown">"Тодорхойгүй"</string>
+    <string name="battery_temperature">"Температур"</string>
+    <string name="battery_voltage">Хүчдэл</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Зориулсан багтаамж</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Хамгийн их багтаамж</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Утсаа нугалж тохируулах</string>
+    <string name="face_enrolling_close_to_continue_description">Нүүр таних функц ашиглах эсвэл тохируулахын тулд утсаа нугалах шаардлагатай</string>
+    <string name="face_enrolling_do_it_later">"Дараа хийх"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM toolkit</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> үед идэвхжсэн</string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

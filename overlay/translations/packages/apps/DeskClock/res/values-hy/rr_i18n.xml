@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">Սարքը շրջելու գործողություն</string>
+    <string name="shake_action_title">Սարքը թափահարելու գործողություն</string>
+    <string-array name="action_setting_entries">
+        <item>Հետաձգել</item>
+        <item>"Փակել"</item>
+        <item>"Ոչինչ"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">Զարթուցիչների և taymer-ների գործարկում</string>
+    <string name="alarm_missed_channel">Բաց թողնված զարթուցիչներ</string>
+    <string name="alarm_snooze_channel">Հետաձգված զարթուցիչներ</string>
+    <string name="alarm_upcoming_channel">Առաջիկա զարթուցիչներ</string>
+    <string name="stopwatch_channel">Վայրկենաչափ</string>
+    <string name="timer_channel">Ժամաչափ</string>
+    <string name="add_label">Ավելացնել պիտակ</string>
+    <string name="dialog_permissions_title">"Թույլտվություններ"</string>
+    <string name="dialog_permissions_ask">Նորից հարցնել</string>
+    <string name="dialog_permissions_dismiss">"Փակել"</string>
+    <string name="dialog_permissions_settings">"Կարգավորումներ"</string>
+    <string name="dialog_permissions_power_off_alarm">Առանց այս թույլտվության սարքը չի կարողանա ինքնաբերաբար միանալ՝ զարթուցիչը գործարկելու համար</string>
+    <string name="dialog_permissions_no_permission">Պահանջվող թույլտվությունները մերժվել են, միացրեք դրանք Կարգավորումներ հավելվածից</string>
+    <string name="dialog_permissions_post_notifications">Այս հավելվածը հիմնված է ծանուցումների վրա։ Առանց դրանց այն չի կարող աշխատել։</string>
+    <string name="selected">"Ընտրված է"</string>
+    <string name="more_options">"Այլ ընտրանքներ"</string>
+    <string name="widget_choice_title">Ընտրեք Ձեր ոճը</string>
+    <string name="widget_name_transparent">Առանց հենարանի</string>
+    <string name="widget_name_solid">Հենարանով</string>
+    <string name="night_mode_enabled_title">"Միացված է"</string>
+    <string name="night_mode_dnd_title">Հետևել DND վիճակին</string>
+    <string name="night_mode_dnd_summary">Գիշերային ռեժիմը հետևում է Չանհանգստացնել ռեժիմի վիճակին</string>
+    <string name="show_ampm_title">Ցույց տալ AM/PM ցուցիչը</string>
+    <string name="bold_text_title">Թավ ժամացույցի տեքստ</string>
+    <string name="night_mode_brightness_text_title">"Պայծառություն"</string>
+    <string name="clock_color_title">"Գույն"</string>
+    <string-array name="clock_color_entries">
+        <item>"Սպիտակ"</item>
+        <item>"Կարմիր"</item>
+        <item>"Կանաչ"</item>
+        <item>"Կապույտ"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"Էկրանապահ"</string>
+    <string name="screensaver_preview">"Նախադիտում"</string>
+    <string name="screensaver_preview_summary">Անմիջապես գործարկում է էկրանապահը</string>
+    <string name="screensaver_change_settings">"Կարգավորումներ"</string>
+    <string name="screensaver_change_settings_summary">Բացում է Ժամացույցի էկրանապահի կարգավորումները</string>
+    <string name="screensaver_daydream_settings">Ընտրել/միացնել էկրանապահը</string>
+    <string name="screensaver_daydream_settings_summary">Բացում է հիմնական էկրանապահի կարգավորումները</string>
+</resources>

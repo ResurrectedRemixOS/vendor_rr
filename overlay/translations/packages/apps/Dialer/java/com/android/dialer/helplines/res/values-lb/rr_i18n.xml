@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="helplines_loading">Gëtt gelueden\u2026</string>
+    <string name="helplines_help">Hëllef</string>
+    <string name="helpline_button_more">Méi</string>
+    <string name="helpline_name">Numm</string>
+    <string name="helpline_org">Organisatioun</string>
+    <string name="helpline_number">Nummer</string>
+    <string name="helpline_website">Websäit</string>
+    <string name="helpline_language_english">Emglesch</string>
+    <string name="helpline_language_french">Franséisch</string>
+    <string name="helpline_language_german">Däitsch</string>
+    <string name="helpline_language_turkish">Tierkesch</string>
+    <string name="helpline_category_family">Famill</string>
+    <string name="helpline_category_religion">Relioun</string>
+</resources>

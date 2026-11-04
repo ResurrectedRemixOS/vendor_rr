@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="zen_alarm_warning_indef">"<xliff:g id="WHEN">%1$s</xliff:g>க்கு முன்பு இதை ஆஃப் செய்யாவிட்டால், அடுத்த அலாரத்திற்கு ஒலி இருக்காது"</string>
+</resources>

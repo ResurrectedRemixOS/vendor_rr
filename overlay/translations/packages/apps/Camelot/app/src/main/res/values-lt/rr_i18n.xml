@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF peržiūros priemonė</string>
+    <string name="find_in_page">Rasti puslapyje</string>
+    <string name="share">"Bendrinti"</string>
+    <string name="open_with">Atidaryti naudojant…</string>
+    <string name="download">"Atsisiųsti"</string>
+    <string name="pdf_document">PDF dokumentas</string>
+    <string name="print">"Spausdinti"</string>
+    <string name="download_successful">Atsisiuntimas sėkmingas</string>
+    <string name="download_error">Atsisiunčiant failą įvyko klaida</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"默认"</item>
+        <item>摄氏度</item>
+        <item>华氏度</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"默认"</item>
+        <item>周日</item>
+        <item>周一</item>
+        <item>周二</item>
+        <item>周三</item>
+        <item>周四</item>
+        <item>周五</item>
+        <item>周六</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"默认"</item>
+        <item>公制</item>
+        <item>美制</item>
+        <item>英制</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"未指定"</item>
+        <item>"中性"</item>
+        <item>"阴性"</item>
+        <item>"阳性"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>法语</item>
+        <item>西班牙语</item>
+        <item>意大利语</item>
+        <item>德语</item>
+    </string-array>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM 卡工具包</string>
+    <string name="platform_compat_target_sdk_title">对 targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> 启用</string>
+    <string name="personal_context_title">个人上下文管理器</string>
+</resources>

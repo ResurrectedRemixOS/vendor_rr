@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="play_recordings">
+        <item quantity="one">Відтворити запис</item>
+        <item quantity="few">Відтворити записи</item>
+        <item quantity="many">Відтворити записів</item>
+        <item quantity="other">Відтворити записи</item>
+    </plurals>
+    <string name="call_playback_no_app_found_toast">Не знайдено застосунку для відтворення вибраного запису.</string>
+</resources>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Тохиргооны шидтэн</string>
+    <string name="cancel">"Цуцлах"</string>
+    <string name="next">Дараах</string>
+    <string name="finish">Дуусгах</string>
+    <string name="skip">Алгасах</string>
+    <string name="start">"Эхлүүлэх"</string>
+    <string name="done">"Болсон"</string>
+    <string name="ok">ЗА</string>
+    <string name="loading">"Түр хүлээнэ үү…"</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g>-д тавтай морил</string>
+    <string name="setup_managed_profile_welcome_message">Ажлын профайлаа тохируулах</string>
+    <string name="emergency_call">"Ослын дуудлага"</string>
+    <string name="accessibility_settings">"Хүртээмжтэй тохиргоо"</string>
+    <string name="device_info">"Төхөөрөмжийн мэдээлэл"</string>
+    <string name="device_information">"Төхөөрөмжийн мэдээлэл"</string>
+    <string name="device_info_serial">"Серийн дугаар"</string>
+    <string name="setup_locale">"Хэл"</string>
+    <string name="sim_locale_changed">%1$s SIM илрүүллээ</string>
+    <string name="setup_euicc">eSIM тохируулах</string>
+    <string name="setup_sim_missing">SIM карт олдсонгүй</string>
+    <string name="esim_support_summary">eSIM тохируулах эсвэл SIM карт суулгана уу. SIM карт суулгахын тулд төхөөрөмжийнхөө хамт ирсэн зааврыг уншина уу.</string>
+    <string name="sim_missing_summary" product="tablet">Таны таблетэд SIM карт илрээгүй байна. SIM карт суулгахын тулд төхөөрөмжийнхөө хамт ирсэн зааврыг уншина уу.</string>
+    <string name="sim_missing_summary" product="default">Таны утсанд SIM карт илрээгүй байна. SIM карт суулгахын тулд төхөөрөмжийнхөө хамт ирсэн зааврыг уншина уу.</string>
+    <string name="sim_missing_skip_title">SIM тохируулахыг алгасах уу?</string>
+    <string name="sim_missing_skip_message">Энэ алхмыг алгасвал Тохиргоонд SIM тохируулах хүртэл мобайл сүлжээнд холбогдохгүй.</string>
+    <string name="setup_datetime">"Огноо, цаг"</string>
+    <string name="date_time_summary">Цагийн бүс тохируулж, шаардлагатай бол одоогийн огноо, цагийг засна уу</string>
+    <string name="setup_current_date">Одоогийн огноо</string>
+    <string name="setup_current_time">Одоогийн цаг</string>
+    <string name="setup_datetime_section_date">"Огноо"</string>
+    <string name="setup_datetime_section_time">"Цаг"</string>
+    <string name="setup_date_format">"Форматлах"</string>
+    <string name="date_format_day">"Өдөр"</string>
+    <string name="date_format_month">"Сар"</string>
+    <string name="date_format_year">"Жил"</string>
+    <string name="setup_time_zone">"Цагийн бүс"</string>
+    <string name="setup_24_hour_format">"24 цагийн формат ашиглах"</string>
+    <string name="intro_restore_title">Аппууд болон өгөгдлийг сэргээх</string>
+    <string name="intro_restore_subtitle">Хэрэв танд <xliff:g id="name" example="LineageOS">%s</xliff:g> эсвэл бусад үйлдлийн системээс Seedvault нөөц байгаа бол үүнийг энд сэргээж болно.</string>
+    <string name="intro_restore_button">Нөөцөөс сэргээх</string>
+    <string name="setup_location">"Байршлын үйлчилгээ"</string>
+    <string name="location_summary">Төхөөрөмж байршлаа хэрхэн удирдахыг сонгоно уу</string>
+    <string name="location_access_title">"Байршлыг ашиглах"</string>
+    <string name="location_agps_access_title">Сайжруулсан байршил</string>
+    <string name="location_access_summary">Байршлын мэдээллээ ашиглах зөвшөөрөл асуусан аппуудад зөвшөөрөх. Үүнд таны одоогийн болон өмнөх байршил орж болно.</string>
+    <string name="location_agps_access_summary">Байршил асаалттай үед интернетээс хиймэл дагуулын тусламжийн өгөгдлийг татаж авна. Энэ нь GPS-ийн эхлэх хурдыг ихээхэн сайжруулж чадна.</string>
+    <string name="update_recovery_title">Resurrected Remix сэргээх горимыг шинэчлэх</string>
+    <string name="update_recovery_description">Шинэчлэлт бүрийн дараа анх асаахад Resurrected Remix сэргээх горимыг шинэчилнэ.</string>
+    <string name="update_recovery_warning">Тохиргоог дуусгамагц сэргээх горим шинэчлэгдэнэ. Хэрэв үүнийг хэвээр нь үлдээхийг хүсвэл энэ функцийг идэвхгүй болгоно уу.</string>
+    <string name="update_recovery_setting">Үйлдлийн системтэй зэрэг Resurrected Remix сэргээх горимыг шинэчлэх</string>
+    <string name="setup_services">Resurrected Remix онцлогууд</string>
+    <string name="services_pp_explanation">Эдгээр үйлчилгээ таны төхөөрөмжийн боломжийг өргөтгөхөд ажилладаг. Өгөгдлийг <xliff:g id="name" example="LineageOS">%1$s</xliff:g>-ийн нууцлалын бодлогын дагуу ашиглана.</string>
+    <string name="services_find_privacy_policy">Нууцлалын бодлогыг өөр төхөөрөмжөөс дараах хаягаар уншиж болно:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g>-ийг сайжруулахад тусалах</string>
+    <string name="services_metrics_label">Оношилгоо болон ашиглалтын өгөгдлийг <xliff:g id="name" example="LineageOS">%2$s</xliff:g> руу автоматаар илгээснээр <xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g>-ийг хөгжүүлэхэд тусална. Энэ мэдээллээр таныг тодорхойлох боломжгүй бөгөөд батарейны ажиллагаа, аппын гүйцэтгэл, шинэ <xliff:g id="name" example="LineageOS">%3$s</xliff:g> онцлогууд зэрэг салбарт ажиллаж буй багуудад туслана.</string>
+    <string name="services_metrics_title">Оношилгооны өгөгдөл оруулах</string>
+    <string name="services_os_nav_keys_label">Техник хангамжийн товчлуурын оронд <b>дэлгэц дээрх навигацын товчлуурыг ашиглах</b>.</string>
+    <string name="setup_navigation">Навигаци</string>
+    <string name="navigation_summary">Дуртай навигацын аргаа сонгоно уу</string>
+    <string name="gesture_navigation">"Зангааны навигац"</string>
+    <string name="navbar_navigation">"3 товчтой навигац"</string>
+    <string name="gesture_navigation_short">Зангаа</string>
+    <string name="hide_gesture_hint">Зангаан навигацын зөвлөмжийг нуух</string>
+    <string name="setup_theme">"Загвар"</string>
+    <string name="theme_summary">Харанхуй загвар зарим дэлгэцэд батарейг илүү удаан ажиллуулахад туслахын тулд хар дэвсгэр ашигладаг</string>
+    <string name="dark">Бараан</string>
+    <string name="light">"Бага"</string>
+    <string name="pure_black_theme">Цэвэр хар дэвсгэр ашиглах</string>
+    <string name="theme_preview">Загварын урьдчилан харах</string>
+    <string name="swipe_up_to_go_home">"Нүүр хуудас руу очихын тулд дээш шударна уу"</string>
+    <string name="tap_home_to_go_home">Төв навигацын дүрсийг дарж үндсэн нүүрэнд очно уу</string>
+    <string name="press_center_to_go_home">Үндсэн нүүрэнд очихын тулд төв товчлуурыг дарна уу</string>
+</resources>

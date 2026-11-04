@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">डिभाइस फ्लिप कार्य</string>
+    <string name="shake_action_title">डिभाइस हल्लाउने कार्य</string>
+    <string-array name="action_setting_entries">
+        <item>स्नुज</item>
+        <item>"खारेज गर्नुहोस्"</item>
+        <item>"केही पनि होइन"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">बज्दै गरेका अलार्म र टाइमरहरू</string>
+    <string name="alarm_missed_channel">छुटेका अलार्महरू</string>
+    <string name="alarm_snooze_channel">स्नुज गरिएका अलार्महरू</string>
+    <string name="alarm_upcoming_channel">आगामी अलार्महरू</string>
+    <string name="stopwatch_channel">स्टपवाच</string>
+    <string name="timer_channel">घडी</string>
+    <string name="add_label">लेबल थप्नुहोस्</string>
+    <string name="dialog_permissions_title">"अनुमतिहरू"</string>
+    <string name="dialog_permissions_ask">फेरि सोध्नुहोस्</string>
+    <string name="dialog_permissions_dismiss">"खारेज गर्नुहोस्"</string>
+    <string name="dialog_permissions_settings">"सेटिङहरू"</string>
+    <string name="dialog_permissions_power_off_alarm">यो अनुमति बिना तपाईंको डिभाइसले अलार्म बजाउन आफैं सक्रिय हुन सक्दैन</string>
+    <string name="dialog_permissions_no_permission">आवश्यक अनुमतिहरू अस्वीकार गरियो, सेटिङ एपबाट तिनीहरूलाई सक्षम गर्नुहोस्</string>
+    <string name="dialog_permissions_post_notifications">यो एपले सूचनाहरूमा निर्भर गर्छ। सूचनाविना यो चल्न सक्दैन!</string>
+    <string name="selected">"चयन गरिएको"</string>
+    <string name="more_options">"थप विकल्पहरू"</string>
+    <string name="widget_choice_title">तपाईंको शैली छान्नुहोस्</string>
+    <string name="widget_name_transparent">ब्याकअप बिनाको</string>
+    <string name="widget_name_solid">ब्याकअप सहित</string>
+    <string name="night_mode_enabled_title">"अन गरिएको छ"</string>
+    <string name="night_mode_dnd_title">बाधा नपुऱ्याउनुहोस् स्थिति पछ्याउनुहोस्</string>
+    <string name="night_mode_dnd_summary">राति मोड बाधा नपुऱ्याउनुहोस् स्थितिअनुसार चल्छ</string>
+    <string name="show_ampm_title">AM/PM सूचक देखाउनुहोस्</string>
+    <string name="bold_text_title">घडीको पाठ बोल्ड बनाउनुहोस्</string>
+    <string name="night_mode_brightness_text_title">"ब्राइटनेस"</string>
+    <string name="clock_color_title">"रङ्ग"</string>
+    <string-array name="clock_color_entries">
+        <item>"सेतो"</item>
+        <item>"रातो"</item>
+        <item>"हरियो"</item>
+        <item>"निलो"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"स्क्रिन सेभर"</string>
+    <string name="screensaver_preview">"प्रिभ्यू"</string>
+    <string name="screensaver_preview_summary">स्क्रिन सेभर तुरुन्तै सुरु गर्छ</string>
+    <string name="screensaver_change_settings">"सेटिङहरू"</string>
+    <string name="screensaver_change_settings_summary">घडीको स्क्रिन सेभर सेटिङ खोल्छ</string>
+    <string name="screensaver_daydream_settings">स्क्रिन सेभर चयन/सक्षम गर्नुहोस्</string>
+    <string name="screensaver_daydream_settings_summary">मुख्य स्क्रिन सेभर सेटिङ खोल्छ</string>
+</resources>

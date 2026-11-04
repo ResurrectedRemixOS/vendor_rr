@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="share_selected">Zdieľať vybraté</string>
+    <string name="delete_all">Odstrániť všetko</string>
+    <string name="delete_selected">Odstrániť vybraté</string>
+    <string name="confirm">"Potvrdiť"</string>
+    <string name="discard">"Zahodiť"</string>
+    <string name="record_again">Nahrať znova</string>
+    <string name="confirm_result_title">Použiť nahrávku?</string>
+    <string name="confirm_result_message">Chcete použiť poslednú nahrávku?</string>
+    <string name="dialog_permissions_notifications">Nahrávač potrebuje povolenie upozornení na zobrazenie ovládacích prvkov nahrávania</string>
+    <string name="dialog_permissions_mic_notifications">Nahrávač potrebuje povolenie mikrofónu na nahrávanie zvuku a povolenie upozornení na zobrazenie ovládacích prvkov nahrávania</string>
+    <string name="dialog_permissions_phone_notifications">Nahrávač potrebuje prístup k stavu telefónu, aby zabránil nahrávaniu počas hovoru, a povolenie upozornení na zobrazenie ovládacích prvkov nahrávania</string>
+    <string name="dialog_permissions_mic_phone_notifications">Nahrávač potrebuje povolenie mikrofónu na nahrávanie zvuku, prístup k stavu telefónu, aby zabránil nahrávaniu počas hovoru, a povolenie upozornení na zobrazenie ovládacích prvkov nahrávania</string>
+    <string name="delete_all_title">Odstrániť všetko</string>
+    <string name="delete_all_message">Naozaj chcete odstrániť všetky nahrávky? Túto akciu nie je možné vrátiť späť</string>
+    <string name="delete_selected_title">Odstrániť vybraté</string>
+    <string name="delete_selected_message">Naozaj chcete odstrániť vybraté nahrávky? Túto akciu nie je možné vrátiť späť</string>
+</resources>

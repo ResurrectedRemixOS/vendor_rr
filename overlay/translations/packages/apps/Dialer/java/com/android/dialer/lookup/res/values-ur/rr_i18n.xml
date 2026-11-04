@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">قریبی مقامات</string>
+    <string name="lookup_settings_label">فون نمبر تلاش</string>
+    <string name="enable_forward_lookup_title">فارورڈ تلاش</string>
+    <string name="enable_forward_lookup_summary">ڈائلر میں تلاش کرتے وقت قریبی جگہیں دکھائیں</string>
+    <string name="enable_reverse_lookup_title">ریورس تلاش</string>
+    <string name="enable_reverse_lookup_summary">آنے والی کالز پر نامعلوم نمبروں کے بارے میں شخص یا جگہ کی معلومات تلاش کریں</string>
+    <string name="forward_lookup_provider_title">فارورڈ تلاش فراہم کنندہ</string>
+    <string name="reverse_lookup_provider_title">ریورس تلاش فراہم کنندہ</string>
+    <string name="lookup_disclaimer">تلاش محفوظ پروٹوکول (https) کے ذریعے معلومات حاصل کرنے کے لیے بیرونی ویب سائٹس کو درخواستیں بھیج سکتی ہے۔ درخواست میں دوسرے فریق کا فون نمبر یا تلاش کی عبارت شامل ہو سکتی ہے</string>
+</resources>

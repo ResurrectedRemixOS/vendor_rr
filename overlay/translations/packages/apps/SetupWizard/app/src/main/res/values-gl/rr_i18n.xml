@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Cancelar"</string>
+    <string name="finish">Rematar</string>
+    <string name="setup_welcome_message">Benvido a <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Configura o teu perfil de traballo</string>
+    <string name="device_info">"Información do dispositivo"</string>
+    <string name="device_information">"Información do dispositivo"</string>
+    <string name="device_info_serial">"Número de serie"</string>
+    <string name="setup_euicc">Configurar eSIM</string>
+    <string name="esim_support_summary">Configura unha eSIM ou insire unha tarxeta SIM. Para inserir unha tarxeta SIM, le as instrucións que viñeron co dispositivo.</string>
+    <string name="sim_missing_skip_title">Omitir a configuración da SIM?</string>
+    <string name="sim_missing_skip_message">Se omites este paso, non te conectarás a unha rede móbil ata que configures unha SIM en Configuración.</string>
+    <string name="setup_datetime_section_date">"Data"</string>
+    <string name="setup_datetime_section_time">"Hora"</string>
+    <string name="setup_date_format">"Formatar"</string>
+    <string name="date_format_day">Día</string>
+    <string name="date_format_month">"Mes"</string>
+    <string name="date_format_year">"Ano"</string>
+    <string name="setup_time_zone">"Fuso horario"</string>
+    <string name="setup_24_hour_format">"Usar formato de 24 horas"</string>
+    <string name="intro_restore_subtitle">Se tes unha copia de seguranza de Seedvault de <xliff:g id="name" example="LineageOS">%s</xliff:g> ou de calquera outro SO, podes restaurala aquí.</string>
+    <string name="location_summary">Escolle como o teu dispositivo xestiona a súa localización</string>
+    <string name="location_access_title">"Usar localización"</string>
+    <string name="location_agps_access_title">Localización mellorada</string>
+    <string name="location_agps_access_summary">Cando a localización estea activada, descarga datos de asistencia por satélite da internet, o que pode mellorar moito o rendemento do arranque do GPS.</string>
+    <string name="services_find_privacy_policy">Podes ler a política de privacidade noutro dispositivo visitando:</string>
+    <string name="services_metrics_title">Contribuír con datos de diagnóstico</string>
+    <string name="setup_navigation">Navegación</string>
+    <string name="navigation_summary">Escolle o método de navegación preferido</string>
+    <string name="gesture_navigation">"Navegación con xestos"</string>
+    <string name="navbar_navigation">"Navegación con 3 botóns"</string>
+    <string name="gesture_navigation_short">Xesto</string>
+    <string name="hide_gesture_hint">Ocultar a suxestión de navegación por xestos</string>
+    <string name="setup_theme">"Tema"</string>
+    <string name="theme_summary">O tema escuro usa un fondo negro para axudar a aforrar batería durante máis tempo en certas pantallas</string>
+    <string name="dark">Escuro</string>
+    <string name="light">Claro</string>
+    <string name="pure_black_theme">Usar fondo negro puro</string>
+    <string name="theme_preview">Vista previa do tema</string>
+    <string name="swipe_up_to_go_home">"Pasa o dedo cara arriba para ir á pantalla de inicio"</string>
+    <string name="tap_home_to_go_home">Toca o icono de navegación central para ir á pantalla de inicio</string>
+    <string name="press_center_to_go_home">Preme o botón central para ir á pantalla de inicio</string>
+</resources>

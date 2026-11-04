@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row_password">Baris angka untuk kata sandi</string>
+    <string name="number_row_password_summary">Selalu tampilkan baris angka untuk semua tata letak yang memiliki 4 baris tombol untuk input kata sandi</string>
+    <string name="space_trackpad">Trackpad bilah spasi</string>
+    <string name="space_trackpad_summary">Geser pada bilah spasi untuk memindahkan kursor</string>
+    <string name="backspace_trackpad">Trackpad tombol hapus</string>
+    <string name="backspace_trackpad_summary">Geser pada tombol hapus untuk menghapus kata</string>
+    <string name="show_emoji_key_summary">Selalu tampilkan tombol emoji. Saat opsi ini diaktifkan, tombol ganti bahasa tidak dapat ditampilkan</string>
+    <string name="enable_split_keyboard_summary">Hanya dalam mode lanskap</string>
+    <string name="split_keyboard_duplicate_keys">Duplikasi tombol tengah</string>
+    <string name="split_keyboard_duplicate_keys_summary">Tampilkan tombol di dekat tengah di kedua sisi</string>
+    <string name="spoken_description_split_keyboard">Pisahkan keyboard</string>
+    <string name="spoken_description_merge_keyboard">Gabungkan keyboard</string>
+    <string name="spoken_description_float_keyboard">Keyboard mengambang</string>
+    <string name="spoken_description_dock_keyboard">Tempatkan keyboard di bawah</string>
+    <string name="floating_keyboard_drag_handle">Pindahkan keyboard</string>
+    <string name="floating_keyboard_resize_handle">Ubah ukuran keyboard</string>
+    <string name="floating_keyboard_reset">Reset</string>
+    <string name="floating_keyboard_hide">Sembunyikan keyboard</string>
+    <string name="floating_keyboard_switch_ime">"Beralih metode input"</string>
+</resources>

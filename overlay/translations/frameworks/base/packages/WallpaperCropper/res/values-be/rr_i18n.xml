@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="crop_wallpaper">Абрэзаць шпалеры</string>
+    <string name="wallpaper_instructions">"Задаць шпалеры"</string>
+    <string name="wallpaper_load_fail">Не ўдалося загрузіць выяву як шпалеры</string>
+</resources>

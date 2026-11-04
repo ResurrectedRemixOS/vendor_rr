@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="user_rejected_calendar_write_permission_lineage">Kalendoriui tinkamai veikti reikia kalendoriaus skaitymo ir rašymo leidimų. Bandykite dar kartą.</string>
+    <string name="preferences_menu_about_lineage">Apie kalendorių</string>
+    <string name="no_snooze_label">"Nėra"</string>
+    <string name="week_start_locale_default">Numatytoji lokalė</string>
+    <string name="preferences_staggered_display_title">Išdėstymas laipsniškai</string>
+    <string name="preferences_staggered_display_summary">Rodyti persidengiančius įvykius laipsniško išdėstymo tvarka</string>
+    <string name="cal_export_error">Nepavyko eksportuoti įvykio</string>
+    <string name="preferences_do_not_check_battery_optimization">Netikrinti akumuliatoriaus optimizavimo</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Naudokite savo rizika! Pranešimai nebeveiks, valdiklis nebeatsinaujins, o fono paslaugos nulūš. Tačiau daugiau neklausime, ar norite įjungti fono paslaugą.</string>
+    <string name="discard_event_changes">Ar norite atmesti pakeitimus?</string>
+    <string name="discard">"Atmesti"</string>
+</resources>

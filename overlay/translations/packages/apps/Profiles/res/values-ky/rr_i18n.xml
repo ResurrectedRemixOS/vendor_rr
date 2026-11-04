@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Профилдердин ишенимдүү провайдери</string>
+    <string name="profile_picker_title">"Профилдер"</string>
+    <string name="profile_none">"Жок"</string>
+    <string name="profile_trust_agent_title">Профилдердин ишенимдүү агенти</string>
+    <string name="profile_trust_agent_summary">Профилдерге кулпулоо экранынын коргоосун убактылуу өчүрүүгө уруксат берет</string>
+    <string name="trust_by_profile">Профиль тарабынан ишенимдүү</string>
+</resources>

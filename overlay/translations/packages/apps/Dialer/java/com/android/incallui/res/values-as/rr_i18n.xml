@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">কল ৰেকৰ্ডিং আৰম্ভ কৰিব পৰা নগ\'ল</string>
+    <string name="call_recording_file_location">কল ৰেকৰ্ডিং <xliff:g id="filename">%s</xliff:g> লৈ সংৰক্ষণ কৰা হ\'ল</string>
+    <string name="onscreenCallRecordText">কল ৰেকৰ্ড কৰক</string>
+    <string name="onscreenCallRecordingText">কল ৰেকৰ্ড কৰা হৈ আছে - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"ৰেকৰ্ডিং বন্ধ কৰক"</string>
+    <string name="recording_warning_title">কল ৰেকৰ্ডিং সক্ষম কৰিবনে?</string>
+    <string name="recording_warning_text">টোকা: কল ৰেকৰ্ডিং কাৰ্যকাৰিতা আৰু সেই ৰেকৰ্ডিংৰ ব্যৱহাৰ বা বিতৰণৰ ক্ষেত্ৰত প্ৰযোজ্য আইন, বিধি আৰু নিয়মাৱলী মানি চলাৰ দায়িত্ব আপোনাৰ।</string>
+</resources>

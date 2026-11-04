@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Nepavyko pradėti skambučio įrašymo</string>
+    <string name="call_recording_file_location">Skambučio įrašas išsaugotas: <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Įrašyti skambutį</string>
+    <string name="onscreenCallRecordingText">Įrašomas skambutis – <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Sustabdyti įrašymą"</string>
+    <string name="recording_warning_title">Įjungti skambučių įrašymą?</string>
+    <string name="recording_warning_text">Pastaba: esate atsakingas už visų įstatymų, reglamentų ir taisyklių, taikomų skambučių įrašymo funkcijai ir tokių įrašų naudojimui ar platinimui, laikymąsi.</string>
+</resources>

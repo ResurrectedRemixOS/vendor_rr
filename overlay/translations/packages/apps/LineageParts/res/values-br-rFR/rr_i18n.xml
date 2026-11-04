@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="live_display_reading_mode_title">Mod lenn</string>
+    <string name="profiles_settings_title">Profiloù  reizhiad</string>
+    <string name="doze_title">Skramm-beilh</string>
+</resources>

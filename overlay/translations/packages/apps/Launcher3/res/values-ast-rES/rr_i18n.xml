@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widgets_list_expand_button_label">Amosar too</string>
+    <string name="widgets_list_expand_button_content_description">Amosar tolos widgets</string>
+    <string name="all_apps_list_label">Llista d\'aplicaciones</string>
+    <string name="widget_settings">Configuración</string>
+    <string name="home_screen_files_context_menu_copy_label">Copiar</string>
+    <string name="home_screen_files_context_menu_rename_label">Renomar</string>
+    <string name="home_screen_files_context_menu_move_to_trash_label">Tirar a la papelera</string>
+    <string name="actions_popup_menu_button">Aiciones</string>
+    <string name="shortcuts_popup_menu_button">Atayos</string>
+    <string name="app_running_state_description">N\'activo</string>
+    <string name="folder_type_name">Carpeta</string>
+    <string name="circle_shape_title">Iconu circular</string>
+    <string name="create_new_folder_button_text">Carpeta nueva</string>
+    <string name="default_new_folder_name">Carpeta nueva</string>
+    <string name="home_screen_files_rename_dialog_neutral_button">Encaboxar</string>
+    <string name="home_screen_files_rename_dialog_positive_button">Renomar</string>
+    <string name="something_went_wrong">Prodúxose un error</string>
+</resources>

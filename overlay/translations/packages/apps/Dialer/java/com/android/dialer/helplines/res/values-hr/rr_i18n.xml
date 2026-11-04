@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="helplines_help_more_message">Popis telefonskih linija za pomoć ispunjen je informacijama koje ručno ažuriraju suradnici. Ako naiđete na nedostajuće ili netočne podatke, slobodno nas kontaktirajte na <xliff:g id="helplines_contact_url" example="www.lineageos.org">%1$s</xliff:g></string>
+</resources>

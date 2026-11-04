@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Wartość logiczna.</string>
+    <string name="any_int_type_description">Wartość całkowita.</string>
+    <string name="any_string_type_description">Wartość tekstowa.</string>
+    <string name="display_id_type_description">Identyfikator wyświetlacza systemowego (wewnętrznego lub zewnętrznego, zależnie od konfiguracji).</string>
+    <string name="installed_package_name_type_description">Dowolny pakiet zainstalowany na urządzeniu.</string>
+    <string name="int_in_range_type_description_from">Liczba całkowita większa lub równa %1$d, z krokiem %2$d.</string>
+    <string name="int_in_range_type_description_to">Liczba całkowita mniejsza lub równa %1$d, z krokiem %2$d.</string>
+    <string name="int_in_range_type_description_between">Liczba całkowita z zakresu [%1$d, %2$d], z krokiem %3$d.</string>
+    <string name="time_of_day_type_description">Godzina w formacie 24-godzinnym HH:mm.</string>
+    <string name="time_duration_type_description">Czas trwania w postaci liczby całkowitej z dokładnością do sekund.</string>
+    <string name="sim_slot_id_type_description">Prawidłowy identyfikator gniazda karty SIM.</string>
+    <string name="subscription_id_type_description">Prawidłowy identyfikator subskrypcji.</string>
+    <string name="wifi_ssid_type_description">Identyfikator SSID sieci Wi-Fi.</string>
+</resources>

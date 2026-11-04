@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX ਤੁਹਾਡਾ ਮੂਲ ਇਫੈਕਟ ਕੰਟਰੋਲ ਪੈਨਲ ਨਹੀਂ ਹੈ।</string>
+    <string name="snack_bar_not_default_set">"ਪੂਰਵ-ਨਿਰਧਾਰਤ ਸੈੱਟ ਕਰੋ"</string>
+    <string name="snack_bar_not_default_not_now">"ਹੁਣੇ ਨਹੀਂ"</string>
+    <string name="normal">ਆਮ</string>
+    <string name="classical">"ਕਲਾਸਿਕਲ"</string>
+    <string name="dance">"ਡਾਂਸ"</string>
+    <string name="flat">ਫਲੈਟ</string>
+    <string name="folk">"ਫ਼ੌਕ"</string>
+    <string name="heavy_metal">"ਹੈਵੀ ਮੈਟਲ"</string>
+    <string name="hip_hop">"ਹਿੱਪ ਹੌਪ"</string>
+    <string name="electronic">ਇਲੈਕਟ੍ਰਾਨਿਕ</string>
+    <string name="small_speakers">Small speakers</string>
+    <string name="multimedia">Multimedia</string>
+    <string name="custom">ਕਸਟਮ</string>
+    <string name="custom_n">Custom <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">ਸਪੀਕਰ ਮੋਡ ਲਈ ਇਫੈਕਟ ਉਪਲਬਧ ਨਹੀਂ ਹੈ।</string>
+    <string name="device_headset">"ਹੈੱਡਸੈੱਟ"</string>
+    <string name="device_speaker">"ਸਪੀਕਰ"</string>
+    <string name="device_line_out">Line out</string>
+    <string name="reverb">Reverb</string>
+    <string name="devices">"ਡੀਵਾਈਸਾਂ"</string>
+    <string name="virtualizer">Virtualizer</string>
+    <string name="bass">Bass</string>
+    <string name="rename">"ਨਾਮ ਬਦਲੋ"</string>
+    <string name="remove_custom_preset_warning_message">Are you sure you want to remove %1$s?</string>
+    <string name="picker_title">Music effects control panel</string>
+</resources>

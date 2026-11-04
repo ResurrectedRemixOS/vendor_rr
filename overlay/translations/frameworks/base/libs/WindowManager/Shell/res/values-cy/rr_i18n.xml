@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_expand">Ehangu</string>
+    <string name="pip_phone_settings">Gosodiadau</string>
+    <string name="pip_menu_title">Dewislen</string>
+    <string name="accessibility_action_pip_resize">Ailfeintio</string>
+    <string name="pip_phone_minimize">Lleihau</string>
+    <string name="bubble_overflow_button_content_description">Gorlif</string>
+    <string name="bubble_content_description_single"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> o <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="bubble_accessibility_action_move_top_left">Symud top chwith</string>
+    <string name="bubble_accessibility_action_move_top_right">Symud top dde</string>
+    <string name="bubble_accessibility_action_move_bottom_left">Symud gwaelod chwith</string>
+    <string name="bubble_accessibility_action_move_bottom_right">Symud gwaelod dde</string>
+    <string name="bubble_accessibility_action_move_bar_left">Symud i\u2019r chwith</string>
+    <string name="bubble_accessibility_action_move_bar_right">Symud i\u2019r dde</string>
+    <string name="bubbles_user_education_got_it">Deall yn iawn</string>
+    <string name="notification_bubble_title">Swigen</string>
+    <string name="manage_bubbles_text">Rheoli</string>
+    <string name="user_aspect_ratio_settings_button_description">Newid cymhareb agwedd</string>
+    <string name="letterbox_education_got_it">Deall yn iawn</string>
+    <string name="letterbox_restart_cancel">Diddymu</string>
+    <string name="letterbox_restart_restart">Ailgychwyn</string>
+    <string name="back_button_text">Nôl</string>
+    <string name="more_button_text">Rhagor</string>
+    <string name="select_text">Dewis</string>
+    <string name="screenshot_text">Sgrinlun</string>
+    <string name="new_window_text">Ffenestr Newydd</string>
+    <string name="manage_windows_text">Rheoli Ffenestri</string>
+    <string name="change_aspect_ratio_text">Newid cymhareb agwedd</string>
+    <string name="desktop_mode_layout_menu_snap_text">Ailfeintio</string>
+    <string name="desktop_mode_layout_menu_immersive_restore_button_text">Adfer</string>
+    <string name="desktop_mode_layout_menu_maximize_button_text">Mwyhau</string>
+    <string name="desktop_mode_layout_menu_restore_button_text">Adfer</string>
+    <string name="open_by_default_dialog_dismiss_button_text">Iawn</string>
+    <string name="open_by_default_splash_dialog_checkbox_text">Cofio fy newis</string>
+    <string name="pip_fullscreen">Sgrin lawn</string>
+    <string name="pip_move">Symud</string>
+    <string name="pip_expand">Ehangu</string>
+    <string name="pip_collapse">Lleihau</string>
+    <string name="a11y_action_pip_move_left">Symud i\u2019r chwith</string>
+    <string name="a11y_action_pip_move_right">Symud i\u2019r dde</string>
+    <string name="a11y_action_pip_move_up">Symud i fyny</string>
+    <string name="a11y_action_pip_move_down">Symud i lawr</string>
+    <string name="a11y_action_pip_move_done">Iawn</string>
+</resources>

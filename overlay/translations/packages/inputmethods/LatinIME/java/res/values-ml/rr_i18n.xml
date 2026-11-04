@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_hu_ZZ">ഹംഗേറിയൻ (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">മെറ്റീരിയൽ - സിസ്റ്റം ക്രമീകരണങ്ങൾ പിന്തുടരുക</string>
+    <string name="prefs_keyboard_height_scale">കീബോർഡ് ഉയര സ്കെയിൽ</string>
+    <string name="number_row">നമ്പർ വരി</string>
+    <string name="number_row_summary">4 വരി കീകളുള്ള എല്ലാ ലേഔട്ടുകൾക്കും എപ്പോഴും നമ്പർ വരി കാണിക്കുക</string>
+    <string name="number_row_password">പാസ്‌വേഡുകൾക്കുള്ള നമ്പർ വരി</string>
+    <string name="number_row_password_summary">പാസ്‌വേഡ് ഇൻപുട്ടിനായി 4 വരി കീകളുള്ള എല്ലാ ലേഔട്ടുകൾക്കും എപ്പോഴും നമ്പർ വരി കാണിക്കുക</string>
+    <string name="space_trackpad">സ്പേസ് ബാർ ട്രാക്ക്പാഡ്</string>
+    <string name="space_trackpad_summary">കഴ്സർ നീക്കാൻ സ്പേസ് ബാറിൽ സ്വൈപ്പ് ചെയ്യുക</string>
+    <string name="backspace_trackpad">ബാക്ക്‌സ്‌പേസ് കീ ട്രാക്ക്പാഡ്</string>
+    <string name="backspace_trackpad_summary">വാക്കുകൾ ഇല്ലാതാക്കാൻ ബാക്ക്‌സ്‌പേസ് കീയിൽ സ്വൈപ്പ് ചെയ്യുക</string>
+    <string name="show_longpress_hints">ദീർഘനേരം അമർത്തൽ സൂചനകൾ കാണിക്കുക</string>
+    <string name="show_longpress_hints_summary">പിന്തുണയ്ക്കുന്ന കീകൾക്ക് ദീർഘനേരം അമർത്തൽ സൂചനകൾ കാണിക്കുന്നു</string>
+    <string name="show_emoji_key">ഇമോജി കീ കാണിക്കുക</string>
+    <string name="show_emoji_key_summary">ഇമോജി കീ എപ്പോഴും കാണിക്കുക. ഈ ഓപ്ഷൻ പ്രവർത്തനക്ഷമമാക്കുമ്പോൾ ഭാഷാ മാറ്റൽ കീ കാണിക്കാനാവില്ല</string>
+    <string name="enable_split_keyboard_summary">ലാൻഡ്‌സ്‌കേപ്പിൽ മാത്രം</string>
+    <string name="split_keyboard_duplicate_keys">മധ്യ കീകൾ ഇരട്ടിപ്പിക്കുക</string>
+    <string name="split_keyboard_duplicate_keys_summary">രണ്ട് ഭാഗങ്ങളിലും മധ്യത്തിനടുത്തുള്ള കീകൾ കാണിക്കുക</string>
+    <string name="spoken_description_split_keyboard">കീബോർഡ് വിഭജിക്കുക</string>
+    <string name="spoken_description_merge_keyboard">കീബോർഡ് ഒന്നിപ്പിക്കുക</string>
+    <string name="spoken_description_float_keyboard">കീബോർഡ് ഫ്ലോട്ട് ചെയ്യുക</string>
+    <string name="spoken_description_dock_keyboard">കീബോർഡ് ഡോക്ക് ചെയ്യുക</string>
+    <string name="floating_keyboard_drag_handle">കീബോർഡ് നീക്കുക</string>
+    <string name="floating_keyboard_resize_handle">കീബോർഡിന്റെ വലുപ്പം മാറ്റുക</string>
+    <string name="floating_keyboard_reset">"റീസെറ്റ് ചെയ്യുക"</string>
+    <string name="floating_keyboard_hide">കീബോർഡ് മറയ്ക്കുക</string>
+    <string name="floating_keyboard_switch_ime">"ഇൻപുട്ട് രീതി മാറുക"</string>
+</resources>

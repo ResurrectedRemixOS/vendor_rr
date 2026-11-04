@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Imininingwane yezibalo zoxhumana nabo</string>
+    <string name="call_stats_incoming">Angenayo: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Aphumayo: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Angaphenduliwe: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Avinjiwe: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Konke: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Konke: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"Qala idethi"</string>
+    <string name="call_stats_filter_to">"Idethi yokugcina"</string>
+    <string name="call_stats_filter_picker_title">Uhla lwesikhathi</string>
+    <string name="date_quick_selection">Ukukhetha okusheshayo</string>
+    <string name="date_qs_currentmonth">Inyanga yamanje</string>
+    <string name="date_qs_currentquarter">Ikota yamanje</string>
+    <string name="date_qs_currentyear">Unyaka wamanje</string>
+    <string name="date_qs_lastweek">"Iviki eledlule"</string>
+    <string name="date_qs_lastmonth">"Inyanga edlule"</string>
+    <string name="date_qs_lastquarter">Ikota yokugcina</string>
+    <string name="date_qs_lastyear">"Unyaka odlule"</string>
+    <string name="call_stats_date_filter">Lungisa uhla lwesikhathi</string>
+    <string name="call_stats_reset_filter">Setha kabusha uhla lwesikhathi</string>
+    <string name="call_stats_sort_by_duration">Hlela ngobude bekholi</string>
+    <string name="call_stats_sort_by_count">Hlela ngenani lamakholi</string>
+    <string name="call_stats_title_for_number">Le nombolo</string>
+    <string name="call_stats_title_of_total">Ngokuphelele</string>
+    <string name="call_stats_title_durations">Izikhathi zamakholi</string>
+    <string name="call_stats_title_count">Inani lamakholi</string>
+    <string name="call_stats_title_average_duration">Isikhathi sekholi esijwayelekile</string>
+    <string name="recent_calls_no_items_in_range">Irekhodi lakho lamakholi alinamakholi kuleli hla lwesikhathi elikhethiwe.</string>
+</resources>

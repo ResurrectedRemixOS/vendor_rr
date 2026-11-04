@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Лавандула</string>
+    <string name="red_color_name">Горски плод</string>
+    <string name="wht_color_name">Мъгла</string>
+    <string name="indigo_color_name">"индиго"</string>
+    <string name="iris_color_name">Ирис</string>
+    <string name="jade_color_name">Нефрит</string>
+    <string name="lemongrass_color_name">Лимонова трева</string>
+    <string name="moonstone_color_name">Лунен камък</string>
+    <string name="obsidian_color_name">Обсидиан</string>
+    <string name="peony_color_name">Божур</string>
+    <string name="porcelain_color_name">Порцелан</string>
+    <string name="fruit1_color_name">Жълта и червена двуцветна палитра</string>
+    <string name="fruit2_color_name">Зелена и оранжева двуцветна палитра</string>
+    <string name="fruit3_color_name">Синя и зелена двуцветна палитра</string>
+    <string name="fruit4_color_name">Светлолилава и синя двуцветна палитра</string>
+    <string name="fruit5_color_name">Розова и индиго двуцветна палитра</string>
+</resources>

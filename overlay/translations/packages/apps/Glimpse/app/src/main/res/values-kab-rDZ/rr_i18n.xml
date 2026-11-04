@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="categories_title">Taggayin</string>
+    <string name="album_favorites">Ismenyifen</string>
+    <string name="album_videos">Tividyutin</string>
+    <string name="media_info_unknown">Arussin</string>
+    <string name="file_action_add_to_favorites">Rnu ar ismenyifen</string>
+    <string name="file_action_edit">Ẓreg</string>
+    <string name="file_action_information">Talɣut</string>
+    <string name="file_action_remove_from_favorites">Kkes-it seg ismal</string>
+    <string name="file_action_share">Bḍu</string>
+    <string name="file_action_undo_action">Err-d</string>
+    <string name="picker_done">Immed</string>
+    <string name="set_wallpaper_label">Agalis</string>
+    <string name="set_wallpaper">Sbadu agalis</string>
+    <string name="set_wallpaper_home_screen">Agdil agejdan</string>
+    <string name="set_wallpaper_lock_screen">Agdil usewḥel</string>
+    <string name="title_activity_settings">Iɣewwaṛen</string>
+    <string name="general_header">Amatu</string>
+</resources>

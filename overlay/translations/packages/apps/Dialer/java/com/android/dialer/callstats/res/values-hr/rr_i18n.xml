@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Pojedinosti statistike kontakata</string>
+    <string name="call_stats_incoming">Dolazni: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Odlazni: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Propušteni: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Blokirani: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Ukupno: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Ukupno: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"Datum početka"</string>
+    <string name="call_stats_filter_to">"Datum završetka"</string>
+    <string name="call_stats_filter_picker_title">Raspon filtra</string>
+    <string name="date_quick_selection">Brzi odabir</string>
+    <string name="date_qs_currentmonth">Tekući mjesec</string>
+    <string name="date_qs_currentquarter">Tekuće tromjesečje</string>
+    <string name="date_qs_currentyear">Tekuća godina</string>
+    <string name="date_qs_lastweek">"Prošli tjedan"</string>
+    <string name="date_qs_lastmonth">"Prošli mjesec"</string>
+    <string name="date_qs_lastquarter">Prošlo tromjesečje</string>
+    <string name="date_qs_lastyear">"Prošla godina"</string>
+    <string name="call_stats_date_filter">Prilagodi vremenski raspon</string>
+    <string name="call_stats_reset_filter">Vrati vremenski raspon</string>
+    <string name="call_stats_sort_by_duration">Razvrstaj po trajanju poziva</string>
+    <string name="call_stats_sort_by_count">Razvrstaj po broju poziva</string>
+    <string name="call_stats_title_for_number">Ovaj broj</string>
+    <string name="call_stats_title_of_total">Od ukupnog</string>
+    <string name="call_stats_title_durations">Trajanja poziva</string>
+    <string name="call_stats_title_count">Broj poziva</string>
+    <string name="call_stats_title_average_duration">Prosječno trajanje poziva</string>
+    <string name="recent_calls_no_items_in_range">Vaš popis poziva ne sadrži pozive u odabranom vremenskom rasponu.</string>
+</resources>

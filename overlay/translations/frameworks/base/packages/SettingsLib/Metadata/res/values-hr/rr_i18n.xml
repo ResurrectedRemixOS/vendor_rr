@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Logička vrijednost.</string>
+    <string name="any_int_type_description">Cjelobrojna vrijednost.</string>
+    <string name="any_string_type_description">Tekstualna vrijednost.</string>
+    <string name="display_id_type_description">Identifikator sustavnog zaslona (unutarnji ili vanjski, ovisno o konfiguraciji).</string>
+    <string name="installed_package_name_type_description">Bilo koji paket instaliran na uređaju.</string>
+    <string name="int_in_range_type_description_from">Cijeli broj veći ili jednak %1$d, korak %2$d.</string>
+    <string name="int_in_range_type_description_to">Cijeli broj manji ili jednak %1$d, korak %2$d.</string>
+    <string name="int_in_range_type_description_between">Cijeli broj u rasponu [%1$d, %2$d], korak %3$d.</string>
+    <string name="time_of_day_type_description">Doba dana u 24-satnom formatu HH:mm.</string>
+    <string name="time_duration_type_description">Trajanje u cijelim brojevima s preciznošću na sekunde.</string>
+    <string name="sim_slot_id_type_description">Valjani ID utora za SIM karticu.</string>
+    <string name="subscription_id_type_description">Valjani ID pretplate.</string>
+    <string name="wifi_ssid_type_description">SSID Wi-Fi mreže.</string>
+</resources>

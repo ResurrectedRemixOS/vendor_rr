@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"取消"</string>
+    <string name="finish">完成</string>
+    <string name="device_info">"裝置資訊"</string>
+    <string name="device_information">"裝置資訊"</string>
+    <string name="device_info_serial">"序號"</string>
+    <string name="setup_datetime_section_date">"日期"</string>
+    <string name="setup_datetime_section_time">"時間"</string>
+    <string name="setup_date_format">"格式化"</string>
+    <string name="date_format_day">日間</string>
+    <string name="date_format_month">"月"</string>
+    <string name="date_format_year">"年"</string>
+    <string name="setup_time_zone">"時區"</string>
+    <string name="setup_24_hour_format">"使用 24 小時格式"</string>
+    <string name="location_access_title">"使用位置資訊"</string>
+    <string name="swipe_up_to_go_home">"向上滑動即可前往主畫面"</string>
+</resources>

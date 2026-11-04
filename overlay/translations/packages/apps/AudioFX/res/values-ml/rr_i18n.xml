@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX നിങ്ങളുടെ ഡിഫോൾട്ട് ഇഫക്റ്റ് നിയന്ത്രണ പാനൽ അല്ല.</string>
+    <string name="snack_bar_not_default_set">"ഡിഫോൾട്ട് ആയി സജ്ജീകരിക്കൂ"</string>
+    <string name="snack_bar_not_default_not_now">"ഇപ്പോൾ വേണ്ട"</string>
+    <string name="multimedia">മൾട്ടിമീഡിയ</string>
+    <string name="custom_n">ഇഷ്ടാനുസൃതം <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="device_line_out">ലൈൻ ഔട്ട്</string>
+    <string name="devices">"ഉപകരണങ്ങൾ"</string>
+    <string name="virtualizer">വെർച്വലൈസർ</string>
+    <string name="bass">ബാസ്</string>
+    <string name="rename">"പേര് മാറ്റുക"</string>
+    <string name="remove_custom_preset_warning_message">%1$s നീക്കം ചെയ്യണമെന്ന് ഉറപ്പാണോ?</string>
+    <string name="picker_title">മ്യൂസിക് ഇഫക്റ്റ് നിയന്ത്രണ പാനൽ</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="assistant_label">Cuidiche</string>
+    <string name="assistant_utterance">Cuidiche</string>
+    <string name="lockscreen_label">An sgrìn-ghlasaidh</string>
+    <string name="quick_settings_label">Grad-roghainnean</string>
+    <string name="notifications_label">Brathan</string>
+    <string name="screenshot_label">Glacadh-sgrìn</string>
+    <string name="screenshot_utterance">Tog glacadh-sgrìn</string>
+    <string name="pref_help_title">Cobhair</string>
+</resources>

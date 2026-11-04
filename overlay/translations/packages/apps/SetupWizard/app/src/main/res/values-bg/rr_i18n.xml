@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Отказ"</string>
+    <string name="finish">Завършен</string>
+    <string name="device_info">"Информация за устройството"</string>
+    <string name="device_information">"Информация за устройството"</string>
+    <string name="device_info_serial">"Сериен номер"</string>
+    <string name="setup_euicc">Настройване на eSIM</string>
+    <string name="esim_support_summary">Настройте eSIM или поставете SIM карта. За да поставите SIM карта, прочетете инструкциите, приложени към устройството.</string>
+    <string name="sim_missing_skip_title">Пропускане на настройката на SIM?</string>
+    <string name="sim_missing_skip_message">Ако пропуснете тази стъпка, няма да сте свързани към мобилна мрежа, докато не настроите SIM в настройките.</string>
+    <string name="setup_datetime_section_date">"Дата"</string>
+    <string name="setup_datetime_section_time">"Час"</string>
+    <string name="setup_date_format">"Форматиране"</string>
+    <string name="date_format_day">"Ден"</string>
+    <string name="date_format_month">"Месец"</string>
+    <string name="date_format_year">"Година"</string>
+    <string name="setup_time_zone">"Часова зона"</string>
+    <string name="setup_24_hour_format">"Използване на 24-часов формат"</string>
+    <string name="location_summary">Изберете как устройството управлява местоположението си</string>
+    <string name="location_access_title">"Използване на местоположението"</string>
+    <string name="location_agps_access_title">Подобрено местоположение</string>
+    <string name="services_find_privacy_policy">Можете да прочетете политиката за поверителност на друго устройство, като посетите:</string>
+    <string name="services_metrics_title">Споделяне на диагностични данни</string>
+    <string name="gesture_navigation_short">Жест</string>
+    <string name="pure_black_theme">Използвайте чисто черен фон</string>
+    <string name="theme_preview">Преглед на темата</string>
+    <string name="swipe_up_to_go_home">"Плъзнете с пръст нагоре, за да отворите началния екран"</string>
+    <string name="tap_home_to_go_home">Докоснете централната икона за навигация, за да отидете на началния екран</string>
+    <string name="press_center_to_go_home">Натиснете централния бутон, за да отидете на началния екран</string>
+</resources>

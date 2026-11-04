@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">ຄລາສສິກ</string>
+    <string name="bundle1_color_name">ຖ່ານ</string>
+    <string name="bundle2_color_name">ເຈ້ຍ</string>
+    <string name="bundle3_color_name">ແສງຕາເວັນ</string>
+    <string name="bue_color_name">ສີມ່ວງອ່ອນ</string>
+    <string name="red_color_name">ໝາກເບີຣີ</string>
+    <string name="wht_color_name">ໝອກ</string>
+    <string name="indigo_color_name">"ສີຄາມ"</string>
+    <string name="iris_color_name">ສີມ່ວງເຂັ້ມ</string>
+    <string name="jade_color_name">ຫຍົກ</string>
+    <string name="lemongrass_color_name">ຕະໄຄ້</string>
+    <string name="moonstone_color_name">ຫີນຈັນທະຣາ</string>
+    <string name="obsidian_color_name">ຫີນອັອບຊີດຽນ</string>
+    <string name="peony_color_name">ດອກໂບຕັນ</string>
+    <string name="porcelain_color_name">ເຄືອບເຊຣາມິກ</string>
+    <string name="fruit1_color_name">ຊຸດສອງສີ ເຫຼືອງ ແລະ ແດງ</string>
+    <string name="fruit2_color_name">ຊຸດສອງສີ ຂຽວ ແລະ ສົ້ມ</string>
+    <string name="fruit3_color_name">ຊຸດສອງສີ ຟ້າ ແລະ ຂຽວ</string>
+    <string name="fruit4_color_name">ຊຸດສອງສີ ມ່ວງອ່ອນ ແລະ ຟ້າ</string>
+    <string name="fruit5_color_name">ຊຸດສອງສີ ບົວ ແລະ ຄາມ</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">ඇමතුම් පටිගත කිරීම ආරම්භ කළ නොහැකි විය</string>
+    <string name="call_recording_file_location">ඇමතුම් පටිගත කිරීම <xliff:g id="filename">%s</xliff:g> වෙත සුරකින ලදී</string>
+    <string name="onscreenCallRecordText">ඇමතුම පටිගත කරන්න</string>
+    <string name="onscreenCallRecordingText">ඇමතුම පටිගත කරමින් - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"පටිගත කිරීම නවත්වන්න"</string>
+    <string name="recording_warning_title">ඇමතුම් පටිගත කිරීම සක්‍රිය කරන්නද?</string>
+    <string name="recording_warning_text">දැනුම්දීම: ඇමතුම් පටිගත කිරීමේ ක්‍රියාකාරිත්වයේ භාවිතයට සහ එම පටිගත කිරීම් භාවිතය හෝ බෙදා හැරීමට අදාළ වන ඕනෑම නීතියක්, රෙගුලාසියක් හෝ රීතියක් සමඟ අනුකූල වීම ඔබේ වගකීමකි.</string>
+</resources>

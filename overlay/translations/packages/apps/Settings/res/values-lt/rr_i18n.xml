@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kb/s</item>
+        <item>256 kb/s</item>
+        <item>1 Mb/s</item>
+        <item>5 Mb/s</item>
+        <item>15 Mb/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"numatytosios"</item>
+        <item>Celsijaus</item>
+        <item>Farenheito</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"numatytosios"</item>
+        <item>Sek</item>
+        <item>Pir</item>
+        <item>Ant</item>
+        <item>Tre</item>
+        <item>Ket</item>
+        <item>Pen</item>
+        <item>Šeš</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"numatytosios"</item>
+        <item>Metrinė</item>
+        <item>JAV sistema</item>
+        <item>JK sistema</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Nenurodyta"</item>
+        <item>"Neutralu"</item>
+        <item>"Moteriškoji giminė"</item>
+        <item>"Vyriškoji giminė"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>pr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>vo</item>
+    </string-array>
+    <string name="keyboard_extras_title">Papildomi</string>
+    <string name="advanced_keyboard_settings_title">"Išplėstiniai nustatymai"</string>
+    <string name="adb_enable_root">Derinimas su root teisėmis</string>
+    <string name="adb_enable_summary_root">Leisti vykdyti Android derinimą kaip root</string>
+    <string name="backup_transport_setting_label">Keisti atsarginės kopijos teikėją</string>
+    <string name="backup_transport_title">Pasirinkite atsarginės kopijos teikėją</string>
+    <string name="berry_black_theme_title">Visiškai juoda</string>
+    <string name="berry_black_theme_summary">Visiškai juodas fonas tamsiai temai</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Liko # žingsnis, kad įjungtumėte kūrėjo nustatymus.} one {Liko # žingsnis, kad įjungtumėte kūrėjo nustatymus.} few {Liko # žingsniai, kad įjungtumėte kūrėjo nustatymus.} other {Liko # žingsnių, kad įjungtumėte kūrėjo nustatymus.} }</string>
+    <string name="status_bar_double_tap_to_sleep_title">Palieskite, kad užmigdytumėte</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Dukart palieskite būsenos juostą arba užrakinimo ekraną, kad išjungtumėte ekraną</string>
+    <string name="high_touch_polling_rate_title">Didelis jutiklinio ekrano apklausos dažnis</string>
+    <string name="high_touch_polling_rate_summary">Padidinti jutiklinio ekrano apklausos dažnį</string>
+    <string name="heads_up_notifications_enabled_title">Iškylantis</string>
+    <string name="heads_up_notifications_enabled_summary">Rodyti svarbius pranešimus mažame plaukiojančiame lange</string>
+    <string name="tethering_allow_vpn_upstreams_title">Naudoti VPN prijungtiems įrenginiams</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Kai šis įrenginys naudoja VPN, visi prie viešosios interneto prieigos taško prijungti įrenginiai naudos tą patį VPN</string>
+    <string name="lock_settings_picker_pattern_size_message">Pasirinkite piešinio dydį</string>
+    <string name="max_refresh_rate_title">Didžiausias atnaujinimo dažnis</string>
+    <string name="min_refresh_rate_title">Mažiausias atnaujinimo dažnis</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Pirštų atspaudų jutiklis yra planšetinio kompiuterio priekyje.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Pirštų atspaudų jutiklis yra įrenginio priekyje.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Pirštų atspaudų jutiklis yra telefono priekyje.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Pirštų atspaudų jutiklis yra planšetinio kompiuterio gale.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Pirštų atspaudų jutiklis yra įrenginio gale.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Pirštų atspaudų jutiklis yra telefono gale.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Pirštų atspaudų jutiklis yra planšetinio kompiuterio šone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Pirštų atspaudų jutiklis yra įrenginio šone.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Pirštų atspaudų jutiklis yra telefono šone.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Palieskite jutiklį planšetinio kompiuterio priekyje.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Palieskite jutiklį įrenginio priekyje.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Palieskite jutiklį telefono priekyje.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Palieskite jutiklį planšetinio kompiuterio gale.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Palieskite jutiklį įrenginio gale.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Palieskite jutiklį telefono gale.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Palieskite jutiklį planšetinio kompiuterio šone.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Palieskite jutiklį įrenginio šone.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Palieskite jutiklį telefono šone.</string>
+    <string name="show_navbar_hint_title">Naršymo užuomina</string>
+    <string name="show_navbar_hint_summary">Rodyti naršymo užuominos juostą ekrano apačioje</string>
+    <string name="auto_brightness_one_shot_title">Vienkartinis automatinis ryškumas</string>
+    <string name="auto_brightness_one_shot_summary">Ryškumas bus koreguojamas tik įjungus ekraną</string>
+    <string name="data_usage_app_restrict_all">Leisti prieigą prie tinklo</string>
+    <string name="data_usage_app_restrict_all_summary">Įgalinti tinklo naudojimą</string>
+    <string name="data_usage_app_restrict_mobile">"Mobiliojo ryšio duomenys"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Įgalinti mobiliųjų duomenų naudojimą</string>
+    <string name="data_usage_app_restrict_vpn">VPN duomenys</string>
+    <string name="data_usage_app_restrict_vpn_summary">Įgalinti VPN duomenų naudojimą</string>
+    <string name="data_usage_app_restrict_wifi">"„Wi‑Fi“ duomenys"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Įgalinti Wi‑Fi duomenų naudojimą</string>
+    <string name="proximity_wake_summary">Prieš įjungiant ekraną patikrinti artumo jutiklį</string>
+    <string name="storage_warning_internal">Įspėjimas: ši parinktis gali neveikti tinkamai arba lemti duomenų praradimą, todėl nerekomenduojama!</string>
+    <string name="assisted_gps">Naudoti pagalbinį GPS</string>
+    <string name="assisted_gps_summary">Atsisiųskite palydovinės pagalbos duomenis iš interneto, kurie gerokai pagerina GPS paleidimo našumą. Skubiems skambučiams pagalbinis GPS visada leidžiamas.</string>
+    <string name="battery_technology">Technologija</string>
+    <string name="battery_health">"Būklė"</string>
+    <string name="battery_health_good">"Geras"</string>
+    <string name="battery_health_overheat">"Perkaitęs"</string>
+    <string name="battery_health_dead">"Išsikrovęs"</string>
+    <string name="battery_health_over_voltage">"Viršįtampis"</string>
+    <string name="battery_health_unspecified_failure">Nenurodytas gedimas</string>
+    <string name="battery_health_cold">"Šaltas"</string>
+    <string name="battery_health_unknown">"Nežinoma"</string>
+    <string name="battery_temperature">"Temperatūra"</string>
+    <string name="battery_voltage">Įtampa</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Projektinė talpa</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Didžiausia talpa</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Sulenkite telefoną sąrankos metu</string>
+    <string name="face_enrolling_close_to_continue_description">Telefoną reikia sulenkti, kad būtų galima nustatyti ar naudoti veidu atrakinimą</string>
+    <string name="face_enrolling_do_it_later">"Atlikti vėliau"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM įrankių rinkinys</string>
+    <string name="platform_compat_target_sdk_title">Įjungta, kai targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Asmeninio konteksto valdiklis</string>
+</resources>

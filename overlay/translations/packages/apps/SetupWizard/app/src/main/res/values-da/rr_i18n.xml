@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Annuller"</string>
+    <string name="finish">Afslut</string>
+    <string name="setup_managed_profile_welcome_message">Konfigurer din arbejdsprofil</string>
+    <string name="device_info">"Enhedsoplysninger"</string>
+    <string name="device_information">"Enhedsoplysninger"</string>
+    <string name="device_info_serial">"Serienummer"</string>
+    <string name="setup_euicc">Konfigurer eSIM</string>
+    <string name="esim_support_summary">Konfigurer en eSIM eller indsæt et SIM-kort. Hvis du vil indsætte et SIM-kort, skal du læse vejledningen, der fulgte med din enhed.</string>
+    <string name="sim_missing_skip_title">Springe SIM-opsætningen over?</string>
+    <string name="sim_missing_skip_message">Hvis du springer dette trin over, er du ikke forbundet til et mobilnetværk, før du konfigurerer et SIM-kort i Indstillinger.</string>
+    <string name="setup_datetime_section_date">"Dato"</string>
+    <string name="setup_datetime_section_time">"Klokkeslæt"</string>
+    <string name="setup_date_format">"Formatér"</string>
+    <string name="date_format_day">Dag</string>
+    <string name="date_format_month">"Måned"</string>
+    <string name="date_format_year">"År"</string>
+    <string name="setup_time_zone">"Tidszone"</string>
+    <string name="setup_24_hour_format">"Brug 24-timers format"</string>
+    <string name="intro_restore_subtitle">Hvis du har en Seedvault-sikkerhedskopi fra <xliff:g id="name" example="LineageOS">%s</xliff:g> eller et andet operativsystem, kan du gendanne den her.</string>
+    <string name="location_summary">Vælg, hvordan din enhed administrerer placering</string>
+    <string name="location_access_title">"Brug lokation"</string>
+    <string name="location_agps_access_title">Forbedret placering</string>
+    <string name="services_find_privacy_policy">Du kan læse privatlivspolitikken på en anden enhed ved at besøge:</string>
+    <string name="services_metrics_title">Bidrag med diagnosticeringsdata</string>
+    <string name="gesture_navigation_short">Bevægelse</string>
+    <string name="setup_theme">"Tema"</string>
+    <string name="theme_summary">Mørkt tema bruger en sort baggrund, som kan hjælpe med at spare batteri på nogle skærme</string>
+    <string name="dark">Mørk</string>
+    <string name="light">Lys</string>
+    <string name="pure_black_theme">Brug ren sort baggrund</string>
+    <string name="theme_preview">Temaeksempel</string>
+    <string name="swipe_up_to_go_home">"Stryg opad for at gå til startsiden"</string>
+    <string name="tap_home_to_go_home">Tryk på det centrale navigationsikon for at gå til startskærmen</string>
+    <string name="press_center_to_go_home">Tryk på den centrale knap for at gå til startskærmen</string>
+</resources>

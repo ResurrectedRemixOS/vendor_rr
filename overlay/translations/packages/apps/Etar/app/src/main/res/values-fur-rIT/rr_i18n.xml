@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="searchview_description_clear">Nete la richieste</string>
+    <string name="action_label">Invie</string>
+    <string name="chips_action_copy">Copie</string>
+</resources>

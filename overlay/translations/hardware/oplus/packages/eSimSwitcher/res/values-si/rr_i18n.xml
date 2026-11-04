@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">eSIM සැකසීම්</string>
+    <string name="esim_toggle_title">eSIM</string>
+    <string name="esim_toggle_summary">අතථ්‍ය SIM කාඩ්පතක් භාවිත කිරීමට ක්‍රියාකරු පැතිකඩක් බාගත කර සක්‍රිය කරන්න</string>
+    <string name="esim_toggle_dialog_cancel">"අවලංගු කරන්න"</string>
+</resources>

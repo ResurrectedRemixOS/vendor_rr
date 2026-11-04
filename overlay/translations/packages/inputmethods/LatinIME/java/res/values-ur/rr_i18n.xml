@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">الفابیٹ (Bépo)</string>
+    <string name="subtype_hu_ZZ">ہنگیرین (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - سسٹم کی ترتیبات کی پیروی کریں</string>
+    <string name="prefs_keyboard_height_scale">کی بورڈ کی اونچائی کا پیمانہ</string>
+    <string name="number_row">نمبر قطار</string>
+    <string name="number_row_summary">وہ تمام لے آؤٹس جن میں کی کی 4 قطاریں ہوں، ہمیشہ نمبر قطار دکھائیں</string>
+    <string name="number_row_password">پاسورڈز کے لیے نمبر قطار</string>
+    <string name="number_row_password_summary">ہمیشہ ان تمام لے آؤٹس میں نمبر قطار دکھائیں جن میں پاس ورڈ ان پٹ کے لیے 4 قطاریں ہوں</string>
+    <string name="space_trackpad">اسپیس بار ٹریک پیڈ</string>
+    <string name="space_trackpad_summary">کرسر منتقل کرنے کے لیے اسپیس بار پر سوائپ کریں</string>
+    <string name="backspace_trackpad">بیک اسپیس کی ٹریک پیڈ</string>
+    <string name="backspace_trackpad_summary">لفظ حذف کرنے کے لیے بیک اسپیس کی پر سوائپ کریں</string>
+    <string name="show_longpress_hints">لانگ پریس کے اشارے دکھائیں</string>
+    <string name="show_longpress_hints_summary">معاون کیز کے لیے لانگ پریس کے اشارے دکھاتا ہے</string>
+    <string name="show_emoji_key">ایموجی کی دکھائیں</string>
+    <string name="show_emoji_key_summary">ہمیشہ ایموجی کی دکھائیں۔ جب یہ آپشن فعال ہو تو زبان تبدیل کرنے کی کی نہیں دکھائی جا سکتی</string>
+    <string name="enable_split_keyboard_summary">صرف لینڈ اسکیپ میں</string>
+    <string name="split_keyboard_duplicate_keys">درمیانی کیز کی نقل بنائیں</string>
+    <string name="split_keyboard_duplicate_keys_summary">دونوں حصوں میں درمیان کے قریب کی کیز دکھائیں</string>
+    <string name="spoken_description_split_keyboard">کی بورڈ تقسیم کریں</string>
+    <string name="spoken_description_merge_keyboard">کی بورڈ ملائیں</string>
+    <string name="spoken_description_float_keyboard">کی بورڈ تیرائیں</string>
+    <string name="spoken_description_dock_keyboard">کی بورڈ ڈاک کریں</string>
+    <string name="floating_keyboard_drag_handle">کی بورڈ منتقل کریں</string>
+    <string name="floating_keyboard_resize_handle">کی بورڈ کا سائز تبدیل کریں</string>
+    <string name="floating_keyboard_reset">"ری سیٹ کریں"</string>
+    <string name="floating_keyboard_hide">کی بورڈ چھپائیں</string>
+    <string name="floating_keyboard_switch_ime">"اندراج کا طریقہ سوئچ کریں"</string>
+</resources>

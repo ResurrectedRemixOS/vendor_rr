@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Zrušiť"</string>
+    <string name="finish">Dokončiť</string>
+    <string name="setup_welcome_message">Vitajte v <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Nastavte si pracovný profil</string>
+    <string name="accessibility_settings">"Nastavenia dostupnosti"</string>
+    <string name="device_info">"Informácie o zariadení"</string>
+    <string name="device_information">"Informácie o zariadení"</string>
+    <string name="device_info_serial">"Sériové číslo"</string>
+    <string name="setup_euicc">Nastaviť eSIM</string>
+    <string name="esim_support_summary">Nastavte eSIM alebo vložte SIM kartu. Ak chcete vložiť SIM kartu, prečítajte si pokyny dodané so zariadením.</string>
+    <string name="sim_missing_skip_title">Preskočiť nastavenie SIM karty?</string>
+    <string name="sim_missing_skip_message">Ak tento krok preskočíte, nebudete pripojení k mobilnej sieti, kým SIM kartu nenastavíte v Nastaveniach.</string>
+    <string name="setup_datetime_section_date">"Dátum"</string>
+    <string name="setup_datetime_section_time">"Čas"</string>
+    <string name="setup_date_format">"Formátovať"</string>
+    <string name="date_format_day">Deň</string>
+    <string name="date_format_month">"Mesiac"</string>
+    <string name="date_format_year">"Rok"</string>
+    <string name="setup_time_zone">"Časové pásmo"</string>
+    <string name="setup_24_hour_format">"Používať 24-hodinový formát"</string>
+    <string name="intro_restore_subtitle">Ak máte zálohu Seedvault z <xliff:g id="name" example="LineageOS">%s</xliff:g> alebo z iného operačného systému, môžete ju tu obnoviť.</string>
+    <string name="location_summary">Vyberte, ako zariadenie spravuje svoju polohu</string>
+    <string name="location_access_title">"Používať polohu"</string>
+    <string name="location_agps_access_title">Vylepšená poloha</string>
+    <string name="location_agps_access_summary">Keď je poloha zapnutá, stiahne satelitné pomocné údaje z internetu, čo môže výrazne zlepšiť výkon štartu GPS.</string>
+    <string name="services_pp_explanation">Tieto služby pracujú pre vás a rozširujú možnosti vášho zariadenia. Údaje sa použijú v súlade so <xliff:g id="name" example="LineageOS">%1$s</xliff:g> zásadami ochrany osobných údajov.</string>
+    <string name="services_find_privacy_policy">Zásady ochrany osobných údajov si môžete prečítať na inom zariadení na tejto adrese:</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> automaticky odosielaním diagnostických údajov a údajov o používaní do <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Tieto informácie nemožno použiť na vašu identifikáciu a pomáhajú tímom pracujúcim na výdrži batérie, výkone aplikácií a nových funkciách <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">Prispievať diagnostickými údajmi</string>
+    <string name="setup_navigation">Navigácia</string>
+    <string name="navigation_summary">Vyberte preferovaný spôsob navigácie</string>
+    <string name="gesture_navigation">"Navigácia gestami"</string>
+    <string name="navbar_navigation">"Trojtlačidlová navigácia"</string>
+    <string name="gesture_navigation_short">Gestá</string>
+    <string name="hide_gesture_hint">Skryť nápovedu gest na navigáciu</string>
+    <string name="setup_theme">"Motív"</string>
+    <string name="theme_summary">Tmavý motív používa čierne pozadie, ktoré na niektorých obrazovkách pomáha predlžovať výdrž batérie</string>
+    <string name="dark">Tmavý</string>
+    <string name="light">Svetlý</string>
+    <string name="pure_black_theme">Použiť čisto čierne pozadie</string>
+    <string name="theme_preview">Ukážka motívu</string>
+    <string name="swipe_up_to_go_home">"Potiahnutím nahor prejdete na plochu"</string>
+    <string name="tap_home_to_go_home">Ťuknutím na stredovú ikonu navigácie prejdete na plochu</string>
+    <string name="press_center_to_go_home">Stlačením stredového tlačidla prejdete na plochu</string>
+</resources>

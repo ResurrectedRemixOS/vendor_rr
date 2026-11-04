@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Lavendel</string>
+    <string name="red_color_name">Beere</string>
+    <string name="wht_color_name">Nebel</string>
+    <string name="fruit1_color_name">Zweifarbige Palette aus Gelb und Rot</string>
+    <string name="fruit2_color_name">Zweifarbige Palette aus Grün und Orange</string>
+    <string name="fruit3_color_name">Zweifarbige Palette aus Blau und Grün</string>
+    <string name="fruit4_color_name">Zweifarbige Palette aus Helllila und Blau</string>
+    <string name="fruit5_color_name">Zweifarbige Palette aus Pink und Indigo</string>
+</resources>

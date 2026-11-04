@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"ยกเลิก"</string>
+    <string name="finish">เสร็จสิ้น</string>
+    <string name="setup_welcome_message">ยินดีต้อนรับสู่ <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">ตั้งค่าโปรไฟล์งานของคุณ</string>
+    <string name="device_info">"ข้อมูลอุปกรณ์"</string>
+    <string name="device_information">"ข้อมูลอุปกรณ์"</string>
+    <string name="device_info_serial">"หมายเลขซีเรียล"</string>
+    <string name="setup_euicc">ตั้งค่า eSIM</string>
+    <string name="esim_support_summary">ตั้งค่า eSIM หรือใส่ซิมการ์ด หากต้องการใส่ซิมการ์ด โปรดอ่านคำแนะนำที่มาพร้อมกับอุปกรณ์ของคุณ</string>
+    <string name="sim_missing_skip_title">ข้ามการตั้งค่าซิมใช่หรือไม่</string>
+    <string name="sim_missing_skip_message">หากคุณข้ามขั้นตอนนี้ คุณจะไม่เชื่อมต่อกับเครือข่ายมือถือจนกว่าจะตั้งค่าซิมในการตั้งค่า</string>
+    <string name="setup_datetime_section_date">"วันที่"</string>
+    <string name="setup_datetime_section_time">"เวลา"</string>
+    <string name="setup_date_format">"ฟอร์แมต"</string>
+    <string name="date_format_day">"วัน"</string>
+    <string name="date_format_month">"เดือน"</string>
+    <string name="date_format_year">"ปี"</string>
+    <string name="setup_time_zone">"เขตเวลา"</string>
+    <string name="setup_24_hour_format">"ใช้รูปแบบ 24 ชั่วโมง"</string>
+    <string name="intro_restore_title">กู้คืนแอปและข้อมูล</string>
+    <string name="intro_restore_subtitle">หากคุณมีการสำรองข้อมูล Seedvault จาก <xliff:g id="name" example="LineageOS">%s</xliff:g> หรือระบบปฏิบัติการอื่น คุณสามารถกู้คืนได้ที่นี่</string>
+    <string name="intro_restore_button">กู้คืนจากการสำรองข้อมูล</string>
+    <string name="location_summary">เลือกวิธีที่อุปกรณ์จัดการตำแหน่งที่ตั้ง</string>
+    <string name="location_access_title">"ใช้ตำแหน่ง"</string>
+    <string name="location_agps_access_title">ตำแหน่งที่ตั้งขั้นสูง</string>
+    <string name="location_agps_access_summary">เมื่อเปิดตำแหน่งที่ตั้ง ระบบจะดาวน์โหลดข้อมูลช่วยเหลือดาวเทียมจากอินเทอร์เน็ต ซึ่งช่วยให้ GPS เริ่มทำงานได้เร็วขึ้นมาก</string>
+    <string name="update_recovery_description">อัปเดตการกู้คืน Resurrected Remix ในการบูตครั้งแรกหลังทุกการอัปเดต</string>
+    <string name="update_recovery_warning">การกู้คืนจะอัปเดตทันทีที่คุณตั้งค่าเสร็จ หากต้องการคงไว้ตามเดิม ให้ปิดฟีเจอร์นี้</string>
+    <string name="update_recovery_setting">อัปเดตการกู้คืน Resurrected Remix พร้อมกับระบบปฏิบัติการ</string>
+    <string name="services_pp_explanation">บริการเหล่านี้ทำงานเพื่อเพิ่มความสามารถให้อุปกรณ์ของคุณ ข้อมูลจะถูกใช้ตามนโยบายความเป็นส่วนตัวของ <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="services_find_privacy_policy">คุณสามารถอ่านนโยบายความเป็นส่วนตัวบนอุปกรณ์อื่นได้โดยเข้าไปที่:</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> โดยการส่งข้อมูลการวินิจฉัยและการใช้งานไปยัง <xliff:g id="name" example="LineageOS">%2$s</xliff:g> ข้อมูลนี้ไม่สามารถใช้ระบุตัวตนของคุณได้ และช่วยทีมที่พัฒนาเรื่องอายุการใช้งานแบตเตอรี่ ประสิทธิภาพแอป และฟีเจอร์ใหม่ของ <xliff:g id="name" example="LineageOS">%3$s</xliff:g></string>
+    <string name="services_metrics_title">ส่งข้อมูลการวินิจฉัย</string>
+    <string name="setup_navigation">การนำทาง</string>
+    <string name="navigation_summary">เลือกวิธีนำทางที่ต้องการ</string>
+    <string name="gesture_navigation">"การไปยังส่วนต่างๆ ด้วยท่าทางสัมผัส"</string>
+    <string name="navbar_navigation">"การไปยังส่วนต่างๆ แบบ 3 ปุ่ม"</string>
+    <string name="gesture_navigation_short">ท่าทาง</string>
+    <string name="hide_gesture_hint">ซ่อนคำแนะนำท่าทางนำทาง</string>
+    <string name="setup_theme">"ธีม"</string>
+    <string name="theme_summary">ธีมมืดใช้พื้นหลังสีดำ ช่วยยืดอายุการใช้งานแบตเตอรี่บนหน้าจอบางประเภท</string>
+    <string name="dark">เข้ม</string>
+    <string name="light">"น้อย"</string>
+    <string name="pure_black_theme">ใช้พื้นหลังสีดำสนิท</string>
+    <string name="theme_preview">ตัวอย่างธีม</string>
+    <string name="swipe_up_to_go_home">"ปัดขึ้นเพื่อไปที่หน้าแรก"</string>
+    <string name="tap_home_to_go_home">แตะไอคอนนำทางตรงกลางเพื่อกลับหน้าจอหลัก</string>
+    <string name="press_center_to_go_home">กดปุ่มตรงกลางเพื่อกลับหน้าจอหลัก</string>
+</resources>

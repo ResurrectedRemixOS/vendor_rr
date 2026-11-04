@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="number_row">Рядок цифр</string>
+    <string name="number_row_summary">Завжди показувати рядок цифр для всіх розкладок із 4 рядами клавіш</string>
+    <string name="number_row_password">Рядок цифр для паролів</string>
+    <string name="number_row_password_summary">Завжди показувати рядок цифр для всіх розкладок із 4 рядами клавіш для введення пароля</string>
+    <string name="space_trackpad">Трекпад на пробілі</string>
+    <string name="space_trackpad_summary">Проводьте по пробілу, щоб перемістити курсор</string>
+    <string name="backspace_trackpad">Трекпад на клавіші Backspace</string>
+    <string name="backspace_trackpad_summary">Проводьте по клавіші Backspace, щоб видаляти слова</string>
+    <string name="show_longpress_hints">Показувати підказки довгого натискання</string>
+    <string name="show_longpress_hints_summary">Показує підказки довгого натискання для підтримуваних клавіш</string>
+    <string name="show_emoji_key">Показувати клавішу емодзі</string>
+    <string name="show_emoji_key_summary">Завжди показувати клавішу емодзі. Якщо цей параметр увімкнено, клавішу перемикання мови не можна показати.</string>
+    <string name="enable_split_keyboard_summary">Лише в альбомній орієнтації</string>
+    <string name="split_keyboard_duplicate_keys">Дублювати центральні клавіші</string>
+    <string name="split_keyboard_duplicate_keys_summary">Показувати клавіші біля середини на обох половинах</string>
+    <string name="spoken_description_split_keyboard">Розділена клавіатура</string>
+    <string name="spoken_description_merge_keyboard">Об’єднана клавіатура</string>
+    <string name="spoken_description_float_keyboard">Плаваюча клавіатура</string>
+    <string name="spoken_description_dock_keyboard">Закріплена клавіатура</string>
+    <string name="floating_keyboard_drag_handle">Перемістити клавіатуру</string>
+    <string name="floating_keyboard_resize_handle">Змінити розмір клавіатури</string>
+    <string name="floating_keyboard_reset">"Скинути"</string>
+    <string name="floating_keyboard_hide">Сховати клавіатуру</string>
+    <string name="floating_keyboard_switch_ime">"Змінити метод введення"</string>
+</resources>

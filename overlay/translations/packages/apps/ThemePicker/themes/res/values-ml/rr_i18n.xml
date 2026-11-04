@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">ക്ലാസിക്</string>
+    <string name="bundle1_color_name">കാർബൺ</string>
+    <string name="bundle2_color_name">പേപ്പർ</string>
+    <string name="bundle3_color_name">സൺ</string>
+    <string name="bue_color_name">ലാവെൻഡർ</string>
+    <string name="red_color_name">ബെറി</string>
+    <string name="wht_color_name">ഫോഗ്</string>
+    <string name="indigo_color_name">"ഇൻഡിഗോ"</string>
+    <string name="iris_color_name">ഐറിസ്</string>
+    <string name="jade_color_name">ജേഡ്</string>
+    <string name="lemongrass_color_name">ലെമൺഗ്രാസ്</string>
+    <string name="moonstone_color_name">മൂൺസ്റ്റോൺ</string>
+    <string name="obsidian_color_name">ഒബ്സിഡിയൻ</string>
+    <string name="peony_color_name">പിയോണി</string>
+    <string name="porcelain_color_name">പോർസലൈൻ</string>
+    <string name="fruit1_color_name">മഞ്ഞയും ചുവപ്പും ഇരുനിറ പാലറ്റ്</string>
+    <string name="fruit2_color_name">പച്ചയും ഓറഞ്ചും ഇരുനിറ പാലറ്റ്</string>
+    <string name="fruit3_color_name">നീലയും പച്ചയും ഇരുനിറ പാലറ്റ്</string>
+    <string name="fruit4_color_name">ഇളം പർപ്പിളും നീലയും ഇരുനിറ പാലറ്റ്</string>
+    <string name="fruit5_color_name">പിങ്കും ഇൻഡിഗോയും ഇരുനിറ പാലറ്റ്</string>
+</resources>

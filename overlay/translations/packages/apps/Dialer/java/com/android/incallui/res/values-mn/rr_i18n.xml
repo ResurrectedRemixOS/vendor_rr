@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Дуудлага бичихийг эхлүүлж чадсангүй</string>
+    <string name="call_recording_file_location">Дуудлагын бичлэгийг <xliff:g id="filename">%s</xliff:g>-д хадгаллаа</string>
+    <string name="onscreenCallRecordText">Дуудлага бичих</string>
+    <string name="onscreenCallRecordingText">Дуудлага бичиж байна - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Бичихийг зогсоох"</string>
+    <string name="recording_warning_title">Дуудлага бичихийг идэвхжүүлэх үү?</string>
+    <string name="recording_warning_text">Анхаар: Дуудлагын бичлэгийн функцийг ашиглах, эсвэл бичлэгийг тараахтай холбоотой аливаа хууль, журам, дүрмийг дагаж мөрдөх хариуцлага танд хамаарна.</string>
+</resources>

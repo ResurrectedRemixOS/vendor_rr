@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="firing_alarms_timers_channel">ಮೊಳಗುತ್ತಿರುವ ಅಲಾರಂಗಳು ಮತ್ತು ಟೈಮರ್‌ಗಳು</string>
+    <string name="alarm_missed_channel">ತಪ್ಪಿಹೋದ ಅಲಾರಂಗಳು</string>
+    <string name="alarm_snooze_channel">ಸ್ನೂಜ್ ಮಾಡಿದ ಅಲಾರಂಗಳು</string>
+    <string name="alarm_upcoming_channel">ಮುಂಬರುವ ಅಲಾರಂಗಳು</string>
+    <string name="stopwatch_channel">ಸ್ಟಾಪ್‌ವಾಚ್</string>
+    <string name="timer_channel">ಟೈಮರ್</string>
+    <string name="add_label">ಲೇಬಲ್ ಸೇರಿಸಿ</string>
+    <string name="dialog_permissions_title">"ಅನುಮತಿಗಳು"</string>
+    <string name="dialog_permissions_ask">ಮತ್ತೆ ಕೇಳು</string>
+    <string name="dialog_permissions_settings">"ಸೆಟ್ಟಿಂಗ್‌ಗಳು"</string>
+    <string name="dialog_permissions_power_off_alarm">ಈ ಅನುಮತಿ ಇಲ್ಲದಿದ್ದರೆ, ಅಲಾರಂ ಮೊಳಗಿಸಲು ನಿಮ್ಮ ಸಾಧನ ತನ್ನನ್ನು ತಾನೇ ಆನ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುವುದಿಲ್ಲ</string>
+    <string name="dialog_permissions_no_permission">ಅಗತ್ಯ ಅನುಮತಿಗಳನ್ನು ನಿರಾಕರಿಸಲಾಗಿದೆ, ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಆ್ಯಪ್‌ನಿಂದ ಅವುಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="dialog_permissions_post_notifications">ಈ ಆ್ಯಪ್ ನೋಟಿಫಿಕೇಶನ್‌ಗಳನ್ನು ಅವಲಂಬಿಸಿದೆ. ಅವುಗಳಿಲ್ಲದೆ ಇದನ್ನು ಚಲಾಯಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ!</string>
+    <string name="selected">"ಆಯ್ಕೆಮಾಡಲಾಗಿದೆ"</string>
+    <string name="more_options">"ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು"</string>
+    <string name="widget_choice_title">ನಿಮ್ಮ ಶೈಲಿಯನ್ನು ಆರಿಸಿ</string>
+    <string name="widget_name_transparent">ಬ್ಯಾಕ್ ಇಲ್ಲದ</string>
+    <string name="widget_name_solid">ಬ್ಯಾಕ್ ಇರುವ</string>
+    <string name="night_mode_enabled_title">"ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ"</string>
+    <string name="night_mode_dnd_title">ಅಡಚಣೆ ಮಾಡಬೇಡಿ ಸ್ಥಿತಿಯನ್ನು ಅನುಸರಿಸಿ</string>
+    <string name="night_mode_dnd_summary">ರಾತ್ರಿ ಮೋಡ್ ಅಡಚಣೆ ಮಾಡಬೇಡಿ ಸ್ಥಿತಿಯನ್ನು ಅನುಸರಿಸುತ್ತದೆ</string>
+    <string name="show_ampm_title">AM/PM ಸೂಚಕವನ್ನು ತೋರಿಸಿ</string>
+    <string name="bold_text_title">ದಪ್ಪ ಗಡಿಯಾರ ಪಠ್ಯ</string>
+    <string name="night_mode_brightness_text_title">"ಪ್ರಖರತೆ"</string>
+    <string name="clock_color_title">"ಬಣ್ಣ"</string>
+    <string-array name="clock_color_entries">
+        <item>"ಬಿಳಿ"</item>
+        <item>"ಕೆಂಪು"</item>
+        <item>"ಹಸಿರು"</item>
+        <item>"ನೀಲಿ"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"ಸ್ಕ್ರೀನ್ ಸೇವರ್"</string>
+    <string name="screensaver_preview">"ಪೂರ್ವವೀಕ್ಷಣೆ"</string>
+    <string name="screensaver_preview_summary">ಸ್ಕ್ರೀನ್ ಸೇವರ್ ಅನ್ನು ತಕ್ಷಣ ಪ್ರಾರಂಭಿಸುತ್ತದೆ</string>
+    <string name="screensaver_change_settings">"ಸೆಟ್ಟಿಂಗ್‌ಗಳು"</string>
+    <string name="screensaver_change_settings_summary">ಗಡಿಯಾರದ ಸ್ಕ್ರೀನ್ ಸೇವರ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯುತ್ತದೆ</string>
+    <string name="screensaver_daydream_settings">ಸ್ಕ್ರೀನ್ ಸೇವರ್ ಆಯ್ಕೆಮಾಡಿ/ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="screensaver_daydream_settings_summary">ಮುಖ್ಯ ಸ್ಕ್ರೀನ್ ಸೇವರ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ತೆರೆಯುತ್ತದೆ</string>
+</resources>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ຄ່າເລີ່ມຕົ້ນ"</item>
+        <item>ເຊວຊຽສ</item>
+        <item>ຟາເຣນໄຮ</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ຄ່າເລີ່ມຕົ້ນ"</item>
+        <item>ອາທິດ</item>
+        <item>ຈັນ</item>
+        <item>ອັງຄານ</item>
+        <item>ພຸດ</item>
+        <item>ພະຫັດ</item>
+        <item>ສຸກ</item>
+        <item>ເສົາ</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ຄ່າເລີ່ມຕົ້ນ"</item>
+        <item>ເມຕຣິກ</item>
+        <item>ລະບົບ US</item>
+        <item>ລະບົບ UK</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"ບໍ່ໄດ້ລະບຸ"</item>
+        <item>"ເສີຍໆ"</item>
+        <item>"ເພດຍິງ"</item>
+        <item>"ເພດຊາຍ"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">ຕົວເລືອກເພີ່ມເຕີມ</string>
+    <string name="advanced_keyboard_settings_title">"ການຕັ້ງຄ່າຂັ້ນສູງ"</string>
+    <string name="adb_enable_root">ການດີບັກແບບ Rooted</string>
+    <string name="adb_enable_summary_root">ອະນຸຍາດໃຫ້ດີບັກ Android ດ້ວຍສິດ root</string>
+    <string name="backup_transport_setting_label">ປ່ຽນຜູ້ໃຫ້ບໍລິການສຳຮອງຂໍ້ມູນ</string>
+    <string name="backup_transport_title">ເລືອກຜູ້ໃຫ້ບໍລິການສຳຮອງຂໍ້ມູນ</string>
+    <string name="berry_black_theme_title">ສີດຳສະໜິດ</string>
+    <string name="berry_black_theme_summary">ພື້ນຫຼັງສີດຳສະໜິດສຳລັບຮູບແບບສີມືດ</string>
+    <string name="lineagelicense_title">ກົດໝາຍ LineageOS</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {ອີກ # ຂັ້ນຕອນເທົ່ານັ້ນ ກ່ອນຈະເປີດການຕັ້ງຄ່ານັກພັດທະນາ.} other {ອີກ # ຂັ້ນຕອນເທົ່ານັ້ນ ກ່ອນຈະເປີດການຕັ້ງຄ່ານັກພັດທະນາ.} }</string>
+    <string name="show_dev_on_cm">ທ່ານໄດ້ເປີດການຕັ້ງຄ່ານັກພັດທະນາແລ້ວ!</string>
+    <string name="show_dev_already_cm">ບໍ່ຈຳເປັນ, ທ່ານໄດ້ເປີດການຕັ້ງຄ່ານັກພັດທະນາແລ້ວ.</string>
+    <string name="status_bar_double_tap_to_sleep_title">ແຕະເພື່ອພັກຈໍ</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ແຕະສອງເທື່ອທີ່ແຖບສະຖານະ ຫຼື ໜ້າຈໍລັອກ ເພື່ອປິດໜ້າຈໍ</string>
+    <string name="high_touch_polling_rate_title">ອັດຕາການສຳຜັດສູງ</string>
+    <string name="high_touch_polling_rate_summary">ເພີ່ມອັດຕາການສຳຫຼວດໜ້າຈໍສຳຜັດ</string>
+    <string name="heads_up_notifications_enabled_title">Heads-up</string>
+    <string name="heads_up_notifications_enabled_summary">ສະແດງການແຈ້ງເຕືອນທີ່ສຳຄັນໃນໜ້າຕ່າງລອຍນ້ອຍ</string>
+    <string name="high_touch_sensitivity_title">ຄວາມໄວໃນການສຳຜັດສູງ</string>
+    <string name="high_touch_sensitivity_summary">ເພີ່ມຄວາມໄວໜ້າຈໍສຳຜັດ ເພື່ອໃຊ້ງານໄດ້ໃນຂະນະໃສ່ຖົງມື</string>
+    <string name="tethering_allow_vpn_upstreams_title">ໃຊ້ VPN ສຳລັບອຸປະກອນທີ່ເຊື່ອມຕໍ່</string>
+    <string name="tethering_allow_vpn_upstreams_summary">ເມື່ອອຸປະກອນນີ້ໃຊ້ VPN, ອຸປະກອນທັງໝົດທີ່ເຊື່ອມຕໍ່ກັບ hotspot ຈະໃຊ້ VPN ດຽວກັນ</string>
+    <string name="lock_settings_picker_pattern_size_message">ເລືອກຂະໜາດແພັດເທີນ</string>
+    <string name="lockpattern_settings_enable_error_path_title">ສະແດງຂໍ້ຜິດພາດແພັດເທີນ</string>
+    <string name="lockpattern_settings_enable_dots_title">ສະແດງຈຸດແພັດເທີນ</string>
+    <string name="max_refresh_rate_title">ອັດຕາການສົດຊື່ນສູງສຸດ</string>
+    <string name="min_refresh_rate_title">ອັດຕາການສົດຊື່ນຕ່ຳສຸດ</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">ຊອກຫາເຊັນເຊີລາຍນິ້ວມືທາງດ້ານໜ້າຂອງແທັບເລັດຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">ຊອກຫາເຊັນເຊີລາຍນິ້ວມືທາງດ້ານໜ້າຂອງອຸປະກອນຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">ຊອກຫາເຊັນເຊີລາຍນິ້ວມືທາງດ້ານໜ້າຂອງໂທລະສັບຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">ຊອກຫາເຊັນເຊີລາຍນິ້ວມືທາງດ້ານຫຼັງຂອງແທັບເລັດຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">ຊອກຫາເຊັນເຊີລາຍນິ້ວມືທາງດ້ານຫຼັງຂອງອຸປະກອນຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">ຊອກຫາເຊັນເຊີລາຍນິ້ວມືທາງດ້ານຫຼັງຂອງໂທລະສັບຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">ຊອກຫາເຊັນເຊີລາຍນິ້ວມືທາງດ້ານຂ້າງຂອງແທັບເລັດຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">ຊອກຫາເຊັນເຊີລາຍນິ້ວມືທາງດ້ານຂ້າງຂອງອຸປະກອນຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">ຊອກຫາເຊັນເຊີລາຍນິ້ວມືທາງດ້ານຂ້າງຂອງໂທລະສັບຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">ແຕະເຊັນເຊີທາງດ້ານໜ້າຂອງແທັບເລັດຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">ແຕະເຊັນເຊີທາງດ້ານໜ້າຂອງອຸປະກອນຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">ແຕະເຊັນເຊີທາງດ້ານໜ້າຂອງໂທລະສັບຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">ແຕະເຊັນເຊີທາງດ້ານຫຼັງຂອງແທັບເລັດຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">ແຕະເຊັນເຊີທາງດ້ານຫຼັງຂອງອຸປະກອນຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">ແຕະເຊັນເຊີທາງດ້ານຫຼັງຂອງໂທລະສັບຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">ແຕະເຊັນເຊີທາງດ້ານຂ້າງຂອງແທັບເລັດຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">ແຕະເຊັນເຊີທາງດ້ານຂ້າງຂອງອຸປະກອນຂອງທ່ານ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">ແຕະເຊັນເຊີທາງດ້ານຂ້າງຂອງໂທລະສັບຂອງທ່ານ.</string>
+    <string name="show_navbar_hint_title">ຄຳແນະນຳການນຳທາງ</string>
+    <string name="show_navbar_hint_summary">ສະແດງແຖບຄຳແນະນຳການນຳທາງຢູ່ດ້ານລຸ່ມຂອງໜ້າຈໍ</string>
+    <string name="auto_brightness_one_shot_title">ປັບຄວາມສະຫວ່າງອັດຕະໂນມັດຄັ້ງດຽວ</string>
+    <string name="auto_brightness_one_shot_summary">ການປັບຄວາມສະຫວ່າງຈະເກີດຂຶ້ນພຽງຕອນເປີດໜ້າຈໍເທົ່ານັ້ນ</string>
+    <string name="data_usage_app_restrict_all">ອະນຸຍາດການເຂົ້າເຖິງເຄືອຂ່າຍ</string>
+    <string name="data_usage_app_restrict_all_summary">ເປີດໃຊ້ການນຳໃຊ້ເຄືອຂ່າຍ</string>
+    <string name="data_usage_app_restrict_mobile">"ອິນເຕີເນັດມືຖື"</string>
+    <string name="data_usage_app_restrict_mobile_summary">ເປີດໃຊ້ການນຳໃຊ້ອິນເຕີເນັດມືຖື</string>
+    <string name="data_usage_app_restrict_vpn">ຂໍ້ມູນ VPN</string>
+    <string name="data_usage_app_restrict_vpn_summary">ເປີດໃຊ້ການນຳໃຊ້ຂໍ້ມູນ VPN</string>
+    <string name="data_usage_app_restrict_wifi">"ອິນເຕີເນັດ Wi‑Fi"</string>
+    <string name="data_usage_app_restrict_wifi_summary">ເປີດໃຊ້ການນຳໃຊ້ຂໍ້ມູນ Wi‑Fi</string>
+    <string name="unlock_scramble_pin_layout_title">ສະຫຼັບຮູບແບບແປ້ນ</string>
+    <string name="unlock_scramble_pin_layout_summary">ສະຫຼັບຕຳແໜ່ງປຸ່ມ PIN ເມື່ອປົດລັອກອຸປະກອນ</string>
+    <string name="proximity_wake_title">ປ້ອງກັນການປຸກໂດຍບັງເອີນ</string>
+    <string name="proximity_wake_summary">ກວດເຊັນເຊີໃກ້ຄຽງກ່ອນເປີດໜ້າຈໍ</string>
+    <string name="touchscreen_hovering_title">ການວາງນິ້ວເທິງໜ້າຈໍສຳຜັດ</string>
+    <string name="touchscreen_hovering_summary">ອະນຸຍາດໃຫ້ວາງເມົ້າເທິງໜ້າຈໍເໝືອນເມົ້າໃນເວັບເບຣາວເຊີ, ເດັສທັອບທາງໄກ ແລະ ອື່ນໆ</string>
+    <string name="wake_when_plugged_or_unplugged_title">ປຸກເມື່ອສຽບສາຍ</string>
+    <string name="wake_when_plugged_or_unplugged_summary">ເປີດໜ້າຈໍເມື່ອເຊື່ອມຕໍ່ ຫຼື ຖອດແຫຼ່ງພະລັງງານ</string>
+    <string name="storage_warning_internal">ຄຳເຕືອນ: ຕົວເລືອກນີ້ອາດບໍ່ເຮັດວຽກຢ່າງຖືກຕ້ອງ ຫຼື ເຮັດໃຫ້ຂໍ້ມູນສູນຫາຍໄດ້ ຈຶ່ງບໍ່ແນະນຳ!</string>
+    <string name="assisted_gps">ໃຊ້ assisted GPS</string>
+    <string name="assisted_gps_summary">ດາວໂຫຼດຂໍ້ມູນຊ່ວຍເຫຼືອດາວທຽມຈາກອິນເຕີເນັດ ເຊິ່ງຊ່ວຍປັບປຸງປະສິດທິພາບການເລີ່ມຕົ້ນ GPS ໄດ້ຫຼາຍ. ສຳລັບການໂທສຸກເສີນ, GPS ແບບຊ່ວຍເຫຼືອຈະຖືກອະນຸຍາດສະເໝີ.</string>
+    <string name="battery_technology">ເທັກໂນໂລຢີ</string>
+    <string name="battery_health">"ປະສິດທິພາບການເຮັດວຽກ"</string>
+    <string name="battery_health_good">"ດີ"</string>
+    <string name="battery_health_overheat">"ຮ້ອນເກີນໄປ"</string>
+    <string name="battery_health_dead">"ໝົດ"</string>
+    <string name="battery_health_over_voltage">"ໄຟເກີນ"</string>
+    <string name="battery_health_unspecified_failure">ເກີດຄວາມລົ້ມເຫຼວທີ່ບໍ່ຮູ້ສາເຫດ</string>
+    <string name="battery_health_cold">"ເຢັນ"</string>
+    <string name="battery_health_unknown">"ບໍ່ຮູ້ຈັກ"</string>
+    <string name="battery_temperature">"ອຸນຫະພູມ"</string>
+    <string name="battery_voltage">ແຮງດັນ</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">ຄວາມຈຸອອກແບບ</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">ຄວາມຈຸສູງສຸດ</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">ພັບໂທລະສັບໃນຕອນຕັ້ງຄ່າ</string>
+    <string name="face_enrolling_close_to_continue_description">ຕ້ອງພັບໂທລະສັບເພື່ອຕັ້ງຄ່າ ຫຼື ໃຊ້ການປົດລັອກດ້ວຍໃບໜ້າ</string>
+    <string name="face_enrolling_do_it_later">"ເຮັດໃນພາຍຫຼັງ"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">ເຄື່ອງມື SIM</string>
+    <string name="platform_compat_target_sdk_title">ເປີດໃຊ້ສຳລັບ targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">ຕົວຈັດການບໍລິບົດສ່ວນບຸກຄົນ</string>
+</resources>

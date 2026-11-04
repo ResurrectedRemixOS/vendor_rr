@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Klasiskais</string>
+    <string name="bundle1_color_name">Ogle</string>
+    <string name="bundle2_color_name">Papīrs</string>
+    <string name="bundle3_color_name">Saule</string>
+    <string name="bue_color_name">Lavanda</string>
+    <string name="red_color_name">Oga</string>
+    <string name="wht_color_name">Migla</string>
+    <string name="indigo_color_name">Indigo</string>
+    <string name="iris_color_name">Varavīksnene</string>
+    <string name="jade_color_name">Jade</string>
+    <string name="lemongrass_color_name">Citronzāle</string>
+    <string name="moonstone_color_name">Mēnessakmens</string>
+    <string name="obsidian_color_name">Obsidiāns</string>
+    <string name="peony_color_name">Peonija</string>
+    <string name="porcelain_color_name">Porcelāns</string>
+    <string name="fruit1_color_name">Dzeltenā un sarkanā divkrāsu palete</string>
+    <string name="fruit2_color_name">Zaļā un oranžā divkrāsu palete</string>
+    <string name="fruit3_color_name">Zilā un zaļā divkrāsu palete</string>
+    <string name="fruit4_color_name">Gaiši violetā un zilā divkrāsu palete</string>
+    <string name="fruit5_color_name">Rozā un indigo divkrāsu palete</string>
+</resources>

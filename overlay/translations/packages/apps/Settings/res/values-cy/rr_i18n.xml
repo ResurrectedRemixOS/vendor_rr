@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="terms_of_address">
+        <item>Heb ei nodi</item>
+        <item>Niwtral</item>
+        <item>Benywaidd</item>
+        <item>Gwrywaidd</item>
+    </string-array>
+    <string name="face_enrolling_do_it_later">Gwneud hyn yn hwyrach</string>
+    <string name="show_dev_countdown">
+        {count, plural,
+=1    {Rwyt nawr # cam i ffwrdd o fod yn ddatblygwr.}
+other {Rwyt nawr # cam i ffwrdd o fod yn ddatblygwr.}
+        }
+    </string>
+    <string name="preview_pager_home_title">Sgrin gartref</string>
+    <string name="preview_pager_message_title">Neges</string>
+    <string name="preview_pager_email_title">Ebost</string>
+    <string name="stay_awake_on_lockscreen_title">Llithra i fyny i barhau</string>
+    <string name="bluetooth_screen_auto_on_title">Troi ymlaen yn awtomatig yfory</string>
+    <string name="bluetooth_hearing_aids_presets">Rhagosodiad</string>
+    <string name="bluetooth_audio_codec_default_selection">Defnyddio Dewis y System (Rhagosodiad)</string>
+    <string name="country_selection_title">Dewis rhanbarth</string>
+    <string name="temperature_preferences_title">Tymheredd</string>
+    <string name="sunday_first_day_of_week">Dydd Sul</string>
+    <string name="monday_first_day_of_week">Dydd Llun</string>
+    <string name="saturday_first_day_of_week">Dydd Sadwrn</string>
+    <string name="terms_of_address_not_specified">Heb ei nodi</string>
+    <string name="time_format_category_title">Arddull amser</string>
+    <string name="time_format_automatic">Awtomatig</string>
+    <string name="home_time_zone_title">Cylchfa amser adref</string>
+    <string name="use_home_time_zone_title">Defnyddio cylchfa amser cartref</string>
+    <string name="suggestions_category_title">Awgrymiadau</string>
+    <string name="zone_info_footer_no_dst">Mae\'n defnyddio <xliff:g id="offset_and_name" example="GMT-08:00 Pacific Time">%1$s</xliff:g>. Dim amser arbed golau dydd.</string>
+    <string name="zone_time_type_dst">Amser arbed golau dydd</string>
+    <string name="biometric_settings_add_fingerprint_in_split_mode_title">Methu â gosod ôl bys</string>
+    <string name="security_settings_fingerprint_bad_calibration_title">Methu defnyddio synhwyrydd ôl bys</string>
+    <string name="security_settings_fingerprint_bad_calibration">Ceisiwch gyngor rhywun sy\u2019n trwsio dyfeisiau.</string>
+    <string name="private_space_title">Gofod preifat</string>
+    <string name="private_space_fingerprint_title">Datgloi ag Ôl Bys</string>
+    <string name="no_device_lock_summary">I ddefnyddio dy ofod preifat, gosoda glo sgrin ar y ddyfais hon</string>
+    <string name="private_space_setup_title">Gofod preifat</string>
+    <string name="private_space_tryagain_label">Ceisio Eto</string>
+    <string name="private_space_use_screenlock_label">Defnyddio clo sgrin</string>
+    <string name="private_space_success_title">Barod!</string>
+    <string name="lockpassword_password_too_long">
+        {count, plural,
+        =1    {Rhaid bod yn llai na # nod}
+        other {Rhaid bod yn llai na # nod}
+        }
+    </string>
+    <string name="lockpassword_pin_too_long">
+        {count, plural,
+        two {Rhaid bod yn llai na # ddigid}
+=1    {Rhaid bod yn llai na # digid}
+        other {Rhaid bod yn llai na # digid}
+        }
+    </string>
+    <string name="bluetooth_pairing_phonebook_toggle_details">Caiff gwybodaeth ei ddefnyddio ar gyfer cyhoeddiadau galwadau a mwy</string>
+    <string name="device_details_key_missing_title">Ceisia ail-osod <xliff:g id="device_name">%1$s</xliff:g>. Os nad yw hynny\u2019n gweithio, anghofia\u2019r ddyfais. Er dy ddiogelwch, para fo eto dim ond pan nad wyt mewn man cyhoeddus.\n\nOs nad yw\u2019r ddyfais hon gerllaw, does dim angen gwneud dim.</string>
+    <string name="external_display_resolution_title">Cydraniad</string>
+    <string name="external_display_topology_a11y_action_move_left">Symud i\u2019r chwith</string>
+    <string name="external_display_topology_a11y_action_move_right">Symud i\u2019r dde</string>
+    <string name="nfc_secure_settings_title">Gofyn i ddatgloi\u2019r ddyfais ar gyfer NFC</string>
+    <string name="ethernet_config_submit">Cyflwyno</string>
+    <string name="screensaver_unavailable_due_to_mode">Dim ar gael</string>
+    <string name="blur_switch_disabled_summary">Wedi\u2019i analluogi dros dro oherwydd Arbedwr Batri</string>
+    <string name="eid_multi_sim">E​ID (Slot SIM <xliff:g id="eid_slot_id">%1$d</xliff:g>)</string>
+    <string name="imei_multi_sim">IMEI (Slot SIM <xliff:g id="imei_slot_id">%1$d</xliff:g>)</string>
+    <string name="meid_multi_sim">MEID (Slot SIM <xliff:g id="meid_slot_id">%1$d</xliff:g>)</string>
+    <string name="work_challenge_emergency_button_text">Argyfwng</string>
+    <string name="archive">Archifo</string>
+    <string name="restore">Adfer</string>
+    <string name="physical_keyboard_title">Bysellfwrdd corfforol</string>
+    <string name="mouse_keys_max_speed_title">Cyflymder</string>
+    <string name="mouse_keys_seek_bar_decrease_button_description">Gostwng</string>
+    <string name="mouse_keys_seek_bar_increase_button_description">Cynyddu</string>
+    <string name="mouse_keys_directional_summary">Defnyddio\u2019r bysellau \"<xliff:g id="directional_label" example="7,8,9,u,o,j,k,l">%s</xliff:g>\" i symud pwyntydd y llygoden.</string>
+    <string name="game_controller_key_remapping_category">Botymau</string>
+    <string name="mouse_settings">Llygoden</string>
+    <string name="trackpad_pointer_speed">Cyflymder pwyntydd</string>
+    <string name="pointer_fill_style_black_button">Newid arddull llenwi pwyntydd i ddu</string>
+    <string name="pointer_fill_style_green_button">Newid arddull llenwi pwyntydd i wyrdd</string>
+    <string name="pointer_fill_style_red_button">Newid arddull llenwi pwyntydd i goch</string>
+    <string name="pointer_fill_style_pink_button">Newid arddull llenwi pwyntydd i binc</string>
+    <string name="pointer_fill_style_blue_button">Newid arddull llenwi pwyntydd i las</string>
+    <string name="pointer_fill_style_purple_button">Newid arddull llenwi pwyntydd i borffor</string>
+    <string name="trackpad_touch_gesture">Dysgu ystumiau\u2019r pad gyffwrdd</string>
+    <string name="three_finger_tap_launch_generic_assistant_name">Cynorthwyydd</string>
+    <string name="three_finger_tap_go_home">Mynd adref</string>
+    <string name="three_finger_tap_recent_apps">Gweld apiau diweddar</string>
+    <string name="gesture_title_go_home">Mynd adref</string>
+    <string name="gesture_title_recent_apps">Gweld apiau diweddar</string>
+    <string name="gesture_title_switch_apps">Newid rhwng apiau</string>
+    <string name="action_corner_action_recent_apps">Apiau diweddar</string>
+    <string name="action_corner_action_note_title">Nodyn</string>
+    <string name="pointer_speed">Cyflymder pwyntydd</string>
+    <string name="pointer_scale_decrease_content_description">Lleihau graddfa\u2019r pwyntydd</string>
+    <string name="pointer_scale_increase_content_description">Cynyddu graddfa\u2019r pwyntydd</string>
+    <string name="keyboard_settings_summary">Bysellfwrdd ar-sgrin, offer</string>
+    <string name="keyboard_settings_with_physical_keyboard_summary">Bysellfwrdd ar-sgrin, bysellfwrdd ffisegol, offer</string>
+    <string name="physical_keyboards_list_title">Bysellfwrdd corfforol</string>
+    <string name="enabled_locales_keyboard_layout">Gosodiad</string>
+    <string name="accessibility_screen_magnification_joystick_title">Ffon reoli</string>
+    <string name="accessibility_shortcut_edit_dialog_title_quick_settings">Gosodiadau Cyflym</string>
+    <string name="accessibility_feature_shortcut_setting_summary_quick_settings">Gosodiadau Cyflym</string>
+    <string name="accessibility_button_location_selector_floating">Yn arnofio dros apiau eraill</string>
+    <string name="accessibility_button_location_selector_navigation_bar">Bar llywio</string>
+    <string name="accessibility_button_size_selector_large">Mawr</string>
+    <string name="accessibility_button_size_selector_small">Bach</string>
+    <string name="accessibility_expanded_dark_theme_title">Ehangwyd</string>
+    <string name="autoclick_cursor_area_size_dialog_option_large">Mawr</string>
+    <string name="autoclick_cursor_area_size_dialog_option_small">Bach</string>
+    <string name="accessibility_hearingaid_title">Dyfeisiau cymorth clyw</string>
+    <string name="accessibility_hearing_device_connected_title">Dyfeisiau cymorth clyw</string>
+    <string name="accessibility_hearing_device_routing_title">Seiniau</string>
+    <string name="battery_usage_chart_label_now">nawr</string>
+    <string name="notification_history_count">{count, plural,
+=1 {# hysbysiad}
+    other {# hysbysiad}
+    }</string>
+    <string name="work_mode_label">Apiau gwaith</string>
+    <string name="ssl_ca_cert_dialog_title"> {count, plural,
+        =1 {Ymddiried yn neu dynnu tystysgrif}
+        other {Ymddiried yn neu dynnu tystysgrifau}
+        }
+    </string>
+    <string name="user_owner">Perchennog</string>
+    <string name="sim_status_title_sim_slot">Statws SIM (slot SIM %1$d)</string>
+    <string name="device_dashboard_title">Dyfais</string>
+    <string name="system_dashboard_summary">Ieithoedd, ystumiau, amser, cadw wrth gefn</string>
+    <string name="keywords_keyboard_vibration">keyboard, bysellau, bysellfwrdd, haptics, vibrate, habtig, haptic, habtigau, cyffwrdd, cyffyrddiadol,  dirgrynnu, dirgryniad, </string>
+    <string name="ringer_content_description_vibrate_mode">Caniad ffôn yn dirgrynu</string>
+    <string name="sim_ringtone_title">Tôn caniad</string>
+    <string name="spatial_audio_multi_toggle_on">Sefydlog</string>
+    <string name="spatial_audio_multi_toggle_head_tracking_on">Tracio Pen</string>
+    <string name="zen_mode_disabled_by_user">Wedi\'i analluogi</string>
+    <string name="mode_display_options_section">Gweld manylion</string>
+    <string name="notification_channel_summary_default">Gall ganu neu ddirgrynu yn dibynnu ar osodiadau\u2019r ddyfais</string>
+    <string name="notification_listener_security_warning_title">Caniatáu i <xliff:g id="service" example="NotificationReader">%1$s</xliff:g> gael mynediad at hysbysiadau?</string>
+    <string name="notification_bundle_expand_auto_title">Awtomatig</string>
+    <string name="app_launch_verified_links_title">
+        {count, plural,
+        zero {}
+        one {# dolen wedi ei dilysu}
+        two {# ddolen wedi eu dilysu}
+        few {# dolen wedi eu dilysu}
+        many {# o ddolenni wedi eu dilysu}
+=1    {# dolen wedi ei dilysu}
+        other {# dolen wedi eu dilysu}
+        }
+    </string>
+    <string name="app_launch_supported_links_title">
+        {count, plural,
+        zero {}
+        one {# dolen a gefnogir}
+        two {# ddolen a gefnogir}
+        few {# dolen a gefnogir}
+        many {# o ddolenni a gefnogir}
+=1    {# dolen a gefnogir}
+        other {# dolen a gefnogir}
+        }
+    </string>
+    <string name="runtime_permissions_additional_count">
+        {count, plural,
+            zero {}
+=1    {# caniatâd ychwanegol}
+            other {# caniatâd ychwanegol}
+        }
+    </string>
+    <string name="unused_apps_summary">
+        {count, plural,
+            zero {}
+            =1    {# ap heb ei ddefnyddio}
+            other {# ap heb eu defnyddio}
+        }
+    </string>
+    <string name="usb_use_uvc_webcam">Gwe-camera</string>
+    <string name="media_routing_control_title">Newid allbwn cyfryngau</string>
+    <string name="computer_control_automation_always_allow">Caniatáu Bob Tro</string>
+    <string name="computer_control_automation_no_apps_allowed">Ni chaniateir unrhyw ap</string>
+    <string name="billing_cycle_days_left">
+        {count, plural,
+            zero {}
+            two {# ddiwrnod yn weddill}
+=1    {# diwrnod yn weddill}
+            other {# diwrnod yn weddill}
+        }
+    </string>
+    <string name="premium_sms_access">SMS Premiwm</string>
+    <string name="dark_ui_mode_disabled_summary_dark_theme_on">Wedi\u2019i analluogi dros dro oherwydd Arbedwr Batri</string>
+    <string name="navbar_recent_button">Diweddar</string>
+    <string name="one_handed_title">Modd un llaw</string>
+    <string name="enterprise_privacy_number_packages_lower_bound"> {count, plural,
+        =1 {O leiaf # ap}
+        other {O leiaf # ap}
+        }
+    </string>
+    <string name="enterprise_privacy_number_packages"> {count, plural,
+        zero {# apiau}
+        =1    {# ap}
+        other {# ap}
+        }
+    </string>
+    <string name="enterprise_privacy_number_failed_password_wipe"> {count, plural,
+        zero {# cynigion}
+        =1    {# cynnig}
+        two {# gynnig}
+        few {# chynnig}
+        many {# chynnig}
+        other {# cynnig}
+        }
+    </string>
+    <string name="financed_privacy_settings">Gwybodaeth dyfais wedi\u2019i hariannu</string>
+    <string name="financed_device_info">Gwybodaeth dyfais wedi\u2019i hariannu</string>
+    <string name="default_camera_app_title"> {count, plural,
+        =1 {Ap camera}
+        other {Apiau camera}
+        }
+    </string>
+    <string name="default_email_app_title"> {count, plural,
+        =1{Ap cleient ebost}
+        other {Apiau cleient ebost}
+        }
+    </string>
+    <string name="default_phone_app_title"> {count, plural,
+        =1 {Ap ffôn}
+        other {Apiau ffôn}
+        }
+    </string>
+    <string name="storage_documents">Dogfennau</string>
+    <string name="media_output_title_without_playing">Bydd sain yn chwarae ar</string>
+    <string name="media_output_audio_sharing">Yn rhannu sain</string>
+    <string name="mobile_network_inactive_esim">Anweithredol / eSIM</string>
+    <string name="sim_onboarding_setup">Dechrau arni</string>
+    <string name="enable_desktop_mode">Galluogi ffenestri ffurfrydd</string>
+    <string name="page_agnostic_notification_action">Darllen mwy</string>
+    <string name="lockscreen_double_line_clock_summary">Mae maint cloc yn newid yn ôl cynnwys y sgrin glo</string>
+    <string name="mobile_data_temp_connection_active">Cysylltwyd dros dro</string>
+    <string name="app_info_all_services_label">Pob gwasanaeth</string>
+    <string name="bluetooth_details_audio_device_type_speaker">Seinydd</string>
+    <string name="bluetooth_details_audio_device_type_headphones">Clustffonau</string>
+    <string name="bluetooth_details_audio_device_type_hearing_aid">Dyfais cymorth clyw</string>
+    <string name="background_install_preference_summary"> {count, plural,
+        zero {# apiau}
+        =1    {# ap}
+        other {# ap}
+        }
+    </string>
+    <string name="aspect_ratio_title">Cymhareb agwedd (Arbrofol)</string>
+    <string name="user_aspect_ratio_app_default">Ap rhagosodedig</string>
+    <string name="user_aspect_ratio_half_screen">Hanner sgrin</string>
+    <string name="user_aspect_ratio_device_size">Cymhareb agwedd y ddyfais</string>
+    <string name="app_aspect_ratio_footer">Bydd yr ap yn ailgychwyn pan fyddi\u2019n newid y gymhareb agwedd. Gellir colli unrhyw newidiadau sydd heb eu cadw. Gall rhai apiau ddim edrych cystal mewn rhai cymarebau agwedd.</string>
+    <string name="accessibility_fingerprint_label">Synhwyrydd ôl bys</string>
+    <string name="screen_flash_color_violet">Fioled</string>
+    <string name="audio_sharing_switch_title">Rhannu sain</string>
+    <string name="audio_sharing_device_group_title">Dyfeisiau cyfryngau gweithredol</string>
+    <string name="audio_sharing_test_sound_title">Chwarae sain prawf</string>
+    <string name="audio_sharing_test_sound_description">Dylai pawb sy\u2019n gwrnado ei glywed</string>
+    <string name="audio_sharing_stream_settings_title">Gosodiadau ffrwd sain</string>
+    <string name="audio_sharing_share_dialog_title">Rhannu dy sain</string>
+    <string name="audio_sharing_share_button_label">Rhannu sain</string>
+    <string name="audio_sharing_sharing_label">Yn rhannu sain</string>
+    <string name="audio_sharing_stop_button_label">Stopio rhannu</string>
+    <string name="audio_streams_add_source_bad_code_state_summary">Gwiria\u2019r cyfrinair a rhoi cynnig arall arni</string>
+    <string name="audio_streams_dialog_listen">Gwrando</string>
+    <string name="audio_streams_dialog_no_le_device_button">Cysylltu â dyfais</string>
+    <string name="audio_streams_qr_code_scanner_label">Sganiwr codau QR</string>
+    <string name="search_gesture_feature_title">Cylchu i Chwilio</string>
+    <string name="supervision_settings_title">Rheolyddion rhieni</string>
+    <string name="supervision_pin_management_preference_summary_verify_recovery">Gwireddu ebost adfer</string>
+    <string name="supervision_pin_updated">Diweddariwyd y PIN</string>
+    <string name="supervision_recovery_banner_title_verify">Gwireddu ebost adfer</string>
+    <string name="supervision_verify_pin_recovery_title">Gwireddu ebost adfer</string>
+    <string name="supervision_web_content_filters_search_title">Canlyniadau chwilio</string>
+    <string name="supervision_pin_reset_success_toast">Diweddariwyd y PIN</string>
+    <string name="supervision_promo_footer_action_button_description">Agor ap</string>
+    <string name="supervision_generic_error_page_message">Rho gynnig arall arni\'n hwyrach</string>
+    <string name="device_unlock_subpage_title">Datgloi\u2019r ddyfais</string>
+    <string name="location_settings">Mynediad at leoliad</string>
+    <string name="safety_center_system_and_updates_summary">Diweddariadau</string>
+    <string name="safety_center_private_space_search_terms">Gofod Preifat</string>
+    <string name="safety_center_blocked_label">Wedi\'i rhwystro</string>
+    <string name="microphone_toggle_label_qs">Mynediad at ficroffon</string>
+    <string name="location_toggle_label_qs">Mynediad at leoliad</string>
+    <string name="satellite_phone_summary">Galwadau brys yn unig</string>
+    <string name="add_tile_action">Ychwanegu teilsen</string>
+    <string name="satellite_apps_see_less_text">Gweld llai</string>
+</resources>

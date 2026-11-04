@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Kamera</string>
+    <string name="cancel_button_description">Annulearje</string>
+    <string name="qr_share_description">Diele</string>
+    <string name="qr_text">Tekst</string>
+    <string name="title_activity_settings">Ynstellingen</string>
+    <string name="general_header">Algemien</string>
+    <string name="advanced_header">Avansearre</string>
+    <string name="gestures_title">Gebearen</string>
+    <string name="volume_buttons_title">Folumeknoppen</string>
+    <string name="edge_mode_default">Standert</string>
+    <string name="edge_mode_off">Ut</string>
+    <string name="edge_mode_fast">Fluch</string>
+    <string name="noise_reduction_mode_default">Standert</string>
+    <string name="noise_reduction_mode_off">Ut</string>
+    <string name="noise_reduction_mode_fast">Fluch</string>
+    <string name="shading_mode_default">Standert</string>
+    <string name="shading_mode_off">Ut</string>
+    <string name="shading_mode_fast">Fluch</string>
+    <string name="color_correction_aberration_mode_default">Standert</string>
+    <string name="color_correction_aberration_mode_off">Ut</string>
+    <string name="color_correction_aberration_mode_fast">Fluch</string>
+    <string name="distortion_correction_mode_default">Standert</string>
+    <string name="distortion_correction_mode_off">Ut</string>
+    <string name="distortion_correction_mode_fast">Fluch</string>
+    <string name="hot_pixel_mode_default">Standert</string>
+    <string name="hot_pixel_mode_off">Ut</string>
+    <string name="hot_pixel_mode_fast">Fluch</string>
+    <string name="location_permission_dialog_turn_on">Ynskeakelje</string>
+    <string name="gesture_action_nothing">Neat</string>
+    <string name="camera_mode_qr">Sykje</string>
+    <string name="video_mirror_mode_off">Ut</string>
+    <string name="video_mirror_mode_on">Oan</string>
+</resources>

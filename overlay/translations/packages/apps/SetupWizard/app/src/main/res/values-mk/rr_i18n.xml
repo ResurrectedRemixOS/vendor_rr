@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Волшебник за поставување</string>
+    <string name="cancel">"Откажи"</string>
+    <string name="next">Следно</string>
+    <string name="finish">Завршо</string>
+    <string name="skip">Прескокни</string>
+    <string name="start">"Започни"</string>
+    <string name="done">"Готово"</string>
+    <string name="ok">"Во ред"</string>
+    <string name="loading">"Само момент…"</string>
+    <string name="setup_welcome_message">Добредојдовте во <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Поставете го вашиот работен профил</string>
+    <string name="emergency_call">"Повик за итни случаи"</string>
+    <string name="accessibility_settings">"Поставки на пристапност"</string>
+    <string name="device_info">"Податоци за уредот"</string>
+    <string name="device_information">"Податоци за уредот"</string>
+    <string name="device_info_serial">"Сериски број"</string>
+    <string name="setup_locale">"Јазик"</string>
+    <string name="sim_locale_changed">Откриен е %1$s SIM</string>
+    <string name="setup_euicc">Поставете eSIM</string>
+    <string name="setup_sim_missing">Нема SIM картичка</string>
+    <string name="esim_support_summary">Поставете eSIM или вметнете SIM картичка. За да вметнете SIM картичка, прочитајте ги упатствата што дојдоа со уредот.</string>
+    <string name="sim_missing_summary" product="tablet">Во таблетот не е откриена SIM картичка. За да вметнете SIM картичка, прочитајте ги упатствата што дојдоа со уредот.</string>
+    <string name="sim_missing_summary" product="default">Во телефонот не е откриена SIM картичка. За да вметнете SIM картичка, прочитајте ги упатствата што дојдоа со уредот.</string>
+    <string name="sim_missing_skip_title">Да се прескокне поставувањето на SIM?</string>
+    <string name="sim_missing_skip_message">Ако го прескокнете овој чекор, нема да бидете поврзани со мобилна мрежа додека не поставите SIM во Поставки.</string>
+    <string name="setup_datetime">"Датум и време"</string>
+    <string name="date_time_summary">Поставете временска зона и приспособете го тековниот датум и време ако е потребно</string>
+    <string name="setup_current_date">Тековен датум</string>
+    <string name="setup_current_time">Тековно време</string>
+    <string name="setup_datetime_section_date">"Датум"</string>
+    <string name="setup_datetime_section_time">"Време"</string>
+    <string name="setup_date_format">"Форматирај"</string>
+    <string name="date_format_day">"Ден"</string>
+    <string name="date_format_month">"Месец"</string>
+    <string name="date_format_year">"Година"</string>
+    <string name="setup_time_zone">"Временска зона"</string>
+    <string name="setup_24_hour_format">"Користи 24-часовен формат"</string>
+    <string name="intro_restore_title">Вратете апликации и податоци</string>
+    <string name="intro_restore_subtitle">Ако имате Seedvault бекап од <xliff:g id="name" example="LineageOS">%s</xliff:g> или од друг оперативен систем, можете да го вратите овде.</string>
+    <string name="intro_restore_button">Врати од бекап</string>
+    <string name="setup_location">"Локациски услуги"</string>
+    <string name="location_summary">Изберете како уредот ја управува локацијата</string>
+    <string name="location_access_title">"Користи ја локацијата"</string>
+    <string name="location_agps_access_title">Подобрена локација</string>
+    <string name="location_access_summary">Дозволете апликациите кои побарале дозвола да ги користат информациите за вашата локација. Ова може да вклучува тековна и претходни локации.</string>
+    <string name="location_agps_access_summary">Кога локацијата е вклучена, преземај податоци за satellite помош од интернет, што може значително да го подобри почетокот на GPS-от.</string>
+    <string name="update_recovery_title">Ажурирај го recovery-то на Resurrected Remix</string>
+    <string name="update_recovery_description">Го ажурира recovery-то на Resurrected Remix при прво стартување по секое ажурирање.</string>
+    <string name="update_recovery_warning">Recovery-то ќе се ажурира штом ќе го завршите поставувањето. Ако сакате да го задржите непроменето, исклучете ја оваа функција.</string>
+    <string name="update_recovery_setting">Ажурирај го recovery-то на Resurrected Remix заедно со оперативниот систем</string>
+    <string name="setup_services">Функции на Resurrected Remix</string>
+    <string name="services_pp_explanation">Овие услуги работат за вас за да ги прошират можностите на уредот. Податоците ќе се користат во согласност со политиката за приватност на <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Политиката за приватност можете да ја прочитате на друг уред со посета на:</string>
+    <string name="services_help_improve_cm">Помогнете да се подобри <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> автоматски испраќа дијагностички и податоци за користење до <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Овие информации не може да се користат за да се идентификувате и им помагаат на тимовите кои работат на нешта како животен век на батеријата, перформанси на апликациите и нови функции на <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">Придонесете со дијагностички податоци</string>
+    <string name="services_os_nav_keys_label"><b>Користи копчиња за навигација на екранот</b> наместо физички копчиња.</string>
+    <string name="setup_navigation">Навигација</string>
+    <string name="navigation_summary">Изберете претпочитан метод на навигација</string>
+    <string name="gesture_navigation">"Навигација со движења"</string>
+    <string name="navbar_navigation">"Навигација со 3 копчиња"</string>
+    <string name="gesture_navigation_short">Движења</string>
+    <string name="hide_gesture_hint">Скриј ја подсказната за движења</string>
+    <string name="setup_theme">"Тема"</string>
+    <string name="theme_summary">Темната тема користи црна позадина за да помогне батеријата да трае подолго на некои екрани</string>
+    <string name="dark">Темна</string>
+    <string name="light">"Светла"</string>
+    <string name="pure_black_theme">Користи чиста црна позадина</string>
+    <string name="theme_preview">Преглед на темата</string>
+    <string name="swipe_up_to_go_home">"Повлечете нагоре за да го отворите почетниот екран"</string>
+    <string name="tap_home_to_go_home">Допрете ја централната навигациска икона за да одите на почетен екран</string>
+    <string name="press_center_to_go_home">Притиснете го централното копче за да одите на почетен екран</string>
+</resources>

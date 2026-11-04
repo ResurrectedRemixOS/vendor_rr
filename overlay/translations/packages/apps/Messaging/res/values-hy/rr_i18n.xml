@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="swipe_to_delete_conversation_pref_title">Սահեցրեք՝ ջնջելու համար</string>
+    <string name="swipe_to_delete_conversation_pref_summary">Սահեցրեք դեպի աջ՝ զրույցը ջնջելու համար</string>
+    <string name="notification_channel_messages_title">"Հաղորդագրություններ"</string>
+    <string name="start_chat">Սկսել զրույց</string>
+</resources>

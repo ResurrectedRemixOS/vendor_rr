@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="desc_op_add">Plus</string>
+    <string name="desc_del">läschen</string>
+    <string name="text_copied_toast">Text kopéiert</string>
+    <string name="dismiss">Verwerfen</string>
+    <string name="menu_history">Historique</string>
+    <string name="title_history">Historique</string>
+    <string name="desc_navigate_up">Erop navigéieren</string>
+</resources>

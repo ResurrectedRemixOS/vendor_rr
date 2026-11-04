@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"lehenetsia"</item>
+        <item>celsius</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"lehenetsia"</item>
+        <item>ig</item>
+        <item>al</item>
+        <item>ar</item>
+        <item>az</item>
+        <item>og</item>
+        <item>ol</item>
+        <item>lr</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"lehenetsia"</item>
+        <item>metrikoa</item>
+        <item>ussystem</item>
+        <item>uksystem</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Zehaztugabea"</item>
+        <item>"Neutrala"</item>
+        <item>"Emakumezkoa"</item>
+        <item>"Gizonezkoa"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">Gehigarriak</string>
+    <string name="advanced_keyboard_settings_title">"Ezarpen aurreratuak"</string>
+    <string name="adb_enable_root">Erro-mailako arazketa</string>
+    <string name="adb_enable_summary_root">Baimendu Android arazketa root gisa exekutatzea</string>
+    <string name="backup_transport_setting_label">Aldatu babeskopien hornitzailea</string>
+    <string name="backup_transport_title">Hautatu babeskopien hornitzailea</string>
+    <string name="berry_black_theme_title">Beltz hutsa</string>
+    <string name="berry_black_theme_summary">Beltz hutsezko atzealdea gai ilunerako</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Pauso # falta zaizu garapen-ezarpenak gaitzeko.} other {# pauso falta zaizkizu garapen-ezarpenak gaitzeko.} }</string>
+    <string name="high_touch_polling_rate_title">Ukipen-sarrera tasa handia</string>
+    <string name="high_touch_polling_rate_summary">Handitu pantailaren ukipen-sarrera tasa</string>
+    <string name="tethering_allow_vpn_upstreams_title">Erabili VPN konektatutako gailuentzat</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Gailu honek VPN bat erabiltzen duenean, sare-gunera konektatutako gailu guztiek VPN bera erabiliko dute</string>
+    <string name="max_refresh_rate_title">Gehienezko freskatze-tasa</string>
+    <string name="min_refresh_rate_title">Gutxieneko freskatze-tasa</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Aurkitu hatz-marka sentsorea tabletaren aurrealdean.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Aurkitu hatz-marka sentsorea gailuaren aurrealdean.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Aurkitu hatz-marka sentsorea telefonoaren aurrealdean.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Aurkitu hatz-marka sentsorea tabletaren atzealdean.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Aurkitu hatz-marka sentsorea gailuaren atzealdean.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Aurkitu hatz-marka sentsorea telefonoaren atzealdean.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Aurkitu hatz-marka sentsorea tabletaren alboan.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Aurkitu hatz-marka sentsorea gailuaren alboan.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Aurkitu hatz-marka sentsorea telefonoaren alboan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Ukitu sentsorea tabletaren aurrealdean.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Ukitu sentsorea gailuaren aurrealdean.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Ukitu sentsorea telefonoaren aurrealdean.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Ukitu sentsorea tabletaren atzealdean.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Ukitu sentsorea gailuaren atzealdean.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Ukitu sentsorea telefonoaren atzealdean.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Ukitu sentsorea tabletaren alboan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Ukitu sentsorea gailuaren alboan.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Ukitu sentsorea telefonoaren alboan.</string>
+    <string name="show_navbar_hint_title">Nabigazio-pista</string>
+    <string name="show_navbar_hint_summary">Erakutsi nabigazio-pistaren barra pantailaren behealdean</string>
+    <string name="auto_brightness_one_shot_title">Behin-behineko distira automatikoa</string>
+    <string name="auto_brightness_one_shot_summary">Distira-doikuntza pantaila piztean bakarrik egingo da</string>
+    <string name="data_usage_app_restrict_all">Baimendu sare-sarbidea</string>
+    <string name="data_usage_app_restrict_all_summary">Gaitu sare-erabilera</string>
+    <string name="data_usage_app_restrict_mobile">"Datu-konexioa"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Gaitu datu mugikorren erabilera</string>
+    <string name="storage_warning_internal">Abisua: aukera honek behar bezala ez funtzionatzea edo datuak galtzea eragin dezake, beraz, ez da gomendagarria!</string>
+    <string name="assisted_gps">Erabili GPS laguntzailea</string>
+    <string name="assisted_gps_summary">Deskargatu satelite-laguntzaren datuak internetetik, GPSaren abiarazte-errendimendua asko hobetu dezaketenak. Larrialdietako deietarako, GPS laguntzailea beti onartzen da.</string>
+    <string name="battery_technology">Teknologia</string>
+    <string name="battery_health">"Osasuna"</string>
+    <string name="battery_health_good">"Ona"</string>
+    <string name="battery_health_overheat">"Gainberotuta"</string>
+    <string name="battery_health_dead">"Agortuta"</string>
+    <string name="battery_health_over_voltage">"Gaintentsioa"</string>
+    <string name="battery_health_unspecified_failure">Zehaztu gabeko hutsegitea</string>
+    <string name="battery_health_cold">"Hotza"</string>
+    <string name="battery_health_unknown">"Ezezaguna"</string>
+    <string name="battery_temperature">"Tenperatura"</string>
+    <string name="battery_voltage">Tentsioa</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Diseinu-edukiera</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Gehienezko edukiera</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Doblatu telefonoa konfiguratzean</string>
+    <string name="face_enrolling_close_to_continue_description">Telefonoa doblatuta egon behar da Aurpegi bidez desblokeatzea konfiguratu edo erabiltzeko</string>
+    <string name="face_enrolling_do_it_later">"Geroago"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM tresna-kutxa</string>
+    <string name="platform_compat_target_sdk_title">Gaituta targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> bertsiorako</string>
+    <string name="personal_context_title">Testuinguru pertsonalaren kudeatzailea</string>
+</resources>

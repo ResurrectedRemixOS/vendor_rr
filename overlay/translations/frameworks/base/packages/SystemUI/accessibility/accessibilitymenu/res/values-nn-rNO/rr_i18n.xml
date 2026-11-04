@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="assistant_label">Assistent</string>
+    <string name="assistant_utterance">Assistent</string>
+    <string name="power_utterance">Straumbruk</string>
+    <string name="recent_apps_label">Nylege appar</string>
+    <string name="lockscreen_label">Låseskjerm</string>
+    <string name="quick_settings_label">Snøgginnstillingar</string>
+    <string name="notifications_label">Varsel</string>
+    <string name="screenshot_label">Skjermbilete</string>
+    <string name="screenshot_utterance">Ta skjermbilete</string>
+    <string name="pref_help_title">Hjelp</string>
+</resources>

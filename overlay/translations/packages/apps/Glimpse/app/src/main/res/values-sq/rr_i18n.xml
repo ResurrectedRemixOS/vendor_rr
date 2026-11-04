@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="warning_bin_time_period">Skedarët do të fshihen përgjithmonë pas 30 ditësh.</string>
+    <string name="title_activity_settings">"Cilësimet"</string>
+    <string name="general_header">"Të përgjithshme"</string>
+    <string name="video_header">Video</string>
+    <string name="edge_tap_navigation_enable_title">Navigim me prekje në skaj</string>
+    <string name="edge_tap_navigation_enabled_description">Prek skajin e majtë ose të djathtë të ekranit për të lundruar mes medias</string>
+    <string name="double_tap_to_seek_enabled_title">Aktivizo kërkimin me prekje të dyfishtë</string>
+    <string name="double_tap_to_seek_enabled_description">Prek dy herë anën e majtë ose të djathtë të videos për të kaluar përpara ose prapa</string>
+    <string name="double_tap_to_seek_seconds_title">Kohëzgjatja e kërkimit me prekje të dyfishtë</string>
+    <string name="double_tap_to_seek_seconds_description">Sekondat për t\'u kapërcyer kur prek dy herë videon</string>
+    <string name="hide_native_seek_buttons_title">Fshih butonat e kërkimit të brendshëm</string>
+    <string name="hide_native_seek_buttons_description">Fshih butonat e kthimit prapa dhe përpara nga kontrollet e lojtarit video</string>
+    <string name="remember_video_playback_position_enabled_title">Mbaj mend pozicionin e luajtjes</string>
+    <string name="remember_video_playback_position_enabled_description">Vazhdo videot nga pika ku u ndal më herët</string>
+</resources>

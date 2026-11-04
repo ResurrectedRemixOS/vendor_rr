@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">I-Alphabet (Bépo)</string>
+    <string name="subtype_hu_ZZ">I-Hungarian (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">I-Material - landela izilungiselelo zesistimu</string>
+    <string name="prefs_keyboard_height_scale">Ububanzi bekhibhodi</string>
+    <string name="number_row">Umugqa wamanomba</string>
+    <string name="number_row_summary">Bonisa njalo umugqa wamanomba kuzo zonke izakhiwo ezinemigqa emi-4 yokhiye</string>
+    <string name="number_row_password">Umugqa wamanomba wamaphasiwedi</string>
+    <string name="number_row_password_summary">Bonisa njalo umugqa wamanomba kuzo zonke izakhiwo ezinemigqa emi-4 yokhiye yokufaka amaphasiwedi</string>
+    <string name="space_trackpad">Ibha yesikhala ye-trackpad</string>
+    <string name="space_trackpad_summary">Swayiphela ebha yesikhala ukuze uhambise ikhesa</string>
+    <string name="backspace_trackpad">I-trackpad yokhiye ye-backspace</string>
+    <string name="backspace_trackpad_summary">Swayiphela kukhiye we-backspace ukuze ususe amagama</string>
+    <string name="show_longpress_hints">Bonisa izeluleko zokucindezela isikhathi eside</string>
+    <string name="show_longpress_hints_summary">Bonisa izeluleko zokucindezela isikhathi eside zokhiye abasekelwayo</string>
+    <string name="show_emoji_key">Bonisa ukhiye we-emoji</string>
+    <string name="show_emoji_key_summary">Bonisa njalo ukhiye we-emoji. Uma le ndlela ivulekile, ukhiye wokushintsha ulimi awukwazi ukubonakala.</string>
+    <string name="enable_split_keyboard_summary">Kuphela ngokuma ngokuthambekele</string>
+    <string name="split_keyboard_duplicate_keys">Phinda okhiye abamaphakathi</string>
+    <string name="split_keyboard_duplicate_keys_summary">Bonisa okhiye aseduze nemaphakathi kuzo zombili izingxenye</string>
+    <string name="spoken_description_split_keyboard">Hlukanisa ikhibhodi</string>
+    <string name="spoken_description_merge_keyboard">Hlanganisa ikhibhodi</string>
+    <string name="spoken_description_float_keyboard">Ikhibhodi eyintantayo</string>
+    <string name="spoken_description_dock_keyboard">Faka ikhibhodi endaweni</string>
+    <string name="floating_keyboard_drag_handle">Hambisa ikhibhodi</string>
+    <string name="floating_keyboard_resize_handle">Shintsha usayizi wekhibhodi</string>
+    <string name="floating_keyboard_reset">"Setha kabusha"</string>
+    <string name="floating_keyboard_hide">Fihla ikhibhodi</string>
+    <string name="floating_keyboard_switch_ime">"Shintsha indlela yokufaka"</string>
+</resources>

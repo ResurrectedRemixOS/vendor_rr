@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="hour">
+        <item quantity="one">%d oras</item>
+        <item quantity="other">%d oras</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="one">%d minuto</item>
+        <item quantity="other">%d minuto</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="one">%d segundo</item>
+        <item quantity="other">%d segundo</item>
+    </plurals>
+    <plurals name="call">
+        <item quantity="one">%d tawag</item>
+        <item quantity="other">%d tawag</item>
+    </plurals>
+    <string name="call_stats_detail_title">Mga detalye ng estadistika ng contact</string>
+    <string name="call_stats_incoming">Papasok: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Palabas: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Hindi nasagot: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Na-block: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Kabuuan: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Kabuuan: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">"Petsa ng pagsisimula"</string>
+    <string name="call_stats_filter_to">"Petsa ng pagtatapos"</string>
+    <string name="call_stats_filter_picker_title">I-filter ang saklaw</string>
+    <string name="date_quick_selection">Mabilisang pagpili</string>
+    <string name="date_qs_currentmonth">Kasalukuyang buwan</string>
+    <string name="date_qs_currentquarter">Kasalukuyang quarter</string>
+    <string name="date_qs_currentyear">Kasalukuyang taon</string>
+    <string name="date_qs_lastweek">"Nakaraang linggo"</string>
+    <string name="date_qs_lastmonth">"Nakaraang buwan"</string>
+    <string name="date_qs_lastquarter">Nakaraang quarter</string>
+    <string name="date_qs_lastyear">"Nakaraang taon"</string>
+    <string name="call_stats_date_filter">Ayusin ang saklaw ng oras</string>
+    <string name="call_stats_reset_filter">I-reset ang saklaw ng oras</string>
+    <string name="call_stats_sort_by_duration">Ayusin ayon sa tagal ng tawag</string>
+    <string name="call_stats_sort_by_count">Ayusin ayon sa bilang ng tawag</string>
+    <string name="call_stats_title_for_number">Ang numerong ito</string>
+    <string name="call_stats_title_of_total">Sa kabuuan</string>
+    <string name="call_stats_title_durations">Tagal ng mga tawag</string>
+    <string name="call_stats_title_count">Bilang ng tawag</string>
+    <string name="call_stats_title_average_duration">Karaniwang tagal ng tawag</string>
+    <string name="recent_calls_no_items_in_range">Walang tawag sa napiling saklaw ng oras ang call log mo.</string>
+</resources>

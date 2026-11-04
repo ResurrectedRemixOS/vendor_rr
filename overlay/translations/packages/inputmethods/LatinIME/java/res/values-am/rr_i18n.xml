@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">ፊደላት (ቤፖ)</string>
+    <string name="subtype_hu_ZZ">ሃንጋሪኛ (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">ቁሳቁስ - የስርዓቱን ቅንብሮች ተከተል</string>
+    <string name="prefs_keyboard_height_scale">የቁልፍ ሰሌዳ ከፍታ መጠን</string>
+    <string name="number_row">የቁጥር ረድፍ</string>
+    <string name="number_row_summary">ለ4 ረድፍ ቁልፎች ላሉት ሁሉም አቀማመጦች ሁልጊዜ የቁጥር ረድፍ አሳይ</string>
+    <string name="number_row_password">ለይለፍ ቃሎች የቁጥር ረድፍ</string>
+    <string name="number_row_password_summary">ለይለፍ ቃል ግብዓት ለ4 ረድፍ ቁልፎች ላሉት ሁሉም አቀማመጦች ሁልጊዜ የቁጥር ረድፍ አሳይ</string>
+    <string name="space_trackpad">የክፍተት አሞሌ ትራክፓድ</string>
+    <string name="space_trackpad_summary">ጠቋሚውን ለማንቀሳቀስ በክፍተት አሞሌው ላይ ያንሸራትቱ</string>
+    <string name="backspace_trackpad">የኋልዮሽ ቁልፍ ትራክፓድ</string>
+    <string name="backspace_trackpad_summary">ቃላትን ለመሰረዝ በኋልዮሽ ቁልፉ ላይ ያንሸራትቱ</string>
+    <string name="show_longpress_hints">የረጅም ተጫንታ ፍንጮችን አሳይ</string>
+    <string name="show_longpress_hints_summary">ለሚደገፉ ቁልፎች የረጅም ተጫንታ ፍንጮችን ያሳያል</string>
+    <string name="show_emoji_key">የኢሞጂ ቁልፍ አሳይ</string>
+    <string name="show_emoji_key_summary">ሁልጊዜ የኢሞጂ ቁልፍ አሳይ። ይህ አማራጭ ሲነቃ የቋንቋ መቀያየሪያ ቁልፍ ሊታይ አይችልም።</string>
+    <string name="enable_split_keyboard_summary">በአግድም ብቻ</string>
+    <string name="split_keyboard_duplicate_keys">የመሃል ቁልፎችን ደግም</string>
+    <string name="split_keyboard_duplicate_keys_summary">በሁለቱም ግማሾች ላይ በመካከል ያሉ ቁልፎችን አሳይ</string>
+    <string name="spoken_description_split_keyboard">የተከፈለ የቁልፍ ሰሌዳ</string>
+    <string name="spoken_description_merge_keyboard">የቁልፍ ሰሌዳን አዋህድ</string>
+    <string name="spoken_description_float_keyboard">የቁልፍ ሰሌዳን ተንሳፋፊ አድርግ</string>
+    <string name="spoken_description_dock_keyboard">የቁልፍ ሰሌዳን ጣብያ</string>
+    <string name="floating_keyboard_drag_handle">የቁልፍ ሰሌዳን ውሰድ</string>
+    <string name="floating_keyboard_resize_handle">የቁልፍ ሰሌዳን መጠን ቀይር</string>
+    <string name="floating_keyboard_reset">"ዳግም አስጀምር"</string>
+    <string name="floating_keyboard_hide">የቁልፍ ሰሌዳን ደብቅ</string>
+    <string name="floating_keyboard_switch_ime">"የግቤት ስልትን ቀይር"</string>
+</resources>

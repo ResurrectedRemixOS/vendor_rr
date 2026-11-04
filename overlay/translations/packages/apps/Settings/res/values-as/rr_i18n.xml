@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ডিফ’ল্ট"</item>
+        <item>ছেলছিয়াছ</item>
+        <item>ফাৰেণহাইট</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ডিফ’ল্ট"</item>
+        <item>ৰবি</item>
+        <item>সোম</item>
+        <item>মংগল</item>
+        <item>বুধ</item>
+        <item>বৃহ</item>
+        <item>শুক্ৰ</item>
+        <item>শনি</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ডিফ’ল্ট"</item>
+        <item>মেট্ৰিক</item>
+        <item>ইউএছ ছিষ্টেম</item>
+        <item>ইউকে ছিষ্টেম</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"নিৰ্দিষ্ট কৰা হোৱা নাই"</item>
+        <item>"নিৰপেক্ষ"</item>
+        <item>"নাৰী-বিষয়ক"</item>
+        <item>"পুৰুষ-বিষয়ক"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">অতিৰিক্তবোৰ</string>
+    <string name="advanced_keyboard_settings_title">"উচ্চখাপৰ ছেটিং"</string>
+    <string name="adb_enable_root">ৰুট কৰা ডিবাগিং</string>
+    <string name="adb_enable_summary_root">Android ডিবাগিং ৰুট হিচাপে চলাবলৈ অনুমতি দিয়ক</string>
+    <string name="backup_transport_setting_label">বেকআপ প্ৰদানকাৰী সলনি কৰক</string>
+    <string name="backup_transport_title">বেকআপ প্ৰদানকাৰী বাছক</string>
+    <string name="berry_black_theme_title">বিশুদ্ধ ক\'লা</string>
+    <string name="berry_black_theme_summary">ডাৰ্ক থীমৰ বাবে বিশুদ্ধ ক\'লা পটভূমি</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {আপুনি এতিয়া বিকাশকাৰী ছেটিং সক্ষম কৰাৰ পৰা # পদক্ষেপ দূৰত।} other {আপুনি এতিয়া বিকাশকাৰী ছেটিং সক্ষম কৰাৰ পৰা # টা পদক্ষেপ দূৰত।} }</string>
+    <string name="status_bar_double_tap_to_sleep_title">টিপি নিদ্ৰা</string>
+    <string name="status_bar_double_tap_to_sleep_summary">স্থিতি দণ্ড বা লকস্ক্ৰীনত দুবাৰ টিপিলে ডিচপ্লে বন্ধ হয়</string>
+    <string name="high_touch_polling_rate_title">উচ্চ টাচ পলিং হাৰ</string>
+    <string name="high_touch_polling_rate_summary">টাচস্ক্ৰীনৰ পলিং হাৰ বঢ়াওক</string>
+    <string name="heads_up_notifications_enabled_title">হেডছ-আপ</string>
+    <string name="heads_up_notifications_enabled_summary">অগ্ৰাধিকাৰযুক্ত জাননী এটা সৰু ভাঁহি থকা উইণ্ড\'ুত দেখুওৱা হয়</string>
+    <string name="tethering_allow_vpn_upstreams_title">সংযোগ কৰা ডিভাইচৰ বাবে VPN ব্যৱহাৰ কৰক</string>
+    <string name="tethering_allow_vpn_upstreams_summary">এই ডিভাইচে VPN ব্যৱহাৰ কৰিলে, হটস্পটৰ সৈতে সংযুক্ত সকলো ডিভাইচে একে VPN ব্যৱহাৰ কৰিব</string>
+    <string name="lock_settings_picker_pattern_size_message">আৰ্হিৰ আকাৰ বাছক</string>
+    <string name="max_refresh_rate_title">সৰ্বোচ্চ ৰিফ্ৰেচ হাৰ</string>
+    <string name="min_refresh_rate_title">নূন্যতম ৰিফ্ৰেচ হাৰ</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">আপোনাৰ টেবলেটৰ সন্মুখ ভাগত থকা ফিংগাৰপ্ৰিণ্ট চেন্সৰ বিচাৰক।</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">আপোনাৰ ডিভাইচৰ সন্মুখ ভাগত থকা ফিংগাৰপ্ৰিণ্ট চেন্সৰ বিচাৰক।</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">আপোনাৰ ফোনৰ সন্মুখ ভাগত থকা ফিংগাৰপ্ৰিণ্ট চেন্সৰ বিচাৰক।</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">আপোনাৰ টেবলেটৰ পিছফালে থকা ফিংগাৰপ্ৰিণ্ট চেন্সৰ বিচাৰক।</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">আপোনাৰ ডিভাইচৰ পিছফালে থকা ফিংগাৰপ্ৰিণ্ট চেন্সৰ বিচাৰক।</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">আপোনাৰ ফোনৰ পিছফালে থকা ফিংগাৰপ্ৰিণ্ট চেন্সৰ বিচাৰক।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">আপোনাৰ টেবলেটৰ কাষত থকা ফিংগাৰপ্ৰিণ্ট চেন্সৰ বিচাৰক।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">আপোনাৰ ডিভাইচৰ কাষত থকা ফিংগাৰপ্ৰিণ্ট চেন্সৰ বিচাৰক।</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">আপোনাৰ ফোনৰ কাষত থকা ফিংগাৰপ্ৰিণ্ট চেন্সৰ বিচাৰক।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">আপোনাৰ টেবলেটৰ সন্মুখ ভাগত থকা চেন্সৰ স্পৰ্শ কৰক।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">আপোনাৰ ডিভাইচৰ সন্মুখ ভাগত থকা চেন্সৰ স্পৰ্শ কৰক।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">আপোনাৰ ফোনৰ সন্মুখ ভাগত থকা চেন্সৰ স্পৰ্শ কৰক।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">আপোনাৰ টেবলেটৰ পিছফালে থকা চেন্সৰ স্পৰ্শ কৰক।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">আপোনাৰ ডিভাইচৰ পিছফালে থকা চেন্সৰ স্পৰ্শ কৰক।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">আপোনাৰ ফোনৰ পিছফালে থকা চেন্সৰ স্পৰ্শ কৰক।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">আপোনাৰ টেবলেটৰ কাষত থকা চেন্সৰ স্পৰ্শ কৰক।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">আপোনাৰ ডিভাইচৰ কাষত থকা চেন্সৰ স্পৰ্শ কৰক।</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">আপোনাৰ ফোনৰ কাষত থকা চেন্সৰ স্পৰ্শ কৰক।</string>
+    <string name="show_navbar_hint_title">নেভিগেশ্বন ইংগিত</string>
+    <string name="show_navbar_hint_summary">স্ক্ৰীনৰ তলত নেভিগেশ্বন ইংগিত দণ্ড দেখুওৱা হওক</string>
+    <string name="auto_brightness_one_shot_title">এবাৰৰ স্বয়ংক্ৰিয় উজ্জ্বলতা</string>
+    <string name="auto_brightness_one_shot_summary">স্ক্ৰীন অন কৰাৰ মুহূৰ্তত মাত্ৰ উজ্জ্বলতা সামঞ্জস্য হ\'ব</string>
+    <string name="data_usage_app_restrict_all">নেটৱৰ্ক প্ৰৱেশৰ অনুমতি দিয়ক</string>
+    <string name="data_usage_app_restrict_all_summary">নেটৱৰ্ক ব্যৱহাৰ সক্ষম কৰক</string>
+    <string name="data_usage_app_restrict_mobile">"ম’বাইল ডেটা"</string>
+    <string name="data_usage_app_restrict_mobile_summary">মবাইল ডেটা ব্যৱহাৰ সক্ষম কৰক</string>
+    <string name="data_usage_app_restrict_vpn">VPN ডেটা</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN ডেটা ব্যৱহাৰ সক্ষম কৰক</string>
+    <string name="data_usage_app_restrict_wifi">"ৱাই-ফাই ডেটা"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi ডেটা ব্যৱহাৰ সক্ষম কৰক</string>
+    <string name="proximity_wake_summary">স্ক্ৰীন জগাবলৈ আগতে ওচৰতাৰ সংবেদক পৰীক্ষা কৰক</string>
+    <string name="storage_warning_internal">সতৰ্কবাণী: এই বিকল্পটোৱে সঠিকভাৱে কাম নকৰিব পাৰে বা ডেটা হেৰুৱাব পাৰে, সেয়ে ইয়াক পৰামৰ্শ দিয়া নহয়!</string>
+    <string name="assisted_gps">সহায়ক GPS ব্যৱহাৰ কৰক</string>
+    <string name="assisted_gps_summary">ইণ্টাৰনেটৰ পৰা উপগ্ৰহ সহায়তা ডেটা ডাউনলোড কৰক, যিয়ে GPS আৰম্ভণিৰ কাৰ্যক্ষমতা বহু পৰিমাণে উন্নত কৰিব পাৰে। জৰুৰীকালীন কলৰ বাবে সহায়ক GPS সদায় অনুমোদিত।</string>
+    <string name="battery_technology">প্ৰযুক্তি</string>
+    <string name="battery_health">"অৱস্থা"</string>
+    <string name="battery_health_good">"ভাল"</string>
+    <string name="battery_health_overheat">"অত্যধিক গৰম"</string>
+    <string name="battery_health_dead">"মৃত"</string>
+    <string name="battery_health_over_voltage">"বেছি ভল্টেজ"</string>
+    <string name="battery_health_unspecified_failure">অনিৰ্দিষ্ট ব্যৰ্থতা</string>
+    <string name="battery_health_cold">"ঠাণ্ডা"</string>
+    <string name="battery_health_unknown">"অজ্ঞাত"</string>
+    <string name="battery_temperature">"উষ্ণতা"</string>
+    <string name="battery_voltage">ভল্টেজ</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">ডিজাইন ক্ষমতা</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">সৰ্বোচ্চ ক্ষমতা</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">ছেটআপৰ সময়ত ফ\'ন ভাঁজ কৰক</string>
+    <string name="face_enrolling_close_to_continue_description">Face Unlock ছেট আপ বা ব্যৱহাৰ কৰিবলৈ ফ\'ন ভাঁজ কৰিব লাগিব</string>
+    <string name="face_enrolling_do_it_later">"এইটো পাছত কৰিব"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM টুলকিট</string>
+    <string name="platform_compat_target_sdk_title">প্ৰযোজ্য targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> ৰ বাবে</string>
+    <string name="personal_context_title">ব্যক্তিগত প্ৰসংগ ব্যৱস্থাপক</string>
+</resources>

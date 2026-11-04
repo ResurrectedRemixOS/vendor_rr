@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="permission_phone">Telepon</string>
+    <string name="permission_contacts">Kontak</string>
+    <string name="permission_calendar">Kalénder</string>
+    <string name="permission_microphone">Mikrofon</string>
+</resources>

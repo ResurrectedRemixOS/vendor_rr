@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material — як у сістэмных наладах</string>
+    <string name="prefs_keyboard_height_scale">Маштаб вышыні клавіятуры</string>
+    <string name="number_row_password">Radok лічбаў для паролёў</string>
+    <string name="number_row_password_summary">Заўсёды паказваць радок лічбаў для ўсіх раскладак з 4 радамі клавіш для ўводу пароля</string>
+    <string name="space_trackpad">Сэнсарная панэль прабела</string>
+    <string name="space_trackpad_summary">Правядзіце па прабеле, каб перамясціць курсор</string>
+    <string name="backspace_trackpad">Сэнсарная панэль Backspace</string>
+    <string name="backspace_trackpad_summary">Правядзіце па клавішы Backspace, каб выдаляць словы</string>
+    <string name="show_longpress_hints_summary">Паказвае падказкі пры доўгім націсканні на падтрымоўваных клавішах</string>
+    <string name="show_emoji_key_summary">Заўсёды паказваць клавішу эмодзі. Калі гэта ўключана, клавіша пераключэння мовы не можа быць паказана.</string>
+    <string name="enable_split_keyboard_summary">Толькі ў альбомнай арыентацыі</string>
+    <string name="split_keyboard_duplicate_keys">Дублікаваць цэнтральныя клавішы</string>
+    <string name="split_keyboard_duplicate_keys_summary">Паказваць клавішы каля сярэдзіны на абедзвюх частках</string>
+    <string name="spoken_description_split_keyboard">Раздзяліць клавіятуру</string>
+    <string name="spoken_description_merge_keyboard">Аб\'яднаць клавіятуру</string>
+    <string name="spoken_description_float_keyboard">Плаваючая клавіятура</string>
+    <string name="spoken_description_dock_keyboard">Прымацаваць клавіятуру</string>
+    <string name="floating_keyboard_drag_handle">Перамясціць клавіятуру</string>
+    <string name="floating_keyboard_resize_handle">Змяніць памер клавіятуры</string>
+    <string name="floating_keyboard_reset">"Скінуць"</string>
+    <string name="floating_keyboard_hide">Схаваць клавіятуру</string>
+    <string name="floating_keyboard_switch_ime">"Пераключэнне рэжыму ўводу"</string>
+</resources>

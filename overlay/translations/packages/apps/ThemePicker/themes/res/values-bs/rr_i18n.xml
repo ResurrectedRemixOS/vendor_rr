@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Klasično</string>
+    <string name="bundle1_color_name">Karbon</string>
+    <string name="bundle2_color_name">Papir</string>
+    <string name="bundle3_color_name">Sunce</string>
+    <string name="bue_color_name">Lavanda</string>
+    <string name="red_color_name">Bobica</string>
+    <string name="wht_color_name">Magla</string>
+    <string name="indigo_color_name">Indigo</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Žad</string>
+    <string name="lemongrass_color_name">Limunska trava</string>
+    <string name="moonstone_color_name">Mjesečev kamen</string>
+    <string name="obsidian_color_name">Obsidijan</string>
+    <string name="peony_color_name">Božur</string>
+    <string name="porcelain_color_name">Porculan</string>
+    <string name="fruit1_color_name">Paleta u žutoj i crvenoj boji</string>
+    <string name="fruit2_color_name">Paleta u zelenoj i narandžastoj boji</string>
+    <string name="fruit3_color_name">Paleta u plavoj i zelenoj boji</string>
+    <string name="fruit4_color_name">Paleta u svijetloljubičastoj i plavoj boji</string>
+    <string name="fruit5_color_name">Paleta u roza i indigo boji</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Prehliadač PDF</string>
+    <string name="find_in_page">Nájsť na stránke</string>
+    <string name="share">"Zdieľať"</string>
+    <string name="open_with">Otvoriť v…</string>
+    <string name="download">"Stiahnuť"</string>
+    <string name="pdf_document">Dokument PDF</string>
+    <string name="print">"Tlačiť"</string>
+    <string name="download_successful">Sťahovanie bolo úspešné</string>
+    <string name="download_error">Pri sťahovaní súboru sa vyskytla chyba</string>
+</resources>

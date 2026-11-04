@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Anzisha upya…</string>
+    <string name="global_action_restart_system">"Mfumo"</string>
+    <string name="global_action_restart_recovery">"Kurejesha"</string>
+    <string name="global_action_restart_bootloader">Bootloader</string>
+    <string name="global_action_restart_download">"Pakua"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Inazima na kuwasha upya..."</string>
+    <string name="global_action_restart_recovery_progress">Inaanzisha upya kwenye hali ya urejeshaji…</string>
+    <string name="global_action_restart_bootloader_progress">Inaanzisha upya kwenye hali ya bootloader…</string>
+    <string name="global_action_restart_download_progress">Inaanzisha upya kwenye hali ya kupakua…</string>
+    <string name="global_action_restart_fastboot_progress">Inaanzisha upya kwenye hali ya fastbootd…</string>
+    <string name="global_action_current_user">Ya sasa</string>
+    <string name="global_action_users">"Watumiaji"</string>
+    <string name="clock">"Saa"</string>
+    <string name="accessibility_adaptive_brightness">"Ung’aavu unaojirekebisha"</string>
+    <string name="status_bar_icons_title">Aikoni za sehemu ya kuonyesha hali</string>
+    <string name="quick_settings_ambient_display_label">"Onyesho tulivu"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Onyesho la mazingira limezimwa.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Onyesho la mazingira limewashwa.</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD imezimwa\nKiokoa betri</string>
+    <string name="quick_settings_caffeine_label">"Kafeini"</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine imezimwa.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine imewashwa.</string>
+    <string name="quick_settings_heads_up_label">Arifa ibukizi</string>
+    <string name="accessibility_quick_settings_heads_up_off">Arifa ibukizi imezimwa.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Arifa ibukizi imewashwa.</string>
+    <string name="quick_settings_powershare_label">Wireless PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Wireless PowerShare imezimwa\nKiokoa betri</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Wireless PowerShare imezimwa\nBetri ni ndogo mno</string>
+    <string name="quick_settings_powershare_enabled_label">Wireless PowerShare imewashwa</string>
+    <string name="quick_settings_reading_mode">Hali ya kusoma</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Hali ya kusoma imewashwa.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Hali ya kusoma imezimwa.</string>
+    <string name="quick_settings_sync_label">"Sawazisha"</string>
+    <string name="accessibility_quick_settings_sync_off">Usawazishaji umezimwa.</string>
+    <string name="accessibility_quick_settings_sync_on">Usawazishaji umewashwa.</string>
+    <string name="quick_settings_profiles_label">Wasifu wa mfumo</string>
+    <string name="accessibility_quick_settings_profiles_off">Wasifu umezimwa.</string>
+    <string name="accessibility_quick_settings_profiles">Wasifu: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"Sambaza mtandao kwa USB"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Unganisha kwenye…</string>
+    <string name="vpn_credentials_hint">Tafadhali weka taarifa zako za kuingia ili kuunganisha kwenye <xliff:g id="name">%s</xliff:g></string>
+    <string name="vpn_credentials_username">"Jina la mtumiaji"</string>
+    <string name="vpn_credentials_password">"Nenosiri"</string>
+    <string name="vpn_credentials_dialog_connect">"Unganisha"</string>
+    <string name="status_bar_firewall">Ukuta wa moto</string>
+    <string name="battery_notification_channel_tv">Onyo la betri</string>
+    <string name="screenshot_delete_label">"Futa"</string>
+    <string name="screenshot_delete_description">Futa picha ya skrini</string>
+    <string name="screenrecord_lowquality_label">Ubora wa chini</string>
+    <string name="screenrecord_lowquality_summary">Kwa ukubwa mdogo wa faili</string>
+    <string name="screenrecord_longer_timeout_switch_label">Kikomo kikubwa cha ukubwa wa faili</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Weka kikomo cha kurekodi hadi GB 15</string>
+    <string name="screenrecord_skip_time_label">Ruka kipima muda</string>
+    <string name="screenrecord_skip_time_summary">Ondoa kusubiri kwa sekunde 3</string>
+    <string name="screenrecord_hevc_switch_label">Usimbaji wa HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Tumia kisimbaji cha HEVC chenye ufanisi zaidi</string>
+    <string name="zen_alarm_warning_indef">"Hutasikia kengele inayofuata ya saa <xliff:g id="WHEN">%1$s</xliff:g> isipokuwa uzime mipangilio hii kabla ya wakati huo"</string>
+</resources>

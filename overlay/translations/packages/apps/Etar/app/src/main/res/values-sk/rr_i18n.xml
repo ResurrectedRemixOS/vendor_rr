@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="week_start_locale_default">Predvolené nastavenie jazyka</string>
+    <string name="preferences_staggered_display_title">Striedavé zobrazenie</string>
+    <string name="preferences_staggered_display_summary">Zobrazovať prekrývajúce sa udalosti v striedavom rozložení</string>
+    <string name="cal_export_error">Udalosť sa nepodarilo exportovať</string>
+</resources>

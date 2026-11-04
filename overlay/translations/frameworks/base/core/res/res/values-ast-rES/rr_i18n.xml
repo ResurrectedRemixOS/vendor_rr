@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_standby">N\'espera</string>
+    <string name="global_action_unrestricted_lock">Bloquéu</string>
+    <string name="face_acquired_poor_gaze">Mira de mou más direutu al preséu.</string>
+    <string name="default_audio_route_name_analog">Analóxicu</string>
+    <string name="default_audio_route_name_digital">Dixital</string>
+    <string name="accessibility_shortcut_label_triple_tap">trés toques</string>
+    <string name="mouse_keys_feature_name">Tecles pal mur</string>
+    <string name="hearing_device_status_disconnected">Desconectóse</string>
+    <string name="hearing_device_status_connected">Conectóse</string>
+    <string name="hearing_device_status_active">N\'activo</string>
+    <string name="unnamed_user_name">Usuariu</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_face" product="default">Desbloquéu facial</string>
+    <string name="app_lock_edu_dialog_biometric_description_has_fingerprint">Desbloquéu cola buelga</string>
+    <string name="app_lock_edu_dialog_lockscreen_password_name">contraseña</string>
+    <string name="app_lock_permission_review_continue_button">Siguir</string>
+    <string name="accessibility_autoclick_resume">Siguir</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_IN_PROGRESS">Solicitando\'l desbloquéu del soconxuntu de la rede de la SIM \u2026</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_IN_PROGRESS">Solicitando\'l desbloquéu del fornidor de servicios de la SIM\u2026</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_IN_PROGRESS">Solicitando\'l desbloquéu del fornidor de servicios del RUIM\u2026</string>
+    <string name="PERSOSUBSTATE_SIM_NETWORK_SUBSET_ERROR">La solicitú de desbloquéu del soconxuntu de la rede de la SIM nun se fizo correutamente.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_ERROR">La solicitú de desbloquéu del fornidor de servicios de la SIM nun se fizo correutamente.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_ERROR">La solicitú de desbloquéu del fornidor de servicios del RUIM nun se fizo correutamente.</string>
+    <string name="PERSOSUBSTATE_SIM_SERVICE_PROVIDER_SUCCESS">El desbloquéu del fornidor de servicios de la SIM fízose correutamente.</string>
+    <string name="PERSOSUBSTATE_RUIM_SERVICE_PROVIDER_SUCCESS">El desbloquéu del fornidor de servicios del RUIM fízose correutamente.</string>
+    <string name="app_locked_notification_message">Mensaxe nuevu</string>
+    <string name="satellite_manual_selection_state_popup_cancel">Dir p\'atrás</string>
+    <string name="usb_apm_usb_plugged_in_when_locked_notification_app_title">Seguranza y privacidá</string>
+</resources>

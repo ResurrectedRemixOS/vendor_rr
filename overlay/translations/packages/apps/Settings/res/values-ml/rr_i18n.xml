@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ഡിഫോൾട്ട്"</item>
+        <item>സെൽഷ്യസ്</item>
+        <item>ഫാരൻഹൈറ്റ്</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ഡിഫോൾട്ട്"</item>
+        <item>ഞായർ</item>
+        <item>തിങ്കൾ</item>
+        <item>ചൊവ്വ</item>
+        <item>ബുധൻ</item>
+        <item>വ്യാഴം</item>
+        <item>വെള്ളി</item>
+        <item>ശനി</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ഡിഫോൾട്ട്"</item>
+        <item>മെട്രിക്</item>
+        <item>യുഎസ് സിസ്റ്റം</item>
+        <item>യുകെ സിസ്റ്റം</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"വ്യക്തമാക്കിയിട്ടില്ലാത്തവ"</item>
+        <item>"ന്യൂട്രൽ"</item>
+        <item>"സ്ത്രീലിംഗം"</item>
+        <item>"പുല്ലിംഗം"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">എക്സ്ട്രാസ്</string>
+    <string name="advanced_keyboard_settings_title">"വിപുലമായ ക്രമീകരണം"</string>
+    <string name="adb_enable_root">റൂട്ടഡ് ഡീബഗ്ഗിംഗ്</string>
+    <string name="adb_enable_summary_root">Android ഡീബഗ്ഗിംഗ് റൂട്ട് ആയി പ്രവർത്തിപ്പിക്കാൻ അനുവദിക്കുക</string>
+    <string name="backup_transport_setting_label">ബാക്കപ്പ് ദാതാവ് മാറ്റുക</string>
+    <string name="backup_transport_title">ബാക്കപ്പ് ദാതാവിനെ തിരഞ്ഞെടുക്കുക</string>
+    <string name="berry_black_theme_title">പൂർണ്ണ കറുപ്പ്</string>
+    <string name="berry_black_theme_summary">ഡാർക്ക് തീമിനായി പൂർണ്ണ കറുപ്പ് പശ്ചാത്തലം</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {ഡെവലപ്പർ ക്രമീകരണം പ്രവർത്തനക്ഷമമാക്കാൻ ഇനി # ഘട്ടം മാത്രം.} other {ഡെവലപ്പർ ക്രമീകരണം പ്രവർത്തനക്ഷമമാക്കാൻ ഇനി # ഘട്ടങ്ങൾ മാത്രം.} }</string>
+    <string name="status_bar_double_tap_to_sleep_title">ടാപ്പ് ചെയ്ത് ഉറങ്ങുക</string>
+    <string name="status_bar_double_tap_to_sleep_summary">ഡിസ്പ്ലേ ഓഫ് ചെയ്യാൻ സ്റ്റാറ്റസ് ബാറിലോ ലോക്ക് സ്‌ക്രീനിലോ ഇരട്ട ടാപ്പ് ചെയ്യുക</string>
+    <string name="high_touch_polling_rate_title">ഉയർന്ന ടച്ച് പോളിങ് നിരക്ക്</string>
+    <string name="high_touch_polling_rate_summary">ടച്ച്സ്ക്രീൻ പോളിങ് നിരക്ക് വർധിപ്പിക്കുക</string>
+    <string name="heads_up_notifications_enabled_title">ഹെഡ്-അപ്പ്</string>
+    <string name="heads_up_notifications_enabled_summary">മുൻഗണനയുള്ള അറിയിപ്പുകൾ ചെറിയ ഫ്ലോട്ടിംഗ് വിൻഡോയിൽ കാണിക്കുക</string>
+    <string name="tethering_allow_vpn_upstreams_title">ബന്ധിപ്പിച്ച ഉപകരണങ്ങൾക്ക് VPN ഉപയോഗിക്കുക</string>
+    <string name="tethering_allow_vpn_upstreams_summary">ഈ ഉപകരണം VPN ഉപയോഗിക്കുമ്പോൾ ഹോട്ട്സ്പോട്ടുമായി ബന്ധിപ്പിച്ച എല്ലാ ഉപകരണങ്ങളും അതേ VPN ഉപയോഗിക്കും</string>
+    <string name="lock_settings_picker_pattern_size_message">പാറ്റേണിന്റെ വലുപ്പം തിരഞ്ഞെടുക്കുക</string>
+    <string name="max_refresh_rate_title">പരമാവധി റിഫ്രഷ് നിരക്ക്</string>
+    <string name="min_refresh_rate_title">കുറഞ്ഞ റിഫ്രഷ് നിരക്ക്</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">നിങ്ങളുടെ ടാബ്‌ലെറ്റിന്റെ മുൻവശത്തുള്ള ഫിംഗർപ്രിന്റ് സെൻസർ കണ്ടെത്തുക.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">നിങ്ങളുടെ ഉപകരണത്തിന്റെ മുൻവശത്തുള്ള ഫിംഗർപ്രിന്റ് സെൻസർ കണ്ടെത്തുക.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">നിങ്ങളുടെ ഫോണിന്റെ മുൻവശത്തുള്ള ഫിംഗർപ്രിന്റ് സെൻസർ കണ്ടെത്തുക.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">നിങ്ങളുടെ ടാബ്‌ലെറ്റിന്റെ പിൻവശത്തുള്ള ഫിംഗർപ്രിന്റ് സെൻസർ കണ്ടെത്തുക.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">നിങ്ങളുടെ ഉപകരണത്തിന്റെ പിൻവശത്തുള്ള ഫിംഗർപ്രിന്റ് സെൻസർ കണ്ടെത്തുക.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">നിങ്ങളുടെ ഫോണിന്റെ പിൻവശത്തുള്ള ഫിംഗർപ്രിന്റ് സെൻസർ കണ്ടെത്തുക.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">നിങ്ങളുടെ ടാബ്‌ലെറ്റിന്റെ വശത്തുള്ള ഫിംഗർപ്രിന്റ് സെൻസർ കണ്ടെത്തുക.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">നിങ്ങളുടെ ഉപകരണത്തിന്റെ വശത്തുള്ള ഫിംഗർപ്രിന്റ് സെൻസർ കണ്ടെത്തുക.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">നിങ്ങളുടെ ഫോണിന്റെ വശത്തുള്ള ഫിംഗർപ്രിന്റ് സെൻസർ കണ്ടെത്തുക.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">നിങ്ങളുടെ ടാബ്‌ലെറ്റിന്റെ മുൻവശത്തുള്ള സെൻസറിൽ സ്പർശിക്കുക.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">നിങ്ങളുടെ ഉപകരണത്തിന്റെ മുൻവശത്തുള്ള സെൻസറിൽ സ്പർശിക്കുക.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">നിങ്ങളുടെ ഫോണിന്റെ മുൻവശത്തുള്ള സെൻസറിൽ സ്പർശിക്കുക.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">നിങ്ങളുടെ ടാബ്‌ലെറ്റിന്റെ പിൻവശത്തുള്ള സെൻസറിൽ സ്പർശിക്കുക.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">നിങ്ങളുടെ ഉപകരണത്തിന്റെ പിൻവശത്തുള്ള സെൻസറിൽ സ്പർശിക്കുക.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">നിങ്ങളുടെ ഫോണിന്റെ പിൻവശത്തുള്ള സെൻസറിൽ സ്പർശിക്കുക.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">നിങ്ങളുടെ ടാബ്‌ലെറ്റിന്റെ വശത്തുള്ള സെൻസറിൽ സ്പർശിക്കുക.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">നിങ്ങളുടെ ഉപകരണത്തിന്റെ വശത്തുള്ള സെൻസറിൽ സ്പർശിക്കുക.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">നിങ്ങളുടെ ഫോണിന്റെ വശത്തുള്ള സെൻസറിൽ സ്പർശിക്കുക.</string>
+    <string name="show_navbar_hint_title">നാവിഗേഷൻ സൂചന</string>
+    <string name="show_navbar_hint_summary">സ്ക്രീനിന്റെ അടിയിൽ നാവിഗേഷൻ സൂചനാ ബാർ കാണിക്കുക</string>
+    <string name="auto_brightness_one_shot_title">ഒറ്റത്തവണ ഓട്ടോ-ബ്രൈറ്റ്നസ്</string>
+    <string name="auto_brightness_one_shot_summary">സ്ക്രീൻ ഓൺ ചെയ്യുന്ന നിമിഷത്തിൽ മാത്രമേ ബ്രൈറ്റ്നസ് ക്രമീകരണം നടക്കൂ</string>
+    <string name="data_usage_app_restrict_all">നെറ്റ്‌വർക്ക് ആക്സസ് അനുവദിക്കുക</string>
+    <string name="data_usage_app_restrict_all_summary">നെറ്റ്‌വർക്ക് ഉപയോഗം പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="data_usage_app_restrict_mobile">"മൊബൈൽ ഡാറ്റ"</string>
+    <string name="data_usage_app_restrict_mobile_summary">മൊബൈൽ ഡാറ്റ ഉപയോഗം പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="data_usage_app_restrict_vpn">VPN ഡാറ്റ</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN ഡാറ്റ ഉപയോഗം പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="data_usage_app_restrict_wifi">"വൈഫൈ ഡാറ്റ"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi ഡാറ്റ ഉപയോഗം പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="proximity_wake_summary">സ്ക്രീൻ ഉണർത്തുന്നതിന് മുമ്പ് പ്രോക്സിമിറ്റി സെൻസർ പരിശോധിക്കുക</string>
+    <string name="storage_warning_internal">മുന്നറിയിപ്പ്: ഈ ഓപ്ഷൻ ശരിയായി പ്രവർത്തിക്കാനിടയില്ല, ഡാറ്റ നഷ്ടത്തിനും ഇടയാക്കാം; അതിനാൽ ഇത് ശുപാർശ ചെയ്യുന്നില്ല!</string>
+    <string name="assisted_gps">അസിസ്റ്റഡ് GPS ഉപയോഗിക്കുക</string>
+    <string name="assisted_gps_summary">GPS ആരംഭ പ്രകടനം വളരെ മെച്ചപ്പെടുത്താൻ കഴിയുന്ന സാറ്റലൈറ്റ് സഹായ ഡാറ്റ ഇന്റർനെറ്റിൽ നിന്ന് ഡൗൺലോഡ് ചെയ്യുക. അടിയന്തര കോളുകൾക്ക് അസിസ്റ്റഡ് GPS എപ്പോഴും അനുവദനീയമാണ്.</string>
+    <string name="battery_technology">സാങ്കേതികവിദ്യ</string>
+    <string name="battery_health">"ആരോഗ്യം"</string>
+    <string name="battery_health_good">"നല്ലത്"</string>
+    <string name="battery_health_overheat">"അമിതതാപം"</string>
+    <string name="battery_health_dead">"നിർജീവം"</string>
+    <string name="battery_health_over_voltage">"അധിക വോൾട്ടേജ്"</string>
+    <string name="battery_health_unspecified_failure">വ്യക്തമാക്കാത്ത പരാജയം</string>
+    <string name="battery_health_cold">"തണുപ്പ്"</string>
+    <string name="battery_health_unknown">"അജ്ഞാതം"</string>
+    <string name="battery_temperature">"താപനില"</string>
+    <string name="battery_voltage">വോൾട്ടേജ്</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">ഡിസൈൻ ശേഷി</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">പരമാവധി ശേഷി</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">സജ്ജീകരണ സമയത്ത് ഫോൺ മടക്കുക</string>
+    <string name="face_enrolling_close_to_continue_description">ഫെയ്സ് അൺലോക്ക് സജ്ജീകരിക്കാനോ ഉപയോഗിക്കാനോ ഫോൺ മടക്കേണ്ടതുണ്ട്</string>
+    <string name="face_enrolling_do_it_later">"ഇത് പിന്നീട് ചെയ്യുക"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM ടൂൾകിറ്റ്</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> ആണെങ്കിൽ പ്രവർത്തനക്ഷമം</string>
+    <string name="personal_context_title">വ്യക്തിഗത സന്ദർഭ മാനേജർ</string>
+</resources>

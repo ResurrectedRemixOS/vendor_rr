@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Maeneo ya karibu</string>
+    <string name="lookup_settings_label">Utafutaji wa nambari ya simu</string>
+    <string name="enable_forward_lookup_title">Utafutaji wa mbele</string>
+    <string name="enable_forward_lookup_summary">Onyesha maeneo ya karibu unapotafuta kwenye dialer</string>
+    <string name="enable_reverse_lookup_title">Utafutaji wa nyuma</string>
+    <string name="enable_reverse_lookup_summary">Tafuta taarifa kuhusu mtu au mahali kwa nambari zisizojulikana kwenye simu zinazoingia</string>
+    <string name="forward_lookup_provider_title">Mtoa huduma wa utafutaji wa mbele</string>
+    <string name="reverse_lookup_provider_title">Mtoa huduma wa utafutaji wa nyuma</string>
+    <string name="lookup_disclaimer">Utafutaji unaweza kutuma maswali kupitia itifaki salama (https) kwa tovuti za nje ili kukusanya taarifa. Swali linaweza kujumuisha nambari ya simu ya mwenzako au neno la utafutaji</string>
+</resources>

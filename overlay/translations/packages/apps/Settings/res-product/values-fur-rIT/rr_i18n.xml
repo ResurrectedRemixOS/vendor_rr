@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bluetooth_audio_routing_summary" product="default">Indrece i suns al to dispositîf pe scolte o ae casse dal telefon</string>
+    <string name="security_settings_face_enroll_introduction_message_unlock_disabled" product="default">Dopre la tô muse par sblocâ il telefon o aprovâ acuiscj.\n\nNote: no tu puedis doprâ la tô muse par sblocâ chest dispositîf. Par vê plui informazions, contate l\'aministradôr de tô organizazion.</string>
+    <string name="security_settings_face_enroll_introduction_message_setup" product="default">Dopre la tô muse par sblocâ il telefon, autorizâ acuiscj o autenticâti tes aplicazions</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body" product="default">Elimine il to model di muse corint par configurâ di gnûf il sbloc cu la muse.\n\nIl model de muse al vignarà eliminât par simpri e in sigurece.\n\nDopo de rimozion ti coventarà il PIN, la cumbinazion o la password par sblocâ il to telefon o par autenticâti tes aplicazions.</string>
+    <string name="security_settings_face_enroll_improve_face_alert_body_fingerprint" product="default">Elimine il to model di muse corint par configurâ di gnûf il sbloc cu la muse.\n\nIl model de muse al vignarà eliminât par simpri e in sigurece.\n\nDopo de rimozion ti coventarà l\'impront, il PIN, la cumbinazion o la password par sblocâ il to telefon o par autenticâti tes aplicazions.</string>
+    <string name="security_settings_face_settings_require_attention_details" product="default">Par sblocâ il telefon, tu scugnis vê i voi vierts</string>
+    <string name="security_settings_face_settings_remove_dialog_details" product="default">Il to model di muse al vignarà eliminât par simpri e in sigurece.\n\nDopo de rimozion ti coventarà il PIN, la cumbinazion o la password par sblocâ il to telefon o par autenticâti tes aplicazions.</string>
+    <string name="security_settings_face_settings_remove_dialog_details_convenience" product="default">Il to model di muse al vignarà eliminât par simpri e in sigurece.\n\nDopo de rimozion ti coventarà il PIN, la cumbinazion o la password par sblocâ il to telefon.</string>
+    <string name="security_settings_face_remove_dialog_details_fingerprint" product="default">Il to model di muse al vignarà eliminât par simpri e in sigurece.\n\nDopo de rimozion ti coventarà l\'impront, il PIN, la cumbinazion o la password par sblocâ il to telefon o par autenticâti tes aplicazions.</string>
+    <string name="security_settings_face_remove_dialog_details_fingerprint_conv" product="default">Il to model di muse al vignarà eliminât par simpri e in sigurece.\n\nDopo de rimozion ti coventarà l\'impront, il PIN, la cumbinazion o la password par sblocâ il to telefon.</string>
+    <string name="security_settings_face_settings_context_subtitle" product="default">Dopre il sbloc cu la muse par sblocâ il to telefon</string>
+    <string name="security_settings_fingerprint_enroll_introduction_message_unlock_disabled" product="default">Dopre il to impront digjitâl par sblocâ il telefon o aprovâ acuiscj.\n\nNote: no tu puedis doprâ il to impront par sblocâ chest dispositîf. Par vê plui informazions, contate l\'aministradôr de tô organizazion.</string>
+    <string name="security_settings_remoteauth_enroll_introduction_message" product="default">Il sbloc cul orloi e je une altre buine maniere par sblocâ chest telefon, par esempli, cuant che i tiei dêts a son bagnâts o no ven ricognossude la muse.\n\nTu puedis doprâ il to orloi par sblocâ chest telefon cuant che tu:</string>
+    <string name="security_settings_remoteauth_enroll_introduction_info_lock_open" product="default">Il to orloi al à di jessi sblocât, sol to pols e a puartade di chest telefon. No tu varâs bisugne di sblocâ di gnûf il to orloi intant che al è sul to pols.</string>
+    <string name="security_settings_remoteauth_enroll_introduction_info_notifications" product="default">Cuant che chest telefon al è sblocât, tu ricevarâs notifichis sul orloi. Se al jere sblocât cence volê, tocje la notifiche par tornâa blocâ il telefon.</string>
+    <string name="security_settings_remoteauth_enroll_finish_description" product="default">Cumò tu puedis doprâ il to orloi par sblocâ chest telefon cuant che tu scoris in sù su la schermade di bloc o tu tocjis une notifiche</string>
+    <string name="security_settings_remoteauth_settings_description" product="default">Cumò tu puedis doprâ il to orloi par sblocâ chest telefon cuant che tu scoris in sù su la schermade di bloc o tu tocjis une notifiche</string>
+    <string name="security_settings_remoteauth_settings_info_footer" product="default">Par doprâ il sbloc cul orloi, il to orloi al à di jessi sblocât, sul to pols, a puartade di segnâl e colegât a chest telefon. Se la conession e ven interote, tu varâs di sblocâ il telefon prime di podê doprâ il sbloc cul orloi.\n\nTen iniments:\nTu puedis vê configurât dome un orloi ae volte. Par zontâ un altri orloi, prime gjave chel corint.</string>
+    <string name="biometric_settings_intro_with_activeunlock" product="default">Cuant che tu configuris il sbloc cu la muse e il sbloc cul impront, il telefon ti domandarà l\'impront se tu âs intôr une mascare o tu sês intun ambient scûr.\n\nIl sbloc cul orloi e je une altre buine maniere par sblocâ il telefon, par esempli, cuant che i tiei dêts a son bagnâts e la muse no ven ricognossude.</string>
+    <string name="biometric_settings_intro_with_fingerprint" product="default">Il sbloc cul orloi e je une altre buine maniere par sblocâ il telefon, par esempli, cuant che l\'impront nol ven ricognossût.</string>
+    <string name="biometric_settings_intro_with_face" product="default">Il sbloc cul orloi e je une altre buine maniere par sblocâ il telefon, par esempli, cuant che no ven ricognossude la tô muse.</string>
+    <string name="biometric_settings_intro" product="default">Cuant che tu configuris il sbloc cu la muse e cul impront, il telefon ti domandarà l\'impront se tu âs intôr une mascare o tu sês in une zone scure</string>
+    <string name="biometric_settings_use_biometric_unlock_phone" product="default">Sbloche il telefon</string>
+    <string name="setup_fingerprint_enroll_enrolling_skip_message" product="default">Tu âs sielt di doprâ il to impront digjitâl come une des manieris par sblocâ il to telefon. Se cumò tu saltis cheste configurazion tu le varâs di fâ plui indenant. La configurazion e puarte vie sù par jù dome un minût.</string>
+    <string name="unlock_disable_frp_warning_content_pattern" product="default">"Une cumbinazion e protêç il to telefon se tu lu pierdis o al ven robât"</string>
+    <string name="unlock_disable_frp_warning_content_pattern_fingerprint" product="default">"Une cumbinazion e protêç il to telefon se tu lu pierdis o al ven robât.<xliff:g id="empty_line">\n\n</xliff:g>Cheste operazion e elimine ancje il model di impront archiviât sul to dispositîf. No tu rivarâs a doprâ l'impront pe autenticazion tes aplicazions."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face" product="default">"Une cumbinazion e protêç il to telefon se tu lu pierdis o al ven robât.<xliff:g id="empty_line">\n\n</xliff:g>Al vignarà eliminât in mût permanent e sigûr ancje il model de to muse. No tu rivarâs a doprâ la muse pe autenticazion tes aplicazions."</string>
+    <string name="unlock_disable_frp_warning_content_pattern_face_fingerprint" product="default">"Une cumbinazion e protêç il to telefon se tu lu pierdis o al ven robât.<xliff:g id="empty_line">\n\n</xliff:g>Cheste operazion e elimine il model di impront archiviât sul dispositîf. Al vignarà eliminât in mût permanent e sigûr ancje il model de to muse. No tu rivarâs a doprâ la muse o l'impront pe autenticazion tes aplicazions."</string>
+    <string name="unlock_disable_frp_warning_content_pin" product="default">"Un PIN al protêç il to telefon se tu lu pierdis o al ven robât"</string>
+    <string name="unlock_disable_frp_warning_content_pin_fingerprint" product="default">"Un PIN al protêç protêç il to telefon se tu lu pierdis o al ven robât.<xliff:g id="empty_line">\n\n</xliff:g>Cheste operazion e elimine ancje il model di impront archiviât sul to dispositîf. No tu rivarâs a doprâ l'impront pe autenticazion tes aplicazions."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face" product="default">"Un PIN al protêç il to telefon se tu lu pierdis o al ven robât.<xliff:g id="empty_line">\n\n</xliff:g>Al vignarà eliminât in mût permanent e sigûr ancje il model de to muse. No tu rivarâs a doprâ la muse pe autenticazion tes aplicazions."</string>
+    <string name="unlock_disable_frp_warning_content_pin_face_fingerprint" product="default">"Un PIN al protêç il to telefon se tu lu pierdis o al ven robât.<xliff:g id="empty_line">\n\n</xliff:g>Cheste operazion e elimine il model di impront archiviât sul dispositîf. Al vignarà eliminât in mût permanent e sigûr ancje il model de to muse. No tu rivarâs a doprâ la muse o l'impront pe autenticazion tes aplicazions."</string>
+    <string name="unlock_disable_frp_warning_content_password" product="default">"Une password e protêç il to telefon se tu lu pierdis o al ven robât"</string>
+    <string name="unlock_disable_frp_warning_content_password_fingerprint" product="default">"Une password e protêç il to telefon se tu lu pierdis o al ven robât.<xliff:g id="empty_line">\n\n</xliff:g>Cheste operazion e elimine ancje il model di impront archiviât sul to dispositîf. No tu rivarâs a doprâ l'impront pe autenticazion tes aplicazions."</string>
+    <string name="unlock_disable_frp_warning_content_password_face" product="default">"Une password e protêç il to telefon se tu lu pierdis o al ven robât.<xliff:g id="empty_line">\n\n</xliff:g>Al vignarà eliminât in mût permanent e sigûr ancje il model de to muse. No tu rivarâs a doprâ la muse pe autenticazion tes aplicazions."</string>
+    <string name="unlock_disable_frp_warning_content_password_face_fingerprint" product="default">"Une password e protêç il to telefon se tu lu pierdis o al ven robât.<xliff:g id="empty_line">\n\n</xliff:g>Cheste operazion e elimine il model di impront archiviât sul dispositîf. Al vignarà eliminât in mût permanent e sigûr ancje il model de to muse. No tu rivarâs a doprâ la muse o l'impront pe autenticazion tes aplicazions."</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message" product="tablet">Il sensôr di impront al è sul boton par impiâ. Al è il boton plac dongje dal boton rialçât dal volum, sul flanc dal tablet.</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message" product="device">Il sensôr di impront al è sul boton par impiâ. Al è il boton plac dongje dal boton rialçât dal volum, sul flanc dal dispositîf.</string>
+    <string name="security_settings_sfps_enroll_find_sensor_message" product="default">Il sensôr di impront al è sul boton par impiâ. Al è il boton plac dongje dal boton rialçât dal volum, sul flanc dal telefon.</string>
+    <string name="suggested_lock_settings_title" product="default">Protêç il to telefon</string>
+    <string name="wifi_hidden_network_warning" product="default">Se il router nol sta trasmetint un ID di rêt ma un doman tu desideris conetiti a lui, tu puedis meti la rêt tant che platade.\n\nChest al pues creâ un risi di sigurece parcè che il telefon al trasmetarà in mût regolâr il so segnâl par cjatâ la rêt.\n\nMetint cheste rêt come platade nol cambiarà lis impostazions dal router.</string>
+    <string name="status_number" product="default">Numar di telefon</string>
+    <string name="storage_wizard_init_v2_internal_action" product="tablet">Formate</string>
+    <string name="storage_wizard_init_v2_internal_action" product="default">Formate</string>
+    <string name="storage_wizard_init_v2_internal_action" product="desktop">Formate</string>
+    <string name="main_clear_button_text" product="tablet">Scancele ducj i dâts</string>
+    <string name="main_clear_button_text" product="default">Scancele ducj i dâts</string>
+    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Sveis</string>
+    <string name="really_remove_account_message" product="device">Gjavant chest account tu eliminarâs dal dispositîf ducj i relatîfs messaçs, contats e altris dâts!</string>
+    <string name="really_remove_account_message" product="desktop">Gjavant chest account tu eliminarâs dal dispositîf ducj i relatîfs messaçs, contats e altris dâts!</string>
+    <string name="audio_sharing_dialog_share_content" product="device">La musiche e i videos di chest dispositîf a vignaran riprodots su ducj i doi i pârs di scufis</string>
+    <string name="audio_sharing_dialog_share_content" product="desktop">La musiche e i videos di chest dispositîf a vignaran riprodots su ducj i doi i pârs di scufis</string>
+    <string name="private_space_fingerprint_enroll_introduction_footer_message" product="default">Al è pussibil sblocâ il to spazi privât cuant che no tu intindis fâlu, par esempli se cualchidun ti met il telefon dongje dal dêt.</string>
+    <string name="private_space_face_enroll_introduction_info_looking" product="default">Cjalant il telefon tu puedis sblocâ il spazi privât ancje cuant che no tu intindis fâlu. Al è pussibil ancje che cualchidun che ti somee al sblochi il to spazi privât, come par esempli un fradi o une sûr identics, opûr che cualchidun lu sblochi metint il dispositîf denant de tô muse.</string>
+    <string name="private_space_face_settings_footer" product="default">Dopre la tô muse par sblocâ il to spazi privât.\n\nTen iniments:\nTu puedis stabilî nome une muse ae volte. Par zontâ une altre muse, elimine chê atuâl.\n\nCjalant il telefon tu puedis sblocâlu ancje se no tu âs intenzion di fâlu.\n\nCualchidun altri al pues sblocâ il to spazi privât se al ten il to dispositîf denant de tô muse.\n\nCualchidun che ti somee une vore al pues sblocâ il to spazi privât, come un fradi o une sûr identics.</string>
+    <string name="private_space_delete_summary" product="default">Il to spazi privât al vignarà eliminât par simpri dal to dispositîf. \n\nAncje dutis lis aplicazions tal to spazi e i lôr dâts a vignaran eliminâts par simpri de <b>memorie interne</b> dal telefon.</string>
+    <string name="reset_private_space_delete_dialog" product="default">Se tu âs un spazi privât sul to dispositîf, al vignarà eliminât par simpri e l\'account di Google zontât al to spazi al vignarà gjavât. \n\nAncje dutis lis aplicazions sul to spazi e i relatîfs dâts a vignaran eliminâts par simpri de <b>memorie interne</b> dal to telefon.</string>
+    <string name="style_suggestion_title" product="default">Personalize il to telefon</string>
+    <string name="storage_os_detail_dialog_system" product="default">Chest al inclût il to sisteme operatîf e i files che a coventin par fâ funzionâ ben il to telefon. Par protezi la lôr integritât, nol è pussibil acedi a chescj files.</string>
+    <string name="activity_not_found" product="default">La aplicazion no je instalade sul to telefon.</string>
+    <string name="notification_listener_security_warning_summary" product="default">
+        La aplicazion <xliff:g id="notification_listener_name">%1$s</xliff:g> e rivarà a lei dutis lis notifichis,
+        includudis informazions personâls come nons di contat, fotos e i tescj di messaçs che tu ricevis.
+        Cheste aplicazion e rivarà ancje a posticipâ o scartâ lis notifichis o fâ azions sui botons des notifichis, includût rispuindi aes clamadis telefonichis.
+        \n\nChest al darà ae aplicazion la pussibilitât di ativâ o disativâ il No Sta Disturbâ e cambiâ lis relativis impostazions.
+    </string>
+    <string name="notif_type_ongoing_summary" product="default">Comunicazion salde di aplicazions in ûs, navigazion, clamadis telefonichis e altri</string>
+    <string name="usb_default_info" product="default">Chestis impostazions a vignaran aplicadis cuant che al ven colegât un altri dispositîf e il telefon al è sblocât. Coleghiti dome a dispositîfs atendibii.</string>
+    <string name="disabled_by_policy_content_biometric_parental_consent" product="default">Da il telefon a un to gjenitôr par scomençâ cheste configurazion</string>
+    <string name="disabled_by_policy_parental_consent" product="default">Da il telefon al to gjenitôr par permeti la modifiche di cheste impostazion.</string>
+    <string name="condition_zen_summary_phone_muted" product="default">Telefon cidinât</string>
+    <string name="disabled_feature_reason_slow_down_phone" product="default">Cheste funzion e je stade disativade parcè che e moreste il telefon</string>
+    <string name="mobile_data_settings_summary_auto_switch" product="default">
+        Il telefon al passarà in automatic a chest operadôr se al cjape la sô rêt
+    </string>
+    <string name="thread_network_settings_footer_title" product="default">Thread ti jude a conetiti ai tiei dispositîfs smart pe cjase, a miorâ la eficience e lis prestazions.\n\nSe ativât, chest dispositîf al varà i recuisîts par jentrâ intune rêt Thread, permetint il control cun chest telefon dai dispositîfs che a supuartin Matter.</string>
+    <string name="bluetooth_connect_access_dialog_content" product="default"><xliff:g id="device_name" example="My device">%1$s</xliff:g> al vûl conetisi a chest telefon.\n\nIl dispositîf <xliff:g id="device_name" example="My device">%2$s</xliff:g> nol è mai stât colegât prime.</string>
+    <string name="bluetooth_details_permissions_sync_title" product="default">Sincronizâ permès dal telefon</string>
+    <string name="bluetooth_details_permissions_sync_summary" product="default">Dâ al to orloi i stes permès de aplicazion che tu âs concedût su chest telefon</string>
+    <string name="audio_sharing_comfirm_dialog_content" product="default">Par inviâ la condivision audio, prime conet lis scufis LE Audio al to telefon</string>
+    <string name="dream_setup_description" product="default">Sielç ce che tu viodarâs sul schermi cuant che il tablet al sarà colegât ae base. Il dispositîf al podarès consumâ plui energjie se al ven doprât un salve schermi.</string>
+    <string name="sound_settings" product="default">Sunarie e vibrazion</string>
+    <string name="sound_settings" product="desktop">Sun</string>
+    <string name="security_settings_face_enroll_consent_introduction_title" product="default">Permet il sbloc cu la muse</string>
+    <string name="security_settings_face_enroll_introduction_title" product="default">Sbloche cu la tô muse</string>
+    <string name="security_settings_face_enroll_introduction_title" product="desktop">Sbloche cu la tô muse</string>
+    <string name="security_settings_face_preference_title" product="default">Sbloc cu la muse</string>
+    <string name="security_settings_face_profile_preference_title" product="default">Sbloc cu la muse par lavôr</string>
+    <string name="security_settings_face_enroll_education_title" product="default">Cemût configurâ il sbloc cu la muse</string>
+    <string name="security_settings_face_enroll_education_title_accessibility" product="default">Configure il sbloc cu la muse</string>
+    <string name="security_settings_face_enroll_education_accessibility_dialog_message" product="default">Se l\'acès facilitât pal sbloc cu la muse al è disativât, al è pussibil che cualchi passaç de configurazion nol funzioni ben cun TalkBack.</string>
+    <string name="security_settings_face_enroll_should_re_enroll_title" product="default">Miore lis prestazions dal sbloc cu la muse</string>
+    <string name="security_settings_face_enroll_should_re_enroll_subtitle" product="default">Torne configure il sbloc cu la muse</string>
+    <string name="security_settings_face_enroll_must_re_enroll_title" product="default">Torne configure il sbloc cu la muse</string>
+    <string name="security_settings_face_enroll_improve_face_alert_title" product="default">Configure il sbloc cu la muse</string>
+    <string name="security_settings_face_settings_use_face_category" product="default">Dopre il sbloc cu la muse par</string>
+    <string name="security_settings_face_settings_preferences_category" product="default">Cuant doprâ il sbloc cu la muse</string>
+    <string name="security_settings_face_settings_require_confirmation_details" product="default">Domande simpri conferme se al ven doprât il sbloc cu la muse tes aplicazions</string>
+    <string name="security_settings_face_settings_enroll" product="default">Configure il sbloc cu la muse</string>
+    <string name="security_settings_activeunlock_require_face_fingerprint_setup_title" product="default">Prime configure il sbloc cun muse o cun impront</string>
+    <string name="security_settings_activeunlock_require_face_setup_title" product="default">Prime configure il sbloc cu la muse</string>
+    <string name="security_settings_biometric_preference_title" product="default">Sbloc cu la muse e cul impront</string>
+    <string name="security_settings_work_biometric_preference_title" product="default">Sbloc cu la muse e cul impront par lavôr</string>
+    <string name="biometric_settings_add_face_in_split_mode_title" product="default">Impussibil configurâ il sbloc cu la muse</string>
+    <string name="biometric_settings_add_face_in_split_mode_message" product="default">Jes dal schermi dividût par configurâ il sbloc cu la muse</string>
+    <string name="private_space_biometric_title" product="default">Sbloc cu la muse e cul impront</string>
+    <string name="private_space_biometric_unlock_title" product="default">Sbloc cu la muse e cul impront pal spazi privât</string>
+    <string name="private_space_face_title" product="default">Sbloc cu la muse</string>
+    <string name="private_space_face_unlock_title" product="default">Sbloc cu la muse pal spazi privât</string>
+    <string name="private_space_face_enroll_introduction_title" product="default">Configure il sbloc cu la muse pal spazi privât</string>
+    <string name="private_space_face_settings_require_confirmation_details" product="default">Domande simpri conferme se al ven doprât il sbloc cu la muse</string>
+    <string name="face_unlock_skip_face" product="default">Continue cence sbloc cu la muse</string>
+    <string name="unlock_disable_frp_warning_content_face_authbound_keys" product="default">"Il to bloc schermi e il sbloc cu la muse a vignaran gjavâts.<xliff:g id="empty_line">\n\n</xliff:g>La tocjade par paiâ no sarà disponibile.<xliff:g id="empty_line">\n\n</xliff:g>Al è pussibil che tacuin, paiament e altris aplicazions che a àn bisugne de autenticazion, no funzionin ben."</string>
+    <string name="unlock_disable_frp_warning_content_face_fingerprint_authbound_keys" product="default">"Il to bloc schermi e il sbloc cu la muse e cul impront a vignaran gjavâts.<xliff:g id="empty_line">\n\n</xliff:g>La tocjade par paiâ no sarà disponibile.<xliff:g id="empty_line">\n\n</xliff:g>Al è pussibil che tacuin, paiament e altris aplicazions che a àn bisugne de autenticazion, no funzionin ben."</string>
+    <string name="lockpassword_choose_your_password_header_for_face" product="default">Par sblocâ cu la muse, met une password</string>
+    <string name="lockpassword_choose_your_pattern_header_for_face" product="default">Par sblocâ cu la muse, met une cumbinaz.</string>
+    <string name="lockpassword_choose_your_pin_header_for_face" product="default">Par sblocâ cu la muse, stabilìs un PIN</string>
+    <string name="usb_use_file_transfers" product="desktop">Trasferiment files</string>
+</resources>

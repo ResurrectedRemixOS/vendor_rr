@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">අවට ස්ථාන</string>
+    <string name="lookup_settings_label">දුරකථන අංක සෙවීම</string>
+    <string name="enable_forward_lookup_title">ඉදිරි සෙවීම</string>
+    <string name="enable_forward_lookup_summary">ඩයලරයේදී සොයන විට අවට ස්ථාන පෙන්වන්න</string>
+    <string name="enable_reverse_lookup_title">ප්‍රතිලෝම සෙවීම</string>
+    <string name="enable_reverse_lookup_summary">ලැබෙන ඇමතුම්වල නොදන්නා අංක සඳහා පුද්ගලයා හෝ ස්ථානය පිළිබඳ තොරතුරු සොයන්න</string>
+    <string name="forward_lookup_provider_title">ඉදිරි සෙවීමේ සපයන්නා</string>
+    <string name="reverse_lookup_provider_title">ප්‍රතිලෝම සෙවීමේ සපයන්නා</string>
+    <string name="lookup_disclaimer">සෙවීම් තොරතුරු රැස් කිරීමට ආරක්ෂිත ප්‍රොටෝකෝලයක් (https) හරහා දුරස්ථ වෙබ් අඩවිවලට විමසුම් යැවිය හැක. විමසුමට අනික් පාර්ශවයේ දුරකථන අංකය හෝ සෙවුම් පදය ඇතුළත් විය හැක</string>
+</resources>

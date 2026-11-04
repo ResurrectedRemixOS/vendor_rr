@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Nuligi</string>
+    <string name="done">Farite</string>
+    <string name="setup_locale">Lingvo</string>
+    <string name="date_format_day">Tago</string>
+    <string name="date_format_month">Monato</string>
+    <string name="setup_time_zone">Horzono</string>
+    <string name="setup_theme">Etoso</string>
+    <string name="light">Hela</string>
+</resources>

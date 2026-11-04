@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">ခေါ်ဆိုမှု အသံဖမ်းခြင်းကို စတင်၍ မရပါ</string>
+    <string name="call_recording_file_location">ခေါ်ဆိုမှု အသံဖမ်းချက်ကို <xliff:g id="filename">%s</xliff:g> တွင် သိမ်းပြီးပါပြီ</string>
+    <string name="onscreenCallRecordText">ခေါ်ဆိုမှုကို မှတ်တမ်းတင်ရန်</string>
+    <string name="onscreenCallRecordingText">ခေါ်ဆိုမှုကို မှတ်တမ်းတင်နေသည် - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"ရိုက်ကူးမှု ရပ်ရန်"</string>
+    <string name="recording_warning_title">ခေါ်ဆိုမှု မှတ်တမ်းတင်ခြင်းကို ဖွင့်မလား။</string>
+    <string name="recording_warning_text">သတိပြုရန်: ခေါ်ဆိုမှု မှတ်တမ်းတင်ခြင်း ဝန်ဆောင်မှုနှင့် ထိုမှတ်တမ်းများကို အသုံးပြုခြင်း သို့မဟုတ် ဖြန့်ဝေခြင်းတို့နှင့် သက်ဆိုင်သော ဥပဒေ၊ စည်းမျဉ်းနှင့် နည်းဥပဒေများကို လိုက်နာရန် သင်တာဝန်ရှိပါသည်။</string>
+</resources>

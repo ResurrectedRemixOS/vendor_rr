@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_log_show_all_accounts">Барлық аккаунттар</string>
+    <string name="call_log_all_calls_header">Барлық қоңыраулар</string>
+    <string name="call_log_incoming_header">Тек кіріс қоңыраулар</string>
+    <string name="call_log_outgoing_header">Тек шығыс қоңыраулар</string>
+    <string name="call_log_missed_header">Тек өткізіп алынған қоңыраулар</string>
+    <string name="call_log_voicemail_header">Тек дауыстық хабарламасы бар қоңыраулар</string>
+    <string name="call_log_blacklist_header">Тек бөгелген қоңыраулар</string>
+</resources>

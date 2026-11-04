@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="play_recordings">
+        <item quantity="two">रिकॉर्डिंग चलाएं</item>
+        <item quantity="few">रिकॉर्डिंग चलाएं</item>
+        <item quantity="many">रिकॉर्डिंग चलाएं</item>
+        <item quantity="zero">रिकॉर्डिंग चलाएं</item>
+        <item quantity="other">रिकॉर्डिंग चलाएं</item>
+    </plurals>
+    <string name="call_playback_no_app_found_toast">चुनी गई रिकॉर्डिंग चलाने के लिए कोई ऐप नहीं मिला।</string>
+</resources>

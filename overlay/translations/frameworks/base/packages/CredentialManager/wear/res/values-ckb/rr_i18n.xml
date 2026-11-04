@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">پەیوەندییەکانی هێڵ</string>
+    <string name="dialog_dismiss_button">بێدەنگکردن</string>
+    <string name="dialog_continue_button">بەردەوامبوون</string>
+    <string name="provider_list_title">بەڕێوەبردنی چوونەژوورەوەکان</string>
+    <string name="locked_credential_entry_label_subtext_no_sign_in">هیچ زانیارییەکی چوونەژوورەوە نییە</string>
+    <string name="locked_credential_entry_label_subtext_tap_to_unlock">دابگرە بۆ کردنەوەی قوفڵ</string>
+</resources>

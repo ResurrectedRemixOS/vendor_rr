@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="helplines_help_more_message">Zoznam liniek pomoci je napĺňaný informáciami, ktoré manuálne aktualizujú prispievatelia. Ak narazíte na chýbajúce alebo nesprávne informácie, neváhajte nás kontaktovať na adrese <xliff:g id="helplines_contact_url" example="www.lineageos.org">%1$s</xliff:g></string>
+</resources>

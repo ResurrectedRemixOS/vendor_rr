@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="notification_action_cancel">Cealaigh</string>
+    <string name="notification_action_discard">Caith amach</string>
+    <string name="notification_action_reboot_to_dynsystem">Atosaigh</string>
+    <string name="notification_action_reboot_to_origin">Atosaigh</string>
+</resources>

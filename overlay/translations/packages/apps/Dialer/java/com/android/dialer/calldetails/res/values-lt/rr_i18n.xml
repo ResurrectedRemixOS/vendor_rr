@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="play_recordings">
+        <item quantity="one">Groti įrašą</item>
+        <item quantity="few">Groti įrašus</item>
+        <item quantity="many">Groti įrašo</item>
+        <item quantity="other">Groti įrašus</item>
+    </plurals>
+    <string name="call_playback_no_app_found_toast">Pasirinktam įrašui groti nerasta jokios programos.</string>
+</resources>

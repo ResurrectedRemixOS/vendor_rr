@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">Įrenginio apvertimo veiksmas</string>
+    <string name="shake_action_title">Įrenginio pakratymo veiksmas</string>
+    <string-array name="action_setting_entries">
+        <item>Snausti</item>
+        <item>"Atsisakyti"</item>
+        <item>"Nieko"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">Suveikiantys signalai &amp; laikmačiai</string>
+    <string name="alarm_missed_channel">Praleisti signalai</string>
+    <string name="alarm_snooze_channel">Atidėti signalai</string>
+    <string name="alarm_upcoming_channel">Artėjantys signalai</string>
+    <string name="stopwatch_channel">Chronometras</string>
+    <string name="timer_channel">Laikmatis</string>
+    <string name="add_label">Pridėti žymą</string>
+    <string name="dialog_permissions_title">"Leidimai"</string>
+    <string name="dialog_permissions_ask">Klausti dar kartą</string>
+    <string name="dialog_permissions_dismiss">"Atsisakyti"</string>
+    <string name="dialog_permissions_settings">"Nustatymai"</string>
+    <string name="dialog_permissions_power_off_alarm">Be šio leidimo įrenginys negalės savarankiškai įsijungti, kad suveiktų signalas</string>
+    <string name="dialog_permissions_no_permission">Būtini leidimai nesuteikti. Įjunkite juos programoje Nustatymai</string>
+    <string name="dialog_permissions_post_notifications">Ši programa veikia pagal pranešimus. Be jų ji negali veikti!</string>
+    <string name="selected">"Pasirinkta"</string>
+    <string name="more_options">"Daugiau parinkčių"</string>
+    <string name="widget_choice_title">Pasirinkite stilių</string>
+    <string name="widget_name_transparent">Be fono</string>
+    <string name="widget_name_solid">Su fonu</string>
+    <string name="night_mode_enabled_title">"Įgalinta"</string>
+    <string name="night_mode_dnd_title">Sekti Netrukdymo režimo būseną</string>
+    <string name="night_mode_dnd_summary">Nakties režimas seka Netrukdymo režimo būseną</string>
+    <string name="show_ampm_title">Rodyti AM/PM žymeklį</string>
+    <string name="bold_text_title">Paryškinti laikrodžio tekstą</string>
+    <string name="night_mode_brightness_text_title">"Šviesumas"</string>
+    <string name="clock_color_title">"Spalva"</string>
+    <string-array name="clock_color_entries">
+        <item>"Balta"</item>
+        <item>"Raudona"</item>
+        <item>"Žalia"</item>
+        <item>"Mėlyna"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"Ekrano užsklanda"</string>
+    <string name="screensaver_preview">"Peržiūrėti"</string>
+    <string name="screensaver_preview_summary">Iš karto paleidžia ekrano užsklandą</string>
+    <string name="screensaver_change_settings">"Nustatymai"</string>
+    <string name="screensaver_change_settings_summary">Atidaro laikrodžio ekrano užsklandos nustatymus</string>
+    <string name="screensaver_daydream_settings">Pasirinkti / įjungti ekrano užsklandą</string>
+    <string name="screensaver_daydream_settings_summary">Atidaro pagrindinius ekrano užsklandos nustatymus</string>
+</resources>

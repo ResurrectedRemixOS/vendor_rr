@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">পুনৰ আৰম্ভ…</string>
+    <string name="global_action_restart_system">"ছিষ্টেম"</string>
+    <string name="global_action_restart_recovery">"পুনৰুদ্ধাৰ"</string>
+    <string name="global_action_restart_bootloader">বুটলোডাৰ</string>
+    <string name="global_action_restart_download">"ডাউনল’ড কৰক"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"ৰিষ্টাৰ্ট কৰা হৈছে…"</string>
+    <string name="global_action_restart_recovery_progress">ৰিকভাৰী মোডলৈ পুনৰ আৰম্ভ কৰা হৈছে…</string>
+    <string name="global_action_restart_bootloader_progress">বুটলোডাৰ মোডলৈ পুনৰ আৰম্ভ কৰা হৈছে…</string>
+    <string name="global_action_restart_download_progress">ডাউনলোড মোডলৈ পুনৰ আৰম্ভ কৰা হৈছে…</string>
+    <string name="global_action_restart_fastboot_progress">fastbootd মোডলৈ পুনৰ আৰম্ভ কৰা হৈছে…</string>
+    <string name="global_action_current_user">বৰ্তমান</string>
+    <string name="global_action_users">"ব্যৱহাৰকাৰী"</string>
+    <string name="clock">"ঘড়ী"</string>
+    <string name="accessibility_adaptive_brightness">"অভিযোজিত উজ্জ্বলতা"</string>
+    <string name="status_bar_icons_title">স্থিতি দণ্ডৰ আইকন</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD বন্ধ\nবেটাৰী সঞ্চয়</string>
+    <string name="quick_settings_powershare_label">ৱাইৰলেছ PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">ৱাইৰলেছ PowerShare বন্ধ\nবেটাৰী সঞ্চয়</string>
+    <string name="quick_settings_powershare_off_low_battery_label">ৱাইৰলেছ PowerShare বন্ধ\nবেটাৰী অতি কম</string>
+    <string name="quick_settings_powershare_enabled_label">ৱাইৰলেছ PowerShare সক্ৰিয় হৈ আছে</string>
+    <string name="quick_settings_reading_mode">পঢ়া মোড</string>
+    <string name="accessibility_quick_settings_reading_mode_on">পঢ়া মোড অন কৰা হ\'ল।</string>
+    <string name="accessibility_quick_settings_reading_mode_off">পঢ়া মোড বন্ধ কৰা হ\'ল।</string>
+    <string name="quick_settings_vpn_label">"ভিপিএন"</string>
+    <string name="quick_settings_vpn_connect_dialog_title">সংযোগ কৰক…</string>
+    <string name="vpn_credentials_hint"><xliff:g id="name">%s</xliff:g>ৰ সৈতে সংযোগ কৰিবলৈ আপোনাৰ পৰিচয়পত্ৰ দিয়ক</string>
+    <string name="vpn_credentials_username">"ব্যৱহাৰকাৰীৰ নাম"</string>
+    <string name="vpn_credentials_password">"পাছৱৰ্ড"</string>
+    <string name="vpn_credentials_dialog_connect">"সংযোগ কৰক"</string>
+    <string name="status_bar_firewall">ফায়াৰৱাল</string>
+    <string name="battery_notification_channel_tv">বেটাৰী সতৰ্কবাণী</string>
+    <string name="screenshot_delete_label">"মচক"</string>
+    <string name="screenshot_delete_description">স্ক্ৰীনশ্বট মচক</string>
+    <string name="screenrecord_lowquality_label">কম গুণগত মান</string>
+    <string name="screenrecord_lowquality_summary">সৰু ফাইল আকাৰৰ বাবে</string>
+    <string name="screenrecord_longer_timeout_switch_label">বৃহৎ ফাইল আকাৰৰ সীমা</string>
+    <string name="screenrecord_longer_timeout_switch_summary">ৰেকৰ্ডিঙৰ আকাৰ 15 GB লৈ সীমিত কৰক</string>
+    <string name="screenrecord_skip_time_label">স্কিপ টাইমাৰ</string>
+    <string name="screenrecord_skip_time_summary">3 ছেকেণ্ডৰ অপেক্ষা আঁতৰাওক</string>
+    <string name="screenrecord_hevc_switch_label">HEVC এনকোডিং</string>
+    <string name="screenrecord_hevc_switch_summary">অধিক দক্ষ HEVC এনকোডাৰ ব্যৱহাৰ কৰক</string>
+    <string name="zen_alarm_warning_indef">"আপুনি আপোনাৰ পিছৰটো এলাৰ্ম <xliff:g id="WHEN">%1$s</xliff:g> বজাত শুনা নাপাব যদিহে তাৰ আগতে আপুনি এইটো অফ নকৰে"</string>
+</resources>

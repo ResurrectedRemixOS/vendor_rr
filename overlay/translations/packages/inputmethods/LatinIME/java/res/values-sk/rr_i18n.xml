@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material – podľa nastavení systému</string>
+    <string name="number_row">Riadok čísel</string>
+    <string name="number_row_summary">Vždy zobrazovať riadok čísel pre všetky rozloženia, ktoré majú 4 riadky klávesov</string>
+    <string name="number_row_password">Riadok čísel pre heslá</string>
+    <string name="number_row_password_summary">Vždy zobrazovať riadok čísel pre všetky rozloženia s 4 riadkami klávesov pri zadávaní hesla</string>
+    <string name="space_trackpad">Dotyková plocha na medzerníku</string>
+    <string name="space_trackpad_summary">Potiahnutím po medzerníku presuniete kurzor</string>
+    <string name="backspace_trackpad">Dotyková plocha na klávese Backspace</string>
+    <string name="backspace_trackpad_summary">Potiahnutím po klávese Backspace mažete slová</string>
+    <string name="show_longpress_hints">Zobraziť nápovedy pri dlhom stlačení</string>
+    <string name="show_longpress_hints_summary">Zobrazuje nápovedy pri dlhom stlačení podporovaných klávesov</string>
+    <string name="show_emoji_key">Zobraziť kláves emoji</string>
+    <string name="show_emoji_key_summary">Kláves emoji sa bude zobrazovať vždy. Keď je táto možnosť zapnutá, kláves na prepínanie jazyka sa nemôže zobraziť.</string>
+    <string name="enable_split_keyboard_summary">Iba na šírku</string>
+    <string name="split_keyboard_duplicate_keys">Duplikovať stredné klávesy</string>
+    <string name="split_keyboard_duplicate_keys_summary">Zobraziť klávesy blízko stredu na oboch polovicách</string>
+    <string name="spoken_description_split_keyboard">Rozdelená klávesnica</string>
+    <string name="spoken_description_merge_keyboard">Zlúčiť klávesnicu</string>
+    <string name="spoken_description_float_keyboard">Plávajúca klávesnica</string>
+    <string name="spoken_description_dock_keyboard">Ukotvená klávesnica</string>
+    <string name="floating_keyboard_drag_handle">Presunúť klávesnicu</string>
+    <string name="floating_keyboard_resize_handle">Zmeniť veľkosť klávesnice</string>
+    <string name="floating_keyboard_reset">"Resetovať"</string>
+    <string name="floating_keyboard_hide">Skryť klávesnicu</string>
+    <string name="floating_keyboard_switch_ime">"Prepnúť metódu vstupu"</string>
+</resources>

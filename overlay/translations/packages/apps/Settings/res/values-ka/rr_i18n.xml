@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ნაგულისხმევი"</item>
+        <item>ცელსიუსი</item>
+        <item>ფარენჰეითი</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ნაგულისხმევი"</item>
+        <item>კვ</item>
+        <item>ორშ</item>
+        <item>სამ</item>
+        <item>ოთხ</item>
+        <item>ხუთ</item>
+        <item>პარ</item>
+        <item>შაბ</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ნაგულისხმევი"</item>
+        <item>მეტრული</item>
+        <item>აშშ სისტემა</item>
+        <item>დიდი ბრიტანეთის სისტემა</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"არ არის მითითებული"</item>
+        <item>"ნეიტრალური"</item>
+        <item>"მდედრობითი"</item>
+        <item>"მამრობითი"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>ფრ</item>
+        <item>ეს</item>
+        <item>იტ</item>
+        <item>დე</item>
+    </string-array>
+    <string name="battery_technology">ტექნოლოგია</string>
+    <string name="battery_health">"მდგომარეობა"</string>
+    <string name="battery_health_good">"კარგი"</string>
+    <string name="battery_health_overheat">"გადახურებული"</string>
+    <string name="battery_health_dead">"ცარიელი"</string>
+    <string name="battery_health_over_voltage">"ჭარბი ძაბვა"</string>
+    <string name="battery_health_unspecified_failure">უცნობი შეცდომა</string>
+    <string name="battery_health_cold">"ცივი"</string>
+    <string name="battery_health_unknown">"უცნობი"</string>
+    <string name="battery_temperature">"ტემპერატურა"</string>
+    <string name="battery_voltage">ძაბვა</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">საპროექტო ტევადობა</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">მაქსიმალური ტევადობა</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">დაკეცეთ ტელეფონი დაყენებისას</string>
+    <string name="face_enrolling_close_to_continue_description">სახის ამოცნობით განბლოკვის დასაყენებლად ან გამოსაყენებლად ტელეფონი უნდა იყოს დაკეცილი</string>
+    <string name="face_enrolling_do_it_later">"მოგვიანებით გაკეთება"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM ინსტრუმენტები</string>
+    <string name="platform_compat_target_sdk_title">ჩართულია targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g>-ისთვის</string>
+    <string name="personal_context_title">პერსონალური კონტექსტის მმართველი</string>
+</resources>

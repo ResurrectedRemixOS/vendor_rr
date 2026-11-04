@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Mantiqiy qiymat.</string>
+    <string name="any_int_type_description">Butun son qiymati.</string>
+    <string name="any_string_type_description">Matn qiymati.</string>
+    <string name="display_id_type_description">Tizim displeyi identifikatori (konfiguratsiyaga ko‘ra ichki yoki tashqi bo‘lishi mumkin).</string>
+    <string name="installed_package_name_type_description">Qurilmaga o‘rnatilgan har qanday paket.</string>
+    <string name="int_in_range_type_description_from">%1$d dan katta yoki teng butun son, qadam %2$d.</string>
+    <string name="int_in_range_type_description_to">%1$d dan kichik yoki teng butun son, qadam %2$d.</string>
+    <string name="int_in_range_type_description_between">[%1$d, %2$d] oralig‘idagi butun son, qadam %3$d.</string>
+    <string name="time_of_day_type_description">24 soatlik HH:mm formatidagi vaqt.</string>
+    <string name="time_duration_type_description">Soniyagacha aniqlikdagi butun son ko‘rinishidagi vaqt davomiyligi.</string>
+    <string name="sim_slot_id_type_description">To‘g‘ri SIM slot identifikatori.</string>
+    <string name="subscription_id_type_description">To‘g‘ri obuna identifikatori.</string>
+    <string name="wifi_ssid_type_description">Wi‑Fi tarmog‘ining SSID nomi.</string>
+</resources>

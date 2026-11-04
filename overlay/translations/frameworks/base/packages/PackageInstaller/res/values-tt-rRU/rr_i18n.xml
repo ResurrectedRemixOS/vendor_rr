@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Баш тарту</string>
+    <string name="archive">Архив</string>
+    <string name="app_name_unknown">Билгесез</string>
+    <string name="anonymous_source_continue">Дәвам итү</string>
+    <string name="external_sources_settings">Көйләүләр</string>
+    <string name="unarchive_action_required_continue">Дәвам итү</string>
+    <string name="unarchive_clear_storage_button">Урынны чистарту</string>
+    <string name="unarchive_settings_button">Көйләүләр</string>
+    <string name="title_uninstall_app_not_found">Кушымта табылмады</string>
+    <string name="button_update">Яңарту</string>
+    <string name="button_cancel">Баш тарту</string>
+    <string name="button_continue">Дәвам итү</string>
+    <string name="button_manage_apps">Кушымталарны идарә итү</string>
+    <string name="button_archive">Архив</string>
+    <string name="button_settings">Көйләүләр</string>
+    <string name="button_retry">Кабатлау</string>
+</resources>

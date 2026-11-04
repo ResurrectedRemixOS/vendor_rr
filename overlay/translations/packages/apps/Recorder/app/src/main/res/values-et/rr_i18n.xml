@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Helisalvestaja</string>
+    <string name="share">"Jaga"</string>
+    <string name="share_selected">Jaga valitud</string>
+    <string name="stop">"Peata"</string>
+    <string name="play">Esita</string>
+    <string name="delete">"Kustuta"</string>
+    <string name="delete_all">Kustuta kõik</string>
+    <string name="delete_selected">Kustuta valitud</string>
+    <string name="cancel">"Tühista"</string>
+    <string name="delete_title">Salvestise kustutamine</string>
+    <string name="confirm">"Kinnita"</string>
+    <string name="discard">"Loobu"</string>
+    <string name="record_again">Salvesta uuesti</string>
+    <string name="confirm_result_title">Kas kasutada salvestist?</string>
+    <string name="confirm_result_message">Kas soovid kasutada viimast salvestist?</string>
+    <string name="sound_notification_title">Helisalvestaja</string>
+    <string name="sound_notification_message">Heli pikkus: %1$s</string>
+    <string name="sound_recording_title_working">Salvestamine</string>
+    <string name="sound_last_title">Viimane salvestis</string>
+    <string name="dialog_permissions_title">"Load"</string>
+    <string name="dialog_permissions_mic">Helisalvestaja vajab helisalvestamiseks mikrofoni luba</string>
+    <string name="dialog_permissions_phone">Helisalvestaja vajab juurdepääsu telefoni olekule, et takistada rakendusel salvestamist kõne ajal</string>
+    <string name="dialog_permissions_notifications">Helisalvestaja vajab salvestuse juhtelementide kuvamiseks märguannete luba</string>
+    <string name="dialog_permissions_mic_phone">Helisalvestaja vajab helisalvestamiseks mikrofoni luba ning juurdepääsu telefoni olekule, et takistada rakendusel salvestamist kõne ajal</string>
+    <string name="dialog_permissions_mic_notifications">Helisalvestaja vajab helisalvestamiseks mikrofoni luba ning märguannete luba salvestuse juhtelementide kuvamiseks</string>
+    <string name="dialog_permissions_phone_notifications">Helisalvestaja vajab juurdepääsu telefoni olekule, et takistada rakendusel salvestamist kõne ajal, ning märguannete luba salvestuse juhtelementide kuvamiseks</string>
+    <string name="dialog_permissions_mic_phone_notifications">Helisalvestaja vajab helisalvestamiseks mikrofoni luba, juurdepääsu telefoni olekule, et takistada rakendusel salvestamist kõne ajal, ning märguannete luba salvestuse juhtelementide kuvamiseks</string>
+    <string name="dialog_permissions_location">Helisalvestaja vajab asukohaluba, et salvestisi automaatselt märgistada ja neid korrastada</string>
+    <string name="dialog_permissions_ask">Küsi uuesti</string>
+    <string name="dialog_permissions_dismiss">"Loobu"</string>
+    <string name="snack_permissions_no_permission">Vajalikud load keelati. Salvestamise alustamiseks luba need seadete rakenduses</string>
+    <string name="main_sound_action">Salvesta heli</string>
+    <string name="delete_all_title">Kustuta kõik</string>
+    <string name="delete_all_message">Kas oled kindel, et soovid kõik salvestised kustutada? Seda ei saa tagasi võtta</string>
+    <string name="delete_selected_title">Kustuta valitud</string>
+    <string name="delete_selected_message">Kas oled kindel, et soovid valitud salvestised kustutada? Seda ei saa tagasi võtta</string>
+    <plurals name="recording_selection_count">
+        <item quantity="one">%d valitud</item>
+        <item quantity="other">%d valitud</item>
+    </plurals>
+</resources>

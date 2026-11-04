@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bue_color_name">Lavendel</string>
+    <string name="red_color_name">Bes</string>
+    <string name="wht_color_name">Mist</string>
+    <string name="indigo_color_name">Indigo</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Jade</string>
+    <string name="lemongrass_color_name">Citroengras</string>
+    <string name="moonstone_color_name">Maansteen</string>
+    <string name="obsidian_color_name">Obsidiaan</string>
+    <string name="peony_color_name">Pioen</string>
+    <string name="porcelain_color_name">Porselein</string>
+    <string name="fruit1_color_name">Tweekleurenpalet geel en rood</string>
+    <string name="fruit2_color_name">Tweekleurenpalet groen en oranje</string>
+    <string name="fruit3_color_name">Tweekleurenpalet blauw en groen</string>
+    <string name="fruit4_color_name">Tweekleurenpalet lichtpaars en blauw</string>
+    <string name="fruit5_color_name">Tweekleurenpalet roze en indigo</string>
+</resources>

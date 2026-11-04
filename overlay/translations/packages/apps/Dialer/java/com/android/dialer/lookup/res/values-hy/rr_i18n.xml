@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">Մոտակա վայրեր</string>
+    <string name="lookup_settings_label">Հեռախոսահամարի որոնում</string>
+    <string name="enable_forward_lookup_title">Ուղիղ որոնում</string>
+    <string name="enable_forward_lookup_summary">Ցույց տալ մոտակա վայրերը հեղինակավորման ժամանակ</string>
+    <string name="enable_reverse_lookup_title">Հակադարձ որոնում</string>
+    <string name="enable_reverse_lookup_summary">Անհայտ համարներից մուտքային զանգերի ժամանակ որոնել անձի կամ վայրի մասին տեղեկություններ</string>
+    <string name="forward_lookup_provider_title">Ուղիղ որոնման մատակարար</string>
+    <string name="reverse_lookup_provider_title">Հակադարձ որոնման մատակարար</string>
+    <string name="lookup_disclaimer">Որոնումները կարող են տեղեկություն հավաքելու համար հարցումներ ուղարկել հեռավոր կայքեր անվտանգ արձանագրությամբ (https)։ Հարցումը կարող է ներառել մյուս կողմի հեռախոսահամարը կամ որոնման տեքստը</string>
+</resources>

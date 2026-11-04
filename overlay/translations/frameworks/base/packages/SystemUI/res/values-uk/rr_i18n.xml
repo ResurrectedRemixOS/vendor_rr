@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">"Адаптивна яскравість"</string>
+    <string name="status_bar_icons_title">Значки в рядку стану</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD вимкнено\nРежим економії заряду</string>
+    <string name="quick_settings_powershare_label">Wireless PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Wireless PowerShare вимкнено\nРежим економії заряду</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Wireless PowerShare вимкнено\nРівень заряду занадто низький</string>
+    <string name="quick_settings_powershare_enabled_label">Wireless PowerShare увімкнено</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Підключитися до…</string>
+    <string name="status_bar_firewall">Брандмауер</string>
+    <string name="battery_notification_channel_tv">Попередження про заряд батареї</string>
+    <string name="screenrecord_lowquality_label">Нижча якість</string>
+    <string name="screenrecord_lowquality_summary">Менший розмір файлу</string>
+    <string name="screenrecord_longer_timeout_switch_label">Більший ліміт розміру файлу</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Обмежити розмір запису 15 ГБ</string>
+    <string name="screenrecord_skip_time_label">Пропустити таймер</string>
+    <string name="screenrecord_skip_time_summary">Прибрати 3-секундну затримку</string>
+    <string name="screenrecord_hevc_switch_label">Кодування HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Використовувати ефективніший кодувальник HEVC</string>
+    <string name="accessibility_battery_level_battery_saver_with_percent">Заряд батареї <xliff:g id="number">%d</xliff:g> відсотків. Режим економії заряду увімкнено.</string>
+    <string name="zen_alarm_warning_indef">"Наступний сигнал <xliff:g id="WHEN">%1$s</xliff:g> не пролунає, якщо ви до того часу не вимкнете цю функцію"</string>
+</resources>

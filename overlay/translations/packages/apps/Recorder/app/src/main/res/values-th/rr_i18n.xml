@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="delete_recording_message">คุณแน่ใจหรือไม่ว่าต้องการลบการบันทึกนี้ การดำเนินการนี้ไม่สามารถยกเลิกได้</string>
+    <string name="confirm_result_title">ใช้การบันทึกนี้หรือไม่</string>
+    <string name="confirm_result_message">คุณต้องการใช้การบันทึกล่าสุดหรือไม่</string>
+    <string name="settings_location_message">ติดแท็กการบันทึกด้วยตำแหน่งปัจจุบันของคุณ</string>
+    <string name="settings_quality_high">บันทึกในคุณภาพสูง</string>
+    <string name="dialog_permissions_phone">เครื่องบันทึกต้องการสิทธิ์เข้าถึงสถานะโทรศัพท์เพื่อป้องกันไม่ให้แอปนี้บันทึกขณะที่คุณกำลังโทรอยู่</string>
+    <string name="dialog_permissions_notifications">เครื่องบันทึกต้องการสิทธิ์การแจ้งเตือนเพื่อแสดงตัวควบคุมการบันทึก</string>
+    <string name="dialog_permissions_mic_phone">เครื่องบันทึกต้องการสิทธิ์ไมโครโฟนเพื่อบันทึกเสียง และสิทธิ์เข้าถึงสถานะโทรศัพท์เพื่อป้องกันไม่ให้แอปนี้บันทึกขณะที่คุณกำลังโทรอยู่</string>
+    <string name="dialog_permissions_mic_notifications">เครื่องบันทึกต้องการสิทธิ์ไมโครโฟนเพื่อบันทึกเสียง และสิทธิ์การแจ้งเตือนเพื่อแสดงตัวควบคุมการบันทึก</string>
+    <string name="dialog_permissions_phone_notifications">เครื่องบันทึกต้องการสิทธิ์เข้าถึงสถานะโทรศัพท์เพื่อป้องกันไม่ให้แอปนี้บันทึกขณะที่คุณกำลังโทรอยู่ และสิทธิ์การแจ้งเตือนเพื่อแสดงตัวควบคุมการบันทึก</string>
+    <string name="dialog_permissions_mic_phone_notifications">เครื่องบันทึกต้องการสิทธิ์ไมโครโฟนเพื่อบันทึกเสียง สิทธิ์เข้าถึงสถานะโทรศัพท์เพื่อป้องกันไม่ให้แอปนี้บันทึกขณะที่คุณกำลังโทรอยู่ และสิทธิ์การแจ้งเตือนเพื่อแสดงตัวควบคุมการบันทึก</string>
+    <string name="dialog_permissions_location">เครื่องบันทึกต้องการสิทธิ์เข้าถึงตำแหน่งเพื่อติดแท็กการบันทึกโดยอัตโนมัติ ช่วยให้จัดระเบียบได้ง่ายขึ้น</string>
+    <string name="snack_permissions_no_permission">ไม่ได้รับสิทธิ์ที่จำเป็น เปิดใช้งานได้จากแอปการตั้งค่าเพื่อเริ่มการบันทึก</string>
+    <string name="snack_permissions_no_permission_location">ไม่ได้รับสิทธิ์เข้าถึงตำแหน่ง เปิดใช้งานได้จากแอปการตั้งค่าเพื่อติดแท็กการบันทึกของคุณ</string>
+    <string name="list_error_empty">การบันทึกทั้งหมดของคุณจะแสดงที่นี่</string>
+    <string name="list_edit_confirm">"เปลี่ยน"</string>
+    <string name="delete_all_message">คุณแน่ใจหรือไม่ว่าต้องการลบการบันทึกทั้งหมด การดำเนินการนี้ไม่สามารถยกเลิกได้</string>
+    <string name="delete_selected_message">คุณแน่ใจหรือไม่ว่าต้องการลบการบันทึกที่เลือก การดำเนินการนี้ไม่สามารถยกเลิกได้</string>
+    <plurals name="recording_selection_count">
+        <item quantity="one">เลือกแล้ว %d รายการ</item>
+        <item quantity="two">เลือกแล้ว %d รายการ</item>
+        <item quantity="few">เลือกแล้ว %d รายการ</item>
+        <item quantity="many">เลือกแล้ว %d รายการ</item>
+        <item quantity="zero">เลือกแล้ว %d รายการ</item>
+        <item quantity="other">เลือกแล้ว %d รายการ</item>
+    </plurals>
+</resources>

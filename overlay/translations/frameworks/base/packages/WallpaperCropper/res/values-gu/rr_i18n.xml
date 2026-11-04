@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="crop_wallpaper">વૉલપેપર કાપો</string>
+    <string name="wallpaper_instructions">"વૉલપેપર સેટ કરો"</string>
+    <string name="wallpaper_load_fail">છબીને વૉલપેપર તરીકે લોડ કરી શકાઈ નહીં</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">مادي - اتبع إعدادات النظام</string>
+    <string name="number_row">صف الأرقام</string>
+    <string name="number_row_summary">إظهار صف أرقام دائمًا لجميع التخطيطات التي تحتوي على 4 صفوف من المفاتيح</string>
+    <string name="number_row_password">صف الأرقام لكلمات المرور</string>
+    <string name="number_row_password_summary">إظهار صف أرقام دائمًا لجميع التخطيطات التي تحتوي على 4 صفوف من المفاتيح عند إدخال كلمات المرور</string>
+    <string name="space_trackpad">لوحة تتبع مسطرة المسافة</string>
+    <string name="space_trackpad_summary">اسحب على مفتاح المسافة لتحريك المؤشر</string>
+    <string name="backspace_trackpad">لوحة تتبع مفتاح الحذف</string>
+    <string name="backspace_trackpad_summary">اسحب على مفتاح الحذف لحذف الكلمات</string>
+    <string name="show_longpress_hints">إظهار تلميحات الضغط المطوّل على المفاتيح</string>
+    <string name="show_longpress_hints_summary">يعرض تلميحات الضغط المطوّل للمفاتيح المدعومة</string>
+    <string name="show_emoji_key">إظهار مفتاح الرموز التعبيرية</string>
+    <string name="show_emoji_key_summary">إظهار مفتاح الرموز التعبيرية دائمًا. عند تفعيل هذا الخيار، لا يمكن عرض مفتاح تبديل اللغة.</string>
+    <string name="enable_split_keyboard_summary">في الوضع الأفقي فقط</string>
+    <string name="split_keyboard_duplicate_keys">تكرار المفاتيح الوسطى</string>
+    <string name="split_keyboard_duplicate_keys_summary">إظهار المفاتيح القريبة من المنتصف في الجانبين</string>
+    <string name="spoken_description_split_keyboard">تقسيم لوحة المفاتيح</string>
+    <string name="spoken_description_merge_keyboard">دمج لوحة المفاتيح</string>
+    <string name="spoken_description_float_keyboard">تعويم لوحة المفاتيح</string>
+    <string name="spoken_description_dock_keyboard">تثبيت لوحة المفاتيح</string>
+    <string name="floating_keyboard_drag_handle">نقل لوحة المفاتيح</string>
+    <string name="floating_keyboard_resize_handle">تغيير حجم لوحة المفاتيح</string>
+    <string name="floating_keyboard_reset">"إعادة الضبط"</string>
+    <string name="floating_keyboard_hide">إخفاء لوحة المفاتيح</string>
+    <string name="floating_keyboard_switch_ime">"تبديل أسلوب الإدخال"</string>
+</resources>

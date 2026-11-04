@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">የመገለጫዎች የመተማመን አቅራቢ</string>
+    <string name="profile_picker_title">"መገለጫዎች"</string>
+    <string name="profile_none">"ምንም"</string>
+    <string name="profile_trust_agent_title">የመገለጫዎች የመተማመን ወኪል</string>
+    <string name="profile_trust_agent_summary">መገለጫዎች የማያ ገጽ ቁልፍ ጥበቃን ለጊዜው እንዲያጠፉ ይፈቅዳል</string>
+    <string name="trust_by_profile">በመገለጫ የታመነ</string>
+</resources>

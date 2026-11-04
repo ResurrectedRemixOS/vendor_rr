@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">Annulearje</string>
+    <string name="finish">Foltôgje</string>
+    <string name="date_format_day">Oerdei</string>
+    <string name="date_format_month">Moanne</string>
+</resources>

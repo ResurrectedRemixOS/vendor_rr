@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="assistant_label">Cúntóir</string>
+    <string name="assistant_utterance">Cúntóir</string>
+    <string name="power_utterance">Roghanna cumhachta</string>
+    <string name="recent_apps_label">Aipeanna le déanaí</string>
+    <string name="lockscreen_label">Scáileán glasála</string>
+    <string name="quick_settings_label">Socruithe Tapa</string>
+    <string name="notifications_label">Fógraí</string>
+    <string name="screenshot_label">Seat scáileáin</string>
+    <string name="pref_help_title">Cabhrú</string>
+</resources>

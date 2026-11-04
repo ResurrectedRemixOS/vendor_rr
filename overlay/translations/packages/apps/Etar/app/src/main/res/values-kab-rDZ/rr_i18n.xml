@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="today_at_time_fmt">Ass-a ɣef <xliff:g id="time_interval">%s</xliff:g></string>
+    <string name="tomorrow_at_time_fmt">Azekka ɣef <xliff:g id="time_interval">%s</xliff:g></string>
+    <string name="no_title_label">(war azwel)</string>
+    <string name="no_reminder_label">Ulac</string>
+    <string name="no_snooze_label">Ulac</string>
+    <string name="menu_info">Talɣut</string>
+    <string name="reminders_label">Rnu yiwen n usmekti</string>
+    <string name="no_syncable_calendars">Ulac iwitayen</string>
+    <string name="add_calendar">Rnu awitay</string>
+    <string name="view_event_calendar_label">Awitay:</string>
+    <string name="calendar_color_picker_dialog_title">Ini n uwitay</string>
+    <string name="calendar_square_color_picker_description">Fren ini</string>
+    <string name="response_maybe">Ahat</string>
+    <string name="event_info_reminders_label">Ismektiyen</string>
+    <string name="duplicate_label">Sisleg</string>
+    <string name="preferences_system_theme">Amezwer n unagraw</string>
+    <string name="accessibility_add_reminder">Rnu yiwen n usmekti</string>
+    <string name="four_days">4 n wussan</string>
+    <string name="five_days">5 n wussan</string>
+    <string name="six_days">6 n wussan</string>
+    <string name="seven_days">7 n wussan</string>
+    <string name="preferences_calendar_account">Amiḍan %1$s</string>
+    <string name="preferences_calendar_delete">Kkes awitay</string>
+    <string name="preferences_calendar_delete_delete">Kkes awitay</string>
+    <string name="preferences_list_add_remote">Rnu yiwen n uwitay n CalDAV</string>
+    <string name="preferences_list_add_remote_etesync">Rnu yiwen n uwitay n EteSync</string>
+    <string name="preferences_list_add_offline">Rnu yiwen n uwitay bu war tuqqna</string>
+    <string name="preferences_list_add_offline_title">Rnu yiwen n uwitay bu war tuqqna</string>
+    <string name="preferences_menu_about">Ɣef Etar</string>
+    <string name="offline_account_name">Awitay bu war tuqqna</string>
+    <string name="calendars">Iwitayen</string>
+    <string name="discard">Sefsex</string>
+    <string name="hint_time_zone_search">Aru isem n tmurt</string>
+    <string name="searchview_description_clear">Sfeḍ tuttra</string>
+    <string name="no_results_found">Ulac igmaḍ yettwafen</string>
+    <string name="palestine_display_name">Falasṭin</string>
+    <string name="copy_email">Nɣel tansa n yimayl</string>
+    <string name="copy_number">Nɣel uṭṭun n tiliɣri</string>
+    <string name="action_label">Uγal</string>
+    <string name="chips_action_copy">Nγel</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="dialog_permissions_title">Issirgen</string>
+    <string name="dialog_permissions_ask">Ssuter tikkelt-nniḍen</string>
+    <string name="dialog_permissions_settings">Iɣewwaṛen</string>
+    <string name="more_options">Ugar n iɣewwaṛen</string>
+    <string name="night_mode_enabled_title">Irmed</string>
+    <string name="night_mode_brightness_text_title">Abruṛeq</string>
+    <string name="clock_color_title">Ini</string>
+    <string-array name="clock_color_entries">
+        <item>Amellal</item>
+        <item>Azeggaɣ</item>
+        <item>Adal</item>
+        <item>Azegzaw</item>
+    </string-array>
+    <string name="screensaver_preview">Timeẓriwt</string>
+    <string name="screensaver_change_settings">Iɣewwaṛen</string>
+</resources>

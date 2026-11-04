@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_expand">Ismànnia</string>
+    <string name="pip_phone_settings">Cunfiguratziones</string>
+    <string name="pip_menu_title">Menù</string>
+    <string name="accessibility_action_pip_resize">Torra a cunfigurare sa mannària</string>
+    <string name="bubble_overflow_button_content_description">Subraposta</string>
+    <string name="bubble_content_description_single"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> dae <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="bubble_accessibility_action_move_bar_left">Isposta a manca</string>
+    <string name="bubble_accessibility_action_move_bar_right">Isposta a dereta</string>
+    <string name="bubbles_user_education_got_it">AB</string>
+    <string name="notification_bubble_title">Abbajolu</string>
+    <string name="manage_bubbles_text">Gesti</string>
+    <string name="user_aspect_ratio_settings_button_description">Modifica is proportziones de aspetu</string>
+    <string name="letterbox_education_got_it">AB</string>
+    <string name="letterbox_restart_cancel">Annulla</string>
+    <string name="letterbox_restart_restart">Torra a aviare</string>
+    <string name="back_button_text">In segus</string>
+    <string name="more_button_text">Àteru</string>
+    <string name="screenshot_text">Ischermada</string>
+    <string name="new_window_text">Ventana noa</string>
+    <string name="manage_windows_text">Gesti is ventanas</string>
+    <string name="change_aspect_ratio_text">Modifica is proportziones de aspetu</string>
+    <string name="desktop_mode_layout_menu_snap_text">Torra a cunfigurare sa mannària</string>
+    <string name="desktop_mode_layout_menu_immersive_restore_button_text">Riprìstina</string>
+    <string name="desktop_mode_layout_menu_maximize_button_text">Massimiza</string>
+    <string name="desktop_mode_layout_menu_restore_button_text">Riprìstina</string>
+    <string name="open_by_default_dialog_subheader_text">Sèbera comente abèrrere is ligòngios pro custa aplicatzione</string>
+    <string name="open_by_default_dialog_in_app_text">In s\'aplicatzione</string>
+    <string name="open_by_default_dialog_in_browser_text">In su navigadore</string>
+    <string name="open_by_default_dialog_dismiss_button_text">AB</string>
+    <string name="open_by_default_splash_dialog_checkbox_text">Regorda su sèberu meu</string>
+    <string name="pip_fullscreen">Ischermu intreu</string>
+    <string name="pip_move">Tràmuda</string>
+    <string name="pip_expand">Ismànnia</string>
+    <string name="pip_collapse">Cuntrae</string>
+    <string name="a11y_action_pip_move_left">Isposta a manca</string>
+    <string name="a11y_action_pip_move_right">Isposta a dereta</string>
+    <string name="a11y_action_pip_move_done">Fatu</string>
+</resources>

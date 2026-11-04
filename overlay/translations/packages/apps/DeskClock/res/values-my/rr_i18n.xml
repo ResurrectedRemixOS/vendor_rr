@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">စက်ကို လှန်ခြင်းလုပ်ဆောင်ချက်</string>
+    <string name="shake_action_title">စက်ကို ခါခြင်းလုပ်ဆောင်ချက်</string>
+    <string-array name="action_setting_entries">
+        <item>မှေးရန်</item>
+        <item>"ပယ်ရန်"</item>
+        <item>"တခုမှမရှိ"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">နှိုးစက်များနှင့် တိုင်မာများ ဖွင့်နေသည်</string>
+    <string name="alarm_missed_channel">လွတ်သွားသော နှိုးစက်များ</string>
+    <string name="alarm_snooze_channel">ရွှေ့ထားသော နှိုးစက်များ</string>
+    <string name="alarm_upcoming_channel">လာမည့် နှိုးစက်များ</string>
+    <string name="stopwatch_channel">အချိန်ဖမ်းနာရီ</string>
+    <string name="timer_channel">တိုင်မာ</string>
+    <string name="add_label">တံဆိပ်ထည့်ရန်</string>
+    <string name="dialog_permissions_title">"ခွင့်ပြုချက်များ"</string>
+    <string name="dialog_permissions_ask">ထပ်မေးရန်</string>
+    <string name="dialog_permissions_dismiss">"ပယ်ရန်"</string>
+    <string name="dialog_permissions_settings">"ဆက်တင်များ"</string>
+    <string name="dialog_permissions_power_off_alarm">ဤခွင့်ပြုချက်မရှိပါက နှိုးစက်အတွက် စက်ကိုယ်တိုင် ဖွင့်နိုင်မည်မဟုတ်ပါ</string>
+    <string name="dialog_permissions_no_permission">လိုအပ်သော ခွင့်ပြုချက်များကို ငြင်းပယ်ထားသည်၊ ဆက်တင်များ အက်ပ်မှ ဖွင့်ပေးပါ</string>
+    <string name="dialog_permissions_post_notifications">ဤအက်ပ်သည် အကြောင်းကြားချက်များကို အားထားသည်။ ၎င်းတို့မရှိပါက ဤအက်ပ်ကို လည်ပတ်၍ မရပါ!</string>
+    <string name="selected">"ရွေးထားသည်"</string>
+    <string name="more_options">"နောက်ထပ် ရွေးစရာများ"</string>
+    <string name="widget_choice_title">သင့်စတိုင်ကို ရွေးပါ</string>
+    <string name="widget_name_transparent">အရန်မသိမ်းထား</string>
+    <string name="widget_name_solid">အရန်သိမ်းထား</string>
+    <string name="night_mode_enabled_title">"ဖွင့်ထားသည်"</string>
+    <string name="night_mode_dnd_title">DND အခြေအနေကို လိုက်နာရန်</string>
+    <string name="night_mode_dnd_summary">ည်ဆိုးမုဒ်သည် မနှောင့်ယှက်ရ အခြေအနေကို လိုက်နာသည်</string>
+    <string name="show_ampm_title">AM/PM ညွှန်ပြချက်ကို ပြရန်</string>
+    <string name="bold_text_title">နာရီစာသားကို ထူပြင်းစေရန်</string>
+    <string name="night_mode_brightness_text_title">"အလင်းတောက်ပမှု"</string>
+    <string name="clock_color_title">"အရောင်"</string>
+    <string-array name="clock_color_entries">
+        <item>"အဖြူ"</item>
+        <item>"အနီ"</item>
+        <item>"အစိမ်း"</item>
+        <item>"အပြာ"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"စခရင်နားချိန်ပုံ"</string>
+    <string name="screensaver_preview">"အစမ်းကြည့်ရန်"</string>
+    <string name="screensaver_preview_summary">စခရင်ကာကွယ်စနစ်ကို ချက်ချင်း စတင်ရန်</string>
+    <string name="screensaver_change_settings">"ဆက်တင်များ"</string>
+    <string name="screensaver_change_settings_summary">နာရီ၏ စခရင်ကာကွယ်စနစ် ဆက်တင်များကို ဖွင့်ရန်</string>
+    <string name="screensaver_daydream_settings">စခရင်ကာကွယ်စနစ်ကို ရွေးရန်/ဖွင့်ရန်</string>
+    <string name="screensaver_daydream_settings_summary">အဓိက စခရင်ကာကွယ်စနစ် ဆက်တင်များကို ဖွင့်ရန်</string>
+</resources>

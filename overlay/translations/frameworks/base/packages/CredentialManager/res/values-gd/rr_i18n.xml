@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="string_cancel">Sguir dheth</string>
+    <string name="string_continue">Air adhart</string>
+    <string name="string_learn_more">Barrachd fiosrachaidh</string>
+    <string name="content_description_show_password">Seall am facal-faire</string>
+    <string name="password">password;facal-faire</string>
+    <string name="settings">Roghainnean</string>
+    <string name="accessibility_snackbar_dismiss">Leig seachad</string>
+    <string name="get_dialog_button_label_continue">Air adhart</string>
+    <string name="more_options_content_description">Barrachd</string>
+</resources>

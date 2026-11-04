@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="menu_show_system">Taispeáin an córas</string>
+    <string name="menu_hide_system">Folaigh an córas</string>
+    <string name="app_permission_summary_allowed">Ceadaithe</string>
+    <string name="app_permission_summary_not_allowed">Ní cheadaítear</string>
+    <string name="version_text">leagan <xliff:g id="version_num">%1$s</xliff:g></string>
+</resources>

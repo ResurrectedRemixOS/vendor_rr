@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">ክላሲክ</string>
+    <string name="bundle1_color_name">ካርቦን</string>
+    <string name="bundle2_color_name">ወረቀት</string>
+    <string name="bundle3_color_name">ፀሐይ</string>
+    <string name="bue_color_name">ላቬንደር</string>
+    <string name="red_color_name">ቤሪ</string>
+    <string name="wht_color_name">ጭጋግ</string>
+    <string name="indigo_color_name">"ሐምራዊ"</string>
+    <string name="iris_color_name">አይሪስ</string>
+    <string name="jade_color_name">ጃድ</string>
+    <string name="lemongrass_color_name">ሎሚ ሳር</string>
+    <string name="moonstone_color_name">ሙንስቶን</string>
+    <string name="obsidian_color_name">ኦብሲዲያን</string>
+    <string name="peony_color_name">ፒዮኒ</string>
+    <string name="porcelain_color_name">ፖርሴሊን</string>
+    <string name="fruit1_color_name">ቢጫ እና ቀይ ባለ ሁለት ቀለም ቤተ-ቀለም</string>
+    <string name="fruit2_color_name">አረንጓዴ እና ብርቱካናማ ባለ ሁለት ቀለም ቤተ-ቀለም</string>
+    <string name="fruit3_color_name">ሰማያዊ እና አረንጓዴ ባለ ሁለት ቀለም ቤተ-ቀለም</string>
+    <string name="fruit4_color_name">ቀላል ሐምራዊ እና ሰማያዊ ባለ ሁለት ቀለም ቤተ-ቀለም</string>
+    <string name="fruit5_color_name">ሮዝ እና ኢንዲጎ ባለ ሁለት ቀለም ቤተ-ቀለም</string>
+</resources>

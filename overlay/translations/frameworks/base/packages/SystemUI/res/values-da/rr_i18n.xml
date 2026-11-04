@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">"Adaptiv lysstyrke"</string>
+    <string name="battery_notification_channel_tv">Batteriadvarsel</string>
+    <string name="screenrecord_lowquality_label">Lavere kvalitet</string>
+    <string name="screenrecord_lowquality_summary">For mindre filstørrelse</string>
+    <string name="screenrecord_longer_timeout_switch_label">Større grænse for filstørrelse</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Begræns optagelsesstørrelse til 15 GB</string>
+    <string name="screenrecord_skip_time_label">Spring timer over</string>
+    <string name="screenrecord_skip_time_summary">Fjern de 3 sekunders ventetid</string>
+    <string name="screenrecord_hevc_switch_label">HEVC-kodning</string>
+    <string name="screenrecord_hevc_switch_summary">Brug den mere effektive HEVC-encoder</string>
+    <string name="zen_alarm_warning_indef">"Du vil ikke kunne høre din næste alarm <xliff:g id="WHEN">%1$s</xliff:g>, medmindre du slår funktionen fra inden da"</string>
+</resources>

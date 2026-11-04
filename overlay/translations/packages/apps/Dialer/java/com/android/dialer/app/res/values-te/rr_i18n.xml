@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">కాల్ సమయంలో</string>
+    <string name="incall_enable_dnd_title">కాల్స్ సమయంలో డిస్టర్బ్ చేయవద్దును ప్రారంభించండి</string>
+    <string name="incall_vibrate_outgoing_title">సమాధానం ఇచ్చినప్పుడు వైబ్రేట్ చేయండి</string>
+    <string name="incall_vibrate_call_waiting_title">కాల్ వెయిటింగ్ సమయంలో వైబ్రేట్ చేయండి</string>
+    <string name="incall_vibrate_hangup_title">కాల్ కట్ చేసినప్పుడు వైబ్రేట్ చేయండి</string>
+    <string name="incall_vibrate_45_title">ప్రతి నిమిషానికి వైబ్రేట్ చేయండి</string>
+    <string name="incall_vibrate_45_summary">బయటికి వెళ్ళే కాల్స్ సమయంలో ప్రతి నిమిషంలో 45వ సెకనుకు వైబ్రేట్ అవుతుంది</string>
+    <string name="incall_dnd_dialog_message">డిస్టర్బ్ చేయవద్దును ప్రారంభించడానికి, డిస్టర్బ్ చేయవద్దు స్థితిని నియంత్రించే అనుమతిని ఫోన్ యాప్‌కు ఇవ్వాలి.\nదయచేసి దానిని అనుమతించండి.</string>
+    <string name="allow">"అనుమతించండి"</string>
+    <string name="deny">"తిరస్కరించండి"</string>
+    <string name="call_recording_category_title">కాల్ రికార్డింగ్</string>
+    <string name="call_recording_format">ఆడియో ఫార్మాట్</string>
+    <string name="call_via">దీంతో కాల్ చేయండి</string>
+    <string name="call_via_dialog_title">దీంతో కాల్ చేయండి…</string>
+    <string name="call_log_stats_title">గణాంకాలు</string>
+    <string name="action_menu_helplines">హెల్ప్‌లైన్‌లు</string>
+    <string name="default_dialer_text">దీన్ని ఉపయోగించడానికి డయలర్‌ను డిఫాల్ట్ ఫోన్ యాప్‌గా సెట్ చేయాలి.</string>
+    <string name="default_dialer_action">"ఆటోమేటిక్ సెట్టింగ్‌గా సెట్ చేయండి"</string>
+</resources>

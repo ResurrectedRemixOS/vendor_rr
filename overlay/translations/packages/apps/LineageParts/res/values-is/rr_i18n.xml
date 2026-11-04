@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pulse_length_blink">Blikka</string>
+    <string name="charging_control_title">Hleðslustýring</string>
+    <string name="charging_control_enable_title">Virkja hleðslustýringu</string>
+    <string name="charging_control_mode_title">Hleðsluhamur</string>
+    <string name="charging_control_mode_auto_title">Sjálfvirk áætlun</string>
+    <string name="charging_control_mode_custom_title">Sérsniðin áætlun</string>
+    <string name="charging_control_mode_limit_title">Takmarka hleðslu</string>
+    <string name="charging_control_mode_limit_summary">Takmarka hleðslu við ákveðið hlutfall</string>
+    <string name="charging_control_start_time_title">"Upphafstími"</string>
+    <string name="charging_control_limit_title">Takmörk</string>
+    <string name="charging_control_limit_summary">Núverandi mörk: %d%%</string>
+    <string name="volume_panel_position_title">Staðsetning hljóðstyrkssvæðis</string>
+    <string name="status_bar_battery_style_icon_landscape">Tákn lárétt</string>
+    <string name="status_bar_battery_style_dotted_circle">Punktahringur</string>
+    <string name="status_bar_brightness_slider_position_title">Staðsetning birtustikunnar</string>
+    <string name="status_bar_brightness_slider_position_top">Efst</string>
+    <string name="status_bar_brightness_slider_position_bottom">Neðst</string>
+    <string name="network_traffic_position_title">Staðsetning</string>
+    <string name="network_traffic_hide_arrows">Fela örvar</string>
+    <string name="network_traffic_hide_arrows_summary">Fela örvar fyrir upphleðslu og niðurhal</string>
+    <string name="network_traffic_units_auto">Sjálfvirkt (kB/s eða MB/s)</string>
+    <string name="network_traffic_show_units_compact">Þjappað</string>
+    <string name="contributor_info_msg"><![CDATA[<b>Nafn:</b> <xliff:g id="name">%1$s</xliff:g><br/><br/> <b>Gælunafn:</b> <xliff:g id="nick">%2$s</xliff:g><br/><br/> <b>Framlög:</b> <xliff:g id="commits">%3$s</xliff:g>]]></string>
+    <string name="contributions_info_msg"><![CDATA[<b>Samtals framlagsaðilar:</b> <xliff:g id="total_contributors">%1$s</xliff:g><br/><br/> <b>Samtals framlög:</b> <xliff:g id="total_commits">%2$s</xliff:g><br/><br/> <b>Síðasta uppfærsla:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
+</resources>

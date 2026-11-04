@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_split_keyboard_summary">Vetëm në orientim horizontal</string>
+    <string name="split_keyboard_duplicate_keys">Dyfisho tastet qendrore</string>
+    <string name="split_keyboard_duplicate_keys_summary">Shfaq tastet afër mesit në të dyja anët</string>
+    <string name="spoken_description_split_keyboard">Tastierë e ndarë</string>
+    <string name="spoken_description_merge_keyboard">Bashko tastierën</string>
+    <string name="spoken_description_float_keyboard">Tastierë lundruese</string>
+    <string name="spoken_description_dock_keyboard">Tastierë e ankoruar</string>
+    <string name="floating_keyboard_drag_handle">Lëviz tastierën</string>
+    <string name="floating_keyboard_resize_handle">Ndrysho madhësinë e tastierës</string>
+    <string name="floating_keyboard_reset">"Rivendos"</string>
+    <string name="floating_keyboard_hide">Fshih tastierën</string>
+    <string name="floating_keyboard_switch_ime">"Ndërro metodën e hyrjes"</string>
+</resources>

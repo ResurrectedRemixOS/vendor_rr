@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="library_title">Safn</string>
+    <plurals name="album_thumbnail_items">
+        <item quantity="one">[plural]%d atriði</item>
+        <item quantity="two">[plural]%d atriði</item>
+        <item quantity="few">[plural]%d atriði</item>
+        <item quantity="many">[plural]%d atriði</item>
+        <item quantity="zero">[plural]%d atriði</item>
+        <item quantity="other">[plural]%d atriði</item>
+    </plurals>
+    <plurals name="delete_file_forever_confirm_message">
+        <item quantity="one">[plural]Ertu viss um að þú viljir eyða %d skrá varanlega?</item>
+        <item quantity="two">[plural]Ertu viss um að þú viljir eyða %d skrám varanlega?</item>
+        <item quantity="few">[plural]Ertu viss um að þú viljir eyða %d skrám varanlega?</item>
+        <item quantity="many">[plural]Ertu viss um að þú viljir eyða %d skrám varanlega?</item>
+        <item quantity="zero">[plural]Ertu viss um að þú viljir eyða %d skrám varanlega?</item>
+        <item quantity="other">[plural]Ertu viss um að þú viljir eyða %d skrám varanlega?</item>
+    </plurals>
+    <plurals name="delete_file_forever_successful">
+        <item quantity="one">[plural]%d skrá eydd varanlega</item>
+        <item quantity="two">[plural]%d skrám eytt varanlega</item>
+        <item quantity="few">[plural]%d skrám eytt varanlega</item>
+        <item quantity="many">[plural]%d skrám eytt varanlega</item>
+        <item quantity="zero">[plural]%d skrám eytt varanlega</item>
+        <item quantity="other">[plural]%d skrám eytt varanlega</item>
+    </plurals>
+    <plurals name="delete_file_forever_unsuccessful">
+        <item quantity="one">[plural]Ekki tókst að eyða %d skrá varanlega</item>
+        <item quantity="two">[plural]Ekki tókst að eyða %d skrám varanlega</item>
+        <item quantity="few">[plural]Ekki tókst að eyða %d skrám varanlega</item>
+        <item quantity="many">[plural]Ekki tókst að eyða %d skrám varanlega</item>
+        <item quantity="zero">[plural]Ekki tókst að eyða %d skrám varanlega</item>
+        <item quantity="other">[plural]Ekki tókst að eyða %d skrám varanlega</item>
+    </plurals>
+    <plurals name="move_file_to_trash_confirm_message">
+        <item quantity="one">[plural]Ertu viss um að þú viljir færa %d skrá í ruslið?</item>
+        <item quantity="two">[plural]Ertu viss um að þú viljir færa %d skrár í ruslið?</item>
+        <item quantity="few">[plural]Ertu viss um að þú viljir færa %d skrár í ruslið?</item>
+        <item quantity="many">[plural]Ertu viss um að þú viljir færa %d skrár í ruslið?</item>
+        <item quantity="zero">[plural]Ertu viss um að þú viljir færa %d skrár í ruslið?</item>
+        <item quantity="other">[plural]Ertu viss um að þú viljir færa %d skrár í ruslið?</item>
+    </plurals>
+    <plurals name="move_file_to_trash_successful">
+        <item quantity="one">[plural]%d skrá færð í ruslið</item>
+        <item quantity="two">[plural]%d skrám fært í ruslið</item>
+        <item quantity="few">[plural]%d skrám fært í ruslið</item>
+        <item quantity="many">[plural]%d skrám fært í ruslið</item>
+        <item quantity="zero">[plural]%d skrám fært í ruslið</item>
+        <item quantity="other">[plural]%d skrám fært í ruslið</item>
+    </plurals>
+    <plurals name="move_file_to_trash_unsuccessful">
+        <item quantity="one">[plural]Ekki tókst að færa %d skrá í ruslið</item>
+        <item quantity="two">[plural]Ekki tókst að færa %d skrár í ruslið</item>
+        <item quantity="few">[plural]Ekki tókst að færa %d skrár í ruslið</item>
+        <item quantity="many">[plural]Ekki tókst að færa %d skrár í ruslið</item>
+        <item quantity="zero">[plural]Ekki tókst að færa %d skrár í ruslið</item>
+        <item quantity="other">[plural]Ekki tókst að færa %d skrár í ruslið</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_confirm_message">
+        <item quantity="one">[plural]Ertu viss um að þú viljir endurheimta %d skrá úr ruslinu?</item>
+        <item quantity="two">[plural]Ertu viss um að þú viljir endurheimta %d skrár úr ruslinu?</item>
+        <item quantity="few">[plural]Ertu viss um að þú viljir endurheimta %d skrár úr ruslinu?</item>
+        <item quantity="many">[plural]Ertu viss um að þú viljir endurheimta %d skrár úr ruslinu?</item>
+        <item quantity="zero">[plural]Ertu viss um að þú viljir endurheimta %d skrár úr ruslinu?</item>
+        <item quantity="other">[plural]Ertu viss um að þú viljir endurheimta %d skrár úr ruslinu?</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_successful">
+        <item quantity="one">[plural]%d skrá endurheimt úr ruslinu</item>
+        <item quantity="two">[plural]%d skrám endurheimt úr ruslinu</item>
+        <item quantity="few">[plural]%d skrám endurheimt úr ruslinu</item>
+        <item quantity="many">[plural]%d skrám endurheimt úr ruslinu</item>
+        <item quantity="zero">[plural]%d skrám endurheimt úr ruslinu</item>
+        <item quantity="other">[plural]%d skrám endurheimt úr ruslinu</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_unsuccessful">
+        <item quantity="one">[plural]Ekki tókst að endurheimta %d skrá úr ruslinu</item>
+        <item quantity="two">[plural]Ekki tókst að endurheimta %d skrár úr ruslinu</item>
+        <item quantity="few">[plural]Ekki tókst að endurheimta %d skrár úr ruslinu</item>
+        <item quantity="many">[plural]Ekki tókst að endurheimta %d skrár úr ruslinu</item>
+        <item quantity="zero">[plural]Ekki tókst að endurheimta %d skrár úr ruslinu</item>
+        <item quantity="other">[plural]Ekki tókst að endurheimta %d skrár úr ruslinu</item>
+    </plurals>
+    <plurals name="thumbnail_selection_count">
+        <item quantity="one">%d valið</item>
+        <item quantity="two">%d valin</item>
+        <item quantity="few">%d valin</item>
+        <item quantity="many">%d valin</item>
+        <item quantity="zero">%d valið</item>
+        <item quantity="other">%d valin</item>
+    </plurals>
+    <string name="warning_bin_time_period">Skrárnar verða varanlega eyddar eftir 30 daga.</string>
+    <string name="motion_photo_show_video">Sýna myndband</string>
+    <string name="motion_photo_show_photo">Sýna mynd</string>
+    <string name="title_activity_settings">"Stillingar"</string>
+    <string name="general_header">"Almennt"</string>
+    <string name="video_header">Myndband</string>
+    <string name="edge_tap_navigation_enable_title">Flakk með snertingu á jaðri</string>
+    <string name="edge_tap_navigation_enabled_description">Snertu vinstri eða hægri jaðar skjásins til að fletta milli miðla</string>
+    <string name="double_tap_to_seek_enabled_title">Virkja tvísmell til að spóla</string>
+    <string name="double_tap_to_seek_enabled_description">Tvísmelltu vinstra eða hægra megin á myndbandinu til að spóla til baka eða áfram</string>
+    <string name="double_tap_to_seek_seconds_title">Lengd spólunar við tvísmell</string>
+    <string name="double_tap_to_seek_seconds_description">Sekúndur sem spólað er við tvísmell á myndbandi</string>
+    <string name="hide_native_seek_buttons_title">Fela spólunarhnappa</string>
+    <string name="hide_native_seek_buttons_description">Fela spól til baka og spól áfram hnappa í myndbandsspilaranum</string>
+    <string name="remember_video_playback_position_enabled_title">Muna spilunarstöðu</string>
+    <string name="remember_video_playback_position_enabled_description">Halda áfram myndböndum frá síðasta stöðvunarpunkti</string>
+</resources>

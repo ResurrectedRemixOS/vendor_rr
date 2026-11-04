@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="discard">"Ignorera"</string>
+    <string name="confirm_result_title">Använda inspelning?</string>
+    <string name="confirm_result_message">Vill du använda den senaste inspelningen?</string>
+    <string name="settings_location_message">Tagga dina inspelningar med din nuvarande position</string>
+    <string name="settings_quality_high">Spela in i hög kvalitet</string>
+    <string name="snack_permissions_no_permission_location">Platsbehörighet nekades. Aktivera den i appen Inställningar för att tagga dina inspelningar</string>
+</resources>

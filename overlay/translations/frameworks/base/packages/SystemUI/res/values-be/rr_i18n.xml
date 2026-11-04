@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Перазапусціць…</string>
+    <string name="global_action_restart_download">Спампаваць</string>
+    <string name="global_action_restart_recovery_progress">Перазапуск у рэжым аднаўлення…</string>
+    <string name="global_action_restart_bootloader_progress">Перазапуск у рэжым загрузчыка…</string>
+    <string name="global_action_restart_download_progress">Перазапуск у рэжым загрузкі…</string>
+    <string name="global_action_restart_fastboot_progress">Перазапуск у рэжым fastbootd…</string>
+    <string name="accessibility_adaptive_brightness">"Адаптыўная яркасць"</string>
+    <string name="status_bar_icons_title">Значкі ў радку стану</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD выключаны\nЭнергазберажэнне</string>
+    <string name="quick_settings_powershare_off_powersave_label">Wireless PowerShare выключаны\nЭнергазберажэнне</string>
+    <string name="vpn_credentials_hint">Калі ласка, увядзіце ўліковыя даныя для падключэння да <xliff:g id="name">%s</xliff:g></string>
+    <string name="status_bar_firewall">Брандмаўэр</string>
+    <string name="battery_notification_channel_tv">Папярэджанне аб батарэі</string>
+    <string name="screenshot_delete_label">"Выдаліць"</string>
+    <string name="screenshot_delete_description">Выдаліць здымак экрана</string>
+    <string name="screenrecord_lowquality_label">Ніжэйшая якасць</string>
+    <string name="screenrecord_lowquality_summary">Для меншага памеру файла</string>
+    <string name="screenrecord_longer_timeout_switch_label">Большы ліміт памеру файла</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Абмежаваць запіс памерам 15 ГБ</string>
+    <string name="screenrecord_skip_time_label">Прапусціць таймер</string>
+    <string name="screenrecord_skip_time_summary">Прыбраць 3-секундную затрымку</string>
+    <string name="screenrecord_hevc_switch_label">Кадаванне HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Выкарыстоўваць больш эфектыўны кадавальнік HEVC</string>
+    <string name="zen_alarm_warning_indef">"Наступны будзільнік (<xliff:g id="WHEN">%1$s</xliff:g>) не зазвініць, пакуль вы не выключыце гэту функцыю"</string>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"mặc định"</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"mặc định"</item>
+        <item>CN</item>
+        <item>T2</item>
+        <item>T3</item>
+        <item>T4</item>
+        <item>T5</item>
+        <item>T6</item>
+        <item>T7</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"mặc định"</item>
+        <item>Hệ mét</item>
+        <item>Hệ Mỹ</item>
+        <item>Hệ Anh</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Chưa xác định"</item>
+        <item>"Trung tính"</item>
+        <item>"Giống cái"</item>
+        <item>"Giống đực"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM Toolkit</string>
+    <string name="platform_compat_target_sdk_title">Bật cho targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Trình quản lý ngữ cảnh cá nhân</string>
+</resources>

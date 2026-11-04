@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="esim_settings_title">Налады eSIM</string>
+    <string name="esim_toggle_title">"eSIM-карта"</string>
+    <string name="esim_toggle_summary">Загрузіце і актывуйце профіль апэратара, каб выкарыстоўваць віртуальную SIM-карту</string>
+    <string name="esim_toggle_dialog_cancel">"Скасаваць"</string>
+</resources>

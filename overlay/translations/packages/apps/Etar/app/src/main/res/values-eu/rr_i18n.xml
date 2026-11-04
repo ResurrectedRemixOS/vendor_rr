@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="user_rejected_calendar_write_permission_lineage">Egutegiak egutegiaren irakurketa eta idazketa baimenak behar ditu behar bezala funtzionatzeko. Saiatu berriro.</string>
+    <string name="preferences_menu_about_lineage">Egutegiari buruz</string>
+    <string name="no_snooze_label">"Bat ere ez"</string>
+    <string name="hint_url">URL</string>
+    <string name="no_calendars_found">Gertaera bat gehitu aurretik, gutxienez egutegi bat gehitu behar duzu gailuan</string>
+    <string name="add_calendar">Gehitu egutegia</string>
+    <string name="duplicate_label">Bikoiztu</string>
+    <string name="week_start_locale_default">Lokalaren balio lehenetsia</string>
+    <string name="preferences_staggered_display_title">Eskalonatutako bistaratzea</string>
+    <string name="preferences_staggered_display_summary">Gertaera gainjarriak eskalonatutako diseinuan bistaratu</string>
+    <string name="cal_export_error">Gertaera esportatzeak huts egin du</string>
+    <string name="preferences_manage_notifications">Kudeatu jakinarazpenak</string>
+    <string name="preferences_do_not_check_battery_optimization">Ez egiaztatu bateria optimizazioa</string>
+    <string name="preferences_do_not_check_battery_optimization_summary">Erabili zure ardurapean! Jakinarazpenek ez dute gehiago funtzionatuko, trepetak ez dira eguneratuko eta atzeko planoko zerbitzuek hutsegitea izango dute. Baina ez zaizu berriro galdetuko atzeko planoko zerbitzua gaitu nahi duzun.</string>
+    <string name="calendars">Egutegiak</string>
+    <string name="discard_event_changes">Aldaketak baztertu nahi dituzu?</string>
+    <string name="discard">"Baztertu"</string>
+</resources>

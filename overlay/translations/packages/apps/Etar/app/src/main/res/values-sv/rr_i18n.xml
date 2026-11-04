@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="week_start_locale_default">Språkets standard</string>
+    <string name="preferences_staggered_display_title">Förskjuten visning</string>
+    <string name="preferences_staggered_display_summary">Visa överlappande händelser i ett förskjutet layout</string>
+    <string name="cal_export_error">Det gick inte att exportera händelsen</string>
+</resources>

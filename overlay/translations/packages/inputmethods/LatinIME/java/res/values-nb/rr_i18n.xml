@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material – følg systeminnstillinger</string>
+    <string name="prefs_keyboard_height_scale">Skala for tastaturhøyde</string>
+    <string name="number_row">Tallrad</string>
+    <string name="number_row_summary">Vis alltid en tallrad for alle oppsett som har 4 rader med taster</string>
+    <string name="number_row_password">Tallrad for passord</string>
+    <string name="number_row_password_summary">Vis alltid en tallrad for alle oppsett med 4 rader med taster for passordinntasting</string>
+    <string name="space_trackpad">Styreflate på mellomromstasten</string>
+    <string name="space_trackpad_summary">Sveip på mellomromstasten for å flytte markøren</string>
+    <string name="backspace_trackpad">Styreflate på slettetasten</string>
+    <string name="backspace_trackpad_summary">Sveip på slettetasten for å slette ord</string>
+    <string name="show_longpress_hints">Vis hint for langt trykk på taster</string>
+    <string name="show_longpress_hints_summary">Viser hint for langt trykk på støttede taster</string>
+    <string name="show_emoji_key">Vis emoji-tast</string>
+    <string name="show_emoji_key_summary">Vis alltid emoji-tasten. Når dette er aktivert, kan språkbytetasten ikke vises.</string>
+    <string name="enable_split_keyboard_summary">Bare i liggende modus</string>
+    <string name="split_keyboard_duplicate_keys">Dupliser midtertaster</string>
+    <string name="split_keyboard_duplicate_keys_summary">Vis taster nær midten på begge halvdeler</string>
+    <string name="spoken_description_split_keyboard">Del tastatur</string>
+    <string name="spoken_description_merge_keyboard">Slå sammen tastatur</string>
+    <string name="spoken_description_float_keyboard">Flytende tastatur</string>
+    <string name="spoken_description_dock_keyboard">Forankret tastatur</string>
+    <string name="floating_keyboard_drag_handle">Flytt tastatur</string>
+    <string name="floating_keyboard_resize_handle">Endre størrelse på tastatur</string>
+    <string name="floating_keyboard_reset">"Tilbakestill"</string>
+    <string name="floating_keyboard_hide">Skjul tastatur</string>
+    <string name="floating_keyboard_switch_ime">"Bytt inndatametode"</string>
+</resources>

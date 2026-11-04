@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Alfavit (Bépo)</string>
+    <string name="subtype_hu_ZZ">Vengercha (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - tizim sozlamalariga amal qilish</string>
+    <string name="prefs_keyboard_height_scale">Klaviatura balandligi masshtabi</string>
+    <string name="number_row">Raqamlar qatori</string>
+    <string name="number_row_summary">Tugmalarning 4 qatori bo‘lgan barcha tartiblar uchun doim raqamlar qatorini ko‘rsatish</string>
+    <string name="number_row_password">Parollar uchun raqamlar qatori</string>
+    <string name="number_row_password_summary">Parol kiritish uchun tugmalarning 4 qatori bo‘lgan barcha tartiblar uchun doim raqamlar qatorini ko‘rsatish</string>
+    <string name="space_trackpad">Bo‘shliq tugmasi trekpadi</string>
+    <string name="space_trackpad_summary">Kursorni siljitish uchun bo‘shliq tugmasida suring</string>
+    <string name="backspace_trackpad">Orqaga o‘chirish tugmasi trekpadi</string>
+    <string name="backspace_trackpad_summary">Backspace tugmasini surib so‘zlarni o‘chirish</string>
+    <string name="show_longpress_hints">Uzoq bosish belgilari ko‘rsatilsin</string>
+    <string name="show_longpress_hints_summary">Qo‘llab-quvvatlanadigan tugmalar uchun uzoq bosish maslahatlarini ko‘rsatadi</string>
+    <string name="show_emoji_key">Emoji tugmasini ko‘rsatish</string>
+    <string name="show_emoji_key_summary">Emoji tugmasi doim ko‘rsatilsin. Bu yoqilganda tilni almashtirish tugmasi ko‘rsatilmaydi.</string>
+    <string name="enable_split_keyboard_summary">Faqat gorizontal holatda</string>
+    <string name="split_keyboard_duplicate_keys">Markaziy tugmalarni takrorlash</string>
+    <string name="split_keyboard_duplicate_keys_summary">Ikki yarmida ham o‘rtaga yaqin tugmalarni ko‘rsatish</string>
+    <string name="spoken_description_split_keyboard">Klaviaturani bo‘lish</string>
+    <string name="spoken_description_merge_keyboard">Klaviaturani birlashtirish</string>
+    <string name="spoken_description_float_keyboard">Klaviaturani suzuvchi qilish</string>
+    <string name="spoken_description_dock_keyboard">Klaviaturani pastga biriktirish</string>
+    <string name="floating_keyboard_drag_handle">Klaviaturani ko‘chirish</string>
+    <string name="floating_keyboard_resize_handle">Klaviatura o‘lchamini o‘zgartirish</string>
+    <string name="floating_keyboard_reset">"Tiklash"</string>
+    <string name="floating_keyboard_hide">Klaviaturani yashirish</string>
+    <string name="floating_keyboard_switch_ime">"Matn kiritish usulini almashtirish"</string>
+</resources>

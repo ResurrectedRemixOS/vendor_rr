@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"կանխադրված"</item>
+        <item>ծելսիուս</item>
+        <item>ֆարենհայթ</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"կանխադրված"</item>
+        <item>կիր</item>
+        <item>երկ</item>
+        <item>երք</item>
+        <item>չրք</item>
+        <item>հնգ</item>
+        <item>ուրբ</item>
+        <item>շբթ</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"կանխադրված"</item>
+        <item>մետրային</item>
+        <item>ամերիկյան</item>
+        <item>բրիտանական</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Նշված չէ"</item>
+        <item>"Չեզոք"</item>
+        <item>"Իգական"</item>
+        <item>"Արական"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>ֆր</item>
+        <item>իս</item>
+        <item>իտ</item>
+        <item>գեր</item>
+    </string-array>
+    <string name="keyboard_extras_title">Լրացուցիչ</string>
+    <string name="advanced_keyboard_settings_title">"Ընդլայնված կարգավորումներ"</string>
+    <string name="adb_enable_root">Արմատային վրիպազերծում</string>
+    <string name="adb_enable_summary_root">Թույլատրել Android-ի վրիպազերծումն արմատային իրավունքներով</string>
+    <string name="backup_transport_setting_label">Փոխել պահուստավորման մատակարարը</string>
+    <string name="backup_transport_title">Ընտրել պահուստավորման մատակարարը</string>
+    <string name="berry_black_theme_title">Մաքուր սև</string>
+    <string name="berry_black_theme_summary">Մաքուր սև ֆոն մուգ թեմայի համար</string>
+    <string name="lineagelicense_title">LineageOS իրավական տեղեկություններ</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Մնաց # քայլ մշակողի կարգավորումները միացնելու համար։} other {Մնաց # քայլ մշակողի կարգավորումները միացնելու համար։} }</string>
+    <string name="show_dev_on_cm">Դուք միացրել եք մշակողի կարգավորումները։</string>
+    <string name="show_dev_already_cm">Անհրաժեշտ չէ, մշակողի կարգավորումներն արդեն միացված են։</string>
+    <string name="status_bar_double_tap_to_sleep_title">Հպել՝ քնելու համար</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Կրկնակի հպեք կարգավիճակի գոտում կամ կողպէկրանին՝ էկրանն անջատելու համար</string>
+    <string name="high_touch_polling_rate_title">Բարձր հպման հաճախականություն</string>
+    <string name="high_touch_polling_rate_summary">Մեծացնել հպէկրանի հարցման հաճախականությունը</string>
+    <string name="heads_up_notifications_enabled_title">Heads-up</string>
+    <string name="heads_up_notifications_enabled_summary">Կարևոր ծանուցումները ցուցադրել փոքր լողացող պատուհանում</string>
+    <string name="high_touch_sensitivity_title">Բարձր հպման զգայունություն</string>
+    <string name="high_touch_sensitivity_summary">Մեծացնել հպէկրանի զգայունությունը, որպեսզի օգտագործվի ձեռնոցներով</string>
+    <string name="tethering_allow_vpn_upstreams_title">Օգտագործել VPN միացված սարքերի համար</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Երբ այս սարքն օգտագործում է VPN, թեժ կետին միացված բոլոր սարքերը կօգտագործեն նույն VPN-ը</string>
+    <string name="lock_settings_picker_pattern_size_message">Ընտրել նախշի չափը</string>
+    <string name="lockpattern_settings_enable_error_path_title">Ցույց տալ նախշի սխալը</string>
+    <string name="lockpattern_settings_enable_dots_title">Ցույց տալ նախշի կետերը</string>
+    <string name="max_refresh_rate_title">Առավելագույն թարմացման հաճախականություն</string>
+    <string name="min_refresh_rate_title">Նվազագույն թարմացման հաճախականություն</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Գտեք մատնահետքի սենսորը ձեր պլանշետի առջևի մասում։</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Գտեք մատնահետքի սենսորը ձեր սարքի առջևի մասում։</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Գտեք մատնահետքի սենսորը ձեր հեռախոսի առջևի մասում։</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Գտեք մատնահետքի սենսորը ձեր պլանշետի հետևի մասում։</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Գտեք մատնահետքի սենսորը ձեր սարքի հետևի մասում։</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Գտեք մատնահետքի սենսորը ձեր հեռախոսի հետևի մասում։</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Գտեք մատնահետքի սենսորը ձեր պլանշետի կողքին։</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Գտեք մատնահետքի սենսորը ձեր սարքի կողքին։</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Գտեք մատնահետքի սենսորը ձեր հեռախոսի կողքին։</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Դիպչեք սենսորին ձեր պլանշետի առջևի մասում։</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Դիպչեք սենսորին ձեր սարքի առջևի մասում։</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Դիպչեք սենսորին ձեր հեռախոսի առջևի մասում։</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Դիպչեք սենսորին ձեր պլանշետի հետևի մասում։</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Դիպչեք սենսորին ձեր սարքի հետևի մասում։</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Դիպչեք սենսորին ձեր հեռախոսի հետևի մասում։</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Դիպչեք սենսորին ձեր պլանշետի կողքին։</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Դիպչեք սենսորին ձեր սարքի կողքին։</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Դիպչեք սենսորին ձեր հեռախոսի կողքին։</string>
+    <string name="show_navbar_hint_title">Նավիգացիայի հուշում</string>
+    <string name="show_navbar_hint_summary">Ցույց տալ նավիգացիայի հուշման գիծը էկրանի ներքևում</string>
+    <string name="auto_brightness_one_shot_title">Մեկ անգամյա ավտոմատ պայծառություն</string>
+    <string name="auto_brightness_one_shot_summary">Պայծառության ճշգրտումը տեղի կունենա միայն էկրանը միացնելու պահին</string>
+    <string name="data_usage_app_restrict_all">Թույլատրել ցանցի մուտքը</string>
+    <string name="data_usage_app_restrict_all_summary">Միացնել ցանցի օգտագործումը</string>
+    <string name="data_usage_app_restrict_mobile">"Բջջային ինտերնետ"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Միացնել բջջային տվյալների օգտագործումը</string>
+    <string name="data_usage_app_restrict_vpn">VPN տվյալներ</string>
+    <string name="data_usage_app_restrict_vpn_summary">Միացնել VPN տվյալների օգտագործումը</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi թրաֆիկ"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Միացնել Wi‑Fi տվյալների օգտագործումը</string>
+    <string name="unlock_scramble_pin_layout_title">Խառնել դասավորությունը</string>
+    <string name="unlock_scramble_pin_layout_summary">Խառնել PIN-ի դասավորությունը սարքն ապակողպելիս</string>
+    <string name="proximity_wake_title">Կանխել պատահական արթնացումը</string>
+    <string name="proximity_wake_summary">Ստուգել մոտության սենսորը էկրանը միացնելուց առաջ</string>
+    <string name="touchscreen_hovering_title">Հպէկրանի վրա սավառնում</string>
+    <string name="touchscreen_hovering_summary">Թույլ է տալիս սավառնեցնել էկրանի վրա մկնիկի նման վեբ բրաուզերներում, հեռավար աշխատասեղաններում և այլուր</string>
+    <string name="wake_when_plugged_or_unplugged_title">Արթնացում լիցքավորելիս</string>
+    <string name="wake_when_plugged_or_unplugged_summary">Միացնել էկրանը՝ սնուցման աղբյուրը միացնելիս կամ անջատելիս</string>
+    <string name="storage_warning_internal">Զգուշացում․ այս տարբերակը կարող է սխալ աշխատել կամ հանգեցնել տվյալների կորստի, ուստի խորհուրդ չի տրվում։</string>
+    <string name="assisted_gps">Օգտագործել աջակցվող GPS</string>
+    <string name="assisted_gps_summary">Ներբեռնել արբանյակային օժանդակ տվյալներ ինտերնետից, ինչը կարող է զգալիորեն բարելավել GPS-ի մեկնարկը։ Շտապ զանգերի դեպքում օժանդակ GPS-ը միշտ թույլատրված է։</string>
+    <string name="battery_technology">Տեխնոլոգիա</string>
+    <string name="battery_health">"Վիճակը"</string>
+    <string name="battery_health_good">"Լավ"</string>
+    <string name="battery_health_overheat">"Գերտաքացում"</string>
+    <string name="battery_health_dead">"Ամբողջությամբ լիցքաթափված է"</string>
+    <string name="battery_health_over_voltage">"Չափազանց բարձր լարում"</string>
+    <string name="battery_health_unspecified_failure">Անհայտ սխալ</string>
+    <string name="battery_health_cold">"Սառն է"</string>
+    <string name="battery_health_unknown">"Անհայտ"</string>
+    <string name="battery_temperature">"Ջերմաստիճան"</string>
+    <string name="battery_voltage">Լարում</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Նախագծային հզորություն</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Առավելագույն հզորություն</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Ծալեք հեռախոսը կարգավորման ընթացքում</string>
+    <string name="face_enrolling_close_to_continue_description">Դեմքով ապակողպման համար հեռախոսը պետք է ծալված լինի</string>
+    <string name="face_enrolling_do_it_later">"Ավելի ուշ"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM գործիքակազմ</string>
+    <string name="platform_compat_target_sdk_title">Միացված է targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g>-ի համար</string>
+    <string name="personal_context_title">Անձնական համատեքստի կառավարիչ</string>
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kb/s</item>
+        <item>256 kb/s</item>
+        <item>1 Mb/s</item>
+        <item>5 Mb/s</item>
+        <item>15 Mb/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"noklusējuma"</item>
+        <item>Celsija grādi</item>
+        <item>Fārenheita grādi</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"noklusējuma"</item>
+        <item>Sv</item>
+        <item>Pr</item>
+        <item>Ot</item>
+        <item>Tr</item>
+        <item>Ce</item>
+        <item>Pk</item>
+        <item>Se</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"noklusējuma"</item>
+        <item>Metriskā</item>
+        <item>ASV sistēma</item>
+        <item>Lielbritānijas sistēma</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Nav norādīta"</item>
+        <item>"Neitrāli"</item>
+        <item>"Sieviešu dzimte"</item>
+        <item>"Vīriešu dzimte"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>Fr</item>
+        <item>Es</item>
+        <item>It</item>
+        <item>Vācu</item>
+    </string-array>
+    <string name="keyboard_extras_title">Papildu</string>
+    <string name="advanced_keyboard_settings_title">"Papildu iestatījumi"</string>
+    <string name="adb_enable_root">Root atkļūdošana</string>
+    <string name="adb_enable_summary_root">Atļaut Android atkļūdošanu ar root tiesībām</string>
+    <string name="backup_transport_setting_label">Mainīt dublēšanas pakalpojumu</string>
+    <string name="backup_transport_title">Izvēlies dublēšanas pakalpojumu</string>
+    <string name="berry_black_theme_title">Tīri melns</string>
+    <string name="berry_black_theme_summary">Tīri melns fons tumšajam motīvam</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {Tagad tev ir jāveic vēl # solis, lai ieslēgtu izstrādātāja iestatījumus.} other {Tagad tev ir jāveic vēl # soļi, lai ieslēgtu izstrādātāja iestatījumus.} }</string>
+    <string name="show_dev_on_cm">Izstrādātāja iestatījumi ir ieslēgti!</string>
+    <string name="show_dev_already_cm">Nav vajadzības, izstrādātāja iestatījumi jau ir ieslēgti.</string>
+    <string name="status_bar_double_tap_to_sleep_title">Pieskarties, lai izslēgtu ekrānu</string>
+    <string name="status_bar_double_tap_to_sleep_summary">Divreiz pieskaries statusa joslai vai bloķēšanas ekrānam, lai izslēgtu displeju</string>
+    <string name="high_touch_polling_rate_title">Augsta skārienjutības atjaunošanas frekvence</string>
+    <string name="high_touch_polling_rate_summary">Palielināt skārienekrāna atjaunošanas frekvenci</string>
+    <string name="heads_up_notifications_enabled_title">Peldošie paziņojumi</string>
+    <string name="heads_up_notifications_enabled_summary">Rādīt svarīgus paziņojumus nelielā peldošā logā</string>
+    <string name="tethering_allow_vpn_upstreams_title">Izmantot VPN pievienotajām ierīcēm</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Kad šī ierīce izmanto VPN, visas ar tīklāju savienotās ierīces izmantos to pašu VPN</string>
+    <string name="lock_settings_picker_pattern_size_message">Izvēlies rakstu izmēru</string>
+    <string name="lockpattern_settings_enable_error_path_title">Rādīt rakstu kļūdu</string>
+    <string name="lockpattern_settings_enable_dots_title">Rādīt rakstu punktus</string>
+    <string name="max_refresh_rate_title">Maksimālā atsvaidzes frekvence</string>
+    <string name="min_refresh_rate_title">Minimālā atsvaidzes frekvence</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">Pirksta nospieduma sensors atrodas planšetdatora priekšpusē.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">Pirksta nospieduma sensors atrodas ierīces priekšpusē.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">Pirksta nospieduma sensors atrodas tālruņa priekšpusē.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">Pirksta nospieduma sensors atrodas planšetdatora aizmugurē.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">Pirksta nospieduma sensors atrodas ierīces aizmugurē.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">Pirksta nospieduma sensors atrodas tālruņa aizmugurē.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">Pirksta nospieduma sensors atrodas planšetdatora sānos.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">Pirksta nospieduma sensors atrodas ierīces sānos.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">Pirksta nospieduma sensors atrodas tālruņa sānos.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">Pieskaries sensoram planšetdatora priekšpusē.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">Pieskaries sensoram ierīces priekšpusē.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">Pieskaries sensoram tālruņa priekšpusē.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">Pieskaries sensoram planšetdatora aizmugurē.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">Pieskaries sensoram ierīces aizmugurē.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">Pieskaries sensoram tālruņa aizmugurē.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">Pieskaries sensoram planšetdatora sānos.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">Pieskaries sensoram ierīces sānos.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">Pieskaries sensoram tālruņa sānos.</string>
+    <string name="show_navbar_hint_title">Navigācijas padoms</string>
+    <string name="show_navbar_hint_summary">Rādīt navigācijas padomu joslu ekrāna apakšdaļā</string>
+    <string name="auto_brightness_one_shot_title">Vienreizēja automātiska spilgtuma regulēšana</string>
+    <string name="auto_brightness_one_shot_summary">Spilgtuma pielāgošana notiks tikai brīdī, kad ekrāns tiek ieslēgts</string>
+    <string name="data_usage_app_restrict_all">Atļaut piekļuvi tīklam</string>
+    <string name="data_usage_app_restrict_all_summary">Iespējot tīkla izmantošanu</string>
+    <string name="data_usage_app_restrict_mobile">"Mobilie dati"</string>
+    <string name="data_usage_app_restrict_mobile_summary">Iespējot mobilo datu izmantošanu</string>
+    <string name="data_usage_app_restrict_vpn">VPN dati</string>
+    <string name="data_usage_app_restrict_vpn_summary">Iespējot VPN datu izmantošanu</string>
+    <string name="data_usage_app_restrict_wifi">"Wi‑Fi datu apjoms"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Iespējot Wi‑Fi datu izmantošanu</string>
+    <string name="proximity_wake_summary">Pirms ekrāna aktivizēšanas pārbaudīt tuvuma sensoru</string>
+    <string name="touchscreen_hovering_title">Skārienekrāna peldēšana virs ekrāna</string>
+    <string name="touchscreen_hovering_summary">Ļauj virzīt kursoru pār ekrānu kā ar peli tīmekļa pārlūkos, attālinātajās darbvirsmās u.c.</string>
+    <string name="storage_warning_internal">Brīdinājums: šī opcija var nedarboties pareizi vai izraisīt datu zudumu, tāpēc tā nav ieteicama!</string>
+    <string name="assisted_gps">Izmantot palīgājienu GPS</string>
+    <string name="assisted_gps_summary">Lejupielādēt satelītu palīgdatus no interneta, kas var ievērojami uzlabot GPS palaišanas veiktspēju. Ārkārtas zvaniem palīg-GPS vienmēr ir atļauts.</string>
+    <string name="battery_technology">Tehnoloģija</string>
+    <string name="battery_health">"Stāvoklis"</string>
+    <string name="battery_health_good">"Labs"</string>
+    <string name="battery_health_overheat">"Pārkarsis"</string>
+    <string name="battery_health_dead">"Izlādējies"</string>
+    <string name="battery_health_over_voltage">"Pārspriegots"</string>
+    <string name="battery_health_unspecified_failure">Nenoteikta kļūda</string>
+    <string name="battery_health_cold">"Auksts"</string>
+    <string name="battery_health_unknown">"Nezināms"</string>
+    <string name="battery_temperature">"Temperatūra"</string>
+    <string name="battery_voltage">Spriegums</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Projektētā ietilpība</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Maksimālā ietilpība</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Salokāms tālrunis iestatīšanas laikā</string>
+    <string name="face_enrolling_close_to_continue_description">Tālrunim jābūt salocītam, lai iestatītu vai izmantotu sejas atbloķēšanu</string>
+    <string name="face_enrolling_do_it_later">"Vēlāk"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM rīkkopa</string>
+    <string name="platform_compat_target_sdk_title">Iespējots targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Personiskā konteksta pārvaldnieks</string>
+</resources>

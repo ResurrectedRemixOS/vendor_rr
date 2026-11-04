@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="battery_saver_confirmation_ok">ئاچ</string>
+    <string name="battery_saver_start_action">ئاچ</string>
+    <string name="battery_saver_dismiss_action">ياق، رەھمەت</string>
+    <string name="extreme_battery_saver_text">كەسكىن</string>
+    <string name="usb_device_dialog_always_allow_button">ھەمىشە يول قوي</string>
+    <string name="usb_device_dialog_cancel_button">ۋاز كەچ</string>
+    <string name="usb_debugging_allow">يول قوي</string>
+    <string name="usb_authorization_allow">يول قوي</string>
+    <string name="add_network_button_text">تور قوش</string>
+    <string name="wifi_debugging_allow">يول قوي</string>
+    <string name="learn_more">تەپسىلات بىلدۈرگۈسى</string>
+    <string name="global_action_screenshot">ئېكراندىن تۇتۇلغان سۈرەت</string>
+    <string name="screenshot_copy_label">كۆچۈر</string>
+    <string name="screenshot_edit_label">تەھرىر</string>
+    <string name="screenshot_share_label">ھەمبەھىر</string>
+    <string name="screenrecord_audio_label">ئۈن تۇت</string>
+    <string name="screenrecord_mic_label">مىكروفون</string>
+    <string name="screenrecord_continue">باشلا</string>
+    <string name="screenrecord_stop_label">توختا</string>
+    <string name="screenrecord_stop_description">خاتىرىلەشنى توختات</string>
+    <string name="screenrecord_start_description">ئۈنگە ئېلىشنى باشلا</string>
+    <string name="screenrecord_share_label">ھەمبەھىر</string>
+    <string name="screenrecord_stop_dialog_button">خاتىرىلەشنى توختات</string>
+    <string name="screen_record_color_picker">"رەڭ تاللىغۇچ"</string>
+    <string name="screen_record_undo">يېنىۋال</string>
+    <string name="screen_record_edit">تەھرىر</string>
+    <string name="screen_record_delete">ئۆچۈر</string>
+    <string name="screen_record_unmute">ئۈنلۈك</string>
+    <string name="screen_capture_toolbar_screenshot_button">ئېكراندىن تۇتۇلغان سۈرەت</string>
+    <string name="screen_share_toolbar_share_button">ھەمبەھىر</string>
+    <string name="screen_capture_microphone_audio">مىكروفون</string>
+    <string name="issuerecord_share_label">ھەمبەھىر</string>
+    <string name="immersive_cling_positive">بىلدىم</string>
+    <string name="accessibility_accessibility_button">قوشۇمچە ئىقتىدار</string>
+    <string name="accessibility_phone_button">تېلېفون</string>
+    <string name="accessibility_send_smart_reply">يوللا</string>
+    <string name="cancel">ۋاز كەچ</string>
+    <string name="biometric_dialog_confirm">جەزملە</string>
+    <string name="biometric_dialog_try_again">قايتا سىنا</string>
+    <string name="biometric_dialog_unavailable">ئىشلەتكىلى بولمايدۇ</string>
+    <string name="biometric_dialog_wrong_pin">بۇ PIN خاتا</string>
+    <string name="work_challenge_emergency_button_text">جىددىي ئەھۋال</string>
+    <string name="biometric_re_enroll_dialog_cancel">ھازىرچە ياق</string>
+    <string name="cell_data_off">تاقاق</string>
+    <string name="accessibility_desc_lock_screen">قۇلۇپ ئېكران</string>
+    <string name="data_usage_disabled_dialog_enable">داۋاملاشتۇر</string>
+    <string name="accessibility_status_bar_assistant_icon">ياردەمچى</string>
+    <string name="start_dreams">ئېكران قوغدىغۇچ</string>
+    <string name="quick_settings_dnd_label">دەخلى قىلماڭ</string>
+    <string name="see_all_bluetooth_devices">ھەممىنى كۆرسەت</string>
+    <string name="quick_settings_bluetooth_device_connected">باغلاندى</string>
+    <string name="quick_settings_bluetooth_secondary_label_audio">ئۈن</string>
+    <string name="quick_settings_bluetooth_secondary_label_headset">تىڭشىغۇچ</string>
+    <string name="quick_settings_bluetooth_secondary_label_hearing_aids">ئاڭلاتقۇ</string>
+    <string name="quick_settings_camera_mic_available">ئىشلىتىلىشچان</string>
+    <string name="quick_settings_user_title">ئىشلەتكۈچى</string>
+    <string name="quick_settings_wifi_label">Wi-Fi</string>
+    <string name="quick_settings_cast_detail_title">ئالمىشىش ئېكرانىدىن ئۈسكۈنىگە</string>
+    <string name="quick_settings_cast_disconnect">ئۈز</string>
+    <string name="quick_settings_audio_effects_section_title">ئالاھىدە ئۈنۈم</string>
+    <string name="quick_settings_font_scaling_label">خەت چوڭلۇقى</string>
+    <string name="quick_settings_done">تامام</string>
+    <string name="quick_settings_connected">باغلاندى</string>
+    <string name="quick_settings_connecting">باغلىنىۋاتىدۇ…</string>
+    <string name="quick_settings_flashlight_label">قول چىراغ</string>
+    <string name="flashlight_dialog_turn_off">تاقا</string>
+    <string name="quick_settings_cellular_detail_title">كۆچمە سانلىق مەلۇمات</string>
+    <string name="quick_settings_cellular_detail_data_usage">سانلىق مەلۇمات ئىشلىتىلىشى</string>
+    <string name="quick_settings_work_mode_paused_state">ۋاقىتلىق توختىدى</string>
+    <string name="quick_settings_screen_record_start">باشلا</string>
+    <string name="quick_settings_screen_record_stop">توختا</string>
+    <string name="qs_record_issue_start">باشلا</string>
+    <string name="qs_record_issue_stop">توختا</string>
+    <string name="quick_settings_hearing_devices_disconnected">ئۈزۈلدى</string>
+    <string name="hearing_devices_preset_label">ئالدىن تەڭشەك</string>
+    <string name="hearing_devices_ambient_control_left">سول</string>
+    <string name="hearing_devices_ambient_control_right">ئوڭ</string>
+    <string name="hearing_devices_settings_button">تەڭشەكلەر</string>
+    <string name="zen_modes_dialog_done">تامام</string>
+    <string name="zen_modes_dialog_settings">تەڭشەكلەر</string>
+    <string name="zen_mode_on">ئوچۇق</string>
+    <string name="zen_mode_off">تاقاق</string>
+    <string name="zen_mode_set_up">تەڭشەلمىگەن</string>
+    <string name="zen_modes_multiple_on_status">ئوچۇق</string>
+    <string name="interruption_level_none">تامامەن ئۈنسىز</string>
+    <string name="interruption_level_priority">ئالدىنلىقلا</string>
+    <string name="interruption_level_alarms">قوڭغۇراقلا</string>
+    <string name="cta_tile_button_to_dismiss">پەرۋا قىلما</string>
+    <string name="hub_mode_editing_exit_button_text">تامام</string>
+    <string name="communal_widgets_disclaimer_button">بىلدىم</string>
+    <string name="guest_wipe_session_wipe">قايتا باشلا</string>
+    <string name="media_projection_entry_generic_permission_dialog_continue">باشلا</string>
+    <string name="manage_notifications_history_text">تارىخ</string>
+    <string name="notification_section_header_gentle">ئۈنسىز</string>
+    <string name="notification_section_header_highlights">يورۇت</string>
+    <string name="empty_shade_text">ئۇقتۇرۇش يوق</string>
+    <string name="go_to_adaptive_notification_settings">تاقا</string>
+    <string name="quick_settings_disclosure_monitoring">تور نازارەت قىلىنغان بولۇشى مۇمكىن</string>
+    <string name="volume_panel_dialog_settings_button">تەڭشەكلەر</string>
+    <string name="screen_pinning_positive">بىلدىم</string>
+    <string name="screen_pinning_negative">ياق، رەھمەت</string>
+    <string name="stream_system">سىستېما</string>
+    <string name="stream_music">ۋاسىتە</string>
+    <string name="stream_alarm">قوڭغۇراق</string>
+    <string name="stream_notification">ئۇقتۇرۇش</string>
+    <string name="stream_accessibility">قوشۇمچە ئىقتىدار</string>
+    <string name="stream_assistant">ياردەمچى</string>
+    <string name="volume_ringer_status_vibrate">تىترەت</string>
+    <string name="stream_unavailable_by_unknown">ئىشلەتكىلى بولمايدۇ</string>
+    <string name="volume_panel_spatial_audio_off">تاقاق</string>
+    <string name="volume_panel_spatial_audio_fixed">مۇقىم</string>
+    <string name="volume_ringer_hint_vibrate">تىترەت</string>
+    <string name="volume_panel_hint_vibrate">تىترەت</string>
+    <string name="status_bar">ھالەت بالداق</string>
+    <string name="status_bar_alarm">قوڭغۇراق</string>
+    <string name="got_it">بىلدىم</string>
+    <string name="enable_bluetooth_confirmation_ok">ئاچ</string>
+    <string name="inline_done_button">تامام</string>
+    <string name="inline_ok_button">قوللان</string>
+    <string name="inline_turn_off_notifications">تاقا</string>
+    <string name="notification_silence_title">ئۈنسىز</string>
+    <string name="notification_alert_title">كۆڭۈلدىكى</string>
+    <string name="notification_inline_dismiss">پەرۋا قىلما</string>
+    <string name="notification_inline_disable_promotion">تاقا</string>
+    <string name="snooze_undo">يېنىۋال</string>
+    <string name="keyboard_key_media_stop">توختا</string>
+    <string name="keyboard_key_forward_del">ئۆچۈر</string>
+    <string name="keyboard_shortcut_group_system">سىستېما</string>
+    <string name="keyboard_shortcut_search_category_system">سىستېما</string>
+    <string name="group_system_go_back">قايت</string>
+    <string name="group_system_lock_screen">قۇلۇپ ئېكران</string>
+    <string name="keyboard_shortcut_group_applications_assist">ياردەمچى</string>
+    <string name="keyboard_shortcut_group_applications_browser">تور كۆرگۈچ</string>
+    <string name="keyboard_shortcut_group_applications_contacts">ئالاقەداشلار</string>
+    <string name="keyboard_shortcut_group_applications_email">ئېلخەت</string>
+    <string name="keyboard_shortcut_group_applications_sms">قىسقا ئۇچۇر</string>
+    <string name="keyboard_shortcut_group_applications_music">نەغمە</string>
+    <string name="keyboard_shortcut_group_applications_calendar">يىلنامە</string>
+    <string name="keyboard_shortcut_group_applications_calculator">ھېسابلىغۇچ</string>
+    <string name="volume_and_do_not_disturb">دەخلى قىلماڭ</string>
+    <string name="battery">توكدان</string>
+    <string name="headset">تىڭشىغۇچ</string>
+    <string name="switch_bar_on">ئوچۇق</string>
+    <string name="switch_bar_off">تاقاق</string>
+    <string name="tile_unavailable">ئىشلەتكىلى بولمايدۇ</string>
+    <string name="nav_bar">يولباشچى بالداق</string>
+    <string name="nav_bar_layout">جايلاشتۇرۇش</string>
+    <string name="save">ساقلا</string>
+    <string name="reset">ئەسلىگە قايتۇر</string>
+    <string name="qs_edit_edit_tab">تەھرىر</string>
+    <string name="qs_edit_layout_tab">جايلاشتۇرۇش</string>
+    <string name="qs_edit_settings">تەڭشەكلەر</string>
+    <string name="other">باشقا</string>
+    <string name="accessibility_quick_settings_power_menu">توك مەنبە تىزىملىكى</string>
+    <string name="accessibility_shortcutchooser_done_button">تامام</string>
+    <string name="accessibility_shortcutchooser_edit_button">تەھرىر</string>
+    <string name="accessibility_quick_access_dialog_title">قوشۇمچە ئىقتىدار</string>
+    <string name="tuner_lock_screen">قۇلۇپ ئېكران</string>
+    <string name="shutdown_progress">تاقاۋاتىدۇ…</string>
+    <string name="lockscreen_none">يوق</string>
+    <string name="tuner_circle">چەمبەر</string>
+    <string name="tuner_left">سول</string>
+    <string name="tuner_right">ئوڭ</string>
+    <string name="notification_channel_battery">توكدان</string>
+    <string name="notification_channel_storage">ساقلىغۇچ</string>
+    <string name="notification_channel_accessibility">قوشۇمچە ئىقتىدار</string>
+    <string name="mobile_data">كۆچمە سانلىق مەلۇمات</string>
+    <string name="mobile_data_enable_turn_on">ئاچ</string>
+    <string name="auto_data_switch_dialog_negative_button">ياق، رەھمەت</string>
+    <string name="slice_permission_allow">يول قوي</string>
+    <string name="slice_permission_deny">رەت قىل</string>
+    <string name="no_auto_saver_action">ياق، رەھمەت</string>
+    <string name="ongoing_privacy_dialog_a11y_title">ئىشلىتىلىۋاتىدۇ</string>
+    <string name="privacy_type_camera">كامېرا</string>
+    <string name="privacy_chip_container_leading_title">شەخسىيەت</string>
+    <string name="accessibility_control_move_left">سولغا يۆتكە</string>
+    <string name="accessibility_control_move_right">ئوڭغا يۆتكە</string>
+    <string name="accessibility_magnification_zoom">يىراق-يېقىن</string>
+    <string name="accessibility_magnification_medium">ئوتتۇرا</string>
+    <string name="accessibility_magnification_small">كىچىك</string>
+    <string name="accessibility_magnification_large">چوڭ</string>
+    <string name="accessibility_magnification_done">تامام</string>
+    <string name="accessibility_magnifier_edit">تەھرىر</string>
+    <string name="accessibility_floating_button_undo">يېنىۋال</string>
+    <string name="accessibility_floating_button_action_edit">تەھرىر</string>
+    <string name="quick_controls_title">ئۈسكۈنە تىزگىنى</string>
+    <string name="controls_favorite_default_title">تىزگىنلەشلەر</string>
+    <string name="controls_favorite_other_zone_header">باشقا</string>
+    <string name="controls_settings_dialog_neutral_button">ياق، رەھمەت</string>
+    <string name="controls_settings_dialog_positive_button">ھەئە</string>
+    <string name="controls_pin_use_alphanumeric">PIN ھەرپ ياكى بەلگەدىن تەشكىل تاپىدۇ</string>
+    <string name="controls_pin_wrong">بۇ PIN خاتا</string>
+    <string name="controls_pin_instructions">كىرگۈزىدىغىنىڭىز PIN</string>
+    <string name="controls_media_title">ۋاسىتە</string>
+    <string name="controls_media_settings_button">تەڭشەكلەر</string>
+    <string name="controls_media_button_connecting">باغلىنىۋاتىدۇ</string>
+    <string name="media_transfer_undo">يېنىۋال</string>
+    <string name="media_output_item_connected_state">باغلاندى</string>
+    <string name="media_output_dialog_accessibility_seekbar">ئاۋاز مىقدارى</string>
+    <string name="build_number_clip_data_label">نەشر نومۇرى</string>
+    <string name="birthday_status">تۇغۇلغان كۈن</string>
+    <string name="anniversary_status">يىللىق خاتىرە كۈن</string>
+    <string name="game_status">چېلىۋاتىدۇ</string>
+    <string name="missed_call">سۆزلەشمىگەن چاقىرىش</string>
+    <string name="person_available">ئىشلىتىلىشچان</string>
+    <string name="mobile_data_settings_title">كۆچمە سانلىق مەلۇمات</string>
+    <string name="mobile_data_connection_active">باغلاندى</string>
+    <string name="turn_on_wifi">Wi‑Fi</string>
+    <string name="wifi_failed_connect_message">تورغا باغلىنالمىدى</string>
+    <string name="see_all_networks">ھەممىنى كۆرسەت</string>
+    <string name="fgs_manager_app_item_stop_button_label">توختا</string>
+    <string name="clipboard_edit_text_done">تامام</string>
+    <string name="clipboard_text_copied">تېكىست كۆچۈرۈلدى</string>
+    <string name="clipboard_image_preview">سۈرەتنى ئالدىن كۆزەت</string>
+    <string name="log_access_confirmation_learn_more">تەپسىلات بىلدۈرگۈسى</string>
+    <string name="rear_display_bottom_sheet_cancel">ۋاز كەچ</string>
+    <string name="call_from_work_profile_close">ۋاز كەچ</string>
+    <string name="priority_mode_dream_overlay_content_description">ئاۋارە قىلماڭ</string>
+    <string name="dismiss_dialog">پەرۋا قىلما</string>
+    <string name="privacy_dialog_done_button">تامام</string>
+    <string name="shortcut_helper_category_system">سىستېما</string>
+    <string name="shortcut_helper_category_system_apps">سىستېما ئەپ</string>
+    <string name="shortcutHelper_category_split_screen">ئېكراننى بۆل</string>
+    <string name="shortcutHelper_category_accessibility">قوشۇمچە ئىقتىدار</string>
+    <string name="shortcut_helper_category_a11y">قوشۇمچە ئىقتىدار</string>
+    <string name="shortcut_helper_reset_button_text">ئەسلىگە قايتۇر</string>
+    <string name="shortcut_helper_done_button_text">تامام</string>
+    <string name="shortcut_helper_key_combinations_and_conjunction">قوشۇش</string>
+    <string name="shortcut_helper_customize_dialog_cancel_button_label">ۋاز كەچ</string>
+    <string name="shortcut_helper_customizer_action_key_text">مەشغۇلات</string>
+    <string name="shortcut_helper_add_shortcut_button_label">تېزلەتمە قوش</string>
+    <string name="touchpad_tutorial_back_gesture_button">قايت</string>
+    <string name="touchpad_tutorial_done_button">تامام</string>
+    <string name="gesture_error_title">قايتا سىنا</string>
+    <string name="touchpad_back_gesture_action_title">قايت</string>
+    <string name="volume_undo_action">يېنىۋال</string>
+    <string name="qs_edit_mode_category_accessibility">قوشۇمچە ئىقتىدار</string>
+    <string name="qs_edit_mode_category_privacy">شەخسىيەت</string>
+    <string name="qs_edit_mode_category_unknown">يوچۇن</string>
+    <string name="ambientcue_first_time_edu_icon_description">سىنبەلگە</string>
+    <string name="sign_in_button_on_bouncer">تىزىمغا كىر</string>
+    <string name="accessibility_button_on_bouncer_description">قوشۇمچە ئىقتىدار</string>
+    <string name="av_panel_title">شەخسىيەت</string>
+    <string name="sensor_activity_microphone_label">مىكروفون</string>
+    <string name="av_mic_label">مىكروفون</string>
+    <string name="av_camera_blur_off">تاقاق</string>
+    <string name="more_options_edit">تەھرىر</string>
+    <string name="more_options_move">يۆتكە</string>
+    <string name="floating_menu_more_options_label">تېخىمۇ كۆپ تاللانما</string>
+    <string name="dream_setup_button_not_now">ھازىرچە ياق</string>
+    <string name="ace_attribution_dialog_settings_label">تەڭشەكلەر</string>
+    <string-array name="tile_states_internet">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_modes_dnd">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_notes">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+    <string-array name="tile_states_desktopeffects">
+        <item>ئىشلەتكىلى بولمايدۇ</item>
+        <item>تاقاق</item>
+        <item>ئوچۇق</item>
+    </string-array>
+</resources>

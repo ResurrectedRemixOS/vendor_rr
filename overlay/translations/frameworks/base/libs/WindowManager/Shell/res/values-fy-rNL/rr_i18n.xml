@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_settings">Ynstellingen</string>
+    <string name="bubbles_user_education_got_it">Ik begryp it</string>
+    <string name="letterbox_education_got_it">Ik begryp it</string>
+    <string name="letterbox_restart_cancel">Annulearje</string>
+    <string name="back_button_text">Tebek</string>
+    <string name="screenshot_text">Skermôfdruk</string>
+    <string name="a11y_action_pip_move_done">Foltôge</string>
+</resources>

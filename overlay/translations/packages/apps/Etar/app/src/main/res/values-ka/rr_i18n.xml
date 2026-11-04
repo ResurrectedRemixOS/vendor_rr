@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="week_start_locale_default">ენის ნაგულისხმევი</string>
+    <string name="preferences_staggered_display_title">ჩაღრმავებული ჩვენება</string>
+    <string name="preferences_staggered_display_summary">გადაფარვადი მოვლენების ჩვენება ჩაღრმავებული განლაგებით</string>
+    <string name="cal_export_event_title">მოვლენის ექსპორტი</string>
+    <string name="cal_export_success">მოვლენა წარმატებით იქნა ექსპორტირებული</string>
+    <string name="cal_export_error">მოვლენის ექსპორტი ვერ მოხერხდა</string>
+    <string name="cal_export_succ_msg">მოვლენა წარმატებით იქნა ექსპორტირებული</string>
+    <string name="discard_event_changes">გსურთ ცვლილებების გაუქმება?</string>
+    <string name="discard">"გაუქმება"</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">සම්බන්ධතා සංඛ්‍යාලේඛන විස්තර</string>
+    <string name="call_stats_incoming">ලැබුණු: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">පිටතට ගිය: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">මඟ හැරුණු: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">අවහිර කළ: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">මුළු: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">මුළු: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">ආරම්භක දිනය</string>
+    <string name="call_stats_filter_to">අවසන් වන දිනය</string>
+    <string name="call_stats_filter_picker_title">කාල පරාසය පෙරන්න</string>
+    <string name="date_quick_selection">ඉක්මන් තේරීම</string>
+    <string name="date_qs_currentmonth">වත්මන් මාසය</string>
+    <string name="date_qs_currentquarter">වත්මන් කාර්තුව</string>
+    <string name="date_qs_currentyear">වත්මන් වර්ෂය</string>
+    <string name="date_qs_lastweek">"පසුගිය සතිය"</string>
+    <string name="date_qs_lastmonth">"පසුගිය මාසය"</string>
+    <string name="date_qs_lastquarter">පසුගිය කාර්තුව</string>
+    <string name="date_qs_lastyear">"පසුගිය වසර"</string>
+    <string name="call_stats_date_filter">කාල පරාසය සකසන්න</string>
+    <string name="call_stats_reset_filter">කාල පරාසය යළි සකසන්න</string>
+    <string name="call_stats_sort_by_duration">ඇමතුම් කාලය අනුව තේරීම</string>
+    <string name="call_stats_sort_by_count">ඇමතුම් ගණන අනුව තේරීම</string>
+    <string name="call_stats_title_for_number">මෙම අංකය</string>
+    <string name="call_stats_title_of_total">මුළු ගණනින්</string>
+    <string name="call_stats_title_durations">ඇමතුම් කාලසීමා</string>
+    <string name="call_stats_title_count">ඇමතුම් ගණන</string>
+    <string name="call_stats_title_average_duration">සාමාන්‍ය ඇමතුම් කාලය</string>
+    <string name="recent_calls_no_items_in_range">තෝරාගත් කාල පරාසය තුළ ඔබේ ඇමතුම් ලොගයේ ඇමතුම් කිසිවක් නොමැත.</string>
+</resources>

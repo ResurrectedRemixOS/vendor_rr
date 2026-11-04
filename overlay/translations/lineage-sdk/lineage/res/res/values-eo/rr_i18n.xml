@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="profileNameDefault">Defaŭlte</string>
+    <string name="profileNameNight">Nokto</string>
+    <string name="profileGroupPhone">Telefono</string>
+    <string name="profileGroupCalendar">Kalendaro</string>
+    <string name="live_display_night">Nokto</string>
+    <string name="unknown">Nekonata</string>
+    <string name="charging_control_notification_cancel_once">Nuligi</string>
+</resources>

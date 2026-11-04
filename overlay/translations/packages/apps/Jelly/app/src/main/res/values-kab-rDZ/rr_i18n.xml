@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="url_bar_more">Ugar</string>
+    <string name="url_bar_search_clear">Sfeḍ a nadi</string>
+    <string name="menu_go_back">Uγal γer deffir</string>
+    <string name="menu_downloads">Téléchargements</string>
+    <string name="background_shortcuts_save_action">Sekles</string>
+    <string name="pref_start_page_autoload_enabled">Irmed</string>
+    <string name="pref_start_page_autoload_disabled">Insa</string>
+    <string name="ssl_error_invalid">Aselkin agi mačči d ameɣtu.</string>
+    <string name="ssl_error_unknown">Tuccḍa tarussint g uselkin.</string>
+    <string name="location_dialog_allow">Sireg</string>
+    <string name="location_dialog_block">Sewḥel</string>
+    <string name="protected_media_dialog_deny">Aggi</string>
+    <string name="media_session_destroy_action">Seḥbes</string>
+</resources>

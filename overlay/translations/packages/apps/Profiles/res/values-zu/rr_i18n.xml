@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Umhlinzeki wokwethemba weziphathimandla</string>
+    <string name="profile_picker_title">"Amaphrofayli"</string>
+    <string name="profile_none">"Lutho"</string>
+    <string name="profile_trust_agent_title">Ejenti yokwethemba yeziphathimandla</string>
+    <string name="profile_trust_agent_summary">Ivumela iziphathimandla ukuthi zivale kancane ukuvikelwa kwesikrini sokukhiya</string>
+    <string name="trust_by_profile">Ithenjwe iphrofayela</string>
+</resources>

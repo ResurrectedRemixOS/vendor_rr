@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">Brillu adautable</string>
+    <string name="usb_audio_device_permission_prompt_title">¿Quies permitir a «<xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g>» qu\'acceda a «<xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g>»?</string>
+    <string name="usb_audio_device_confirm_prompt_title">¿Quies abrir «<xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g>» pa remanar «<xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g>»?</string>
+    <string name="usb_device_dialog_allow_only_this_time_button">Namás esta vegada</string>
+    <string name="usb_authorization_deny">Nun permitir</string>
+    <string name="screenshot_save_to">Guardar en</string>
+    <string name="screenshot_copy_label">Copiar</string>
+    <string name="screenshot_edit_description">Editar la captura de pantalla</string>
+    <string name="screenshot_share_description">Compartir la captura de pantalla</string>
+    <string name="screen_record_unmute">Activar</string>
+    <string name="screen_capture_front_camera">Cámara d\'alantre</string>
+    <string name="biometric_dialog_enter_pin">Introduz el PIN</string>
+    <string name="biometric_dialog_enter_password">Introduz la contraseña</string>
+    <string name="biometric_dialog_enter_pattern">Introduz el patrón</string>
+    <string name="accessibility_status_bar_input_method_indicator">Tecláu</string>
+    <string name="input_method_switcher_title_large_screen">Tecláu</string>
+    <string name="input_method_switcher_dismiss">escartar</string>
+    <string name="quick_settings_bluetooth_device_audio_sharing_or_switch_active">Ye compatible cola compartición d\'audiu</string>
+    <string name="turn_on_bluetooth_auto_tomorrow">Activar automáticamente mañana</string>
+    <string name="quick_settings_cast_detail_title">Tresmisión de la pantalla al preséu</string>
+    <string name="quick_settings_cast_disconnect">Desconectar</string>
+    <string name="quick_settings_audio_effects_section_title">Efeutos</string>
+    <string name="quick_settings_hearing_devices_connected">N\'activo</string>
+    <string name="quick_settings_hearing_devices_disconnected">Desconectóse</string>
+    <string name="hearing_devices_preset_label">Preaxuste</string>
+    <string name="quick_settings_notes_label">Nota</string>
+    <string name="zen_modes_dialog_title">Moos</string>
+    <string name="work_mode_off_title">¿Reactivar apls. llaborales?</string>
+    <string name="work_mode_turn_on">Volver activar</string>
+    <string name="accessibility_action_label_shrink_widget">Amenorgar l\'altor</string>
+    <string name="accessibility_action_label_expand_widget">Aumentar l\'altor</string>
+    <string name="quick_settings_disclosure_parental_controls">To pá/ma xestionen esti preséu</string>
+    <string name="monitoring_description_parental_controls">To pá/ma xestionen esti preséu, y puen ver y xestionar información como les aplicaciones qu\'uses, la llocalización y el tiempu d\'usu.</string>
+    <string name="notification_onboarding_summaries_turn_on">Activar en Configuración</string>
+    <string name="notification_bundle_header_counter">{count, plural,
+    one {}=1 {# avisu}
+    other {# avisos}
+    }</string>
+    <string name="qs_edit_menu_content_description">Opciones</string>
+    <string name="accessibility_quick_settings_power_menu_expanded">Espandióse</string>
+    <string name="accessibility_quick_settings_power_menu_collapsed">Contráxose</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_message">El control total ye afayadizu pa
+        les aplicaciones que t\'ayuden cola accesibilidá, mas non pa la mayoría d\'elles.
+    </string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_heading">Ver y controlar la pantalla</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_message">Pue lleer tol conteníu de la
+        pantalla y amosar conteníu penriba d\'otres aplicaciones.
+    </string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_heading">Ver y facer aiciones</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_message">Pue facer un siguimientu de
+        les interaiciones que faigas colos sensores del hardware o les aplicaciones, ya interactuar por ti coles aplicaciones.
+    </string>
+    <string name="accessibility_nav_bar_more_options_title">Escueyi una función</string>
+    <string name="privacy_chip_container_leading_title">Privacidá</string>
+    <string name="media_output_group_title_suggested">Suxerse</string>
+    <string name="ongoing_call_content_description">Llamada en cursu</string>
+    <string name="qs_tile_request_dialog_not_add">Nun l\'amestar</string>
+    <string name="start_desktop_mode">Escritoriu</string>
+    <string name="shortcut_helper_key_combinations_and_conjunction">más</string>
+    <string name="shortcut_helper_customizer_action_key_text">Aición</string>
+    <string name="shortcut_helper_add_shortcut_button_label">Amestar un atayu</string>
+    <string name="touchpad_tutorial_home_gesture_button">Dir a Aniciu</string>
+    <string name="touchpad_home_gesture_success_title">¡Bon trabayu!</string>
+    <string name="touchpad_recent_apps_gesture_success_body">Completesti\'l xestu de ver les aplicaciones de recién</string>
+    <string name="qs_edit_mode_category_unknown">Desconozse</string>
+    <string name="ambientcue_first_time_edu_icon_description">Iconu</string>
+    <string name="sign_in_button_on_bouncer">Aniciar sesión</string>
+    <string name="location_button_text_precise_location">Llocalización exauta</string>
+    <string name="location_button_text_use_precise_location">Usar la llocalización exauta</string>
+    <string name="av_panel_title">Privacidá</string>
+    <string name="sensor_activity_close_app_button">Zarrar l\'aplicación</string>
+    <string name="more_options_move">Mover</string>
+    <string name="floating_menu_more_options_label">Más opciones</string>
+</resources>

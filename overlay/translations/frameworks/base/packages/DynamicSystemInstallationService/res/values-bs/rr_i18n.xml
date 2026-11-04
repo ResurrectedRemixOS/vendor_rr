@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Dinamička sistemska ažuriranja</string>
+    <string name="notification_channel_name">Dinamička sistemska ažuriranja</string>
+    <string name="keyguard_title">Dinamička sistemska ažuriranja</string>
+</resources>

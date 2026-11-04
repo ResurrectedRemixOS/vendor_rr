@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_span_dimensions_accessible_format">%1$d a leud ’s %2$d a dh’àirde</string>
+    <string name="browse_widgets_tab_label">Rùraich</string>
+    <string name="widgets_search_bar_hint">Lorg</string>
+    <string name="widget_search_bar_back_button_label">Air ais</string>
+    <string name="widget_cancel_pin_button_label">Sguir dheth</string>
+</resources>

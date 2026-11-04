@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Кайра жүктөө…</string>
+    <string name="global_action_restart_system">"Система"</string>
+    <string name="global_action_restart_recovery">"Калыбына келтирүү"</string>
+    <string name="global_action_restart_bootloader">Загрузчик</string>
+    <string name="global_action_restart_download">"Жүктөп алуу"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Өчүрүлүп күйгүзүлүүдө…"</string>
+    <string name="global_action_restart_recovery_progress">Калыбына келтирүү режимине кайра жүктөлүүдө…</string>
+    <string name="global_action_restart_bootloader_progress">Bootloader режимине кайра жүктөлүүдө…</string>
+    <string name="global_action_restart_download_progress">Жүктөө режимине кайра жүктөлүүдө…</string>
+    <string name="global_action_restart_fastboot_progress">Fastbootd режимине кайра жүктөлүүдө…</string>
+    <string name="global_action_current_user">Учурдагы</string>
+    <string name="global_action_users">"Колдонуучулар"</string>
+    <string name="clock">"Саат"</string>
+    <string name="accessibility_adaptive_brightness">"Ыңгайлашуучу жарык"</string>
+    <string name="status_bar_icons_title">Абал тилкесинин сүрөтчөлөрү</string>
+    <string name="quick_settings_ambient_display_label">"Экран автоматтык түрдө күйөт"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Ambient дисплей өчүк.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Ambient дисплей күйүк.</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD өчүк\nБатареяны үнөмдөгүч</string>
+    <string name="quick_settings_caffeine_label">"Кофеин"</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine өчүк.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine күйүк.</string>
+    <string name="quick_settings_heads_up_label">Heads up</string>
+    <string name="accessibility_quick_settings_heads_up_off">Heads up өчүк.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Heads up күйүк.</string>
+    <string name="quick_settings_powershare_label">Зымсыз PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Зымсыз PowerShare өчүк\nБатареяны үнөмдөгүч</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Зымсыз PowerShare өчүк\nБатарея аз</string>
+    <string name="quick_settings_powershare_enabled_label">Зымсыз PowerShare иштетилген</string>
+    <string name="quick_settings_reading_mode">Окуу режими</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Окуу режими күйүк.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Окуу режими өчүк.</string>
+    <string name="quick_settings_sync_label">"Шайкештирүү"</string>
+    <string name="accessibility_quick_settings_sync_off">Синхрондоо өчүк.</string>
+    <string name="accessibility_quick_settings_sync_on">Синхрондоо күйүк.</string>
+    <string name="quick_settings_profiles_label">Системалык профилдер</string>
+    <string name="accessibility_quick_settings_profiles_off">Профилдер өчүк.</string>
+    <string name="accessibility_quick_settings_profiles">Профиль: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"USB модем"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Туташуу…</string>
+    <string name="vpn_credentials_hint"><xliff:g id="name">%s</xliff:g> менен туташуу үчүн маалымат киргизиңиз</string>
+    <string name="vpn_credentials_username">"Колдонуучунун аты"</string>
+    <string name="vpn_credentials_password">"Сырсөз"</string>
+    <string name="vpn_credentials_dialog_connect">"Туташуу"</string>
+    <string name="status_bar_firewall">Брандмауэр</string>
+    <string name="battery_notification_channel_tv">Батарея эскертүүсү</string>
+    <string name="screenshot_delete_label">"Өчүрүү"</string>
+    <string name="screenshot_delete_description">Скриншотту өчүрүү</string>
+    <string name="screenrecord_lowquality_label">Төмөнкү сапат</string>
+    <string name="screenrecord_lowquality_summary">Файлдын чоңдугу кичине болот</string>
+    <string name="screenrecord_longer_timeout_switch_label">Файлдын чоң чектөөсү</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Жаздыруунун чоңдугун 15 ГБ менен чектөө</string>
+    <string name="screenrecord_skip_time_label">Таймерди өткөрүп жиберүү</string>
+    <string name="screenrecord_skip_time_summary">3 секунддук күтүүнү алып салуу</string>
+    <string name="screenrecord_hevc_switch_label">HEVC кодтоо</string>
+    <string name="screenrecord_hevc_switch_summary">Натыйжалуураак HEVC кодерди колдонуу</string>
+    <string name="zen_alarm_warning_indef">"Бул нерсе өчүрүлмөйүнчө <xliff:g id="WHEN">%1$s</xliff:g> боло турган кийинки ойготкучту укпайсыз"</string>
+</resources>

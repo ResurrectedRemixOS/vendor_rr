@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_expand">Espander</string>
+    <string name="pip_phone_settings">Configuración</string>
+    <string name="pip_menu_title">Menú</string>
+    <string name="accessibility_action_pip_resize">Redimensionar</string>
+    <string name="bubble_overflow_button_content_description">Menú flotante</string>
+    <string name="bubble_content_description_single">«<xliff:g id="notification_title" example="some title">%1$s</xliff:g>» de: <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="bubble_accessibility_action_move_top_left">Mover p\'arriba a la esquierda</string>
+    <string name="bubble_accessibility_action_move_top_right">Mover p\'arriba a la derecha</string>
+    <string name="bubble_accessibility_action_move_bottom_left">Mover p\'abaxo a la esquierda</string>
+    <string name="bubble_accessibility_action_move_bottom_right">Mover p\'abaxo a la derecha</string>
+    <string name="bubble_accessibility_action_move_bar_left">Mover a la esquierda</string>
+    <string name="bubble_accessibility_action_move_bar_right">Mover a la derecha</string>
+    <string name="bubbles_user_education_got_it">Entendílo</string>
+    <string name="notification_bubble_title">Burbuya</string>
+    <string name="manage_bubbles_text">Xestionar</string>
+    <string name="letterbox_education_got_it">Entendílo</string>
+    <string name="letterbox_restart_cancel">Encaboxar</string>
+    <string name="letterbox_restart_restart">Reaniciar</string>
+    <string name="back_button_text">Atrás</string>
+    <string name="more_button_text">Más</string>
+    <string name="select_text">Seleicionar</string>
+    <string name="screenshot_text">Captura de pantalla</string>
+    <string name="new_window_text">Ventana nueva</string>
+    <string name="desktop_mode_layout_menu_snap_text">Redimensionar</string>
+    <string name="desktop_mode_layout_menu_immersive_restore_button_text">Restaurar</string>
+    <string name="desktop_mode_layout_menu_maximize_button_text">Maximizar</string>
+    <string name="desktop_mode_layout_menu_restore_button_text">Restaurar</string>
+    <string name="open_by_default_dialog_subheader_text">Escueyi cómo quies abrir los enllaces web d\'esta aplicación</string>
+    <string name="open_by_default_dialog_in_app_text">Na aplicación</string>
+    <string name="open_by_default_dialog_dismiss_button_text">D\'acuerdu</string>
+    <string name="open_by_default_splash_dialog_checkbox_text">Acordase de la escoyeta</string>
+    <string name="pip_fullscreen">Pantalla completa</string>
+    <string name="pip_move">Mover</string>
+    <string name="pip_expand">Espander</string>
+    <string name="pip_collapse">Contrayer</string>
+    <string name="a11y_action_pip_move_left">Mover a la esquierda</string>
+    <string name="a11y_action_pip_move_right">Mover a la derecha</string>
+    <string name="a11y_action_pip_move_up">Xubir</string>
+    <string name="a11y_action_pip_move_down">Baxar</string>
+    <string name="a11y_action_pip_move_done">Fecho</string>
+</resources>

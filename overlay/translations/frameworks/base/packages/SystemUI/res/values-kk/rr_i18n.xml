@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Қайта іске қосу…</string>
+    <string name="global_action_restart_system">"Жүйе"</string>
+    <string name="global_action_restart_recovery">"Қалпына келтіру"</string>
+    <string name="global_action_restart_bootloader">Жүктегіш</string>
+    <string name="global_action_restart_download">"Жүктеу"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Қайта іске қосылуда…"</string>
+    <string name="global_action_restart_recovery_progress">Қалпына келтіру режиміне қайта іске қосылуда…</string>
+    <string name="global_action_restart_bootloader_progress">Жүктеуші режиміне қайта іске қосылуда…</string>
+    <string name="global_action_restart_download_progress">Жүктеу режиміне қайта іске қосылуда…</string>
+    <string name="global_action_restart_fastboot_progress">Fastbootd режиміне қайта іске қосылуда…</string>
+    <string name="global_action_current_user">Ағымдағы</string>
+    <string name="global_action_users">"Пайдаланушылар"</string>
+    <string name="clock">"Cағат"</string>
+    <string name="accessibility_adaptive_brightness">"Жарықтықты бейімдеу"</string>
+    <string name="status_bar_icons_title">Күйін көрсету жолағының белгішелері</string>
+    <string name="quick_settings_ambient_display_label">"Экранды автоматты қосу"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Ambient дисплей өшірілді.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Ambient дисплей қосылды.</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD өшірулі\nБатарея үнемдеу</string>
+    <string name="quick_settings_caffeine_label">"Кофеин"</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine өшірілді.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine қосылды.</string>
+    <string name="quick_settings_heads_up_label">Heads up</string>
+    <string name="accessibility_quick_settings_heads_up_off">Heads up өшірілді.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Heads up қосылды.</string>
+    <string name="quick_settings_powershare_label">Сымсыз PowerShare</string>
+    <string name="quick_settings_powershare_off_powersave_label">Сымсыз PowerShare өшірулі\nБатарея үнемдеу</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Сымсыз PowerShare өшірулі\nБатарея заряды тым аз</string>
+    <string name="quick_settings_powershare_enabled_label">Сымсыз PowerShare қосулы</string>
+    <string name="quick_settings_reading_mode">Оқу режимі</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Оқу режимі қосылды.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Оқу режимі өшірілді.</string>
+    <string name="quick_settings_sync_label">"Синх"</string>
+    <string name="accessibility_quick_settings_sync_off">Синхрондау өшірілді.</string>
+    <string name="accessibility_quick_settings_sync_on">Синхрондау қосылды.</string>
+    <string name="quick_settings_profiles_label">Жүйелік профильдер</string>
+    <string name="accessibility_quick_settings_profiles_off">Профильдер өшірілді.</string>
+    <string name="accessibility_quick_settings_profiles">Профиль: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"USB-тетеринг"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Қосылу…</string>
+    <string name="vpn_credentials_hint"><xliff:g id="name">%s</xliff:g> желісіне қосылу үшін тіркелгі деректеріңізді енгізіңіз</string>
+    <string name="vpn_credentials_username">"Пайдаланушы аты"</string>
+    <string name="vpn_credentials_password">"Құпия сөз"</string>
+    <string name="vpn_credentials_dialog_connect">"Қосылу"</string>
+    <string name="status_bar_firewall">Брандмауэр</string>
+    <string name="battery_notification_channel_tv">Батарея туралы ескерту</string>
+    <string name="screenshot_delete_label">"Жою"</string>
+    <string name="screenshot_delete_description">Скриншотты жою</string>
+    <string name="screenrecord_lowquality_label">Төмен сапа</string>
+    <string name="screenrecord_lowquality_summary">Файл өлшемі кішірек болу үшін</string>
+    <string name="screenrecord_longer_timeout_switch_label">Файлдың үлкен өлшемдегі шегі</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Жазба өлшемін 15 ГБ-пен шектеу</string>
+    <string name="screenrecord_skip_time_label">Таймерді өткізіп жіберу</string>
+    <string name="screenrecord_skip_time_summary">3 секундтық күтуді алып тастау</string>
+    <string name="screenrecord_hevc_switch_label">HEVC кодтау</string>
+    <string name="screenrecord_hevc_switch_summary">Тиімдірек HEVC кодтауышын пайдалану</string>
+    <string name="zen_alarm_warning_indef">"Мұны ертерек өшіріп қоймасаңыз, келесі дабыл (уақыты: <xliff:g id="WHEN">%1$s</xliff:g>) естілмейді"</string>
+</resources>

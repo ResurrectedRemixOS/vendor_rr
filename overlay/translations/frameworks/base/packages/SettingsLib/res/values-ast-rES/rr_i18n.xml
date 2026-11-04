@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bluetooth_hearing_aids_presets_error">Nun se pudo anovar el preaxuste</string>
+    <string name="hearing_device_spinner_item_selected">Na seleición</string>
+    <string name="clear_adb_keys">Revocar autorizaciones de depur. USB</string>
+    <string name="adb_keys_warning_message">¿Quies revocar l\'accesu a la depuración per USB de tolos ordenadores qu\'autoricesti anteriormente?</string>
+    <string name="screen_zoom_summary_smallest">Lo más pequeño</string>
+    <string name="screen_zoom_summary_smaller">Más pequeño</string>
+    <string name="accessibility_screen_magnification_title">Agrandamientu</string>
+    <string name="media_transfer_analog_line_name">Analóxicu</string>
+</resources>

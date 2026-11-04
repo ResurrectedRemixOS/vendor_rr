@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_adaptive_brightness">Luminositât adative</string>
+    <string name="usb_audio_device_permission_prompt_title">Permeti a <xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g> di acedi a<xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g>?</string>
+    <string name="usb_audio_device_confirm_prompt_title">Vierzi <xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g> par gjestî <xliff:g id="usb_device" example="USB Headphones">%2$s</xliff:g>?</string>
+    <string name="usb_device_dialog_always_allow_button">Permet simpri</string>
+    <string name="usb_device_dialog_allow_only_this_time_button">Dome cheste volte</string>
+    <string name="usb_authorization_deny">No sta permeti</string>
+    <string name="add_network_button_text">Zonte rêt</string>
+    <string name="screenshot_save_to">Salve in</string>
+    <string name="screenshot_copy_label">Copie</string>
+    <string name="screenshot_edit_description">Modifiche schermade</string>
+    <string name="screenshot_share_description">Condivît schermade</string>
+    <string name="screen_record_should_show_touches_label">Mostre tocjadis</string>
+    <string name="screen_record_color_picker">Seletôr colôrs</string>
+    <string name="screen_record_unmute">Ative il sun</string>
+    <string name="screen_capture_front_camera">Fotocjamare frontâl</string>
+    <string name="biometric_dialog_enter_pin">Inserìs il to PIN</string>
+    <string name="biometric_dialog_enter_password">Inserìs la tô password</string>
+    <string name="biometric_dialog_enter_pattern">Inserìs la tô cumbinazion</string>
+    <string name="accessibility_status_bar_input_method_indicator">Tastiere</string>
+    <string name="input_method_switcher_title_large_screen">Tastiere</string>
+    <string name="input_method_switcher_dismiss">ignore</string>
+    <string name="quick_settings_cast_detail_title">Trasmet il schermi al dispositîf</string>
+    <string name="quick_settings_cast_disconnect">Disconet</string>
+    <string name="quick_settings_audio_effects_section_title">Efiets</string>
+    <string name="quick_settings_disclosure_parental_controls">Chest dispositîf al è gjestît dal to gjenitôr</string>
+    <string name="monitoring_description_parental_controls">Chest dispositîf al è gjestît di un dai tiei gjenitôrs. Il to gjenitôr al pues viodi e gjestî lis informazions come lis aplicazions che tu dopris, la tô posizion e il timp di utilizazion.</string>
+    <string name="status_bar_supervision">Controi parentâi</string>
+    <string name="accessibility_status_bar_satellite_symbol">Satelit</string>
+    <string name="notification_onboarding_summaries_turn_on">Ative in Impostazions</string>
+    <string name="notification_bundle_header_counter">{count, plural,
+    one {}=1 {# notifiche}
+    other {# notifichis}
+    }</string>
+    <string name="notification_guts_bundle_feedback">Opinion</string>
+    <string name="qs_edit_menu_content_description">Opzions</string>
+    <string name="accessibility_quick_settings_power_menu_expanded">Slargjât</string>
+    <string name="accessibility_quick_settings_power_menu_collapsed">Strenzût</string>
+    <string name="accessibility_key_gesture_magnification_dialog_positive_button_text">Ten atîf</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_message">Il plen control al è adat pes aplicazions
+        che ti judin cu lis esigjencis di acès facilitât, ma no pe plui part des aplicazions.
+    </string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_heading">Visualizâ e controlâ il schermi</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_view_control_screen_message">Al pues lei ducj i contignûts sul
+        schermi e visualizâ contignûts sore di altris aplicazions.
+    </string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_heading">Visualizâ e eseguî azions</string>
+    <string name="accessibility_key_gesture_screen_reader_dialog_warning_perform_actions_message">Al pues sta daûr aes tôs interazions
+        cun une aplicazion o un sensôr hardware e interagjî cun aplicazions al to puest.</string>
+    <string name="accessibility_nav_bar_more_options_title">Sielç une funzion</string>
+    <string name="privacy_chip_container_leading_title">Riservatece</string>
+    <string name="media_output_group_title_suggested">Sugjeridis</string>
+    <string name="ongoing_call_content_description">Clamade in cors</string>
+    <string name="qs_tile_request_dialog_not_add">No sta zontâlu</string>
+    <string name="start_desktop_mode">Scritori</string>
+    <string name="shortcut_helper_customizer_action_key_text">Azion</string>
+    <string name="shortcut_helper_add_shortcut_button_label">Zonte scurte</string>
+    <string name="touchpad_tutorial_switch_apps_gesture_button">Cambie aplicazions</string>
+    <string name="touchpad_recent_apps_gesture_success_body">Tu âs completât il mot par viodi lis aplicazions resintis</string>
+    <string name="touchpad_switch_apps_gesture_action_title">Cambie aplicazions</string>
+    <string name="ambientcue_first_time_edu_icon_description">Icone</string>
+    <string name="sign_in_button_on_bouncer">Jentre</string>
+    <string name="ambient_cue_expand_action">slargje</string>
+    <string name="location_button_text_precise_location">Posizion precise</string>
+    <string name="location_button_text_use_precise_location">Dopre la posizion precise</string>
+    <string name="av_panel_title">Riservatece</string>
+    <string name="sensor_activity_close_app_button">Siere la aplicazion</string>
+    <string name="more_options_move">Sposte</string>
+    <string name="more_options_remove_all">Gjave dut</string>
+    <string name="floating_menu_more_options_label">Altris opzions</string>
+</resources>

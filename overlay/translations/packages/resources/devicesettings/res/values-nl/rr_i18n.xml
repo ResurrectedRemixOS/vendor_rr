@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="none">"Geen"</string>
+    <string name="stylus_panel_title">Stylus</string>
+    <string name="stylus_panel_summary">Stylusgedrag regelen</string>
+    <string name="stylus_removed_category_title">Stylus verwijderd</string>
+    <string name="stylus_inserted_category_title">Stylus geplaatst</string>
+    <string name="stylus_screen_on_when_removed_title">"Scherm aanzetten"</string>
+    <string name="stylus_screen_on_when_removed_summary">Scherm inschakelen bij verwijderen van de stylus</string>
+    <string name="stylus_screen_off_when_inserted_title">"Scherm uitzetten"</string>
+    <string name="stylus_screen_off_when_inserted_summary">Scherm uitschakelen bij plaatsen van de stylus</string>
+    <string name="stylus_vibrate_title">"Trillen"</string>
+    <string name="stylus_vibrate_when_removed_summary">Trillen bij verwijderen van de stylus</string>
+    <string name="stylus_vibrate_when_inserted_summary">Trillen bij plaatsen van de stylus</string>
+    <string name="stylus_launch_app_title">App starten bij verwijderen</string>
+    <string name="popup_title">Instellingen voorcamera</string>
+    <string name="popup_calibration_title">"Kalibratie"</string>
+    <string name="popup_calibration_summary">De pop-up cameramotor kalibreren</string>
+    <string name="popup_calibration_warning_title">Motorkalibratie</string>
+    <string name="popup_calibration_warning_text">Onnodig gebruik van kalibratie kan permanente schade veroorzaken. Het wordt aanbevolen de pop-up cameramotor alleen te kalibreren als deze niet goed beweegt of in de verkeerde positie staat!</string>
+    <string name="popup_camera_tip">Waarschuwing</string>
+    <string name="popup_camera_takeback_failed_calibrate">Voorcamera kon niet worden gesloten. Probeer de motor te kalibreren.</string>
+    <string name="popup_camera_popup_failed_calibrate">Voorcamera kon niet worden geopend. Probeer de motor te kalibreren.</string>
+    <string name="popup_camera_calibrate_running">Voorcamera kan niet worden gebruikt tijdens kalibratie.</string>
+    <string name="popup_camera_calibrate_now">Kalibreren</string>
+    <string name="popup_camera_calibrate_failed">Kalibreren mislukt</string>
+    <string name="popup_camera_calibrate_success">Succesvol gekalibreerd. Je kunt de voorcamera nu openen.</string>
+    <string name="popup_led_title">Camera-LED</string>
+    <string name="popup_led_summary">LED-licht inschakelen terwijl de voorcamera uitschuift en intrekt</string>
+    <string name="popup_sound_title">"Geluidseffecten"</string>
+    <string name="popup_sound_muqin">Xylofoon</string>
+    <string name="popup_sound_yingyan">Condor</string>
+    <string name="popup_sound_mofa">"Magie"</string>
+    <string name="popup_sound_jijia">Mecha</string>
+    <string name="popup_sound_chilun">Tandwiel</string>
+    <string name="popup_sound_cangmen">Cabinedeur</string>
+    <string name="doze_brightness_title">Altijd-aan-helderheid</string>
+    <string name="doze_brightness_summary">Modus <xliff:g id="mode" example="Low brightness">%s</xliff:g> is ingeschakeld</string>
+    <string name="doze_brightness_low">Lage helderheid</string>
+    <string name="doze_brightness_high">Hoge helderheid</string>
+    <string name="doze_brightness_adaptive">"Aanpasbare helderheid"</string>
+    <string name="alert_slider_mode_none">"Geen"</string>
+    <string name="alert_slider_mode_torch_on">"Zaklamp aan"</string>
+    <string name="alert_slider_mode_torch_off">"Zaklamp uit"</string>
+    <string name="alert_slider_notification_dialog_title">Schuifregelaardialoog tonen</string>
+    <string name="alert_slider_notification_dialog_summary">Een dialoog tonen wanneer de positie van de waarschuwingsschuif verandert</string>
+</resources>

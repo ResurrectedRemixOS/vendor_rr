@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Контакт статистикасының мәліметтері</string>
+    <string name="call_stats_incoming">Кіріс: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Шығыс: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Өткізіп алынған: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Бөгелген: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Барлығы: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Барлығы: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">Басталу күні</string>
+    <string name="call_stats_filter_to">Аяқталу күні</string>
+    <string name="call_stats_filter_picker_title">Сүзгі диапазоны</string>
+    <string name="date_quick_selection">Жылдам таңдау</string>
+    <string name="date_qs_currentmonth">Ағымдағы ай</string>
+    <string name="date_qs_currentquarter">Ағымдағы тоқсан</string>
+    <string name="date_qs_currentyear">Ағымдағы жыл</string>
+    <string name="date_qs_lastweek">"Өткен апта"</string>
+    <string name="date_qs_lastmonth">"Өткен ай"</string>
+    <string name="date_qs_lastquarter">Соңғы тоқсан</string>
+    <string name="date_qs_lastyear">"Өткен жыл"</string>
+    <string name="call_stats_date_filter">Уақыт диапазонын реттеу</string>
+    <string name="call_stats_reset_filter">Уақыт диапазонын қалпына келтіру</string>
+    <string name="call_stats_sort_by_duration">Қоңырау ұзақтығы бойынша сұрыптау</string>
+    <string name="call_stats_sort_by_count">Қоңырау саны бойынша сұрыптау</string>
+    <string name="call_stats_title_for_number">Осы нөмір</string>
+    <string name="call_stats_title_of_total">Жалпыдан</string>
+    <string name="call_stats_title_durations">Қоңыраулар ұзақтығы</string>
+    <string name="call_stats_title_count">Қоңыраулар саны</string>
+    <string name="call_stats_title_average_duration">Орташа қоңырау ұзақтығы</string>
+    <string name="recent_calls_no_items_in_range">Қоңырау журналында таңдалған уақыт диапазонында қоңыраулар жоқ.</string>
+</resources>

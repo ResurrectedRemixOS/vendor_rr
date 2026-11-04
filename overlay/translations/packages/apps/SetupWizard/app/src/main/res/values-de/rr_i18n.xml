@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Abbrechen"</string>
+    <string name="finish">Beenden</string>
+    <string name="device_info">"Geräteinfo"</string>
+    <string name="device_information">"Geräteinformationen"</string>
+    <string name="device_info_serial">"Seriennummer"</string>
+    <string name="setup_euicc">eSIM einrichten</string>
+    <string name="esim_support_summary">Richte eine eSIM ein oder lege eine SIM-Karte ein. Lies zum Einlegen der SIM-Karte die Anleitung, die mit deinem Gerät geliefert wurde.</string>
+    <string name="sim_missing_skip_title">Einrichtung der SIM überspringen?</string>
+    <string name="sim_missing_skip_message">Wenn du diesen Schritt überspringst, bist du erst dann mit einem Mobilfunknetz verbunden, wenn du in den Einstellungen eine SIM einrichtest.</string>
+    <string name="setup_datetime_section_date">"Datum"</string>
+    <string name="setup_datetime_section_time">"Uhrzeit"</string>
+    <string name="setup_date_format">"Formatieren"</string>
+    <string name="date_format_day">Tag</string>
+    <string name="date_format_month">"Monat"</string>
+    <string name="date_format_year">"Jahr"</string>
+    <string name="setup_time_zone">"Zeitzone"</string>
+    <string name="setup_24_hour_format">"24-Stunden-Format"</string>
+    <string name="location_summary">Lege fest, wie dein Gerät den Standort verwaltet</string>
+    <string name="location_access_title">"Standort verwenden"</string>
+    <string name="location_agps_access_title">Erweiterter Standort</string>
+    <string name="services_find_privacy_policy">Die Datenschutzerklärung kannst du auf einem anderen Gerät unter folgender Adresse lesen:</string>
+    <string name="services_metrics_title">Diagnosedaten teilen</string>
+    <string name="gesture_navigation_short">Geste</string>
+    <string name="pure_black_theme">Reines Schwarz als Hintergrund verwenden</string>
+    <string name="theme_preview">Designvorschau</string>
+    <string name="swipe_up_to_go_home">"Nach oben wischen, um den Startbildschirm aufzurufen"</string>
+    <string name="tap_home_to_go_home">Tippe auf das mittlere Navigationssymbol, um zum Startbildschirm zu gelangen</string>
+    <string name="press_center_to_go_home">Drücke die mittlere Taste, um zum Startbildschirm zu gelangen</string>
+</resources>

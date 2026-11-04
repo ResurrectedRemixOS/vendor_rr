@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="play_random_songs">Přehrát náhodné skladby</string>
+    <string name="fullscreen_mode">Režim celé obrazovky</string>
+    <string name="fullscreen_mode_summary">Povolit režim celé obrazovky. Skryje navigační panel a stavový řádek, ale zajistí, že se žádný dotykový obsah nepřekrývá s výřezy displeje</string>
+    <string name="activity_most_played_artists">Nejpřehrávanější interpreti</string>
+    <string name="activity_most_played_genres">Nejpřehrávanější žánry</string>
+    <string name="activity_most_played_songs">Nejpřehrávanější skladby</string>
+    <string name="ampache_compatible">Kompatibilní</string>
+</resources>

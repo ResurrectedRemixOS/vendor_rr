@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Gagal memulakan rakaman panggilan</string>
+    <string name="call_recording_file_location">Rakaman panggilan disimpan ke <xliff:g id="filename">%s</xliff:g></string>
+    <string name="onscreenCallRecordText">Rakam panggilan</string>
+    <string name="onscreenCallRecordingText">Merakam panggilan - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Hentikan rakaman"</string>
+    <string name="recording_warning_title">Dayakan rakaman panggilan?</string>
+    <string name="recording_warning_text">Makluman: Anda bertanggungjawab untuk mematuhi sebarang undang-undang, peraturan dan kaedah yang terpakai bagi penggunaan fungsi rakaman panggilan serta penggunaan atau pengedaran rakaman tersebut.</string>
+</resources>

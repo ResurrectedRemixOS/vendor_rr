@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">ਨਜ਼ਦੀਕੀ ਸਥਾਨ</string>
+    <string name="lookup_settings_label">Phone number lookup</string>
+    <string name="enable_forward_lookup_title">Forward lookup</string>
+    <string name="enable_forward_lookup_summary">ਡਾਇਲਰ ਵਿੱਚ ਖੋਜ ਕਰਨ ਵੇਲੇ ਨੇੜਲੀਆਂ ਥਾਵਾਂ ਵਿਖਾਓ</string>
+    <string name="enable_reverse_lookup_title">Reverse lookup</string>
+    <string name="enable_reverse_lookup_summary">ਆਉਣ ਵਾਲੀਆਂ ਕਾਲਾਂ ’ਤੇ ਅਣਜਾਣ ਨੰਬਰਾਂ ਲਈ ਵਿਅਕਤੀ ਜਾਂ ਥਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਵੇਖੋ</string>
+    <string name="forward_lookup_provider_title">Forward lookup provider</string>
+    <string name="reverse_lookup_provider_title">Reverse lookup provider</string>
+    <string name="lookup_disclaimer">ਜਾਣਕਾਰੀ ਲੱਭਣ ਲਈ ਖੋਜਾਂ ਸੁਰੱਖਿਅਤ ਪ੍ਰੋਟੋਕੋਲ (https) ਰਾਹੀਂ ਰਿਮੋਟ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਭੇਜੀਆਂ ਜਾ ਸਕਦੀਆਂ ਹਨ। ਖੋਜ ਵਿੱਚ ਦੂਜੀ ਧਿਰ ਦਾ ਫੋਨ ਨੰਬਰ ਜਾਂ ਖੋਜ ਸ਼ਬਦ ਸ਼ਾਮਲ ਹੋ ਸਕਦਾ ਹੈ</string>
+</resources>

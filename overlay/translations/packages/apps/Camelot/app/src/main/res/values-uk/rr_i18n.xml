@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">PDF-переглядач</string>
+    <string name="find_in_page">Знайти на сторінці</string>
+    <string name="share">"Поділитися"</string>
+    <string name="open_with">Відкрити за допомогою…</string>
+    <string name="download">"Завантажити"</string>
+    <string name="pdf_document">PDF-документ</string>
+    <string name="print">"Друк"</string>
+    <string name="download_successful">Завантаження успішне</string>
+    <string name="download_error">Помилка під час завантаження файлу</string>
+</resources>

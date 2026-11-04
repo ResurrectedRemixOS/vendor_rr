@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">ຜູ້ໃຫ້ຄວາມເຊື່ອໝັ້ນໂປຣໄຟລ໌</string>
+    <string name="profile_picker_title">"ໂປຣໄຟລ໌"</string>
+    <string name="profile_none">"ບໍ່ມີ"</string>
+    <string name="profile_trust_agent_title">ຕົວແທນຄວາມເຊື່ອໝັ້ນໂປຣໄຟລ໌</string>
+    <string name="profile_trust_agent_summary">ອະນຸຍາດໃຫ້ໂປຣໄຟລ໌ປິດການປ້ອງກັນໜ້າຈໍລັອກຊົ່ວຄາວ</string>
+    <string name="trust_by_profile">ໄດ້ຮັບຄວາມເຊື່ອໝັ້ນໂດຍໂປຣໄຟລ໌</string>
+</resources>

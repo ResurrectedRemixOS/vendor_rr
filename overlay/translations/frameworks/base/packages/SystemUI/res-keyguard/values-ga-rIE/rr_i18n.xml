@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyguard_enter_pin">Cuir isteach an PIN</string>
+    <string name="keyguard_enter_password">Cuir isteach focal faire</string>
+    <string name="keyguard_missing_sim_message_short">Gan SIM</string>
+    <string name="keyboardview_keycode_enter">Iontráil</string>
+    <string name="kg_wrong_pattern">Patrún mícheart</string>
+    <string name="kg_wrong_password">Pasfhocal mícheart</string>
+    <string name="kg_wrong_pin">PIN mícheart</string>
+    <string name="kg_fp_not_recognized">Níor aithníodh méarlorg</string>
+    <string name="kg_invalid_sim_pin_hint">Clóscríobh PIN atá 4 go 8 uimhir.</string>
+    <string name="kg_too_many_failed_password_attempts_dialog_message">
+        Tá do phasfhocal clóscríofa go mícheart agat <xliff:g id="number">%1$d</xliff:g> uair.
+        \n\nDéan iarracht arís i gceann <xliff:g id="number">%2$d</xliff:g> soicind.
+    </string>
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message">
+        Tá do phatrún díghlasála tarraingthe go mícheart agat <xliff:g id="number">%1$d</xliff:g> uair.
+        \n\nDéan iarracht arís i gceann <xliff:g id="number">%2$d</xliff:g> soicind.
+    </string>
+    <string name="kg_password_wrong_pin_code_pukked">Tá cód PIN an chárta SIM mícheart; ní mór duit teagmháil a dhéanamh le do sholáthraí seirbhíse anois chun do ghléas a dhíghlasáil.</string>
+    <string name="accessibility_ime_switch_button">Athraigh an modh ionchuir</string>
+    <string name="airplane_mode">Modh eitleáin</string>
+    <string name="clock_title_bubble">Mboilgeog</string>
+    <string name="clock_title_analog">Analógach</string>
+</resources>

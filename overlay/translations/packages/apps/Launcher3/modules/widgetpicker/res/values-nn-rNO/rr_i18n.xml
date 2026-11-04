@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_span_dimensions_accessible_format">%1$d brei og %2$d høg</string>
+    <string name="widget_details_accessibility_label">        <xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g>-miniprogram, %2$d brei og %3$d høg
+    </string>
+    <string name="widget_tap_to_show_add_button_label">Vis legg til-knappen</string>
+    <string name="widget_tap_to_hide_add_button_label">Gøym legg til-knappen</string>
+    <string name="widget_tap_to_add_button_content_description">Legg til <xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g>-miniprogram</string>
+    <string name="browse_widgets_tab_label">Bla gjennom</string>
+    <string name="widget_picker_right_pane_accessibility_label"><xliff:g id="selected_header" example="Calendar">%1$s</xliff:g>-miniprogram til høgre, søk og val til venstre</string>
+    <string name="widgets_search_bar_hint">Søk</string>
+    <string name="widget_search_bar_back_button_label">Tilbake</string>
+    <string name="widgets_list_no_widgets_available">Miniprogram og snarvegar er ikkje tilgjengelege</string>
+    <string name="widgets_no_search_results">Fann ingen miniprogram eller snarvegar</string>
+    <string name="widget_add_to_homescreen_button_label">Legg til på startskjermen</string>
+    <string name="widget_cancel_pin_button_label">Avbryt</string>
+</resources>

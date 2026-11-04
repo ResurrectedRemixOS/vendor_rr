@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"रद्द करा"</string>
+    <string name="finish">पूर्ण</string>
+    <string name="done">"पूर्ण झाले"</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g> मध्ये आपले स्वागत आहे</string>
+    <string name="setup_managed_profile_welcome_message">तुमचे वर्क प्रोफाइल सेट करा</string>
+    <string name="accessibility_settings">"प्रवेशयोग्यता सेटिंग्ज"</string>
+    <string name="device_info">"डिव्हाइसची माहिती"</string>
+    <string name="device_information">"डिव्हाइसची माहिती"</string>
+    <string name="device_info_serial">"सिरीअल नंबर"</string>
+    <string name="setup_locale">"भाषा"</string>
+    <string name="setup_euicc">eSIM सेट करा</string>
+    <string name="esim_support_summary">eSIM सेट करा किंवा SIM कार्ड घाला। SIM कार्ड घालण्यासाठी, तुमच्या डिव्हाइससोबत आलेल्या सूचना वाचा।</string>
+    <string name="sim_missing_skip_title">SIM सेट करणे वगळायचे?</string>
+    <string name="sim_missing_skip_message">ही पायरी वगळल्यास, सेटिंग्जमध्ये SIM सेट करेपर्यंत तुम्ही मोबाइल नेटवर्कशी कनेक्ट होणार नाही।</string>
+    <string name="setup_datetime_section_date">"तारीख"</string>
+    <string name="setup_datetime_section_time">"वेळ"</string>
+    <string name="setup_date_format">"फॉरमॅट करा"</string>
+    <string name="date_format_day">दिवस</string>
+    <string name="date_format_month">"महिना"</string>
+    <string name="date_format_year">"वर्ष"</string>
+    <string name="setup_time_zone">"टाइम झोन"</string>
+    <string name="setup_24_hour_format">"२४-तास फॉरमॅट वापरा"</string>
+    <string name="intro_restore_title">ॲप्स आणि डेटा पुनर्संचयित करा</string>
+    <string name="intro_restore_subtitle">तुमच्याकडे <xliff:g id="name" example="LineageOS">%s</xliff:g> किंवा इतर कोणत्याही OS वरून Seedvault बॅकअप असल्यास, तो तुम्ही येथे पुनर्संचयित करू शकता।</string>
+    <string name="intro_restore_button">बॅकअपमधून पुनर्संचयित करा</string>
+    <string name="location_summary">तुमचे डिव्हाइस स्थान कसे व्यवस्थापित करते ते निवडा</string>
+    <string name="location_access_title">"स्थान वापरा"</string>
+    <string name="location_agps_access_title">सुधारित स्थान</string>
+    <string name="location_agps_access_summary">स्थान सुरू असताना, इंटरनेटवरून सॅटेलाइट सहाय्य डेटा डाउनलोड करा, ज्यामुळे GPS सुरू होण्याची कार्यक्षमता लक्षणीयरीत्या सुधारू शकते।</string>
+    <string name="update_recovery_title">Resurrected Remix रिकव्हरी अद्ययावत करा</string>
+    <string name="update_recovery_description">प्रत्येक अपडेटनंतर पहिल्या बूटवर Resurrected Remix रिकव्हरी अद्ययावत करते।</string>
+    <string name="update_recovery_warning">सेटअप पूर्ण होताच रिकव्हरी अद्ययावत केली जाईल। ती जशीच्या तशी ठेवायची असल्यास, हे वैशिष्ट्य बंद करा।</string>
+    <string name="update_recovery_setting">OS सोबत Resurrected Remix रिकव्हरी अद्ययावत करा</string>
+    <string name="setup_services">Resurrected Remix वैशिष्ट्ये</string>
+    <string name="services_pp_explanation">ही सेवा तुमच्या डिव्हाइसची क्षमता वाढवण्यासाठी कार्य करतात। डेटा <xliff:g id="name" example="LineageOS">%1$s</xliff:g> च्या गोपनीयता धोरणानुसार वापरला जाईल।</string>
+    <string name="services_find_privacy_policy">तुम्ही दुसऱ्या डिव्हाइसवर खालील पत्त्यावर भेट देऊन गोपनीयता धोरण वाचू शकता:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> सुधारण्यास मदत करा</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> स्वयंचलितपणे <xliff:g id="name" example="LineageOS">%2$s</xliff:g> ला निदान आणि वापर डेटा पाठवून। ही माहिती तुमची ओळख पटवण्यासाठी वापरली जाऊ शकत नाही आणि बॅटरी आयुष्य, ॲप कार्यक्षमता आणि नवीन <xliff:g id="name" example="LineageOS">%3$s</xliff:g> वैशिष्ट्ये यांसारख्या गोष्टींवर काम करणाऱ्या टीमना मदत करते।</string>
+    <string name="services_metrics_title">निदान डेटा योगदान द्या</string>
+    <string name="setup_navigation">नेव्हिगेशन</string>
+    <string name="navigation_summary">पसंतीची नेव्हिगेशन पद्धत निवडा</string>
+    <string name="gesture_navigation">"जेश्चर नेव्हिगेशन"</string>
+    <string name="navbar_navigation">"तीन बटण नेव्हिगेशन"</string>
+    <string name="gesture_navigation_short">गेश्चर</string>
+    <string name="hide_gesture_hint">गेश्चर नेव्हिगेशन संकेत लपवा</string>
+    <string name="setup_theme">"थीम"</string>
+    <string name="theme_summary">डार्क थीम काही स्क्रीनवर बॅटरी जास्त काळ टिकण्यास मदत करण्यासाठी काळी पार्श्वभूमी वापरते</string>
+    <string name="dark">डार्क</string>
+    <string name="light">"हलका"</string>
+    <string name="pure_black_theme">शुद्ध काळी पार्श्वभूमी वापरा</string>
+    <string name="theme_preview">थीम पूर्वावलोकन</string>
+    <string name="swipe_up_to_go_home">"होमवर जाण्यासाठी वरती स्वाइप करा"</string>
+    <string name="tap_home_to_go_home">होम जाण्यासाठी मधला नेव्ह आयकॉन टॅप करा</string>
+    <string name="press_center_to_go_home">होम जाण्यासाठी मधले बटण दाबा</string>
+</resources>

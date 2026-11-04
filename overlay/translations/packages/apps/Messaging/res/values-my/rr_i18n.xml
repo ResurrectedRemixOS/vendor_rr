@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="swipe_to_delete_conversation_pref_title">ဖျက်ရန် ပွတ်ဆွဲပါ</string>
+    <string name="swipe_to_delete_conversation_pref_summary">စကားဝိုင်းကို ဖျက်ရန် ညာဘက်သို့ ပွတ်ဆွဲပါ</string>
+    <string name="notification_channel_messages_title">"မက်ဆေ့ဂျ်များ"</string>
+    <string name="start_chat">စကားပြောစတင်ရန်</string>
+</resources>

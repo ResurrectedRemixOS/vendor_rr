@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">Pružatelj povjerenja profila</string>
+    <string name="profile_picker_title">"Profili"</string>
+    <string name="profile_none">"Ništa"</string>
+    <string name="profile_trust_agent_title">Agent povjerenja profila</string>
+    <string name="profile_trust_agent_summary">Omogućava profilima privremeno isključivanje zaštite zaključanog ekrana</string>
+    <string name="trust_by_profile">Povjerenje profila</string>
+</resources>

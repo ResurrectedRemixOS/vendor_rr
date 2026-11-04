@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_stats_detail_title">Contact statistics details</string>
+    <string name="call_stats_incoming">Incoming: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_outgoing">Outgoing: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_missed">Missed: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_blocked">Blocked: <xliff:g id="value">%s</xliff:g></string>
+    <string name="call_stats_header_total">Total: <xliff:g id="call_count">%1$s</xliff:g>, <xliff:g id="duration">%2$s</xliff:g></string>
+    <string name="call_stats_header_total_callsonly">Total: <xliff:g id="call_count">%s</xliff:g></string>
+    <string name="call_stats_filter_from">Start date</string>
+    <string name="call_stats_filter_to">End date</string>
+    <string name="call_stats_filter_picker_title">Filter range</string>
+    <string name="date_quick_selection">Quick selection</string>
+    <string name="date_qs_currentmonth">Current month</string>
+    <string name="date_qs_currentquarter">Current quarter</string>
+    <string name="date_qs_currentyear">Current year</string>
+    <string name="date_qs_lastweek">"ਪਿਛਲੇ ਹਫ਼ਤੇ"</string>
+    <string name="date_qs_lastmonth">"ਪਿਛਲੇ ਮਹੀਨੇ"</string>
+    <string name="date_qs_lastquarter">Last quarter</string>
+    <string name="date_qs_lastyear">"ਪਿਛਲੇ ਸਾਲ"</string>
+    <string name="call_stats_date_filter">Adjust time range</string>
+    <string name="call_stats_reset_filter">Reset time range</string>
+    <string name="call_stats_sort_by_duration">Sort by call duration</string>
+    <string name="call_stats_sort_by_count">Sort by call count</string>
+    <string name="call_stats_title_for_number">This number</string>
+    <string name="call_stats_title_of_total">Of total</string>
+    <string name="call_stats_title_durations">Call durations</string>
+    <string name="call_stats_title_count">Call count</string>
+    <string name="call_stats_title_average_duration">Average call duration</string>
+    <string name="recent_calls_no_items_in_range">ਤੁਹਾਡੇ ਕਾਲ ਲੌਗ ਵਿੱਚ ਚੁਣੀ ਸਮਾਂ ਸੀਮਾ ਦੌਰਾਨ ਕੋਈ ਕਾਲ ਨਹੀਂ ਹੈ।</string>
+</resources>

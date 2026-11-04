@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"취소"</string>
+    <string name="finish">마침</string>
+    <string name="device_info">"기기 정보"</string>
+    <string name="device_information">"기기 정보"</string>
+    <string name="device_info_serial">"일련번호"</string>
+    <string name="setup_euicc">eSIM 설정</string>
+    <string name="esim_support_summary">eSIM을 설정하거나 SIM 카드를 삽입하세요. SIM 카드를 삽입하려면 기기와 함께 제공된 안내를 읽어 보세요.</string>
+    <string name="sim_missing_skip_title">SIM 설정을 건너뛸까요?</string>
+    <string name="sim_missing_skip_message">이 단계를 건너뛰면 설정에서 SIM을 설정하기 전까지 이동통신망에 연결되지 않습니다.</string>
+    <string name="setup_datetime_section_date">"날짜"</string>
+    <string name="setup_datetime_section_time">"시간"</string>
+    <string name="setup_date_format">"포맷"</string>
+    <string name="date_format_day">"일"</string>
+    <string name="date_format_month">"월"</string>
+    <string name="date_format_year">"연도"</string>
+    <string name="setup_time_zone">"시간대"</string>
+    <string name="setup_24_hour_format">"24시간 형식 사용"</string>
+    <string name="location_summary">기기가 위치를 관리하는 방식을 선택하세요</string>
+    <string name="location_access_title">"위치 정보 사용"</string>
+    <string name="location_agps_access_title">향상된 위치 정보</string>
+    <string name="services_find_privacy_policy">다른 기기에서 다음 주소를 방문하여 개인정보 처리방침을 읽을 수 있습니다:</string>
+    <string name="services_metrics_title">진단 데이터 제공</string>
+    <string name="gesture_navigation_short">제스처</string>
+    <string name="pure_black_theme">순수 검은색 배경 사용</string>
+    <string name="theme_preview">테마 미리보기</string>
+    <string name="swipe_up_to_go_home">"위로 스와이프하여 홈으로 이동"</string>
+    <string name="tap_home_to_go_home">가운데 탐색 아이콘을 탭하여 홈으로 이동</string>
+    <string name="press_center_to_go_home">가운데 버튼을 눌러 홈으로 이동</string>
+</resources>

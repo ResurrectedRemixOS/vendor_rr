@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Alphabet (Bépo)</string>
+    <string name="subtype_hu_ZZ">Hungarian (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - පද්ධති සැකසීම් අනුගමනය කරන්න</string>
+    <string name="prefs_keyboard_height_scale">යතුරු පුවරු උස පරිමාණය</string>
+    <string name="number_row">අංක පේළිය</string>
+    <string name="number_row_summary">යතුරු පේළි 4ක් ඇති සියලු පිරිස්තර සඳහා සැමවිට අංක පේළියක් පෙන්වන්න</string>
+    <string name="number_row_password">මුරපද සඳහා අංක පේළිය</string>
+    <string name="number_row_password_summary">සංඛ්‍යා පේළිය සියලු මුරපද ඇතුළත් කිරීමේ පිරිස්‍යාසවල (layouts) කීපයක් ඇති සියලු පිරිස්‍යාසවල සැමවිට පෙන්වන්න</string>
+    <string name="space_trackpad">ඉඩ පටිය ස්පර්ශ පැඩ්ටය</string>
+    <string name="space_trackpad_summary">කර්සරය ගෙනයාමට ඉඩ පටිය මත ස්වයිප් කරන්න</string>
+    <string name="backspace_trackpad">පසුබස්‌ යතුර ස්පර්ශ පැඩ්ටය</string>
+    <string name="backspace_trackpad_summary">වචන මකා දැමීමට පසුබස් යතුර මත ස්වයිප් කරන්න</string>
+    <string name="show_longpress_hints">දිගු ඔබාගැනීමේ ඉඟි පෙන්වන්න</string>
+    <string name="show_longpress_hints_summary">සහාය දක්වන යතුරු සඳහා දිගු ඔබාගැනීමේ ඉඟි පෙන්වයි</string>
+    <string name="show_emoji_key">ඉමොජි යතුර පෙන්වන්න</string>
+    <string name="show_emoji_key_summary">ඉමොජි යතුර සැමවිට පෙන්වන්න. මෙම විකල්පය සක්‍රිය කළ විට, භාෂා මාරු කිරීමේ යතුර පෙන්විය නොහැක.</string>
+    <string name="enable_split_keyboard_summary">තිරස් දිශානතියේදී පමණි</string>
+    <string name="split_keyboard_duplicate_keys">මධ්‍ය යතුරු අනුපිටපත් කරන්න</string>
+    <string name="split_keyboard_duplicate_keys_summary">දෙපැත්තේම මැද ආසන්න යතුරු පෙන්වන්න</string>
+    <string name="spoken_description_split_keyboard">කීපයට බෙදූ යතුරු පුවරුව</string>
+    <string name="spoken_description_merge_keyboard">ඒකාබද්ධ යතුරු පුවරුව</string>
+    <string name="spoken_description_float_keyboard">පාවෙන යතුරු පුවරුව</string>
+    <string name="spoken_description_dock_keyboard">ඩොක් යතුරු පුවරුව</string>
+    <string name="floating_keyboard_drag_handle">යතුරු පුවරුව ගෙනයන්න</string>
+    <string name="floating_keyboard_resize_handle">යතුරු පුවරුවේ ප්‍රමාණය වෙනස් කරන්න</string>
+    <string name="floating_keyboard_reset">"යළි සකසන්න"</string>
+    <string name="floating_keyboard_hide">යතුරු පුවරුව සඟවන්න</string>
+    <string name="floating_keyboard_switch_ime">"ආදාන ක්‍රමය මාරු කිරීම"</string>
+</resources>

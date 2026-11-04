@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Clásico</string>
+    <string name="bundle1_color_name">Carbono</string>
+    <string name="bundle2_color_name">Papel</string>
+    <string name="bundle3_color_name">Sol</string>
+    <string name="bue_color_name">Lavanda</string>
+    <string name="red_color_name">Amora</string>
+    <string name="wht_color_name">Néboa</string>
+    <string name="indigo_color_name">"Índigo"</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Xade</string>
+    <string name="lemongrass_color_name">Herba limón</string>
+    <string name="moonstone_color_name">Pedra lunar</string>
+    <string name="obsidian_color_name">Obsidiana</string>
+    <string name="peony_color_name">Peonía</string>
+    <string name="porcelain_color_name">Porcelana</string>
+    <string name="fruit1_color_name">Paleta de dúas cores en amarelo e vermello</string>
+    <string name="fruit2_color_name">Paleta de dúas cores en verde e laranxa</string>
+    <string name="fruit3_color_name">Paleta de dúas cores en azul e verde</string>
+    <string name="fruit4_color_name">Paleta de dúas cores en malva claro e azul</string>
+    <string name="fruit5_color_name">Paleta de dúas cores en rosa e índigo</string>
+</resources>

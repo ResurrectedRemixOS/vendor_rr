@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_color_name">Okwakudala</string>
+    <string name="bundle1_color_name">Ikhabhoni</string>
+    <string name="bundle2_color_name">Iphepha</string>
+    <string name="bundle3_color_name">Ilanga</string>
+    <string name="bue_color_name">Ilavenda</string>
+    <string name="red_color_name">Amajikijolo</string>
+    <string name="wht_color_name">Umsinsi</string>
+    <string name="indigo_color_name">"Oku-Indigo"</string>
+    <string name="iris_color_name">Iris</string>
+    <string name="jade_color_name">Ijade</string>
+    <string name="lemongrass_color_name">Ulemongrasi</string>
+    <string name="moonstone_color_name">Itshe lenyanga</string>
+    <string name="obsidian_color_name">Obsidiyani</string>
+    <string name="peony_color_name">Upeoni</string>
+    <string name="porcelain_color_name">Upolisela</string>
+    <string name="fruit1_color_name">Ipharethi yemibala emibili ephuzi nebomvu</string>
+    <string name="fruit2_color_name">Ipharethi yemibala emibili eluhlaza nelamakhemikhali</string>
+    <string name="fruit3_color_name">Ipharethi yemibala emibili eluhlaza okwesibhakabhaka nolwaluhlaza</string>
+    <string name="fruit4_color_name">Ipharethi yemibala emibili ephephuzi elikhanyayo nesibhakabhaka</string>
+    <string name="fruit5_color_name">Ipharethi yemibala emibili epinki neyi-indigo</string>
+</resources>

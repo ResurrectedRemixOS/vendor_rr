@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"မလုပ်တော့"</string>
+    <string name="finish">ပြီးပြီ</string>
+    <string name="setup_managed_profile_welcome_message">အလုပ်ပရိုဖိုင်ကို သတ်မှတ်ပါ</string>
+    <string name="device_info">"စက်အချက်အလက်"</string>
+    <string name="device_information">"ဖုန်း၏ အချက်အလက်များ"</string>
+    <string name="device_info_serial">"အမှတ်စဉ်"</string>
+    <string name="sim_locale_changed">%1$s SIM တွေ့ရှိပါသည်</string>
+    <string name="setup_euicc">eSIM ကို သတ်မှတ်ပါ</string>
+    <string name="esim_support_summary">eSIM ကို သတ်မှတ်ပါ သို့မဟုတ် SIM ကတ် ထည့်ပါ။ SIM ကတ် ထည့်ရန် သင့်စက်နှင့်အတူ ပါလာသော လမ်းညွှန်ချက်များကို ဖတ်ပါ။</string>
+    <string name="sim_missing_skip_title">SIM သတ်မှတ်ခြင်းကို ကျော်မလား?</string>
+    <string name="sim_missing_skip_message">ဤအဆင့်ကို ကျော်ပါက ဆက်တင်များတွင် SIM ကို မသတ်မှတ်မချင်း မိုဘိုင်းကွန်ရက်သို့ ချိတ်ဆက်မည် မဟုတ်ပါ။</string>
+    <string name="setup_datetime_section_date">"ရက်စွဲ"</string>
+    <string name="setup_datetime_section_time">"အချိန်"</string>
+    <string name="setup_date_format">"ဖော်မက်လုပ်ရန်"</string>
+    <string name="date_format_day">"ရက်"</string>
+    <string name="date_format_month">"လ"</string>
+    <string name="date_format_year">"နှစ်"</string>
+    <string name="setup_time_zone">"အချိန်ဇုန်"</string>
+    <string name="setup_24_hour_format">"၂၄-နာရီ စနစ်ကို သုံးရန်"</string>
+    <string name="intro_restore_title">အက်ပ်များနှင့် ဒေတာများကို ပြန်လည်ရယူရန်</string>
+    <string name="intro_restore_subtitle"><xliff:g id="name" example="LineageOS">%s</xliff:g> မှ သို့မဟုတ် အခြား OS မှ Seedvault အရန်ကူးမှု ရှိပါက ဤနေရာတွင် ပြန်လည်ရယူနိုင်ပါသည်။</string>
+    <string name="intro_restore_button">အရန်ကူးမှုမှ ပြန်လည်ရယူရန်</string>
+    <string name="location_summary">သင့်စက်က တည်နေရာကို မည်သို့စီမံမည်ကို ရွေးချယ်ပါ</string>
+    <string name="location_access_title">"တည်နေရာကို သုံးရန်"</string>
+    <string name="location_agps_access_title">တိုးတက်သော တည်နေရာ</string>
+    <string name="location_agps_access_summary">တည်နေရာ ဖွင့်ထားချိန်တွင် ဂြိုဟ်တုအကူအညီဒေတာကို အင်တာနက်မှ ဒေါင်းလုဒ်လုပ်ပါမည်၊ ၎င်းက GPS စတင်ရာတွင် စွမ်းဆောင်ရည်ကို သိသိသာသာ တိုးတက်စေနိုင်ပါသည်။</string>
+    <string name="update_recovery_title">Resurrected Remix recovery ကို အပ်ဒိတ်လုပ်ရန်</string>
+    <string name="update_recovery_description">အပ်ဒိတ်တိုင်းပြီးနောက် ပထမဆုံးစတင်ချိန်တွင် Resurrected Remix recovery ကို အပ်ဒိတ်လုပ်ပါသည်။</string>
+    <string name="update_recovery_warning">စနစ်တင်ပြီးသည်နှင့် recovery ကို အပ်ဒိတ်လုပ်ပါမည်။ မူလအတိုင်းထားလိုပါက ဤလုပ်ဆောင်ချက်ကို ပိတ်ပါ။</string>
+    <string name="update_recovery_setting">OS နှင့်အတူ Resurrected Remix recovery ကို အပ်ဒိတ်လုပ်ရန်</string>
+    <string name="services_find_privacy_policy">ကိုယ်ရေးအချက်အလက်မူဝါဒကို အခြားစက်တစ်ခုတွင် ဤနေရာသို့ သွားရောက်ဖတ်ရှုနိုင်ပါသည်:</string>
+    <string name="services_metrics_title">ရောဂါရှာဖွေရေးဒေတာ ပံ့ပိုးရန်</string>
+    <string name="services_os_nav_keys_label">ဟာ့ဒ်ဝဲခလုတ်များအစား <b>ဖန်သားပြင်ပေါ်ရှိ လမ်းညွှန်ခလုတ်များ</b> ကို သုံးပါ။</string>
+    <string name="gesture_navigation_short">လက်ဟန်</string>
+    <string name="setup_theme">"အပြင်အဆင်"</string>
+    <string name="theme_summary">အမှောင်အပြင်အဆင်သည် အချို့ဖန်သားပြင်များတွင် ဘက်ထရီကို ပိုကြာအောင် ထိန်းသိမ်းရန် အနက်ရောင်နောက်ခံကို သုံးပါသည်</string>
+    <string name="dark">မှောင်</string>
+    <string name="light">"နည်း"</string>
+    <string name="pure_black_theme">အနက်ရောင်နောက်ခံ သက်သက် သုံးရန်</string>
+    <string name="theme_preview">အပြင်အဆင်အစမ်းကြည့်ရန်</string>
+    <string name="swipe_up_to_go_home">"ပင်မစာမျက်နှာသို့သွားရန် အပေါ်သို့ ပွတ်ဆွဲပါ"</string>
+    <string name="tap_home_to_go_home">ပင်မသို့ သွားရန် အလယ်ရှိ လမ်းညွှန်အိုင်ကွန်ကို တို့ပါ</string>
+    <string name="press_center_to_go_home">ပင်မသို့ သွားရန် အလယ်ခလုတ်ကို နှိပ်ပါ</string>
+</resources>

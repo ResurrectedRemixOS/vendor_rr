@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="global_action_restart_more">Mulakan semula…</string>
+    <string name="global_action_restart_system">"Sistem"</string>
+    <string name="global_action_restart_recovery">"Pemulihan"</string>
+    <string name="global_action_restart_bootloader">Bootloader</string>
+    <string name="global_action_restart_download">"Muat turun"</string>
+    <string name="global_action_restart_fastboot">Fastbootd</string>
+    <string name="global_action_restart_progress">"Memulakan semula…"</string>
+    <string name="global_action_restart_recovery_progress">Memulakan semula ke mod pemulihan…</string>
+    <string name="global_action_restart_bootloader_progress">Memulakan semula ke mod bootloader…</string>
+    <string name="global_action_restart_download_progress">Memulakan semula ke mod muat turun…</string>
+    <string name="global_action_restart_fastboot_progress">Memulakan semula ke mod fastbootd…</string>
+    <string name="global_action_current_user">Semasa</string>
+    <string name="global_action_users">"Pengguna"</string>
+    <string name="clock">"Jam"</string>
+    <string name="accessibility_adaptive_brightness">"Kecerahan boleh suai"</string>
+    <string name="status_bar_icons_title">Ikon bar status</string>
+    <string name="quick_settings_ambient_display_label">"Paparan ambien"</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Paparan ambien dimatikan.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Paparan ambien dihidupkan.</string>
+    <string name="quick_settings_aod_label">AOD</string>
+    <string name="quick_settings_aod_off_powersave_label">AOD dimatikan\nMod penjimatan bateri</string>
+    <string name="quick_settings_caffeine_label">"Kafeina"</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine dimatikan.</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine dihidupkan.</string>
+    <string name="quick_settings_heads_up_label">Pemberitahuan timbul</string>
+    <string name="accessibility_quick_settings_heads_up_off">Pemberitahuan timbul dimatikan.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Pemberitahuan timbul dihidupkan.</string>
+    <string name="quick_settings_powershare_label">Perkongsian Kuasa Wayarles</string>
+    <string name="quick_settings_powershare_off_powersave_label">Perkongsian Kuasa Wayarles dimatikan\nMod penjimatan bateri</string>
+    <string name="quick_settings_powershare_off_low_battery_label">Perkongsian Kuasa Wayarles dimatikan\nBateri terlalu rendah</string>
+    <string name="quick_settings_powershare_enabled_label">Perkongsian Kuasa Wayarles didayakan</string>
+    <string name="quick_settings_reading_mode">Mod bacaan</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Mod bacaan dihidupkan.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Mod bacaan dimatikan.</string>
+    <string name="quick_settings_sync_label">"Penyegerakan"</string>
+    <string name="accessibility_quick_settings_sync_off">Penyegerakan dimatikan.</string>
+    <string name="accessibility_quick_settings_sync_on">Penyegerakan dihidupkan.</string>
+    <string name="quick_settings_profiles_label">Profil sistem</string>
+    <string name="accessibility_quick_settings_profiles_off">Profil dimatikan.</string>
+    <string name="accessibility_quick_settings_profiles">Profil: <xliff:g id="profile" example="Default">%s</xliff:g>.</string>
+    <string name="quick_settings_usb_tether_label">"Penambatan USB"</string>
+    <string name="quick_settings_vpn_label">VPN</string>
+    <string name="quick_settings_vpn_connect_dialog_title">Sambung ke…</string>
+    <string name="vpn_credentials_hint">Sila masukkan bukti kelayakan anda untuk menyambung ke <xliff:g id="name">%s</xliff:g></string>
+    <string name="vpn_credentials_username">"Nama pengguna"</string>
+    <string name="vpn_credentials_password">"Kata laluan"</string>
+    <string name="vpn_credentials_dialog_connect">"Sambung"</string>
+    <string name="status_bar_firewall">Firewall</string>
+    <string name="battery_notification_channel_tv">Amaran bateri</string>
+    <string name="screenshot_delete_label">"Padam"</string>
+    <string name="screenshot_delete_description">Padam tangkapan skrin</string>
+    <string name="screenrecord_lowquality_label">Kualiti lebih rendah</string>
+    <string name="screenrecord_lowquality_summary">Untuk saiz fail yang lebih kecil</string>
+    <string name="screenrecord_longer_timeout_switch_label">Had saiz fail yang lebih besar</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Hadkan saiz rakaman kepada 15 GB</string>
+    <string name="screenrecord_skip_time_label">Langkau pemasa</string>
+    <string name="screenrecord_skip_time_summary">Alih keluar tempoh menunggu 3 saat</string>
+    <string name="screenrecord_hevc_switch_label">Pengekodan HEVC</string>
+    <string name="screenrecord_hevc_switch_summary">Gunakan pengekod HEVC yang lebih cekap</string>
+    <string name="zen_alarm_warning_indef">"Anda tidak akan mendengar penggera yang seterusnya <xliff:g id="WHEN">%1$s</xliff:g> melainkan anda mematikan ini sebelum waktu itu"</string>
+</resources>

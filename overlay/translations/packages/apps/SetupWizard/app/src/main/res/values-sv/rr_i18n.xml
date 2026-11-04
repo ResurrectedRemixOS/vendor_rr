@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Avbryt"</string>
+    <string name="finish">Slutför</string>
+    <string name="setup_welcome_message">Välkommen till <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Konfigurera din jobbprofil</string>
+    <string name="accessibility_settings">"Tillgänglighetsinställningar"</string>
+    <string name="device_info">"Enhetsinformation"</string>
+    <string name="device_information">"Enhetsinformation"</string>
+    <string name="device_info_serial">"Serienummer"</string>
+    <string name="setup_euicc">Konfigurera eSIM</string>
+    <string name="esim_support_summary">Konfigurera ett eSIM eller sätt i ett SIM-kort. För att sätta i ett SIM-kort, läs instruktionerna som följde med enheten.</string>
+    <string name="sim_missing_skip_title">Hoppa över SIM-konfigurationen?</string>
+    <string name="sim_missing_skip_message">Om du hoppar över detta steg ansluts du inte till ett mobilnätverk förrän du konfigurerar ett SIM-kort i Inställningar.</string>
+    <string name="setup_datetime_section_date">"Datum"</string>
+    <string name="setup_datetime_section_time">"Tid"</string>
+    <string name="setup_date_format">"Formatera"</string>
+    <string name="date_format_day">Dag</string>
+    <string name="date_format_month">"Månad"</string>
+    <string name="date_format_year">"År"</string>
+    <string name="setup_time_zone">"Tidszon"</string>
+    <string name="setup_24_hour_format">"Använd 24-timmarsformat"</string>
+    <string name="intro_restore_subtitle">Om du har en Seedvault-säkerhetskopia från <xliff:g id="name" example="LineageOS">%s</xliff:g> eller ett annat operativsystem kan du återställa den här.</string>
+    <string name="intro_restore_button">Återställ från säkerhetskopia</string>
+    <string name="location_summary">Välj hur din enhet hanterar sin plats</string>
+    <string name="location_access_title">"Använd plats"</string>
+    <string name="location_agps_access_title">Förbättrad platsinformation</string>
+    <string name="update_recovery_title">Uppdatera Resurrected Remix-återställningsläget</string>
+    <string name="update_recovery_description">Uppdaterar Resurrected Remix-återställningsläget vid första starten efter varje uppdatering.</string>
+    <string name="update_recovery_warning">Återställningsläget uppdateras så snart du har slutfört konfigurationen. Om du vill behålla det oförändrat, inaktivera den här funktionen.</string>
+    <string name="update_recovery_setting">Uppdatera Resurrected Remix-återställningsläget tillsammans med operativsystemet</string>
+    <string name="services_pp_explanation">Dessa tjänster arbetar för att utöka enhetens funktioner. Data används i enlighet med <xliff:g id="name" example="LineageOS">%1$s</xliff:g>s integritetspolicy.</string>
+    <string name="services_find_privacy_policy">Du kan läsa integritetspolicyn på en annan enhet genom att besöka:</string>
+    <string name="services_help_improve_cm">Hjälp till att förbättra <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> genom att automatiskt skicka diagnostik- och användningsdata till <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Informationen kan inte användas för att identifiera dig och hjälper teamen som arbetar med bland annat batteritid, appprestanda och nya <xliff:g id="name" example="LineageOS">%3$s</xliff:g>-funktioner.</string>
+    <string name="services_metrics_title">Bidra med diagnostikdata</string>
+    <string name="gesture_navigation_short">Gester</string>
+    <string name="theme_summary">Mörkt tema använder en svart bakgrund för att hjälpa till att spara batteri längre på vissa skärmar</string>
+    <string name="pure_black_theme">Använd ren svart bakgrund</string>
+    <string name="theme_preview">Förhandsvisning av tema</string>
+    <string name="swipe_up_to_go_home">"Svep uppåt för att öppna startskärmen"</string>
+    <string name="tap_home_to_go_home">Tryck på mittenikonen i navigeringsfältet för att gå till startskärmen</string>
+    <string name="press_center_to_go_home">Tryck på mittenknappen för att gå till startskärmen</string>
+</resources>

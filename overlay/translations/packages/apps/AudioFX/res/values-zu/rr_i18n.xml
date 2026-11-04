@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">I-AudioFX akuyona i-panel yakho yokulawula imiphumela ezenzakalelayo.</string>
+    <string name="snack_bar_not_default_set">"Hlela okuzenzakalelayo"</string>
+    <string name="snack_bar_not_default_not_now">"Hhayi manje"</string>
+    <string name="normal">Ejwayelekile</string>
+    <string name="classical">"I-Classic"</string>
+    <string name="dance">"Umdanso"</string>
+    <string name="flat">Okulinganayo</string>
+    <string name="folk">"I-Folk"</string>
+    <string name="heavy_metal">"I-Heavy Metal"</string>
+    <string name="hip_hop">"I-Hip Hop"</string>
+    <string name="electronic">I-Electronic</string>
+    <string name="small_speakers">Izipikha ezincane</string>
+    <string name="multimedia">Imithombo eminingi</string>
+    <string name="custom">Ngokwezifiso</string>
+    <string name="custom_n">Okwenziwe ngokwakho <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">Umphumela awutholakali kumodi yesipikha.</string>
+    <string name="device_headset">"Ama-earphone"</string>
+    <string name="device_speaker">"Isipikha"</string>
+    <string name="device_line_out">Ukuphuma kwelayini</string>
+    <string name="reverb">I-Reverb</string>
+    <string name="devices">"Amadivayisi"</string>
+    <string name="virtualizer">I-Virtualizer</string>
+    <string name="bass">I-Bass</string>
+    <string name="rename">"Qamba kabusha"</string>
+    <string name="remove_custom_preset_warning_message">Ingabe uqinisekile ukuthi ufuna ukususa i-%1$s?</string>
+</resources>

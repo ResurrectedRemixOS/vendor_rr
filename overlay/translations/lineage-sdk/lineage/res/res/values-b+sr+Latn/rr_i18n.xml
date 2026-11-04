@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="profileNameDefault">"Podrazumevano"</string>
+    <string name="profileNameWork">"Posao"</string>
+    <string name="profileNameHome">Početna</string>
+    <string name="profileNameSilent">"Nečujno"</string>
+    <string name="profileNameNight">"Noć"</string>
+    <string name="profileNameAutomobile">"Automobil"</string>
+    <string name="profileGroupPhone">"Telefon"</string>
+    <string name="profileGroupCalendar">"Kalendar"</string>
+    <string name="profileGroupEmail">"Imejl"</string>
+    <string name="wildcardProfile">"Drugo"</string>
+    <string name="charging_speed">Brzina punjenja</string>
+    <string name="charging_speed_slow">"Sporo"</string>
+    <string name="charging_speed_fast">"Brzo"</string>
+    <string name="charging_speed_super_fast">Veoma brzo</string>
+    <string name="live_display_auto">"Automatski"</string>
+    <string name="live_display_off">"Isključeno"</string>
+    <string name="live_display_day">"Dan"</string>
+    <string name="live_display_night">"Noć"</string>
+    <string name="unknown">"Nepoznato"</string>
+    <string name="trust_feature_name">"Imaj poverenja"</string>
+    <string name="charging_control_notification_channel">Kontrola punjenja</string>
+    <string name="charging_control_notification_title">Kontrola punjenja</string>
+    <string name="charging_control_notification_cancel_once">"Otkaži"</string>
+    <string name="charging_control_notification_content_limit">Baterija će biti napunjena na %1$d%%</string>
+    <string name="charging_control_notification_content_limit_reached">Baterija je napunjena na %1$d%%</string>
+    <string name="charging_control_notification_content_target">Baterija će biti potpuno napunjena u %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Baterija je napunjena</string>
+</resources>

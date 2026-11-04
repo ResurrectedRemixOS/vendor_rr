@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="permission_notifications_summary">\u2022 Les alle varsel, inkludert info som kontaktar, meldingar og bilete&lt;br/&gt;\u2022 Send deg varsel&lt;br/&gt;&lt;br/&gt;Du kan når som helst styra kva appen kan lesa og senda av varsel, under Innstillingar &gt; Varsel.</string>
+</resources>

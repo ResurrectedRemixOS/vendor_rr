@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">Логик утга.</string>
+    <string name="any_int_type_description">Бүхэл тоон утга.</string>
+    <string name="any_string_type_description">Мөрийн утга.</string>
+    <string name="display_id_type_description">Системийн дэлгэцийн таниулагч (тохиргооноос хамаарч дотоод эсвэл гадаад байж болно).</string>
+    <string name="installed_package_name_type_description">Төхөөрөмж дээр суулгасан аливаа багц.</string>
+    <string name="int_in_range_type_description_from">%1$d-ээс их буюу тэнцүү, алхам %2$d-тай бүхэл тоо.</string>
+    <string name="int_in_range_type_description_to">%1$d-ээс бага буюу тэнцүү, алхам %2$d-тай бүхэл тоо.</string>
+    <string name="int_in_range_type_description_between">[%1$d, %2$d] мужид, алхам %3$d-тай бүхэл тоо.</string>
+    <string name="time_of_day_type_description">24 цагийн форматаар HH:mm хэлбэрээр заасан өдрийн цаг.</string>
+    <string name="time_duration_type_description">Секундын нарийвчлалтай бүхэл тоогоор илэрхийлсэн хугацааны урт.</string>
+    <string name="sim_slot_id_type_description">Хүчинтэй SIM слотын ID.</string>
+    <string name="subscription_id_type_description">Хүчинтэй захиалгын ID.</string>
+    <string name="wifi_ssid_type_description">Wi-Fi сүлжээний SSID.</string>
+</resources>

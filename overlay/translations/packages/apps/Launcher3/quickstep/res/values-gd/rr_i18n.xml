@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="recent_task_option_pin">Prìnich</string>
+    <string name="recents_clear_all">Falamhaich na h-uile</string>
+    <string name="hotseat_prediction_settings">Roghainnean</string>
+    <string name="back_gesture_tutorial_title">Air ais</string>
+    <string name="gesture_tutorial_action_button_label">Deiseil</string>
+    <string name="gesture_tutorial_action_button_label_settings">Roghainnean</string>
+    <string name="gesture_tutorial_try_again">Feuch ris a‑rithist</string>
+    <string name="allset_hint_expressive">Grad-shlaighd suas</string>
+    <string name="allset_device_type_phone">fòn</string>
+    <string name="action_share">Co-roinn</string>
+    <string name="action_screenshot">Glacadh-sgrìn</string>
+    <string name="toast_split_select_app_cancel">Sguir dheth</string>
+    <string name="action_image_copy">Dèan lethbhreac</string>
+    <string name="action_image_save">Sàbhail</string>
+    <string name="accessibility_rotate_button">Cuairtich an sgrìn</string>
+    <string name="taskbar_edu_done">Deiseil</string>
+    <string name="taskbar_button_a11y">So-ruigsinneachd</string>
+    <string name="taskbar_button_back">Air ais</string>
+    <string name="taskbar_button_recents">O chionn goirid</string>
+    <string name="taskbar_button_notifications">Brathan</string>
+    <string name="taskbar_button_quick_settings">Grad-roghainnean</string>
+    <string name="taskbar_button_more_options">Barrachd roghainnean</string>
+    <string name="taskbar_phone_a11y_title">Bàr na seòladaireachd</string>
+    <string name="taskbar_pinned_overflow_a11y_title">Aplacaidean eile</string>
+    <string name="bubble_bar_bubble_fallback_description">Builgean</string>
+    <string name="ambientcue_first_time_edu_icon_description">Ìomhaigheag</string>
+    <string name="ambient_cue_expand_action">leudaich</string>
+</resources>

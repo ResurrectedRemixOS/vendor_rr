@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="week_start_locale_default">الافتراضي للمنطقة</string>
+    <string name="preferences_staggered_display_title">عرض متدرج</string>
+    <string name="preferences_staggered_display_summary">عرض الأحداث المتداخلة بتخطيط متدرج</string>
+    <string name="cal_export_error">فشل تصدير الحدث</string>
+</resources>

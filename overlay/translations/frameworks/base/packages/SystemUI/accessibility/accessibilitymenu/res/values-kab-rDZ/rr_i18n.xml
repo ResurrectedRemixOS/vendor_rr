@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="assistant_label">Tallalt</string>
+    <string name="assistant_utterance">Tallalt</string>
+    <string name="lockscreen_label">Agdil usewḥel</string>
+    <string name="notifications_label">Ilɣa</string>
+    <string name="screenshot_label">Tuṭṭfa n wegdil</string>
+    <string name="pref_help_title">Tallelt</string>
+</resources>

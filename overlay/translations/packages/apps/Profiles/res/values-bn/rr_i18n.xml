@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_label">প্রোফাইল ট্রাস্ট প্রদানকারী</string>
+    <string name="profile_picker_title">"প্রোফাইলগুলি"</string>
+    <string name="profile_none">"কোনওটিই নয়"</string>
+    <string name="profile_trust_agent_title">প্রোফাইল ট্রাস্ট এজেন্ট</string>
+    <string name="profile_trust_agent_summary">প্রোফাইল সাময়িকভাবে লক স্ক্রিন সুরক্ষা বন্ধ করতে পারবে</string>
+    <string name="trust_by_profile">প্রোফাইল দ্বারা বিশ্বস্ত</string>
+</resources>

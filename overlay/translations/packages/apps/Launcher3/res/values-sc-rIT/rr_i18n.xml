@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_settings">Cunfiguratziones</string>
+    <string name="home_screen_files_context_menu_copy_label">Còpia</string>
+    <string name="home_screen_files_context_menu_rename_label">Torra a nominare</string>
+    <string name="home_screen_files_context_menu_move_to_trash_label">Move a s\'àliga</string>
+    <string name="actions_popup_menu_button">Atziones</string>
+    <string name="folder_type_name">Cartella</string>
+    <string name="circle_shape_title">Tzìrculu</string>
+    <string name="home_screen_files_rename_dialog_neutral_button">Annulla</string>
+    <string name="home_screen_files_rename_dialog_positive_button">Torra a nominare</string>
+    <string name="something_went_wrong">Calicuna cosa est andada male</string>
+</resources>

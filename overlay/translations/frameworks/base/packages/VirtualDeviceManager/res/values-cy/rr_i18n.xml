@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="request_computer_control_access_dialog_button_allow">Dim ond y tro hwn</string>
+    <string name="request_computer_control_access_dialog_button_dont_allow">Peidio â chaniatáu</string>
+    <string name="request_computer_control_access_dialog_button_always_allow">Caniatáu Bob Tro</string>
+</resources>

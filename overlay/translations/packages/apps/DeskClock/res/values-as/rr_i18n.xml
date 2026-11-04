@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="flip_action_title">ডিভাইচ উলটোৱা কাৰ্য</string>
+    <string name="shake_action_title">ডিভাইচ কঁপোৱাৰ কাৰ্য</string>
+    <string-array name="action_setting_entries">
+        <item>স্নুজ কৰক</item>
+        <item>"অগ্ৰাহ্য কৰক"</item>
+        <item>"একোৱেই নাই"</item>
+    </string-array>
+    <string name="firing_alarms_timers_channel">বাজি থকা এলাৰ্ম আৰু টাইমাৰ</string>
+    <string name="alarm_missed_channel">মিছ হোৱা এলাৰ্ম</string>
+    <string name="alarm_snooze_channel">স্নুজ কৰা এলাৰ্ম</string>
+    <string name="alarm_upcoming_channel">আগন্তুক এলাৰ্ম</string>
+    <string name="stopwatch_channel">স্টপৱাচ্চ</string>
+    <string name="timer_channel">টাইমাৰ</string>
+    <string name="add_label">লেবেল যোগ কৰক</string>
+    <string name="dialog_permissions_title">"অনুমতি"</string>
+    <string name="dialog_permissions_ask">পুনৰ সোধক</string>
+    <string name="dialog_permissions_dismiss">"অগ্ৰাহ্য কৰক"</string>
+    <string name="dialog_permissions_settings">"ছেটিং"</string>
+    <string name="dialog_permissions_power_off_alarm">এই অনুমতি অবিহনে আপোনাৰ ডিভাইচে এলাৰ্ম বজাবলৈ নিজে অন হ\'ব নোৱাৰিব</string>
+    <string name="dialog_permissions_no_permission">প্ৰয়োজনীয় অনুমতি প্ৰত্যাখ্যান কৰা হৈছে, ছেটিংছ এপৰ পৰা সক্ষম কৰক</string>
+    <string name="dialog_permissions_post_notifications">এই এপ জাননীৰ ওপৰত নিৰ্ভৰশীল। সেইবোৰ অবিহনে ইয়াক চলাব নোৱাৰি!</string>
+    <string name="selected">"বাছনি কৰা হৈছে"</string>
+    <string name="more_options">"অধিক বিকল্প"</string>
+    <string name="widget_choice_title">আপোনাৰ শৈলী বাছনি কৰক</string>
+    <string name="widget_name_transparent">বেক আপ নোহোৱা</string>
+    <string name="widget_name_solid">বেক আপ থকা</string>
+    <string name="night_mode_enabled_title">"সক্ষম কৰা আছে"</string>
+    <string name="night_mode_dnd_title">অসুবিধা নিদিব অৱস্থা অনুসৰণ কৰক</string>
+    <string name="night_mode_dnd_summary">অসুবিধা নিদিব অৱস্থা অনুসৰণ কৰি ৰাতিৰ মোড চলে</string>
+    <string name="show_ampm_title">AM/PM সূচক দেখুৱাওক</string>
+    <string name="bold_text_title">ঘড়ীৰ লিখনি বহল কৰক</string>
+    <string name="night_mode_brightness_text_title">"উজ্জ্বলতা"</string>
+    <string name="clock_color_title">"ৰং"</string>
+    <string-array name="clock_color_entries">
+        <item>"বগা"</item>
+        <item>"ৰঙা"</item>
+        <item>"সেউজীয়া"</item>
+        <item>"নীলা"</item>
+    </string-array>
+    <string name="screensaver_settings_title">"স্ক্ৰীন ছেভাৰ"</string>
+    <string name="screensaver_preview">"পূৰ্বদৰ্শন কৰক"</string>
+    <string name="screensaver_preview_summary">তৎক্ষণাত স্ক্ৰীন ছেভাৰ আৰম্ভ কৰক</string>
+    <string name="screensaver_change_settings">"ছেটিং"</string>
+    <string name="screensaver_change_settings_summary">ঘড়ীৰ স্ক্ৰীন ছেভাৰ ছেটিংছ খোলক</string>
+    <string name="screensaver_daydream_settings">স্ক্ৰীন ছেভাৰ বাছনি/সক্ষম কৰক</string>
+    <string name="screensaver_daydream_settings_summary">মূল স্ক্ৰীন ছেভাৰ ছেটিংছ খোলক</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_hu_ZZ">ಹಂಗೇರಿಯನ್ (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">ಮೆಟೀರಿಯಲ್ - ಸಿಸ್ಟಮ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಅನುಸರಿಸಿ</string>
+    <string name="prefs_keyboard_height_scale">ಕೀಬೋರ್ಡ್ ಎತ್ತರ ಅಳತೆ</string>
+    <string name="number_row">ಸಂಖ್ಯೆ ಸಾಲು</string>
+    <string name="number_row_summary">4 ಸಾಲು ಕೀಗಳಿರುವ ಎಲ್ಲಾ ಲೇಔಟ್‌ಗಳಿಗೆ ಯಾವಾಗಲೂ ಸಂಖ್ಯೆ ಸಾಲನ್ನು ತೋರಿಸಿ</string>
+    <string name="number_row_password">ಪಾಸ್‌ವರ್ಡ್‌ಗಳಿಗೆ ಸಂಖ್ಯೆ ಸಾಲು</string>
+    <string name="number_row_password_summary">ಪಾಸ್‌ವರ್ಡ್ ಇನ್‌ಪುಟ್‌ಗಾಗಿ 4 ಸಾಲು ಕೀಗಳಿರುವ ಎಲ್ಲಾ ಲೇಔಟ್‌ಗಳಿಗೆ ಯಾವಾಗಲೂ ಸಂಖ್ಯೆ ಸಾಲನ್ನು ತೋರಿಸಿ</string>
+    <string name="space_trackpad">ಸ್ಪೇಸ್ ಬಾರ್ ಟ್ರ್ಯಾಕ್‌ಪ್ಯಾಡ್</string>
+    <string name="space_trackpad_summary">ಕರ್ಸರ್ ಸರಿಸಲು ಸ್ಪೇಸ್ ಬಾರ್‌ನಲ್ಲಿ ಸ್ವೈಪ್ ಮಾಡಿ</string>
+    <string name="backspace_trackpad">ಬ್ಯಾಕ್‌ಸ್ಪೇಸ್ ಕೀ ಟ್ರ್ಯಾಕ್‌ಪ್ಯಾಡ್</string>
+    <string name="backspace_trackpad_summary">ಪದಗಳನ್ನು ಅಳಿಸಲು ಬ್ಯಾಕ್‌ಸ್ಪೇಸ್ ಕೀಯಲ್ಲಿ ಸ್ವೈಪ್ ಮಾಡಿ</string>
+    <string name="show_longpress_hints">ದೀರ್ಘ ಒತ್ತುವಿಕೆ ಕೀ ಸುಳಿವುಗಳನ್ನು ತೋರಿಸಿ</string>
+    <string name="show_longpress_hints_summary">ಬೆಂಬಲಿತ ಕೀಗಳಿಗೆ ದೀರ್ಘ ಒತ್ತುವಿಕೆ ಸುಳಿವುಗಳನ್ನು ತೋರಿಸುತ್ತದೆ</string>
+    <string name="show_emoji_key">ಎಮೋಜಿ ಕೀ ತೋರಿಸಿ</string>
+    <string name="show_emoji_key_summary">ಯಾವಾಗಲೂ ಎಮೋಜಿ ಕೀ ತೋರಿಸಿ. ಈ ಆಯ್ಕೆ ಸಕ್ರಿಯವಾಗಿದ್ದಾಗ, ಭಾಷಾ ಬದಲಾವಣೆ ಕೀ ತೋರಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+    <string name="enable_split_keyboard_summary">ಲ್ಯಾಂಡ್‌ಸ್ಕೇಪ್‌ನಲ್ಲಿ ಮಾತ್ರ</string>
+    <string name="split_keyboard_duplicate_keys">ಮಧ್ಯದ ಕೀಗಳನ್ನು ನಕಲು ಮಾಡಿ</string>
+    <string name="split_keyboard_duplicate_keys_summary">ಎರಡೂ ಭಾಗಗಳಲ್ಲಿ ಮಧ್ಯಕ್ಕೆ ಹತ್ತಿರವಿರುವ ಕೀಗಳನ್ನು ತೋರಿಸಿ</string>
+    <string name="spoken_description_split_keyboard">ವಿಭಜಿತ ಕೀಬೋರ್ಡ್</string>
+    <string name="spoken_description_merge_keyboard">ವಿಲೀನಗೊಳಿಸಿದ ಕೀಬೋರ್ಡ್</string>
+    <string name="spoken_description_float_keyboard">ತೇಲುವ ಕೀಬೋರ್ಡ್</string>
+    <string name="spoken_description_dock_keyboard">ಡಾಕ್ ಕೀಬೋರ್ಡ್</string>
+    <string name="floating_keyboard_drag_handle">ಕೀಬೋರ್ಡ್ ಸರಿಸಿ</string>
+    <string name="floating_keyboard_resize_handle">ಕೀಬೋರ್ಡ್ ಗಾತ್ರ ಬದಲಿಸಿ</string>
+    <string name="floating_keyboard_reset">"ರೀಸೆಟ್ ಮಾಡಿ"</string>
+    <string name="floating_keyboard_hide">ಕೀಬೋರ್ಡ್ ಮರೆಮಾಡಿ</string>
+    <string name="floating_keyboard_switch_ime">"ಇನ್‌ಪುಟ್ ವಿಧಾನವನ್ನು ಬದಲಿಸಿ"</string>
+</resources>

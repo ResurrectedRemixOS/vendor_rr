@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="default_dialer_text">يجب تعيين الهاتف كتطبيق الاتصال الافتراضي لاستخدامه.</string>
+    <string name="default_dialer_action">"ضبط الخيار كتلقائي"</string>
+</resources>

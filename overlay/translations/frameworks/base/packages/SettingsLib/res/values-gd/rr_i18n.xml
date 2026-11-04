@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hearing_device_spinner_item_selected">Air a thaghadh</string>
+    <string name="bluetooth_profile_hearing_aid">Innealan-claisneachd</string>
+    <string name="category_private">Prìobhaideach</string>
+    <string name="clear_adb_keys">Cùl-ghairm ceadan dì-bhugachaidh USB</string>
+    <string name="adb_keys_warning_message">Ann doir thu cead inntrigidh dhan dì-bhugachadh USB air falbh on a h-uile choimpiutair a dh’ùghdarraich thu roimhe?</string>
+    <string name="disabled_in_phone_call_text">Chan eil seo ri fhaighinn rè gairmean</string>
+    <string name="screen_zoom_summary_smallest">Nas lugha buileach</string>
+    <string name="screen_zoom_summary_smaller">Nas lugha</string>
+    <string name="accessibility_screen_magnification_title">Meudachadh</string>
+    <string name="back">Air ais</string>
+    <string name="save">Sàbhail</string>
+    <string name="done">Deiseil</string>
+    <string name="zen_mode_do_not_disturb_name">Na bris a-steach orm</string>
+    <string name="zen_mode_settings_title">Na bris a-steach orm</string>
+    <string name="zen_mode_starred_contacts_empty_name">(Gun ainm)</string>
+    <string name="media_transfer_default_device_name">Uidheam ceangailte</string>
+    <string name="media_transfer_analog_line_name">Analogach</string>
+    <string name="tv_media_transfer_connected">Ceangailte</string>
+    <string name="user_nickname">Far-ainm</string>
+    <string name="guest_reset_guest_confirm_button">Ath-shuidhich</string>
+    <string name="guest_exit_dialog_button">Fàg</string>
+    <string name="guest_exit_clear_data_button">Sguab às</string>
+    <string name="guest_exit_save_data_button">Sàbhail</string>
+    <string name="user_image_photo_selector">Tagh dealbh</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">Leig seachad</string>
+    <string name="wifi_hotspot_switch_on_text">Air</string>
+    <string name="cell_data_off_content_description">Tha an dàta mobile dheth</string>
+</resources>

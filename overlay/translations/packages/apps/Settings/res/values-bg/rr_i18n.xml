@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"по подразбиране"</item>
+        <item>Целзий</item>
+        <item>Фаренхайт</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"по подразбиране"</item>
+        <item>нд</item>
+        <item>пн</item>
+        <item>вт</item>
+        <item>ср</item>
+        <item>чт</item>
+        <item>пт</item>
+        <item>сб</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"по подразбиране"</item>
+        <item>Метрична</item>
+        <item>Американска система</item>
+        <item>Британска система</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Не е посочено"</item>
+        <item>"Неутрално"</item>
+        <item>"Женски род"</item>
+        <item>"Мъжки род"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>Френски</item>
+        <item>Испански</item>
+        <item>Италиански</item>
+        <item>Немски</item>
+    </string-array>
+    <string name="face_enrolling_close_to_continue">Сгънете телефона по време на настройката</string>
+    <string name="face_enrolling_close_to_continue_description">Телефонът трябва да бъде сгънат, за да настроите или използвате отключване с лице</string>
+    <string name="face_enrolling_do_it_later">"По-късно"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM инструменти</string>
+    <string name="platform_compat_target_sdk_title">Активирано за targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Мениджър на личния контекст</string>
+</resources>

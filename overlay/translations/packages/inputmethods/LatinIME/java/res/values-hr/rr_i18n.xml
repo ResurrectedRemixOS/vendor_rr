@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material - prati postavke sustava</string>
+    <string name="prefs_keyboard_height_scale">Mjerilo visine tipkovnice</string>
+    <string name="number_row">Red brojeva</string>
+    <string name="number_row_summary">Uvijek prikaži red brojeva za sve rasporede koji imaju 4 reda tipki</string>
+    <string name="number_row_password">Red brojeva za lozinke</string>
+    <string name="number_row_password_summary">Uvijek prikaži red brojeva za sve rasporede koji imaju 4 reda tipki pri unosu lozinke</string>
+    <string name="space_trackpad">Dodirna površina razmaknice</string>
+    <string name="space_trackpad_summary">Prevucite po razmaknici za pomicanje kursora</string>
+    <string name="backspace_trackpad">Dodirna površina tipke za brisanje</string>
+    <string name="backspace_trackpad_summary">Prevucite po tipki za brisanje za brisanje riječi</string>
+    <string name="show_longpress_hints">Prikaži savjete za dugi pritisak tipke</string>
+    <string name="show_longpress_hints_summary">Prikazuje savjete za dugi pritisak za podržane tipke</string>
+    <string name="show_emoji_key">Prikaži tipku za emoji</string>
+    <string name="show_emoji_key_summary">Uvijek prikaži tipku za emoji. Kada je ova opcija omogućena, tipka za promjenu jezika ne može se prikazati.</string>
+    <string name="enable_split_keyboard_summary">Samo u vodoravnom načinu</string>
+    <string name="split_keyboard_duplicate_keys">Dupliciraj središnje tipke</string>
+    <string name="split_keyboard_duplicate_keys_summary">Prikaži tipke blizu sredine na objema polovicama</string>
+    <string name="spoken_description_split_keyboard">Podijeljena tipkovnica</string>
+    <string name="spoken_description_merge_keyboard">Spoji tipkovnicu</string>
+    <string name="spoken_description_float_keyboard">Plutajuća tipkovnica</string>
+    <string name="spoken_description_dock_keyboard">Usidri tipkovnicu</string>
+    <string name="floating_keyboard_drag_handle">Premjesti tipkovnicu</string>
+    <string name="floating_keyboard_resize_handle">Promijeni veličinu tipkovnice</string>
+    <string name="floating_keyboard_reset">"Poništi"</string>
+    <string name="floating_keyboard_hide">Sakrij tipkovnicu</string>
+    <string name="floating_keyboard_switch_ime">"Promjena načina unosa"</string>
+</resources>

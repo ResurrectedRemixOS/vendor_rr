@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="accessibility_retry_face_auth" product="default">Prøv andletslås på nytt</string>
+    <string name="face_re_enroll_notification_title" product="default">Set opp andletslås på nytt</string>
+    <string name="biometric_dialog_tap_confirm_with_face" product="default">Låst opp med andlet</string>
+    <string name="biometric_dialog_tap_confirm_with_face_alt_1" product="default">Låst opp med andlet. Trykk for å halda fram.</string>
+    <string name="biometric_dialog_tap_confirm_with_face_sfps" product="default">Låst opp med andlet. Trykk for å halda fram.</string>
+    <string name="face_re_enroll_notification_name" product="default">Andletslås</string>
+    <string name="face_re_enroll_dialog_title" product="default">Set opp andletslås</string>
+    <string name="face_re_enroll_dialog_content" product="default">For å setja opp andletslås på nytt, må me sletta den noverande andletsmodellen din.\n\nDu må setja opp denne funksjonen på nytt for å kunna låsa opp telefonen med andletet.</string>
+    <string name="face_reenroll_failure_dialog_content" product="default">Klarte ikkje setja opp andletslås. Gå til innstillingane for å prøva på nytt.</string>
+    <string name="keyguard_face_unlock_unavailable" product="default">Andletslås er ikkje tilgjengeleg</string>
+    <string name="accesssibility_keyguard_retry" product="default">Sveip opp for å prøva andletslås på nytt</string>
+    <string name="keyguard_face_successful_unlock_swipe" product="default">Låst opp med andlet. Sveip opp for å opna.</string>
+    <string name="keyguard_face_successful_unlock_confirm_button" product="default">Låst opp med andlet. Trykk for å stadfesta.</string>
+    <string name="keyguard_face_successful_unlock_press" product="default">Låst opp med andlet. Trykk på hengelåsen for å opna.</string>
+    <string name="keyguard_face_successful_unlock_press_alt_1" product="default">Låst opp med andlet. Trykk for å opna.</string>
+    <string name="keyguard_face_successful_unlock" product="default">Låst opp med andlet</string>
+</resources>

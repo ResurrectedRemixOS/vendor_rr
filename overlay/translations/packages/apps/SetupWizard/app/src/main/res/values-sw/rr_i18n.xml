@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Msaidizi wa Usanidi</string>
+    <string name="cancel">"Ghairi"</string>
+    <string name="next">Inayofuata</string>
+    <string name="finish">Maliza</string>
+    <string name="skip">Ruka</string>
+    <string name="start">"Anza"</string>
+    <string name="done">"Nimemaliza"</string>
+    <string name="ok">"Sawa"</string>
+    <string name="loading">"Subiri kidogo…"</string>
+    <string name="setup_welcome_message">Karibu kwenye <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Weka wasifu wako wa kazini</string>
+    <string name="emergency_call">"Simu ya dharura"</string>
+    <string name="accessibility_settings">"Mipangilio ya ufikiaji"</string>
+    <string name="device_info">"Maelezo ya kifaa"</string>
+    <string name="device_information">"Maelezo ya kifaa"</string>
+    <string name="device_info_serial">"Namba ya ufuatiliaji"</string>
+    <string name="setup_locale">"Lugha"</string>
+    <string name="sim_locale_changed">SIM ya %1$s imegunduliwa</string>
+    <string name="setup_euicc">Weka eSIM</string>
+    <string name="setup_sim_missing">Kadi ya SIM haipatikani</string>
+    <string name="esim_support_summary">Weka eSIM au ingiza kadi ya SIM. Ili kuingiza kadi ya SIM, soma maelekezo yaliyokuja na kifaa chako.</string>
+    <string name="sim_missing_summary" product="tablet">Kadi ya SIM haijagunduliwa kwenye kompyuta yako kibao. Ili kuingiza kadi ya SIM, soma maelekezo yaliyokuja na kifaa chako.</string>
+    <string name="sim_missing_summary" product="default">Kadi ya SIM haijagunduliwa kwenye simu yako. Ili kuingiza kadi ya SIM, soma maelekezo yaliyokuja na kifaa chako.</string>
+    <string name="sim_missing_skip_title">Ruka kuweka SIM?</string>
+    <string name="sim_missing_skip_message">Ukiruka hatua hii, hutaunganishwa kwenye mtandao wa simu hadi uweke SIM kwenye Mipangilio.</string>
+    <string name="setup_datetime">"Tarehe na saa"</string>
+    <string name="date_time_summary">Weka eneo lako la saa na urekebishe tarehe na saa ya sasa ikihitajika</string>
+    <string name="setup_current_date">Tarehe ya sasa</string>
+    <string name="setup_current_time">Saa ya sasa</string>
+    <string name="setup_datetime_section_date">"Tarehe"</string>
+    <string name="setup_datetime_section_time">"Saa"</string>
+    <string name="setup_date_format">"Andaa diski"</string>
+    <string name="date_format_day">"Siku"</string>
+    <string name="date_format_month">"Mwezi"</string>
+    <string name="date_format_year">"Mwaka"</string>
+    <string name="setup_time_zone">"Saa za eneo"</string>
+    <string name="setup_24_hour_format">"Tumia mpangilio wa saa 24"</string>
+    <string name="intro_restore_title">Rejesha programu na data</string>
+    <string name="intro_restore_subtitle">Ukiwa na hifadhi nakala ya Seedvault kutoka <xliff:g id="name" example="LineageOS">%s</xliff:g> au OS nyingine yoyote, unaweza kuirejesha hapa.</string>
+    <string name="intro_restore_button">Rejesha kutoka kwenye hifadhi nakala</string>
+    <string name="setup_location">"Huduma za mahali"</string>
+    <string name="location_summary">Chagua jinsi kifaa chako kinavyosimamia eneo lake</string>
+    <string name="location_access_title">"Tumia data ya mahali"</string>
+    <string name="location_agps_access_title">Eneo lililoboreshwa</string>
+    <string name="location_access_summary">Ruhusu programu ambazo zimeomba ruhusa yako ya kutumia taarifa zako za eneo. Hii inaweza kujumuisha eneo lako la sasa na maeneo ya awali.</string>
+    <string name="location_agps_access_summary">Eneo likiwashwa, pakua data ya usaidizi wa satelaiti kutoka mtandaoni, ambayo inaweza kuboresha sana kasi ya kuanza kwa GPS.</string>
+    <string name="update_recovery_title">Sasisha urejeshaji wa Resurrected Remix</string>
+    <string name="update_recovery_description">Husasisha urejeshaji wa Resurrected Remix wakati wa kuwasha kwa mara ya kwanza baada ya kila sasisho.</string>
+    <string name="update_recovery_warning">Urejeshaji utasasishwa mara tu utakapomaliza usanidi. Ukitaka ubaki kama ulivyo, zima kipengele hiki.</string>
+    <string name="update_recovery_setting">Sasisha urejeshaji wa Resurrected Remix pamoja na OS</string>
+    <string name="setup_services">Vipengele vya Resurrected Remix</string>
+    <string name="services_pp_explanation">Huduma hizi hufanya kazi kwa ajili yako ili kuongeza uwezo wa kifaa chako. Data itatumika kulingana na sera ya faragha ya <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Unaweza kusoma sera ya faragha kwenye kifaa kingine kwa kutembelea:</string>
+    <string name="services_help_improve_cm">Saidia kuboresha <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> kwa kutuma data ya uchunguzi na matumizi kiotomatiki kwa <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Taarifa hii haiwezi kutumika kukutambua na inasaidia timu zinazofanya kazi kwenye mambo kama muda wa betri, utendaji wa programu, na vipengele vipya vya <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">Changia data ya uchunguzi</string>
+    <string name="services_os_nav_keys_label">Tumia <b>vitufe vya kusogeza kwenye skrini</b> badala ya vitufe vya kifaa.</string>
+    <string name="setup_navigation">Viungo muhimu</string>
+    <string name="navigation_summary">Chagua mbinu unayopendelea ya kusogeza</string>
+    <string name="gesture_navigation">"Usogezaji kwa miguso"</string>
+    <string name="navbar_navigation">"Usogezaji kwa kutumia vitufe 3"</string>
+    <string name="gesture_navigation_short">Miguso</string>
+    <string name="hide_gesture_hint">Ficha kidokezo cha kusogeza kwa miguso</string>
+    <string name="setup_theme">"Mandhari"</string>
+    <string name="theme_summary">Mandhari meusi hutumia mandhari nyeusi kusaidia kuhifadhi betri kwa muda mrefu zaidi kwenye baadhi ya skrini</string>
+    <string name="dark">Giza</string>
+    <string name="light">"Mwepesi"</string>
+    <string name="pure_black_theme">Tumia mandhari nyeusi kabisa</string>
+    <string name="theme_preview">Onyesho la kukagua mandhari</string>
+    <string name="swipe_up_to_go_home">"Telezesha kidole juu ili uende kwenye skrini ya kwanza"</string>
+    <string name="tap_home_to_go_home">Gusa aikoni ya katikati ya kusogeza ili uende kwenye skrini ya kwanza</string>
+    <string name="press_center_to_go_home">Bonyeza kitufe cha katikati ili uende kwenye skrini ya kwanza</string>
+</resources>

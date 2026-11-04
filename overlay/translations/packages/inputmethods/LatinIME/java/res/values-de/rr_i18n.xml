@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="enable_split_keyboard_summary">Nur im Querformat</string>
+    <string name="split_keyboard_duplicate_keys">Mittlere Tasten doppeln</string>
+    <string name="split_keyboard_duplicate_keys_summary">Tasten nahe der Mitte auf beiden Hälften anzeigen</string>
+    <string name="spoken_description_split_keyboard">Geteilte Tastatur</string>
+    <string name="spoken_description_merge_keyboard">Tastatur zusammenführen</string>
+    <string name="spoken_description_float_keyboard">Schwebende Tastatur</string>
+    <string name="spoken_description_dock_keyboard">Tastatur andocken</string>
+    <string name="floating_keyboard_drag_handle">Tastatur verschieben</string>
+    <string name="floating_keyboard_resize_handle">Tastatur in der Größe ändern</string>
+    <string name="floating_keyboard_reset">"Zurücksetzen"</string>
+    <string name="floating_keyboard_hide">Tastatur ausblenden</string>
+    <string name="floating_keyboard_switch_ime">"Eingabemethode wechseln"</string>
+</resources>

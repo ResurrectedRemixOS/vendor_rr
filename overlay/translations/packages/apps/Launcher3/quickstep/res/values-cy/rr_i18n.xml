@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="allset_hint_expressive">Llusgo i fyny</string>
+    <string name="allset_device_type_tablet">llechen</string>
+    <string name="allset_device_type_phone">ffôn</string>
+    <string name="action_image_copy">Copïo</string>
+    <string name="action_image_save">Cadw</string>
+    <string name="taskbar_edu_stashing">Llusga yn araf am i fyny i ddangos y Bar Tasgau</string>
+    <string name="taskbar_button_more_options">Rhagor o ddewisiadau</string>
+    <string name="taskbar_pinned_overflow_a11y_title">Apiau eraill</string>
+    <string name="quick_switch_task_with_position_in_parent"><xliff:g id="task_description" example="Chrome">%1$s</xliff:g>, eitem <xliff:g id="index_in_parent" example="1">%2$d</xliff:g> o <xliff:g id="total_tasks" example="5">%3$d</xliff:g></string>
+    <string name="bubble_bar_bubble_description"><xliff:g id="notification_title" example="some title">%1$s</xliff:g> o <xliff:g id="app_name" example="YouTube">%2$s</xliff:g></string>
+    <string name="ambientcue_first_time_edu_icon_description">Eicon</string>
+    <string name="ambient_cue_expand_action">ehangu</string>
+</resources>

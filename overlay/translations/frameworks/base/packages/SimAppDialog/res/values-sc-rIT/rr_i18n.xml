@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="install_carrier_app_title">Ativatzione de su servìtziu mòbile</string>
+    <string name="install_carrier_app_defer_action">Immoe nono</string>
+    <string name="install_carrier_app_download_action">Iscàrriga s\'aplicatzione</string>
+</resources>

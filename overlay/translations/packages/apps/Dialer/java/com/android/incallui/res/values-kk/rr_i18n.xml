@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="call_recording_failed_message">Қоңырауды жазуды бастау мүмкін болмады</string>
+    <string name="call_recording_file_location">Қоңырау жазбасы <xliff:g id="filename">%s</xliff:g> орнына сақталды</string>
+    <string name="onscreenCallRecordText">Қоңырауды жазу</string>
+    <string name="onscreenCallRecordingText">Қоңырау жазылуда - <xliff:g id="duration" example="00:10">%1$s</xliff:g></string>
+    <string name="onscreenStopCallRecordText">"Жазуды тоқтату"</string>
+    <string name="recording_warning_title">Қоңырауды жазуды қосу керек пе?</string>
+    <string name="recording_warning_text">Ескерту: Қоңырауды жазу функциясын және сол жазбаларды пайдалануға немесе таратуға қатысты барлық заңдар мен ережелерді сақтау сіздің жауапкершілігіңізде.</string>
+</resources>

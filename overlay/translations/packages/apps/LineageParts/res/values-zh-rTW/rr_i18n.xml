@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="live_display_color_profile_preview">"顏色預覽"</string>
+    <string name="status_bar_battery_style_dotted_circle">虛線圓圈</string>
+    <string name="status_bar_brightness_slider_position_top">頂部</string>
+    <string name="status_bar_brightness_slider_position_bottom">底部</string>
+    <string name="network_traffic_hide_arrows">隱藏箭頭</string>
+</resources>

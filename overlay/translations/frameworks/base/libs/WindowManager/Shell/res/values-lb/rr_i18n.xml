@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="pip_phone_settings">Astellungen</string>
+    <string name="pip_menu_title">Menü</string>
+    <string name="bubbles_user_education_got_it">Verstanen</string>
+    <string name="letterbox_education_got_it">Verstanen</string>
+    <string name="letterbox_restart_cancel">Ofbriechen</string>
+    <string name="letterbox_restart_restart">Nei starten</string>
+    <string name="back_button_text">Zréck</string>
+    <string name="more_button_text">Méi</string>
+    <string name="screenshot_text">Schiermfoto</string>
+    <string name="open_by_default_splash_dialog_checkbox_text">Mäi Choix verhalen</string>
+    <string name="pip_move">Réckelen</string>
+    <string name="pip_collapse">Zouklappen</string>
+    <string name="a11y_action_pip_move_done">Fäerdeg</string>
+</resources>

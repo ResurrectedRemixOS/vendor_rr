@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"రద్దు చేయండి"</string>
+    <string name="finish">ముగించు</string>
+    <string name="done">"పూర్తయింది"</string>
+    <string name="setup_welcome_message"><xliff:g id="name" example="LineageOS">%1$s</xliff:g> కి స్వాగతం</string>
+    <string name="setup_managed_profile_welcome_message">మీ వర్క్ ప్రొఫైల్‌ను సెటప్ చేయండి</string>
+    <string name="accessibility_settings">"యాక్సెస్ సామర్థ్య సెట్టింగ్‌లు"</string>
+    <string name="device_info">"డివైజ్ సమాచారం"</string>
+    <string name="device_information">"డివైజ్ సమాచారం"</string>
+    <string name="device_info_serial">"సీరియల్ నంబర్"</string>
+    <string name="setup_locale">"భాష"</string>
+    <string name="setup_euicc">eSIM ను సెటప్ చేయండి</string>
+    <string name="esim_support_summary">eSIM ను సెటప్ చేయండి లేదా SIM కార్డ్‌ను చొప్పించండి. SIM కార్డ్‌ను చొప్పించడానికి, మీ పరికరంతో వచ్చిన సూచనలను చదవండి.</string>
+    <string name="sim_missing_skip_title">SIM సెటప్‌ను దాటవేయాలా?</string>
+    <string name="sim_missing_skip_message">ఈ దశను దాటవేస్తే, సెట్టింగ్‌లలో SIM ను సెటప్ చేసే వరకు మీరు మొబైల్ నెట్‌వర్క్‌కు కనెక్ట్ కాలేరు.</string>
+    <string name="setup_datetime_section_date">"తేదీ"</string>
+    <string name="setup_datetime_section_time">"సమయం"</string>
+    <string name="setup_date_format">"ఫార్మాట్ చేయండి"</string>
+    <string name="date_format_day">"రోజు"</string>
+    <string name="date_format_month">"నెల"</string>
+    <string name="date_format_year">"సంవత్సరం"</string>
+    <string name="setup_time_zone">"టైమ్ జోన్"</string>
+    <string name="setup_24_hour_format">"24-గంటల ఫార్మాట్‌ను ఉపయోగించండి"</string>
+    <string name="intro_restore_title">యాప్‌లు మరియు డేటాను పునరుద్ధరించండి</string>
+    <string name="intro_restore_subtitle">మీ వద్ద <xliff:g id="name" example="LineageOS">%s</xliff:g> లేదా మరేదైనా OS నుండి Seedvault బ్యాకప్ ఉంటే, దానిని ఇక్కడ పునరుద్ధరించవచ్చు.</string>
+    <string name="intro_restore_button">బ్యాకప్ నుండి పునరుద్ధరించండి</string>
+    <string name="location_summary">మీ పరికరం లొకేషన్‌ను ఎలా నిర్వహిస్తుందో ఎంచుకోండి</string>
+    <string name="location_access_title">"లొకేషన్‌ను ఉపయోగించండి"</string>
+    <string name="location_agps_access_title">మెరుగైన లొకేషన్</string>
+    <string name="location_agps_access_summary">లొకేషన్ ఆన్ చేసినప్పుడు, ఇంటర్నెట్ నుండి శాటిలైట్ సహాయ డేటాను డౌన్‌లోడ్ చేస్తుంది, ఇది GPS ప్రారంభ పనితీరును గణనీయంగా మెరుగుపరచగలదు.</string>
+    <string name="update_recovery_title">Resurrected Remix రికవరీని అప్‌డేట్ చేయండి</string>
+    <string name="update_recovery_description">ప్రతి అప్‌డేట్ తర్వాత మొదటి బూట్‌లో Resurrected Remix రికవరీని అప్‌డేట్ చేస్తుంది.</string>
+    <string name="update_recovery_warning">సెటప్ పూర్తయిన వెంటనే రికవరీ అప్‌డేట్ చేయబడుతుంది. దానిని యథాతథంగా ఉంచాలనుకుంటే, ఈ ఫీచర్‌ను నిలిపివేయండి.</string>
+    <string name="update_recovery_setting">OS తో పాటు Resurrected Remix రికవరీని అప్‌డేట్ చేయండి</string>
+    <string name="setup_services">Resurrected Remix ఫీచర్లు</string>
+    <string name="services_pp_explanation">ఈ సేవలు మీ పరికరం సామర్థ్యాలను విస్తరించడానికి మీ కోసం పనిచేస్తాయి. డేటా <xliff:g id="name" example="LineageOS">%1$s</xliff:g> గోప్యతా విధానానికి అనుగుణంగా ఉపయోగించబడుతుంది.</string>
+    <string name="services_find_privacy_policy">మీరు గోప్యతా విధానాన్ని మరొక పరికరంలో ఈ చిరునామాను సందర్శించి చదవవచ్చు:</string>
+    <string name="services_help_improve_cm"><xliff:g id="name" example="LineageOS">%s</xliff:g> ని మెరుగుపరచడంలో సహాయం చేయండి</string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> డయాగ్నస్టిక్ మరియు వినియోగ డేటాను <xliff:g id="name" example="LineageOS">%2$s</xliff:g> కు స్వయంచాలకంగా పంపడం ద్వారా. ఈ సమాచారాన్ని మిమ్మల్ని గుర్తించడానికి ఉపయోగించలేరు మరియు బ్యాటరీ జీవితం, యాప్ పనితీరు మరియు కొత్త <xliff:g id="name" example="LineageOS">%3$s</xliff:g> ఫీచర్ల వంటి అంశాలపై పనిచేసే బృందాలకు ఇది సహాయపడుతుంది.</string>
+    <string name="services_metrics_title">డయాగ్నస్టిక్ డేటాను అందించండి</string>
+    <string name="setup_navigation">నావిగేషన్‌</string>
+    <string name="navigation_summary">ఇష్టమైన నావిగేషన్ పద్ధతిని ఎంచుకోండి</string>
+    <string name="gesture_navigation">"సంజ్ఞ నావిగేషన్"</string>
+    <string name="navbar_navigation">"3-బటన్‌ల నావిగేషన్‌"</string>
+    <string name="gesture_navigation_short">సైగ</string>
+    <string name="hide_gesture_hint">సైగ నావిగేషన్ సూచనను దాచండి</string>
+    <string name="setup_theme">"థీమ్"</string>
+    <string name="theme_summary">డార్క్ థీమ్ కొన్ని స్క్రీన్‌లపై బ్యాటరీ ఎక్కువ సేపు ఉండడానికి నలుపు నేపథ్యాన్ని ఉపయోగిస్తుంది</string>
+    <string name="dark">డార్క్</string>
+    <string name="light">"తక్కువగా ఉంది"</string>
+    <string name="pure_black_theme">పూర్తిగా నలుపు నేపథ్యాన్ని ఉపయోగించండి</string>
+    <string name="theme_preview">థీమ్ ప్రివ్యూ</string>
+    <string name="swipe_up_to_go_home">"వర్చువల్ హోమ్‌కు వెళ్లడానికి పైకి స్వైప్ చేయండి"</string>
+    <string name="tap_home_to_go_home">హోమ్‌కి వెళ్లడానికి మధ్య నావ్ ఐకాన్‌ను నొక్కండి</string>
+    <string name="press_center_to_go_home">హోమ్‌కి వెళ్లడానికి మధ్య బటన్‌ను నొక్కండి</string>
+</resources>

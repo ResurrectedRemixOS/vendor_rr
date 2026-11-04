@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_span_dimensions_accessible_format">%1$d ar leithead faoi %2$d ar airde</string>
+    <string name="widget_details_accessibility_label">        <xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g> giuirléid, %2$d ar leithead faoi %3$d ar airde
+    </string>
+    <string name="widget_tap_to_show_add_button_label">Taispeáin an cnaipe leis</string>
+    <string name="widget_tap_to_hide_add_button_label">Folaigh an cnaipe leis</string>
+    <string name="widget_tap_to_add_button_content_description">Cuir <xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g> giuirléid</string>
+    <string name="browse_widgets_tab_label">Brabhsáil</string>
+    <string name="widget_picker_right_pane_accessibility_label"><xliff:g id="selected_header" example="Calendar">%1$s</xliff:g> giuirléidí ar dheis, cuardach agus roghanna ar chlé</string>
+    <string name="widgets_search_bar_hint">Cuardaigh</string>
+    <string name="widget_search_bar_back_button_label">Ar ais</string>
+    <string name="widgets_list_no_widgets_available">Níl giuirléidí agus aicearraí ar fáil</string>
+    <string name="widgets_no_search_results">Níor aimsíodh aon ghiuirléidí ná aicearraí</string>
+    <string name="widget_add_to_homescreen_button_label">Cuir leis an scáileán baile</string>
+    <string name="widget_cancel_pin_button_label">Cealaigh</string>
+</resources>

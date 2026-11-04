@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="select_logd_size_titles">
+        <item>تاقاق</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>8M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>تاقاق</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string name="wifi_disconnected">ئۈزۈلدى</string>
+    <string name="wifi_disabled_generic">چەكلەنگەن</string>
+    <string name="speed_label_slow">ئاستا</string>
+    <string name="speed_label_okay">جەزملە</string>
+    <string name="speed_label_fast">تېز</string>
+    <string name="bluetooth_disconnected">ئۈزۈلدى</string>
+    <string name="bluetooth_disconnecting">ئۈزۈۋاتىدۇ\u2026</string>
+    <string name="bluetooth_connecting">باغلىنىۋاتىدۇ…</string>
+    <string name="hearing_device_spinner_item_selected">تاللانغان</string>
+    <string name="bluetooth_profile_hearing_aid">ئاڭلاتقۇ</string>
+    <string name="bluetooth_pairing_decline">ۋاز كەچ</string>
+    <string name="bluetooth_talkback_headset">تىڭشىغۇچ</string>
+    <string name="bluetooth_talkback_phone">تېلېفون</string>
+    <string name="data_usage_uninstalled_apps">چىقىرىۋېتىلگەن ئەپلەر</string>
+    <string name="data_usage_uninstalled_apps_users">چىقىرىۋەتكەن ئەپ ۋە ئىشلەتكۈچىلەر</string>
+    <string name="data_usage_ota">سىستېما يېڭىلاش</string>
+    <string name="tether_settings_title_usb">USB ھەمبەھىر</string>
+    <string name="tether_settings_title_wifi">ئەپچىل قىزىق نۇقتا</string>
+    <string name="tether_settings_title_bluetooth">كۆكچىش ھەمبەھىر</string>
+    <string name="tether_settings_title_usb_bluetooth">ھەمبەھىر</string>
+    <string name="unknown">يوچۇن</string>
+    <string name="running_process_item_user_label">ئىشلەتكۈچى: <xliff:g id="USER_NAME">%1$s</xliff:g></string>
+    <string name="tts_default_lang_title">تىل</string>
+    <string name="tts_engine_preference_section_title">مايىللىق موتۇر ى</string>
+    <string name="tts_general_section_title">ئادەتتىكى</string>
+    <string name="category_work">ئىش</string>
+    <string name="category_private">خۇسۇسىي</string>
+    <string name="adb_wireless_error">خاتالىق</string>
+    <string name="adb_device_forget">ئەستە تۇتما</string>
+    <string name="private_dns_mode_off">تاقاق</string>
+    <string name="adb_warning_title">USB سازلاشقا يول قويامدۇ؟</string>
+    <string name="no_application">يوق</string>
+    <string name="media_category">ۋاسىتە</string>
+    <string name="debug_applications_category">ئەپلەر</string>
+    <string name="loading_injected_setting_summary">يۈكلەۋاتىدۇ…</string>
+    <string name="daltonizer_mode_disabled">چەكلەنگەن</string>
+    <string name="battery_info_status_unknown">يوچۇن</string>
+    <string name="battery_info_status_charging">توكلاۋاتىدۇ</string>
+    <string name="battery_info_status_charging_dock">توكلاۋاتىدۇ</string>
+    <string name="battery_info_status_charging_v2">توكلاۋاتىدۇ</string>
+    <string name="disabled">چەكلەنگەن</string>
+    <string name="enabled">قوزغىتىلغان</string>
+    <string name="screen_zoom_summary_smallest">ئەڭ كىچىك</string>
+    <string name="screen_zoom_summary_smaller">كىچىكرەك</string>
+    <string name="screen_zoom_summary_small">كىچىك</string>
+    <string name="screen_zoom_summary_default">كۆڭۈلدىكى</string>
+    <string name="screen_zoom_summary_large">چوڭ</string>
+    <string name="content_description_menu_button">تىزىملىك</string>
+    <string name="status_unavailable">ئىشلەتكىلى بولمايدۇ</string>
+    <string name="cancel">ۋاز كەچ</string>
+    <string name="back">قايت</string>
+    <string name="save">ساقلا</string>
+    <string name="okay">جەزملە</string>
+    <string name="done">تامام</string>
+    <string name="zen_mode_do_not_disturb_name">دەخلى قىلماڭ</string>
+    <string name="zen_mode_settings_title">دەخلى قىلماڭ</string>
+    <string name="zen_mode_enable_dialog_turn_on">ئاچ</string>
+    <string name="zen_mode_settings_summary_off">ھەرگىز</string>
+    <string name="zen_interruption_level_priority">ئالدىنلىقلا</string>
+    <string name="zen_mode_duration_settings_title">داۋاملىشىش ۋاقتى</string>
+    <string name="media_transfer_analog_line_name">تەقلىد</string>
+    <string name="tv_media_transfer_connected">باغلاندى</string>
+    <string name="storage_category">ساقلىغۇچ</string>
+    <string name="user_add_user_item_title">ئىشلەتكۈچى</string>
+    <string name="user_add_profile_item_title">چەكلىمىلىك سەپلىمە ھۆججەت</string>
+    <string name="user_setup_button_setup_later">ھازىرچە ياق</string>
+    <string name="guest_reset_guest_confirm_button">ئەسلىگە قايتۇر</string>
+    <string name="guest_exit_dialog_button">چېكىن</string>
+    <string name="guest_exit_clear_data_button">ئۆچۈر</string>
+    <string name="guest_exit_save_data_button">ساقلا</string>
+    <string name="user_image_photo_selector">سۈرەت تاللاڭ</string>
+    <string name="failed_attempts_now_wiping_dialog_dismiss">پەرۋا قىلما</string>
+    <string name="cached_apps_freezer_disabled">چەكلەنگەن</string>
+    <string name="cached_apps_freezer_enabled">قوزغىتىلغان</string>
+    <string name="wifi_hotspot_switch_on_text">ئوچۇق</string>
+    <string name="wifi_hotspot_switch_off_text">تاقاق</string>
+</resources>

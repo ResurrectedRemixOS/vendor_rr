@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128 kb/s</item>
+        <item>256 kb/s</item>
+        <item>1 Mb/s</item>
+        <item>5 Mb/s</item>
+        <item>15 Mb/s</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"sjálfgefið"</item>
+        <item>selsíus</item>
+        <item>fahrenheit</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"sjálfgefið"</item>
+        <item>sun</item>
+        <item>mán</item>
+        <item>þri</item>
+        <item>mið</item>
+        <item>fim</item>
+        <item>fös</item>
+        <item>lau</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"sjálfgefið"</item>
+        <item>metrakerfi</item>
+        <item>bandarískt kerfi</item>
+        <item>breskt kerfi</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"Ekki gefið upp"</item>
+        <item>"Hlutlaust"</item>
+        <item>"Kvenkyn"</item>
+        <item>"Karlkyn"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="tethering_allow_vpn_upstreams_title">Nota VPN fyrir tengd tæki</string>
+    <string name="tethering_allow_vpn_upstreams_summary">Þegar þetta tæki notar VPN nota öll tæki sem tengjast heitum reit sama VPN</string>
+    <string name="battery_technology">Tækni</string>
+    <string name="battery_health">"Heilsa"</string>
+    <string name="battery_health_good">"Gott"</string>
+    <string name="battery_health_overheat">"Of heit"</string>
+    <string name="battery_health_dead">"Engin hleðsla"</string>
+    <string name="battery_health_over_voltage">"Of mikil spenna"</string>
+    <string name="battery_health_unspecified_failure">Óskilgreind villa</string>
+    <string name="battery_health_cold">"Köld"</string>
+    <string name="battery_health_unknown">"Óþekkt"</string>
+    <string name="battery_temperature">"Hitastig"</string>
+    <string name="battery_voltage">Spenna</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">Hönnunarrýmd</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">Hámarksrýmd</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">Brjóttu símann við uppsetningu</string>
+    <string name="face_enrolling_close_to_continue_description">Síminn þarf að vera brotinn saman til að setja upp eða nota andlitsopnun</string>
+    <string name="face_enrolling_do_it_later">"Gera þetta seinna"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM-verkfærakista</string>
+    <string name="platform_compat_target_sdk_title">Virkt fyrir targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g></string>
+    <string name="personal_context_title">Persónulegur samhengisstjóri</string>
+</resources>

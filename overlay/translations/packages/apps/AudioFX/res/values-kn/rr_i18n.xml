@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default_set">"ಡೀಫಾಲ್ಟ್ ಆಗಿ ಸೆಟ್ ಮಾಡಿ"</string>
+    <string name="device_line_out">ಲೈನ್ ಔಟ್</string>
+    <string name="virtualizer">ವರ್ಚುವಲೈಸರ್</string>
+    <string name="bass">ಬಾಸ್</string>
+    <string name="remove_custom_preset_warning_message">%1$s ಅನ್ನು ತೆಗೆದುಹಾಕಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುತ್ತೀರಾ?</string>
+    <string name="picker_title">ಮ್ಯೂಸಿಕ್ ಎಫೆಕ್ಟ್ಸ್ ನಿಯಂತ್ರಣ ಫಲಕ</string>
+</resources>

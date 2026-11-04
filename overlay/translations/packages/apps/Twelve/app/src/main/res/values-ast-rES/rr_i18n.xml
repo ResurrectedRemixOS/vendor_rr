@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="create_playlist_confirm">Crear</string>
+    <string name="no_albums">Nun hai nengún álbum</string>
+    <string name="no_results">Nun hai nengún resultáu</string>
+    <string name="artist_albums_header">Álbumes</string>
+    <string name="rename_playlist_positive">Renomar</string>
+    <string name="audio_file_type_unknown">Desconozse</string>
+    <string name="audio_sample_rate_unknown">Desconozse</string>
+    <string name="audio_channel_count_unknown">Desconozse</string>
+    <string name="audio_encoding_unknown">Desconozse</string>
+    <string name="audio_output_mode_unknown">Desconozse</string>
+    <string name="audio_bitrate_unknown">Desconozse</string>
+    <string name="audio_output_device_name">Nome</string>
+    <string name="audio_output_device_name_unknown">Desconozse</string>
+    <string name="audio_output_device_type">Tipu</string>
+    <string name="audio_output_device_type_unknown">Desconozse</string>
+    <string name="audio_output_device_type_headphones">Auriculares</string>
+    <string name="audio_format_compression_unknown">Desconozse</string>
+    <string name="provider_argument_username">Nome d\'usuariu</string>
+    <string name="save_provider_action">Guardar</string>
+    <string name="delete_provider_action">Desaniciar</string>
+    <string name="provider_name_error">Introduz un nome</string>
+    <string name="reset_local_stats_confirm_positive">Reafitar</string>
+    <string name="queue">Meter na cola</string>
+    <string name="sort_by_name">Nome</string>
+    <string name="sort_by_title">Títulu</string>
+    <string name="sort_by_unknown">Desconozse</string>
+    <string name="unknown">Desconozse</string>
+    <string name="subsonic_license">Llicencia</string>
+    <string name="jellyfin_server_name">Nome del sirvidor</string>
+    <string name="jellyfin_version">Versión</string>
+    <string name="ampache_version">Versión</string>
+</resources>

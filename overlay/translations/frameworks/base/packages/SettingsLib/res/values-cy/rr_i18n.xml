@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="hearing_device_spinner_item_selected">Dewiswyd</string>
+    <string name="clear_adb_keys">Dirymu caniatâd dadfygio USB</string>
+    <string name="adb_keys_warning_message">Dirymu mynediad at ddadfygio USB o bob cyfrifiadur wyt wedi ei ganiatáu yn y gorffennol?</string>
+    <string name="screen_zoom_summary_smallest">Lleiaf</string>
+    <string name="screen_zoom_summary_smaller">Llai</string>
+    <string name="accessibility_screen_magnification_title">Chwyddo</string>
+</resources>

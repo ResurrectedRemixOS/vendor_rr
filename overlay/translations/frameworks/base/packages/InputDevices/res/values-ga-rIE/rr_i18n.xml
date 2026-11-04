@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_layouts_label">Méarchlár Android</string>
+    <string name="keyboard_layout_english_uk_label">Béarla (RA)</string>
+    <string name="keyboard_layout_english_us_label">Béarla (SAM)</string>
+    <string name="keyboard_layout_german_label">Gearmáinis</string>
+    <string name="keyboard_layout_french_label">Fraincis</string>
+    <string name="keyboard_layout_spanish_label">Spáinnis</string>
+    <string name="keyboard_layout_turkish">Tuircis</string>
+    <string name="keyboard_layout_hebrew">Eabhrais</string>
+</resources>

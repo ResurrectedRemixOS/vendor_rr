@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">"Galerija"</string>
+    <string name="app_permissions_toast">Vartotojas nesuteikė leidimų.</string>
+    <string name="reels_title">Reels</string>
+    <string name="albums_title">"Albumai"</string>
+    <string name="categories_title">"Kategorijos"</string>
+    <string name="library_title">"Biblioteka"</string>
+    <string name="album_favorites">"Mėgstamiausi"</string>
+    <string name="album_trash">"Šiukšliadėžė"</string>
+    <string name="album_reels">Reels</string>
+    <string name="album_photos">"Nuotraukos"</string>
+    <string name="album_videos">"Vaizdo įrašai"</string>
+    <plurals name="album_thumbnail_items">
+        <item quantity="one">%d elementas</item>
+        <item quantity="few">%d elementai</item>
+        <item quantity="many">%d elemento</item>
+        <item quantity="other">%d elementų</item>
+    </plurals>
+    <plurals name="delete_file_forever_confirm_message">
+        <item quantity="one">Ar tikrai norite visam laikui ištrinti %d failą?</item>
+        <item quantity="few">Ar tikrai norite visam laikui ištrinti %d failus?</item>
+        <item quantity="many">Ar tikrai norite visam laikui ištrinti %d failo?</item>
+        <item quantity="other">Ar tikrai norite visam laikui ištrinti %d failų?</item>
+    </plurals>
+    <plurals name="delete_file_forever_successful">
+        <item quantity="one">%d failas visam laikui ištrintas</item>
+        <item quantity="few">%d failai visam laikui ištrinti</item>
+        <item quantity="many">%d failo visam laikui ištrinta</item>
+        <item quantity="other">%d failų visam laikui ištrinta</item>
+    </plurals>
+    <plurals name="delete_file_forever_unsuccessful">
+        <item quantity="one">Nepavyko visam laikui ištrinti %d failo</item>
+        <item quantity="few">Nepavyko visam laikui ištrinti %d failus</item>
+        <item quantity="many">Nepavyko visam laikui ištrinti %d failo</item>
+        <item quantity="other">Nepavyko visam laikui ištrinti %d failų</item>
+    </plurals>
+    <plurals name="move_file_to_trash_confirm_message">
+        <item quantity="one">Ar tikrai norite perkelti %d failą į šiukšliadėžę?</item>
+        <item quantity="few">Ar tikrai norite perkelti %d failus į šiukšliadėžę?</item>
+        <item quantity="many">Ar tikrai norite perkelti %d failo į šiukšliadėžę?</item>
+        <item quantity="other">Ar tikrai norite perkelti %d failų į šiukšliadėžę?</item>
+    </plurals>
+    <plurals name="move_file_to_trash_successful">
+        <item quantity="one">%d failas perkeltas į šiukšliadėžę</item>
+        <item quantity="few">%d failai perkelti į šiukšliadėžę</item>
+        <item quantity="many">%d failo perkelta į šiukšliadėžę</item>
+        <item quantity="other">%d failų perkelta į šiukšliadėžę</item>
+    </plurals>
+    <plurals name="move_file_to_trash_unsuccessful">
+        <item quantity="one">Nepavyko perkelti %d failo į šiukšliadėžę</item>
+        <item quantity="few">Nepavyko perkelti %d failus į šiukšliadėžę</item>
+        <item quantity="many">Nepavyko perkelti %d failo į šiukšliadėžę</item>
+        <item quantity="other">Nepavyko perkelti %d failų į šiukšliadėžę</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_confirm_message">
+        <item quantity="one">Ar tikrai norite atkurti %d failą iš šiukšliadėžės?</item>
+        <item quantity="few">Ar tikrai norite atkurti %d failus iš šiukšliadėžės?</item>
+        <item quantity="many">Ar tikrai norite atkurti %d failo iš šiukšliadėžės?</item>
+        <item quantity="other">Ar tikrai norite atkurti %d failų iš šiukšliadėžės?</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_successful">
+        <item quantity="one">%d failas atkurtas iš šiukšliadėžės</item>
+        <item quantity="few">%d failai atkurti iš šiukšliadėžės</item>
+        <item quantity="many">%d failo atkurta iš šiukšliadėžės</item>
+        <item quantity="other">%d failų atkurta iš šiukšliadėžės</item>
+    </plurals>
+    <plurals name="restore_file_from_trash_unsuccessful">
+        <item quantity="one">Nepavyko atkurti %d failo iš šiukšliadėžės</item>
+        <item quantity="few">Nepavyko atkurti %d failus iš šiukšliadėžės</item>
+        <item quantity="many">Nepavyko atkurti %d failo iš šiukšliadėžės</item>
+        <item quantity="other">Nepavyko atkurti %d failų iš šiukšliadėžės</item>
+    </plurals>
+    <string name="manage_media_permission_title">Tvarkyti medijos leidimą</string>
+    <string name="manage_media_permission_message">Kad galėtų geriau tvarkyti jūsų nuotraukas ir vaizdo įrašus, leiskite programai tvarkyti jūsų medijos failus</string>
+    <string name="media_info_unknown">"Nežinoma"</string>
+    <string name="media_info_add_description_hint">Pridėti aprašymą</string>
+    <string name="media_info_write_description_failed">Nepavyko pakeisti medijos aprašymo</string>
+    <string name="media_info_location_loading_placeholder">Įkeliama…</string>
+    <string name="media_info_location_open_with">Peržiūrėti vietą naudojant</string>
+    <string name="intent_action_not_supported">Veiksmas nepalaikomas</string>
+    <string name="intent_media_not_found">Medija nerasta</string>
+    <string name="intent_media_type_not_found">Medijos tipas nerastas</string>
+    <string name="intent_media_type_not_supported">Medijos tipas nepalaikomas</string>
+    <string name="intent_no_system_wallpaper_cropper_available">Nėra sistemos kirpimo įrankio</string>
+    <string name="intent_wallpaper_cannot_be_changed">Ekrano fono pakeisti negalima</string>
+    <string name="file_action_add_to_favorites">"Pridėti prie adresyno"</string>
+    <string name="file_action_delete_forever">"Ištrinti visam laikui"</string>
+    <string name="file_action_edit">"Redaguoti"</string>
+    <string name="file_action_empty_trash">"Išvalyti šiukšliadėžę"</string>
+    <string name="file_action_information">"Informacija"</string>
+    <string name="file_action_move_to_trash">"Perkelti į šiukšliadėžę"</string>
+    <string name="file_action_remove_from_favorites">Pašalinti iš mėgstamiausių</string>
+    <string name="file_action_restore_from_trash">Atkurti iš šiukšliadėžės</string>
+    <string name="file_action_share">"Bendrinti"</string>
+    <string name="file_action_use_as">Naudoti kaip</string>
+    <string name="file_action_undo_action">"Anuliuoti"</string>
+    <string name="no_media">Medijos nėra</string>
+    <plurals name="thumbnail_selection_count">
+        <item quantity="one">Pasirinktas %d</item>
+        <item quantity="few">Pasirinkti %d</item>
+        <item quantity="many">Pasirinkta %d</item>
+        <item quantity="other">Pasirinkta %d</item>
+    </plurals>
+    <string name="pick_a_photo">Pasirinkite nuotrauką</string>
+    <string name="pick_a_video">Pasirinkite vaizdo įrašą</string>
+    <string name="pick_a_media">Pasirinkite mediją</string>
+    <string name="picker_done">"Atlikta"</string>
+    <string name="set_wallpaper_label">"Ekrano fonas"</string>
+    <string name="set_wallpaper">"Nustatyti ekrano foną"</string>
+    <string name="set_wallpaper_dialog_title">"Nustatyti ekrano foną"</string>
+    <string name="set_wallpaper_home_screen">"Pagrindinis ekranas"</string>
+    <string name="set_wallpaper_lock_screen">"Užrakinimo ekranas"</string>
+    <string name="set_wallpaper_both">Pagrindinis ir užrakinimo ekranas</string>
+    <string name="warning_bin_time_period">Failai bus visam laikui ištrinti po 30 dienų.</string>
+    <string name="motion_photo_show_video">Rodyti vaizdo įrašą</string>
+    <string name="motion_photo_show_photo">Rodyti nuotrauką</string>
+    <string name="title_activity_settings">"Nustatymai"</string>
+    <string name="general_header">"Bendrieji"</string>
+    <string name="video_header">Vaizdas</string>
+    <string name="edge_tap_navigation_enable_title">Naršymas bakstelint kraštą</string>
+    <string name="edge_tap_navigation_enabled_description">Bakstelėkite kairįjį arba dešinįjį ekrano kraštą, kad naršytumėte tarp medijos</string>
+    <string name="double_tap_to_seek_enabled_title">Įjungti dvigubą bakstelėjimą persukimui</string>
+    <string name="double_tap_to_seek_enabled_description">Dukart bakstelėkite kairę arba dešinę vaizdo pusę, kad persuktumėte atgal arba pirmyn</string>
+    <string name="double_tap_to_seek_seconds_title">Dvigubo bakstelėjimo persukimo trukmė</string>
+    <string name="double_tap_to_seek_seconds_description">Sekundės, kurias praleisti dukart bakstelėjus vaizdo įrašą</string>
+    <string name="hide_native_seek_buttons_title">Slėpti įprastus persukimo mygtukus</string>
+    <string name="hide_native_seek_buttons_description">Slėpti atsukimo ir greito persukimo mygtukus vaizdo grotuvo valdikliuose</string>
+    <string name="remember_video_playback_position_enabled_title">Prisiminti atkūrimo vietą</string>
+    <string name="remember_video_playback_position_enabled_description">Tęsti vaizdo įrašus nuo paskutinės sustabdymo vietos</string>
+</resources>

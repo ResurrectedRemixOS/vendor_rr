@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">កន្លែងនៅក្បែរ</string>
+    <string name="lookup_settings_label">ការស្វែងរកលេខទូរស័ព្ទ</string>
+    <string name="enable_forward_lookup_title">ការស្វែងរកទៅមុខ</string>
+    <string name="enable_forward_lookup_summary">បង្ហាញទីកន្លែងនៅជិតនៅពេលស្វែងរកក្នុងកម្មវិធីហៅទូរស័ព្ទ</string>
+    <string name="enable_reverse_lookup_title">ការស្វែងរកបញ្ច្រាស</string>
+    <string name="enable_reverse_lookup_summary">ស្វែងរកព័ត៌មានអំពីមនុស្ស ឬទីកន្លែងសម្រាប់លេខមិនស្គាល់នៅការហៅចូល</string>
+    <string name="forward_lookup_provider_title">អ្នកផ្តល់សេវាស្វែងរកទៅមុខ</string>
+    <string name="reverse_lookup_provider_title">អ្នកផ្តល់សេវាស្វែងរកបញ្ច្រាស</string>
+    <string name="lookup_disclaimer">ការស្វែងរកអាចផ្ញើសំណើទៅកាន់គេហទំព័រពីចម្ងាយតាមរយៈប្រូតូកូលសុវត្ថិភាព (https) ដើម្បីប្រមូលព័ត៌មាន។ សំណើអាចរួមបញ្ចូលលេខទូរស័ព្ទរបស់ភាគីម្ខាងទៀត ឬពាក្យស្វែងរក</string>
+</resources>

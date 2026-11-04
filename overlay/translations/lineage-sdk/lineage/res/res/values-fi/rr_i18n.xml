@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="charging_speed">Latausnopeus</string>
+    <string name="charging_speed_slow">"Hidas"</string>
+    <string name="charging_speed_fast">Nopea</string>
+    <string name="charging_speed_super_fast">Erittäin nopea</string>
+    <string name="charging_control_notification_channel">Latauksen ohjaus</string>
+    <string name="charging_control_notification_title">Latauksen ohjaus</string>
+    <string name="charging_control_notification_content_limit">Akku ladataan %1$d %%:iin</string>
+    <string name="charging_control_notification_content_limit_reached">Akku on ladattu %1$d %%:iin</string>
+    <string name="charging_control_notification_content_target">Akku latautuu täyteen kello %1$s</string>
+    <string name="charging_control_notification_content_target_reached">Akku on ladattu</string>
+</resources>

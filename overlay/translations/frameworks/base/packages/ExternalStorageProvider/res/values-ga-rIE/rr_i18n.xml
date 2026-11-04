@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="storage_description">Stóráil áitiúil</string>
+    <string name="root_internal_storage">Stóráil inmheánach</string>
+    <string name="root_documents">Doiciméid</string>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="udfps_accessibility_touch_hints_left">Symud i\u2019r chwith</string>
+    <string name="udfps_accessibility_touch_hints_down">Symud i lawr</string>
+    <string name="udfps_accessibility_touch_hints_right">Symud i\u2019r dde</string>
+    <string name="udfps_accessibility_touch_hints_up">Symud i fyny</string>
+</resources>

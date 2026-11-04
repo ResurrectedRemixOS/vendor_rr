@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="subtype_no_language_bepo">Alphabet (Bépo)</string>
+    <string name="subtype_hu_ZZ">Hungarian (QWERTY)</string>
+    <string name="keyboard_theme_material_follow_system">Material - စနစ်ဆက်တင်များကို လိုက်နာရန်</string>
+    <string name="prefs_keyboard_height_scale">Keyboard အမြင့် စကေး</string>
+    <string name="number_row">နံပါတ်အတန်း</string>
+    <string name="number_row_summary">ခလုတ် ၄ တန်းပါသော layout အားလုံးအတွက် နံပါတ်အတန်းကို အမြဲပြရန်</string>
+    <string name="number_row_password">စကားဝှက်အတွက် နံပါတ်အတန်း</string>
+    <string name="number_row_password_summary">စကားဝှက် ထည့်ရာတွင် ခလုတ် ၄ တန်းပါသော layout အားလုံးအတွက် နံပါတ်အတန်းကို အမြဲပြရန်</string>
+    <string name="space_trackpad">Space bar trackpad</string>
+    <string name="space_trackpad_summary">Cursor ရွှေ့ရန် spacebar ပေါ်တွင် ပွတ်ဆွဲပါ</string>
+    <string name="backspace_trackpad">Backspace trackpad</string>
+    <string name="backspace_trackpad_summary">စကားလုံးများ ဖျက်ရန် backspace ခလုတ်ပေါ်တွင် ပွတ်ဆွဲပါ</string>
+    <string name="show_longpress_hints">ခလုတ်ကို ဖိထားသည့် အရိပ်အမြွက်များ ပြရန်</string>
+    <string name="show_longpress_hints_summary">ထောက်ပံ့သော ခလုတ်များအတွက် ဖိထားသည့် အရိပ်အမြွက်များ ပြသည်</string>
+    <string name="show_emoji_key">Emoji ခလုတ် ပြရန်</string>
+    <string name="show_emoji_key_summary">Emoji ခလုတ်ကို အမြဲပြရန်။ ဤရွေးချယ်မှု ဖွင့်ထားလျှင် ဘာသာစကားပြောင်းခလုတ်ကို ပြ၍မရပါ</string>
+    <string name="enable_split_keyboard_summary">အလျားလိုက်တွင်သာ</string>
+    <string name="split_keyboard_duplicate_keys">အလယ်ခလုတ်များ ထပ်ပွား</string>
+    <string name="split_keyboard_duplicate_keys_summary">နှစ်ဖက်စလုံး၏ အလယ်နီးရှိ ခလုတ်များကို ပြရန်</string>
+    <string name="spoken_description_split_keyboard">Keyboard ခွဲရန်</string>
+    <string name="spoken_description_merge_keyboard">Keyboard ပေါင်းရန်</string>
+    <string name="spoken_description_float_keyboard">Keyboard ပေါမြှောရန်</string>
+    <string name="spoken_description_dock_keyboard">Keyboard ကို dock လုပ်ရန်</string>
+    <string name="floating_keyboard_drag_handle">Keyboard ရွှေ့ရန်</string>
+    <string name="floating_keyboard_resize_handle">Keyboard အရွယ်အစား ပြောင်းရန်</string>
+    <string name="floating_keyboard_reset">"ပြင်ဆင်သတ်မှတ်ရန်"</string>
+    <string name="floating_keyboard_hide">Keyboard ဝှက်ရန်</string>
+    <string name="floating_keyboard_switch_ime">"လက်ကွက်ပြောင်းရန်"</string>
+</resources>

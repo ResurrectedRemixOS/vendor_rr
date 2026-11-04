@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="forward_lookup_provider_title">Udbyder af fremadrettet opslag</string>
+    <string name="reverse_lookup_provider_title">Udbyder af omvendt opslag</string>
+    <string name="lookup_disclaimer">Opslag kan sende forespørgsler via en sikker protokol (https) til eksterne websteder for at indsamle oplysninger. Forespørgslen kan indeholde den anden parts telefonnummer eller søgeteksten</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="keyboard_theme_material_follow_system">Material - prati sistemska podešavanja</string>
+    <string name="prefs_keyboard_height_scale">Razmera visine tastature</string>
+    <string name="number_row">Red brojeva</string>
+    <string name="number_row_summary">Uvek prikaži red brojeva za sve rasporede sa 4 reda tastera</string>
+    <string name="number_row_password">Red brojeva za lozinke</string>
+    <string name="number_row_password_summary">Uvek prikaži red brojeva za sve rasporede sa 4 reda tastera pri unosu lozinke</string>
+    <string name="space_trackpad">Tačpad na razmaknici</string>
+    <string name="space_trackpad_summary">Превуците по размакници да бисте померили курсор</string>
+    <string name="backspace_trackpad">Tačpad na tasteru za brisanje</string>
+    <string name="backspace_trackpad_summary">Prevucite po tasteru za brisanje da biste obrisali reči</string>
+    <string name="show_longpress_hints">Prikaži savete za dugo pritiskanje tastera</string>
+    <string name="show_longpress_hints_summary">Prikazuje savete za dugo pritiskanje za podržane tastere</string>
+    <string name="show_emoji_key">Prikaži taster za emodži</string>
+    <string name="show_emoji_key_summary">Uvek prikaži taster za emodži. Kada je ova opcija uključena, taster za promenu jezika se ne može prikazati.</string>
+    <string name="enable_split_keyboard_summary">Samo u pejzažu</string>
+    <string name="split_keyboard_duplicate_keys">Dupliraj centralne tastere</string>
+    <string name="split_keyboard_duplicate_keys_summary">Prikaži tastere blizu sredine na obe polovine</string>
+    <string name="spoken_description_split_keyboard">Podeli tastaturu</string>
+    <string name="spoken_description_merge_keyboard">Spoji tastaturu</string>
+    <string name="spoken_description_float_keyboard">Plutajuća tastatura</string>
+    <string name="spoken_description_dock_keyboard">Zakači tastaturu</string>
+    <string name="floating_keyboard_drag_handle">Pomeri tastaturu</string>
+    <string name="floating_keyboard_resize_handle">Promeni veličinu tastature</string>
+    <string name="floating_keyboard_reset">"Ресетуј"</string>
+    <string name="floating_keyboard_hide">Sakrij tastaturu</string>
+    <string name="floating_keyboard_switch_ime">"Промените метод уноса"</string>
+</resources>

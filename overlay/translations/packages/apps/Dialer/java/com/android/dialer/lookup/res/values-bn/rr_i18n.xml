@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="nearby_places">আশপাশের জায়গাগুলি</string>
+    <string name="lookup_settings_label">ফোন নম্বর খুঁজুন</string>
+    <string name="enable_forward_lookup_title">ফরওয়ার্ড লুকআপ</string>
+    <string name="enable_forward_lookup_summary">ডায়ালারে অনুসন্ধানের সময় কাছের জায়গা দেখান</string>
+    <string name="enable_reverse_lookup_title">রিভার্স লুকআপ</string>
+    <string name="enable_reverse_lookup_summary">অজানা নম্বর থেকে আসা কলে ব্যক্তি বা জায়গার তথ্য খুঁজুন</string>
+    <string name="forward_lookup_provider_title">ফরওয়ার্ড লুকআপ প্রদানকারী</string>
+    <string name="reverse_lookup_provider_title">রিভার্স লুকআপ প্রদানকারী</string>
+    <string name="lookup_disclaimer">তথ্য সংগ্রহের জন্য লুকআপ নিরাপদ প্রোটোকলে (https) দূরবর্তী ওয়েবসাইটে অনুরোধ পাঠাতে পারে। অনুরোধে অপর পক্ষের ফোন নম্বর বা অনুসন্ধানের শব্দ থাকতে পারে</string>
+</resources>

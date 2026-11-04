@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="user_rejected_calendar_write_permission_lineage">Kalender vajab korrektseks toimimiseks kalendri lugemis- ja kirjutamisõigusi. Palun proovi uuesti.</string>
+    <string name="preferences_menu_about_lineage">Kalendri teave</string>
+    <string name="week_start_locale_default">Keele vaikeseade</string>
+    <string name="preferences_staggered_display_title">Nihutatud kuvamine</string>
+    <string name="preferences_staggered_display_summary">Kuva kattuvad sündmused nihutatud paigutuses</string>
+    <string name="cal_export_error">Sündmuse eksportimine ebaõnnestus</string>
+    <string name="preferences_calendar_color_warning_message">Värvi muutmine võidakse tagasi pöörata, kui kalender uuesti sünkroonitakse.\n\nSelle vältimiseks saad DAVx⁵-s keelata valiku „Halda kalendri värve“.</string>
+</resources>

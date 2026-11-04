@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX មិនមែនជាផ្ទាំងគ្រប់គ្រងឥទ្ធិពលលំនាំដើមរបស់អ្នកទេ។</string>
+    <string name="snack_bar_not_default_set">"កំណត់​លំនាំដើម"</string>
+    <string name="snack_bar_not_default_not_now">"កុំទាន់"</string>
+    <string name="normal">ធម្មតា</string>
+    <string name="classical">"ក្លាស៊ិក"</string>
+    <string name="dance">"រាំ"</string>
+    <string name="flat">រាបស្មើ</string>
+    <string name="folk">"ប្រពៃណី"</string>
+    <string name="heavy_metal">"ហេវី ម៉េថល"</string>
+    <string name="hip_hop">"ហ៊ីបហប"</string>
+    <string name="electronic">អេឡិចត្រូនិច</string>
+    <string name="small_speakers">ឧបករណ៍បំពងសំឡេងតូចៗ</string>
+    <string name="multimedia">ពហុមេឌៀ</string>
+    <string name="custom">ផ្ទាល់ខ្លួន</string>
+    <string name="custom_n"><xliff:g id="preset_num">%1$d</xliff:g> ផ្ទាល់ខ្លួន</string>
+    <string name="effect_unavalable_for_speaker">ឥទ្ធិពលនេះមិនអាចប្រើបានក្នុងរបៀបឧបករណ៍បំពងសំឡេងទេ។</string>
+    <string name="device_headset">"កាស"</string>
+    <string name="device_speaker">"ឧបករណ៍​បំពង​សំឡេង"</string>
+    <string name="device_line_out">លីញ៍អោត</string>
+    <string name="reverb">ការឆ្លុះសំឡេង</string>
+    <string name="devices">"ឧបករណ៍"</string>
+    <string name="virtualizer">ម៉ាស៊ីនបង្កើតសំឡេងជុំវិញ</string>
+    <string name="bass">បាស</string>
+    <string name="rename">"ប្ដូរ​ឈ្មោះ"</string>
+    <string name="remove_custom_preset_warning_message">តើអ្នកច្បាស់ជាចង់ដក %1$s ចេញមែនទេ?</string>
+    <string name="picker_title">ផ្ទាំងគ្រប់គ្រងឥទ្ធិពលតន្ត្រី</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_span_dimensions_accessible_format">%1$d o led, %2$d o uchder</string>
+    <string name="widget_details_accessibility_label">
+        <xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g> teclyn, %2$d o led, %3$d o uchder
+    </string>
+    <string name="widget_tap_to_show_add_button_label">Dangos botwm ychwanegu</string>
+    <string name="widget_tap_to_hide_add_button_label">Cuddio botwm ychwanegu</string>
+    <string name="widget_tap_to_add_button_content_description">Ychwanegu <xliff:g id="widget_name" example="Calendar month view">%1$s</xliff:g> teclyn</string>
+    <string name="browse_widgets_tab_label">Pori</string>
+    <string name="widget_picker_right_pane_accessibility_label">Teclynnau <xliff:g id="selected_header" example="Calendar">%1$s</xliff:g> ar y dde, chwilio a dewisiadau ar y chwith</string>
+    <string name="widgets_search_bar_hint">Chwilio</string>
+    <string name="widget_search_bar_back_button_label">Nôl</string>
+    <string name="widgets_list_no_widgets_available">Dyw teclynnau a llwybrau byr ddim ar gael</string>
+    <string name="widgets_no_search_results">Ni chanfuwyd teclynnau na llwybrau byr</string>
+    <string name="widget_add_to_homescreen_button_label">Ychwanegu at y sgrin gartref</string>
+    <string name="widget_cancel_pin_button_label">Diddymu</string>
+</resources>

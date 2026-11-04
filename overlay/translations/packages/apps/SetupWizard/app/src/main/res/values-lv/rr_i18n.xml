@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="cancel">"Atcelt"</string>
+    <string name="finish">Pabeigt</string>
+    <string name="done">"Gatavs"</string>
+    <string name="setup_welcome_message">Laipni lūdzam ierīcē <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">Iestatiet darba profilu</string>
+    <string name="accessibility_settings">"Pieejamības iestatījumi"</string>
+    <string name="device_info">"Informācija par ierīci"</string>
+    <string name="device_information">"Informācija par ierīci"</string>
+    <string name="device_info_serial">"Sērijas numurs"</string>
+    <string name="setup_locale">"Valoda"</string>
+    <string name="sim_locale_changed">Atrasta %1$s SIM karte</string>
+    <string name="setup_euicc">Iestatiet eSIM</string>
+    <string name="esim_support_summary">Iestatiet eSIM vai ievietojiet SIM karti. Lai ievietotu SIM karti, izlasiet ierīces komplektā iekļautos norādījumus.</string>
+    <string name="sim_missing_skip_title">Izlaist SIM iestatīšanu?</string>
+    <string name="sim_missing_skip_message">Ja izlaidīsiet šo soli, nebūsiet savienots ar mobilo tīklu, līdz iestatījumos neiestatīsiet SIM karti.</string>
+    <string name="setup_datetime_section_date">"Datums"</string>
+    <string name="setup_datetime_section_time">"Laiks"</string>
+    <string name="setup_date_format">"Formatēt"</string>
+    <string name="date_format_day">"Diena"</string>
+    <string name="date_format_month">"Mēnesis"</string>
+    <string name="date_format_year">"Gads"</string>
+    <string name="setup_time_zone">"Laika josla"</string>
+    <string name="setup_24_hour_format">"Izmantot 24 stundu formātu"</string>
+    <string name="intro_restore_title">Atjaunot lietotnes un datus</string>
+    <string name="intro_restore_subtitle">Ja jums ir Seedvault dublējums no <xliff:g id="name" example="LineageOS">%s</xliff:g> vai citas operētājsistēmas, to var atjaunot šeit.</string>
+    <string name="intro_restore_button">Atjaunot no dublējuma</string>
+    <string name="location_summary">Izvēlieties, kā ierīce pārvalda atrašanās vietu</string>
+    <string name="location_access_title">"Izmantot atrašanās vietu"</string>
+    <string name="location_agps_access_title">Uzlabota atrašanās vietas noteikšana</string>
+    <string name="location_agps_access_summary">Kad atrašanās vieta ir ieslēgta, lejupielādēt satelītu palīgdatus no interneta, kas var ievērojami uzlabot GPS sākuma darbību.</string>
+    <string name="update_recovery_title">Atjaunot Resurrected Remix atkopšanu</string>
+    <string name="update_recovery_description">Atjaunot Resurrected Remix atkopšanu pēc katra atjauninājuma pirmajā palaišanas reizē.</string>
+    <string name="update_recovery_warning">Atkopšana tiks atjaunota, tiklīdz pabeigsit iestatīšanu. Ja vēlaties to saglabāt neskartu, atspējojiet šo funkciju.</string>
+    <string name="update_recovery_setting">Atjaunot Resurrected Remix atkopšanu kopā ar operētājsistēmu</string>
+    <string name="setup_services">Resurrected Remix funkcijas</string>
+    <string name="services_pp_explanation">Šie pakalpojumi darbojas, lai paplašinātu ierīces iespējas. Dati tiks izmantoti saskaņā ar <xliff:g id="name" example="LineageOS">%1$s</xliff:g> privātuma politiku.</string>
+    <string name="services_find_privacy_policy">Privātuma politiku citā ierīcē varat izlasīt, apmeklējot:</string>
+    <string name="services_help_improve_cm">Palīdziet uzlabot <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g>, automātiski sūtot diagnostikas un lietošanas datus uz <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Šo informāciju nevar izmantot, lai jūs identificētu, un tā palīdz komandām, kas strādā pie akumulatora darbības ilguma, lietotņu veiktspējas un jaunu <xliff:g id="name" example="LineageOS">%3$s</xliff:g> funkciju uzlabošanas.</string>
+    <string name="services_metrics_title">Sniegt diagnostikas datus</string>
+    <string name="setup_navigation">Navigācija</string>
+    <string name="navigation_summary">Izvēlieties vēlamo navigācijas metodi</string>
+    <string name="gesture_navigation">"Žestu navigācija"</string>
+    <string name="navbar_navigation">"3 pogu navigācija"</string>
+    <string name="gesture_navigation_short">Žesti</string>
+    <string name="hide_gesture_hint">Paslēpt žestu navigācijas norādi</string>
+    <string name="setup_theme">"Motīvs"</string>
+    <string name="theme_summary">Tumšais motīvs izmanto melnu fonu, lai dažos ekrānos ilgāk saglabātu akumulatora uzlādi</string>
+    <string name="dark">Tumšs</string>
+    <string name="light">"Maz"</string>
+    <string name="pure_black_theme">Izmantot tīri melnu fonu</string>
+    <string name="theme_preview">Motīva priekšskatījums</string>
+    <string name="swipe_up_to_go_home">"Velciet augšup, lai pārietu uz sākuma ekrānu"</string>
+    <string name="tap_home_to_go_home">Pieskarieties centrālajai navigācijas ikonai, lai atgrieztos sākuma ekrānā</string>
+    <string name="press_center_to_go_home">Nospiediet centrālo pogu, lai atgrieztos sākuma ekrānā</string>
+</resources>

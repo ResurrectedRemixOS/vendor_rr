@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"డిఫాల్ట్"</item>
+        <item>సెల్సియస్</item>
+        <item>ఫారెన్‌హీట్</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"డిఫాల్ట్"</item>
+        <item>ఆది</item>
+        <item>సోమ</item>
+        <item>మంగళ</item>
+        <item>బుధ</item>
+        <item>గురు</item>
+        <item>శుక్ర</item>
+        <item>శని</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"డిఫాల్ట్"</item>
+        <item>మెట్రిక్</item>
+        <item>US సిస్టమ్</item>
+        <item>UK సిస్టమ్</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"పేర్కొనబడలేదు"</item>
+        <item>"న్యూట్రల్"</item>
+        <item>"స్త్రీ"</item>
+        <item>"పురుషుడు"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">అధికమైనవి</string>
+    <string name="advanced_keyboard_settings_title">"అడ్వాన్స్‌డ్ సెట్టింగ్స్"</string>
+    <string name="adb_enable_root">రూటెడ్ డీబగ్గింగ్</string>
+    <string name="adb_enable_summary_root">Android డీబగ్గింగ్‌ను రూట్‌గా రన్ చేయడానికి అనుమతించండి</string>
+    <string name="backup_transport_setting_label">బ్యాకప్ ప్రొవైడర్‌ను మార్చండి</string>
+    <string name="backup_transport_title">బ్యాకప్ ప్రొవైడర్‌ను ఎంచుకోండి</string>
+    <string name="berry_black_theme_title">పూర్తిగా నలుపు</string>
+    <string name="berry_black_theme_summary">డార్క్ థీమ్ కోసం పూర్తిగా నలుపు బ్యాక్‌గ్రౌండ్</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {డెవలప్‌మెంట్ సెట్టింగ్స్ ఎనేబుల్ చేయడానికి ఇంకా # అడుగు మిగిలి ఉంది.} other {డెవలప్‌మెంట్ సెట్టింగ్స్ ఎనేబుల్ చేయడానికి ఇంకా # అడుగులు మిగిలి ఉన్నాయి.} }</string>
+    <string name="status_bar_double_tap_to_sleep_title">నిద్రపోవడానికి ట్యాప్ చేయండి</string>
+    <string name="status_bar_double_tap_to_sleep_summary">డిస్‌ప్లేను ఆఫ్ చేయడానికి స్టేటస్‌ బార్‌ లేదా లాక్ స్క్రీన్‌పై రెండుసార్లు ట్యాప్ చేయండి</string>
+    <string name="high_touch_polling_rate_title">అధిక టచ్ పోలింగ్ రేట్</string>
+    <string name="high_touch_polling_rate_summary">టచ్‌స్క్రీన్ పోలింగ్ రేట్‌ను పెంచండి</string>
+    <string name="heads_up_notifications_enabled_title">హెడ్స్-అప్</string>
+    <string name="heads_up_notifications_enabled_summary">ముఖ్యమైన నోటిఫికేషన్‌లను చిన్న తేలియాడే విండోలో చూపండి</string>
+    <string name="tethering_allow_vpn_upstreams_title">కనెక్ట్ అయిన డివైస్‌ల కోసం VPN ఉపయోగించండి</string>
+    <string name="tethering_allow_vpn_upstreams_summary">ఈ డివైస్ VPN ఉపయోగిస్తున్నప్పుడు, హాట్‌స్పాట్‌కు కనెక్ట్ అయిన అన్ని డివైస్‌లు అదే VPN ను ఉపయోగిస్తాయి</string>
+    <string name="lock_settings_picker_pattern_size_message">ప్యాటర్న్ సైజ్‌ను ఎంచుకోండి</string>
+    <string name="max_refresh_rate_title">గరిష్ట రిఫ్రెష్ రేట్</string>
+    <string name="min_refresh_rate_title">కనిష్ట రిఫ్రెష్ రేట్</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">మీ టాబ్లెట్ ముందు భాగంలో ఉన్న ఫింగర్‌ప్రింట్ సెన్సార్‌ను గుర్తించండి.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">మీ డివైస్ ముందు భాగంలో ఉన్న ఫింగర్‌ప్రింట్ సెన్సార్‌ను గుర్తించండి.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">మీ ఫోన్ ముందు భాగంలో ఉన్న ఫింగర్‌ప్రింట్ సెన్సార్‌ను గుర్తించండి.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">మీ టాబ్లెట్ వెనుక భాగంలో ఉన్న ఫింగర్‌ప్రింట్ సెన్సార్‌ను గుర్తించండి.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">మీ డివైస్ వెనుక భాగంలో ఉన్న ఫింగర్‌ప్రింట్ సెన్సార్‌ను గుర్తించండి.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">మీ ఫోన్ వెనుక భాగంలో ఉన్న ఫింగర్‌ప్రింట్ సెన్సార్‌ను గుర్తించండి.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">మీ టాబ్లెట్ పక్క భాగంలో ఉన్న ఫింగర్‌ప్రింట్ సెన్సార్‌ను గుర్తించండి.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">మీ డివైస్ పక్క భాగంలో ఉన్న ఫింగర్‌ప్రింట్ సెన్సార్‌ను గుర్తించండి.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">మీ ఫోన్ పక్క భాగంలో ఉన్న ఫింగర్‌ప్రింట్ సెన్సార్‌ను గుర్తించండి.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">మీ టాబ్లెట్ ముందు భాగంలో ఉన్న సెన్సార్‌ను తాకండి.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">మీ డివైస్ ముందు భాగంలో ఉన్న సెన్సార్‌ను తాకండి.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">మీ ఫోన్ ముందు భాగంలో ఉన్న సెన్సార్‌ను తాకండి.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">మీ టాబ్లెట్ వెనుక భాగంలో ఉన్న సెన్సార్‌ను తాకండి.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">మీ డివైస్ వెనుక భాగంలో ఉన్న సెన్సార్‌ను తాకండి.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">మీ ఫోన్ వెనుక భాగంలో ఉన్న సెన్సార్‌ను తాకండి.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">మీ టాబ్లెట్ పక్క భాగంలో ఉన్న సెన్సార్‌ను తాకండి.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">మీ డివైస్ పక్క భాగంలో ఉన్న సెన్సార్‌ను తాకండి.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">మీ ఫోన్ పక్క భాగంలో ఉన్న సెన్సార్‌ను తాకండి.</string>
+    <string name="show_navbar_hint_title">నావిగేషన్ హింట్</string>
+    <string name="show_navbar_hint_summary">స్క్రీన్ కింద నావిగేషన్ హింట్ బార్‌ను చూపండి</string>
+    <string name="auto_brightness_one_shot_title">ఒకేసారి ఆటో-బ్రైట్‌నెస్</string>
+    <string name="auto_brightness_one_shot_summary">స్క్రీన్ ఆన్ చేసిన క్షణంలో మాత్రమే బ్రైట్‌నెస్ సర్దుబాటు జరుగుతుంది</string>
+    <string name="data_usage_app_restrict_all">నెట్‌వర్క్ యాక్సెస్‌ను అనుమతించండి</string>
+    <string name="data_usage_app_restrict_all_summary">నెట్‌వర్క్ వినియోగాన్ని ఎనేబుల్ చేయండి</string>
+    <string name="data_usage_app_restrict_mobile">"మొబైల్ డేటా"</string>
+    <string name="data_usage_app_restrict_mobile_summary">మొబైల్ డేటా వినియోగాన్ని ఎనేబుల్ చేయండి</string>
+    <string name="data_usage_app_restrict_vpn">VPN డేటా</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN డేటా వినియోగాన్ని ఎనేబుల్ చేయండి</string>
+    <string name="data_usage_app_restrict_wifi">"Wi-Fi డేటా"</string>
+    <string name="data_usage_app_restrict_wifi_summary">Wi‑Fi డేటా వినియోగాన్ని ఎనేబుల్ చేయండి</string>
+    <string name="proximity_wake_summary">స్క్రీన్ మేల్కొలపడానికి ముందు ప్రాక్సిమిటీ సెన్సార్‌ను తనిఖీ చేయండి</string>
+    <string name="storage_warning_internal">హెచ్చరిక: ఈ ఆప్షన్ సరిగ్గా పనిచేయకపోవచ్చు లేదా డేటా కోల్పోవడానికి దారి తీయవచ్చు, కాబట్టి దీన్ని సిఫార్సు చేయము!</string>
+    <string name="assisted_gps">అసిస్టెడ్ GPS ఉపయోగించండి</string>
+    <string name="assisted_gps_summary">GPS ప్రారంభ పనితీరును గణనీయంగా మెరుగుపరచే శాటిలైట్ అసిస్టెన్స్ డేటాను ఇంటర్నెట్ నుండి డౌన్‌లోడ్ చేస్తుంది. అత్యవసర కాల్స్ కోసం అసిస్టెడ్ GPS ఎల్లప్పుడూ అనుమతించబడుతుంది.</string>
+    <string name="battery_technology">టెక్నాలజీ</string>
+    <string name="battery_health">"ఆరోగ్యం"</string>
+    <string name="battery_health_good">"బాగుంది"</string>
+    <string name="battery_health_overheat">"తీవ్రమైన వేడి"</string>
+    <string name="battery_health_dead">"డెడ్ అయిపోయింది"</string>
+    <string name="battery_health_over_voltage">"అధిక వోల్టేజి"</string>
+    <string name="battery_health_unspecified_failure">పేర్కొనని వైఫల్యం</string>
+    <string name="battery_health_cold">"చల్లగా ఉంది"</string>
+    <string name="battery_health_unknown">"తెలియదు"</string>
+    <string name="battery_temperature">"ఉష్ణోగ్రత"</string>
+    <string name="battery_voltage">వోల్టేజ్</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">డిజైన్ కెపాసిటీ</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">గరిష్ట కెపాసిటీ</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">సెటప్ సమయంలో ఫోన్‌ను మడవండి</string>
+    <string name="face_enrolling_close_to_continue_description">ఫేస్ అన్‌లాక్‌ను సెటప్ చేయడానికి లేదా ఉపయోగించడానికి ఫోన్‌ను తప్పనిసరిగా మడవాలి</string>
+    <string name="face_enrolling_do_it_later">"తర్వాత చేస్తాను"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM టూల్‌కిట్</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> కోసం ఎనేబుల్ చేయబడింది</string>
+    <string name="personal_context_title">Personal Context Manager</string>
+</resources>

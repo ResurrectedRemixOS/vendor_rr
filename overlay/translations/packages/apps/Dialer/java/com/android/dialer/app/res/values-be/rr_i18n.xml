@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_enable_dnd_title">Уключаць «Не турбаваць» падчас выклікаў</string>
+    <string name="incall_dnd_dialog_message">Каб уключыць «Не турбаваць», праграме «Тэлефон» патрабуецца дазвол на кіраванне гэтым рэжымам.\nКалі ласка, дазвольце гэта.</string>
+    <string name="action_menu_helplines">Гарачыя лініі</string>
+    <string name="default_dialer_text">Каб выкарыстоўваць гэта, усталюйце «Набіральнік» як прадвызначаную праграму тэлефону.</string>
+    <string name="default_dialer_action">"Выкарыстоўваць стандартна"</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_dnd_dialog_message">Untuk mengaktifkan Jangan Ganggu, aplikasi Telepon perlu diberi izin untuk mengontrol status Jangan Ganggu.\nSilakan izinkan.</string>
+    <string name="default_dialer_text">Anda harus menetapkan Dialer sebagai aplikasi telepon default untuk menggunakannya.</string>
+    <string name="default_dialer_action">"Jadikan default"</string>
+</resources>

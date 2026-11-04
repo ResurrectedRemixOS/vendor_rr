@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="discovery_wifi">Wi-Fi</string>
+    <string name="consent_yes">Sireg</string>
+    <string name="consent_cancel">Sefsex</string>
+    <string name="consent_back">Tuɣalin</string>
+    <string name="permission_phone">Tiliɣri</string>
+    <string name="permission_contacts">Inermisen</string>
+    <string name="permission_calendar">Tasmektit</string>
+    <string name="permission_microphone">Asawaḍ</string>
+    <string name="permission_notifications">Ilɣa</string>
+    <string name="permission_microphone_summary">Sekles imesli</string>
+</resources>

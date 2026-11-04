@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Setup Wizard</string>
+    <string name="cancel">"Kanselahin"</string>
+    <string name="next">Susunod</string>
+    <string name="finish">Tapos</string>
+    <string name="skip">Laktawan</string>
+    <string name="start">"Simulan"</string>
+    <string name="done">"Tapos na"</string>
+    <string name="ok">OK</string>
+    <string name="loading">"Sandali lang…"</string>
+    <string name="setup_welcome_message">Maligayang pagdating sa <xliff:g id="name" example="LineageOS">%1$s</xliff:g></string>
+    <string name="setup_managed_profile_welcome_message">I-set up ang iyong work profile</string>
+    <string name="emergency_call">"Emergency na tawag"</string>
+    <string name="accessibility_settings">"Mga setting ng pagiging maa-access"</string>
+    <string name="device_info">"Impormasyon ng device"</string>
+    <string name="device_information">"Impormasyon ng device"</string>
+    <string name="device_info_serial">Serial number</string>
+    <string name="setup_locale">"Wika"</string>
+    <string name="sim_locale_changed">May nakitang %1$s SIM</string>
+    <string name="setup_euicc">I-set up ang eSIM</string>
+    <string name="setup_sim_missing">Walang SIM card</string>
+    <string name="esim_support_summary">I-set up ang eSIM o maglagay ng SIM card. Para maglagay ng SIM card, basahin ang mga tagubilin na kasama ng iyong device.</string>
+    <string name="sim_missing_summary" product="tablet">Walang nakitang SIM card sa iyong tablet. Para maglagay ng SIM card, basahin ang mga tagubilin na kasama ng iyong device.</string>
+    <string name="sim_missing_summary" product="default">Walang nakitang SIM card sa iyong telepono. Para maglagay ng SIM card, basahin ang mga tagubilin na kasama ng iyong device.</string>
+    <string name="sim_missing_skip_title">Laktawan ang pag-set up ng SIM?</string>
+    <string name="sim_missing_skip_message">Kung lalaktawan mo ang hakbang na ito, hindi ka makakakonekta sa mobile network hangga\'t hindi mo na-set up ang SIM sa Settings.</string>
+    <string name="setup_datetime">"Petsa at oras"</string>
+    <string name="date_time_summary">Itakda ang iyong time zone at i-adjust ang kasalukuyang petsa at oras kung kinakailangan</string>
+    <string name="setup_current_date">Kasalukuyang petsa</string>
+    <string name="setup_current_time">Kasalukuyang oras</string>
+    <string name="setup_datetime_section_date">"Petsa"</string>
+    <string name="setup_datetime_section_time">"Oras"</string>
+    <string name="setup_date_format">"I-format"</string>
+    <string name="date_format_day">"Araw"</string>
+    <string name="date_format_month">"Buwan"</string>
+    <string name="date_format_year">"Taon"</string>
+    <string name="setup_time_zone">Time zone</string>
+    <string name="setup_24_hour_format">"Gamitin ang 24 na oras na format"</string>
+    <string name="intro_restore_title">I-restore ang mga app at data</string>
+    <string name="intro_restore_subtitle">Kung mayroon kang Seedvault backup mula sa <xliff:g id="name" example="LineageOS">%s</xliff:g> o anumang ibang OS, maaari mo itong i-restore dito.</string>
+    <string name="intro_restore_button">I-restore mula sa backup</string>
+    <string name="setup_location">"Mga serbisyo ng lokasyon"</string>
+    <string name="location_summary">Piliin kung paano pamamahalaan ng iyong device ang lokasyon nito</string>
+    <string name="location_access_title">"Gumamit ng lokasyon"</string>
+    <string name="location_agps_access_title">Pinahusay na lokasyon</string>
+    <string name="location_access_summary">Payagan ang mga app na humingi ng pahintulot na gamitin ang impormasyon ng iyong lokasyon. Maaaring kasama rito ang iyong kasalukuyang lokasyon at mga nakaraang lokasyon.</string>
+    <string name="location_agps_access_summary">Kapag naka-on ang lokasyon, mag-download ng satellite assistance data mula sa internet, na malaki ang maitutulong sa bilis ng pagsisimula ng GPS.</string>
+    <string name="update_recovery_title">I-update ang Resurrected Remix recovery</string>
+    <string name="update_recovery_description">Ina-update ang Resurrected Remix recovery sa unang boot pagkatapos ng bawat update.</string>
+    <string name="update_recovery_warning">Maa-update ang recovery sa sandaling matapos mo ang setup. Kung gusto mong manatili itong buo, i-disable ang feature na ito.</string>
+    <string name="update_recovery_setting">I-update ang Resurrected Remix recovery kasabay ng OS</string>
+    <string name="setup_services">Mga feature ng Resurrected Remix</string>
+    <string name="services_pp_explanation">Ang mga serbisyong ito ay gumagana para palawakin ang kakayahan ng iyong device. Gagamitin ang data alinsunod sa privacy policy ng <xliff:g id="name" example="LineageOS">%1$s</xliff:g>.</string>
+    <string name="services_find_privacy_policy">Maaari mong basahin ang privacy policy sa ibang device sa pamamagitan ng pagbisita sa:</string>
+    <string name="services_help_improve_cm">Tulungan mapabuti ang <xliff:g id="name" example="LineageOS">%s</xliff:g></string>
+    <string name="services_metrics_label"><xliff:g id="name" example="Help improve LineageOS">%1$s</xliff:g> sa pamamagitan ng awtomatikong pagpapadala ng diagnostic at usage data sa <xliff:g id="name" example="LineageOS">%2$s</xliff:g>. Hindi magagamit ang impormasyong ito para matukoy ka at nakakatulong ito sa mga team na nagtatrabaho sa mga bagay gaya ng battery life, performance ng app, at mga bagong feature ng <xliff:g id="name" example="LineageOS">%3$s</xliff:g>.</string>
+    <string name="services_metrics_title">Mag-ambag ng diagnostic data</string>
+    <string name="services_os_nav_keys_label"><b>Gamitin ang on-screen navigation keys</b> sa halip na hardware keys.</string>
+    <string name="setup_navigation">Nabigasyon</string>
+    <string name="navigation_summary">Piliin ang gustong paraan ng navigation</string>
+    <string name="gesture_navigation">"Navigation gamit ang galaw"</string>
+    <string name="navbar_navigation">"3-button na navigation"</string>
+    <string name="gesture_navigation_short">Galaw</string>
+    <string name="hide_gesture_hint">Itago ang hint ng gestural navigation</string>
+    <string name="setup_theme">"Tema"</string>
+    <string name="theme_summary">Ang dark theme ay gumagamit ng itim na background para makatulong na tumagal ang baterya sa ilang screen</string>
+    <string name="dark">Madilim</string>
+    <string name="light">"Kaunti"</string>
+    <string name="pure_black_theme">Gamitin ang purong itim na background</string>
+    <string name="theme_preview">Preview ng tema</string>
+    <string name="swipe_up_to_go_home">"Mag-swipe pataas para pumunta sa home"</string>
+    <string name="tap_home_to_go_home">I-tap ang gitnang nav icon para pumunta sa home</string>
+    <string name="press_center_to_go_home">Pindutin ang gitnang button para pumunta sa home</string>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="helplines_empty">Abitelefone ei leitud.\nSisesta SIM-kaart ja proovi uuesti</string>
+    <string name="helplines_help_more_message">Abitelefonide loend koosneb kaasautorite käsitsi uuendatud teabest. Kui leiad puuduva või vale teabe, võta meiega julgelt ühendust aadressil <xliff:g id="helplines_contact_url" example="www.lineageos.org">%1$s</xliff:g></string>
+    <string name="unknown_helpline_name">Tundmatu organisatsioon</string>
+    <string name="helpline_language_cree">Cree</string>
+    <string name="helpline_language_ojibway">Ojibway</string>
+    <string name="helpline_category_bullying">Kiusamine</string>
+    <string name="helpline_category_crime_victims">Kuriteoohvrid</string>
+    <string name="helpline_category_domestic_violence">Perevägivald</string>
+    <string name="helpline_category_emotional_support">Emotsionaalne toetus</string>
+    <string name="helpline_category_human_trafficking">Inimkaubandus</string>
+    <string name="helpline_category_immigration">Sisserändus</string>
+    <string name="helpline_category_legal_aid">Õigusabi</string>
+    <string name="helpline_category_mental_health">Vaimne tervis</string>
+    <string name="helpline_category_sexual_abuse">Seksuaalne väärkohtlemine</string>
+    <string name="helpline_category_sexual_assault">Seksuaalne rünnak</string>
+    <string name="helpline_category_sexual_rights">Seksuaalõigused</string>
+    <string name="helpline_category_suicide">Enesetappude ennetamine</string>
+</resources>

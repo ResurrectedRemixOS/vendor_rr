@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="battery_saver_confirmation_ok">Cas air</string>
+    <string name="battery_saver_start_action">Cas air</string>
+    <string name="usb_audio_device_permission_prompt_title">Ceadaigh do <xliff:g id="application" example="Usb Mega Player">%1$s</xliff:g> rochtain a fháil ar <xliff:g id="usb_device" example="Cluasáin USB">%2$s</xliff:g>?</string>
+    <string name="usb_device_dialog_always_allow_button">Ceadaigh i gcónaí</string>
+    <string name="usb_device_dialog_allow_only_this_time_button">An uair seo amháin</string>
+    <string name="label_view">Amharc</string>
+    <string name="usb_debugging_title">Ceadaigh dífhabhtú USB?</string>
+    <string name="usb_debugging_allow">Ceadaigh</string>
+    <string name="usb_authorization_allow">Ceadaigh</string>
+    <string name="wifi_debugging_allow">Ceadaigh</string>
+    <string name="learn_more">Foghlaim níos mó</string>
+    <string name="global_action_screenshot">Seat scáileáin</string>
+    <string name="screenshot_save_to">Sábháil chuig</string>
+    <string name="screenshot_copy_label">Cóipeáil</string>
+    <string name="screenshot_edit_description">Cuir an seat scáileán in eagar</string>
+    <string name="screenshot_share_description">Roinn an seat scáileán</string>
+    <string name="screenshot_open_in_folder_label">Amharc</string>
+    <string name="screenshot_default_files_app_name">Comhaid</string>
+    <string name="screenrecord_start_description">Tosaigh taifeadadh</string>
+    <string name="screen_record_color_picker">Roghnóir dathanna</string>
+    <string name="screen_record_take_another">Nua</string>
+    <string name="screen_capture_toolbar_screenshot_button">Seat scáileáin</string>
+    <string name="screen_share_no_select_app_thumbnail">Roghnaigh aip le roinnt</string>
+    <string name="screen_capture_a11y_toolbar_radio_button_action">roghnaigh</string>
+    <string name="biometric_dialog_try_again">Bain triail eile as</string>
+    <string name="biometric_dialog_wrong_pin">PIN mícheart</string>
+    <string name="biometric_dialog_wrong_pattern">Patrún mícheart</string>
+    <string name="biometric_dialog_wrong_password">Pasfhocal mícheart</string>
+    <string name="work_challenge_emergency_button_text">Éigeandála</string>
+    <string name="biometric_dialog_last_attempt_before_wipe_dialog_title">Scriosfar do shonraí</string>
+    <string name="biometric_re_enroll_dialog_confirm">Socraigh suas</string>
+    <string name="biometric_re_enroll_dialog_cancel">Ní anois</string>
+    <string name="fingerprint_re_enroll_notification_title">Socraigh Díghlasáil Méarlorg arís</string>
+    <string name="fingerprint_dialog_use_fingerprint_instead">Ní aithnítear aghaidh. Úsáid méarlorg ina ionad.</string>
+    <string name="accessibility_notification_bell">Fógraí</string>
+    <string name="accessibility_status_bar_assistant_icon">Cúntóir</string>
+    <string name="accessibility_status_bar_input_method_indicator">Méarchlár</string>
+    <string name="input_method_switcher_title_large_screen">Méarchlár</string>
+    <string name="input_method_switcher_select_item">roghnaigh</string>
+    <string name="input_method_switcher_dismiss">dhíbhe</string>
+    <string name="turn_on_bluetooth">Úsáid Bluetooth</string>
+    <string name="quick_settings_bluetooth_device_saved">Sábháilte</string>
+    <string name="quick_settings_bluetooth_audio_sharing_button_sharing">Fuaime a roinnt</string>
+    <string name="quick_settings_bluetooth_secondary_label_hearing_aids">Gléasanna éisteachta</string>
+    <string name="quick_settings_brightness_dialog_title">Gile</string>
+    <string name="quick_settings_color_correction_label">Ceartú datha</string>
+    <string name="quick_settings_font_scaling_label">Méid an chló</string>
+    <string name="quick_settings_more_user_settings">Bainistigh úsáideoirí</string>
+    <string name="quick_settings_connected">Ceangailte</string>
+    <string name="quick_settings_connecting">Ag ceangal...</string>
+    <string name="quick_settings_hotspot_secondary_label_transient">Ag casadh air…</string>
+    <string name="quick_settings_hotspot_secondary_label_data_saver_enabled">Tá Sábhálaí Sonraí ar siúl</string>
+    <string name="quick_settings_flashlight_label">Tóirse</string>
+    <string name="quick_settings_cellular_detail_title">Sonraí soghluaiste</string>
+    <string name="quick_settings_cellular_detail_data_usage">Úsáid sonraí</string>
+    <string name="quick_settings_work_mode_paused_state">Ar sos</string>
+    <string name="quick_settings_ui_mode_night_label">Téama dorcha</string>
+    <string name="quick_settings_dark_mode_secondary_label_battery_saver">Sábhálaí Ceallraí</string>
+    <string name="performance">Feidhmíocht</string>
+    <string name="quick_settings_onehanded_label">Mód aonláimhe</string>
+    <string name="hearing_devices_ambient_control_left">Ar chlé</string>
+    <string name="hearing_devices_ambient_control_right">Ar dheis</string>
+    <string name="quick_settings_hearing_devices_live_caption_title">Fotheideal Beo</string>
+    <string name="hearing_devices_settings_button">Socruithe</string>
+    <string name="zen_modes_dialog_settings">Socruithe</string>
+    <string name="zen_priority_customize_button">Saincheap</string>
+    <string name="interruption_level_none">Ciúnas iomlán</string>
+    <string name="interruption_level_priority">Tosaíocht amháin</string>
+    <string name="interruption_level_alarms">Aláraim amháin</string>
+    <string name="cta_tile_button_to_open_widget_editor">Saincheap</string>
+    <string name="accessibility_multi_user_switch_switcher">Athraigh úsáideoir</string>
+    <string name="guest_exit_guest_dialog_message">Scriosfar gach aip agus sonraí sa seisiún seo.</string>
+    <string name="guest_wipe_session_wipe">Tosaigh arís</string>
+    <string name="clear_all_notifications_text">Glan gach rud</string>
+    <string name="manage_notifications_text">Bainistigh</string>
+    <string name="notification_section_header_incoming">Nua</string>
+    <string name="notification_section_header_gentle">Ciúin</string>
+    <string name="notification_section_header_alerting">Fógraí</string>
+    <string name="notification_section_header_conversations">Comhráite</string>
+    <string name="media_projection_action_text">Tosaigh anois</string>
+    <string name="empty_shade_text">Gan fógraí</string>
+    <string name="quick_settings_disclosure_monitoring">D’fhéadfadh monatóireacht a bheith á déanamh ar an líonra</string>
+    <string name="volume_panel_dialog_settings_button">Socruithe</string>
+    <string name="volume_panel_captioning_title">Fotheideal Beo</string>
+    <string name="screen_pinning_positive">Tuigim é.</string>
+    <string name="screen_pinning_negative">Ní raibh maith agat</string>
+    <string name="stream_system">Córas</string>
+    <string name="stream_music">Meáin</string>
+    <string name="stream_alarm">Aláram</string>
+    <string name="stream_notification">Fógra</string>
+    <string name="stream_accessibility">Inrochtaineacht</string>
+    <string name="stream_assistant">Cúntóir</string>
+    <string name="volume_ringer_status_vibrate">Creathadh</string>
+    <string name="volume_ringer_hint_vibrate">creathadh</string>
+    <string name="volume_panel_hint_vibrate">creathadh</string>
+    <string name="qr_code_scanner_title">Scanóir cóid QR</string>
+    <string name="status_bar_work">Próifíl oibre</string>
+    <string name="status_bar_airplane">Modh eitleáin</string>
+    <string name="zen_alarm_warning_indef">Ní chloisfidh tú d\'aláram eile <xliff:g id="when" example="at 7:00 AM">%1$s</xliff:g> mura múchfaidh tú é seo roimhe sin.</string>
+    <string name="zen_alarm_warning">Ní chloisfidh tú d\'aláram eile <xliff:g id="when" example="at 7:00 AM">%1$s</xliff:g></string>
+    <string name="alarm_template">ag <xliff:g id="nuair" example="7:00 AM">%1$s</xliff:g></string>
+    <string name="alarm_template_far">ar <xliff:g id="nuair" example="Aoine 7:00 AM">%1$s</xliff:g></string>
+    <string name="accessibility_status_bar_satellite_symbol">Satailít</string>
+    <string name="accessibility_managed_profile">Próifíl oibre</string>
+    <string name="got_it">Tuigim é.</string>
+    <string name="enable_bluetooth_confirmation_ok">Cas air</string>
+    <string name="rotation_lock_camera_rotation_on">Ar - Bunaithe ar an aghaidh</string>
+    <string name="notification_silence_title">Ciúin</string>
+    <string name="notification_channel_summary_low">Gan fuaim ná creathadh</string>
+    <string name="see_more_title">Féach níos mó</string>
+    <string name="notification_app_settings">Saincheap</string>
+    <string name="keyboard_shortcut_group_system_notifications">Fógraí</string>
+    <string name="group_system_go_back">Téigh ar ais</string>
+    <string name="keyboard_shortcut_group_applications_assist">Cúntóir</string>
+    <string name="keyboard_shortcut_group_applications_calculator">Áireamhán</string>
+    <string name="keyboard_shortcut_group_applications_maps">Léarscáil</string>
+    <string name="qs_edit_settings">Socruithe</string>
+    <string name="data_connection_no_internet">Gan idirlíon</string>
+    <string name="accessibility_quick_settings_power_menu">Roghchlár cumhachta</string>
+    <string name="accessibility_quick_settings_power_menu_expanded">Leathnaithe</string>
+    <string name="accessibility_quick_settings_power_menu_collapsed">Tite</string>
+    <string name="accessibility_quick_settings_page">Leathanach <xliff:g name="current_page" example="1">%1$d</xliff:g> de <xliff:g name="num_pages" example="2">%2$d</xliff:g></string>
+    <string name="accessibility_nav_bar_more_options_title">Roghnaigh gné</string>
+    <string name="tuner_lock_screen">Scáileán glasála</string>
+    <string name="tuner_circle">Ciorcal</string>
+    <string name="tuner_left">Ar chlé</string>
+    <string name="tuner_right">Ar dheis</string>
+    <string name="tuner_menu">Roghchlár</string>
+    <string name="notification_channel_battery">Ceallraí</string>
+    <string name="notification_channel_setup">Socrú</string>
+    <string name="notification_channel_storage">Stóráil</string>
+    <string name="notification_channel_accessibility">Inrochtaineacht</string>
+    <string name="app_info">Eolas faoin aip</string>
+    <string name="mobile_data">Sonraí soghluaiste</string>
+    <string name="bt_is_off">Tá Bluetooth múchta</string>
+    <string name="dnd_is_on">Tá Ná Cuir Isteach ar siúl</string>
+    <string name="mobile_data_disable_title">Sonraí soghluaiste a mhúchadh?</string>
+    <string name="mobile_data_enable_turn_on">Cas air</string>
+    <string name="mobile_data_disable_message_default_carrier">d\'iompróir</string>
+    <string name="auto_data_switch_dialog_negative_button">Ní raibh maith agat</string>
+    <string name="slice_permission_allow">Ceadaigh</string>
+    <string name="slice_permission_deny">Diúltaigh</string>
+    <string name="no_auto_saver_action">Ní raibh maith agat</string>
+    <string name="ongoing_privacy_dialog_last_separator">\u0020agus\u0020</string>
+    <string name="privacy_type_camera">ceamara</string>
+    <string name="privacy_chip_container_leading_title">Príobháideacht</string>
+    <string name="inattentive_sleep_warning_title">Fuireachas</string>
+    <string name="accessibility_control_zoom_in">Zúmáil isteach</string>
+    <string name="accessibility_control_zoom_out">Zúmáil amach</string>
+    <string name="accessibility_control_move_up">Bog suas</string>
+    <string name="accessibility_control_move_down">Bog síos</string>
+    <string name="accessibility_control_move_left">Bog ar chlé</string>
+    <string name="accessibility_control_move_right">Bog ar dheis</string>
+    <string name="magnification_mode_switch_state_full_screen">Formhéadaigh an scáileán iomlán</string>
+    <string name="magnification_mode_switch_state_window">Formhéadaigh cuid den scáileán</string>
+    <string name="accessibility_resize">Athraigh méid</string>
+    <string name="accessibility_magnification_settings_panel_description">Socruithe formhéadúcháin</string>
+    <string name="accessibility_magnification_zoom">Súmáil</string>
+    <string name="accessibility_magnification_medium">Meánach</string>
+    <string name="accessibility_magnification_small">Beag</string>
+    <string name="accessibility_magnification_large">Mór</string>
+    <string name="accessibility_magnification_fullscreen">Scáileán iomlán</string>
+    <string name="accessibility_magnifier_edit">Cuir in Eagar</string>
+    <string name="controls_settings_dialog_positive_button">Tá</string>
+    <string name="controls_media_settings_button">Socruithe</string>
+    <string name="controls_media_button_connecting">Ag ceangal</string>
+    <string name="media_ttt_default_device_type">táibléad</string>
+    <string name="controls_open_app">Oscail an aip</string>
+    <string name="controls_menu_add">Cuir rialuithe leis</string>
+    <string name="media_output_item_connected_state">Ceangailte</string>
+    <string name="media_output_dialog_accessibility_seekbar">Toirt</string>
+    <string name="media_output_dialog_button_sharing_audio">Fuaime a roinnt</string>
+    <string name="build_number_clip_data_label">Uimhir thógála</string>
+    <string name="priority_conversations">Comhráite tosaíochta</string>
+    <string name="recent_conversations">Comhráite le déanaí</string>
+    <string name="birthday_status">Breithlá</string>
+    <string name="missed_call">Glao caillte</string>
+    <string name="clipboard_overlay_text_copied">Cóipeáilte</string>
+    <string name="clipboard_text_copied">Téacs cóipeáilte</string>
+    <string name="clipboard_image_preview">Réamhamhairc íomhá</string>
+    <string name="manage_users">Bainistigh úsáideoirí</string>
+    <string name="dream_overlay_status_bar_notification_indicator">{count, plural,
+        one {}
+        two {# fógraí}
+        few {# fógraí}
+        many {# fógraí}=1 {# fógra}
+        other {# fógraí}
+    }</string>
+    <string name="note_task_button_label">Nótaí a ghlacadh</string>
+    <string name="audio_sharing_description">Fuaime a roinnt</string>
+    <string name="log_access_confirmation_deny">Ná ceadaigh</string>
+    <string name="video_camera">Ceamara físe</string>
+    <string name="privacy_dialog_collapse_action">Laghdaigh</string>
+    <string name="shortcut_helper_category_system">Córas</string>
+    <string name="shortcut_helper_customize_button_text">Saincheap</string>
+    <string name="touchpad_tutorial_back_gesture_button">Téigh ar ais</string>
+    <string name="gesture_error_title">Bain triail eile as</string>
+    <string name="touchpad_back_gesture_action_title">Téigh ar ais</string>
+    <string name="touchpad_recent_apps_gesture_success_body">Chríochnaigh tú an t-amharc aipeanna le déanaí.</string>
+    <string name="av_panel_title">Príobháideacht</string>
+    <string name="more_options_move">Bog</string>
+    <string name="floating_menu_more_options_label">Tuilleadh roghanna</string>
+    <string name="dream_setup_button_not_now">Ní anois</string>
+    <string name="dream_setup_button_setup">Socraigh suas</string>
+    <string name="ace_attribution_dialog_settings_label">Socruithe</string>
+    <string-array name="tile_states_internet">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_modes_dnd">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_color_correction">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_record_issue">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_qr_code_scanner">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_onehanded">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_font_scaling">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_hearing_devices">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_notes">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+    <string-array name="tile_states_desktopeffects">
+        <item>Gan a bheith ar fáil</item>
+        <item>As</item>
+        <item>Ar</item>
+    </string-array>
+</resources>

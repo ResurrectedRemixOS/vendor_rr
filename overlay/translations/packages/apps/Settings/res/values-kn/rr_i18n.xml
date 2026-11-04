@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="ingress_rate_limit_entries">
+        <item>@string/ingress_rate_limit_no_limit_entry</item>
+        <item>128kbps</item>
+        <item>256kbps</item>
+        <item>1Mbps</item>
+        <item>5Mbps</item>
+        <item>15Mbps</item>
+    </string-array>
+    <string-array name="temperature_units">
+        <item>"ಡಿಫಾಲ್ಟ್"</item>
+        <item>ಸೆಲ್ಸಿಯಸ್</item>
+        <item>ಫ್ಯಾರನ್‌ಹೀಟ್</item>
+    </string-array>
+    <string-array name="first_day_of_week">
+        <item>"ಡಿಫಾಲ್ಟ್"</item>
+        <item>ಭಾನು</item>
+        <item>ಸೋಮ</item>
+        <item>ಮಂಗಳ</item>
+        <item>ಬುಧ</item>
+        <item>ಗುರು</item>
+        <item>ಶುಕ್ರ</item>
+        <item>ಶನಿ</item>
+    </string-array>
+    <string-array name="measurement_system">
+        <item>"ಡಿಫಾಲ್ಟ್"</item>
+        <item>ಮೆಟ್ರಿಕ್</item>
+        <item>US ವ್ಯವಸ್ಥೆ</item>
+        <item>UK ವ್ಯವಸ್ಥೆ</item>
+    </string-array>
+    <string-array name="terms_of_address">
+        <item>"ನಿರ್ದಿಷ್ಟಪಡಿಸಲಾಗಿಲ್ಲ"</item>
+        <item>"ನ್ಯೂಟ್ರಲ್‌‌"</item>
+        <item>"ಮಹಿಳೆಯರಿಗಾಗಿ"</item>
+        <item>"ಪುರುಷರಿಗಾಗಿ"</item>
+    </string-array>
+    <string-array name="terms_of_address_supported_languages">
+        <item>fr</item>
+        <item>es</item>
+        <item>it</item>
+        <item>de</item>
+    </string-array>
+    <string name="keyboard_extras_title">ಹೆಚ್ಚುವರಿ</string>
+    <string name="advanced_keyboard_settings_title">"ಸುಧಾರಿತ ಸೆಟ್ಟಿಂಗ್‌ಗಳು"</string>
+    <string name="adb_enable_root">ರೂಟ್ ಡೀಬಗ್ಗಿಂಗ್</string>
+    <string name="adb_enable_summary_root">Android ಡೀಬಗ್ಗಿಂಗ್ ಅನ್ನು ರೂಟ್ ಆಗಿ ಚಲಾಯಿಸಲು ಅನುಮತಿಸಿ</string>
+    <string name="backup_transport_setting_label">ಬ್ಯಾಕಪ್ ಒದಗಿಸುವವರನ್ನು ಬದಲಿಸಿ</string>
+    <string name="backup_transport_title">ಬ್ಯಾಕಪ್ ಒದಗಿಸುವವರನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="berry_black_theme_title">ಶುದ್ಧ ಕಪ್ಪು</string>
+    <string name="berry_black_theme_summary">ಡಾರ್ಕ್ ಥೀಮ್‌ಗಾಗಿ ಶುದ್ಧ ಕಪ್ಪು ಹಿನ್ನೆಲೆ</string>
+    <string name="show_dev_countdown_cm">{count, plural, =1 {ಡೆವಲಪರ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ನೀವು ಈಗ # ಹಂತ ದೂರದಲ್ಲಿದ್ದೀರಿ.} other {ಡೆವಲಪರ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲು ನೀವು ಈಗ # ಹಂತಗಳ ದೂರದಲ್ಲಿದ್ದೀರಿ.} }</string>
+    <string name="high_touch_polling_rate_title">ಹೆಚ್ಚಿನ ಸ್ಪರ್ಶ ಪೋಲಿಂಗ್ ದರ</string>
+    <string name="high_touch_polling_rate_summary">ಟಚ್‌ಸ್ಕ್ರೀನ್ ಪೋಲಿಂಗ್ ದರವನ್ನು ಹೆಚ್ಚಿಸಿ</string>
+    <string name="tethering_allow_vpn_upstreams_title">ಸಂಪರ್ಕಿತ ಸಾಧನಗಳಿಗಾಗಿ VPN ಬಳಸಿ</string>
+    <string name="tethering_allow_vpn_upstreams_summary">ಈ ಸಾಧನವು VPN ಬಳಸುತ್ತಿರುವಾಗ, ಹಾಟ್‌ಸ್ಪಾಟ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡ ಎಲ್ಲಾ ಸಾಧನಗಳು ಅದೇ VPN ಅನ್ನು ಬಳಸುತ್ತವೆ</string>
+    <string name="max_refresh_rate_title">ಗರಿಷ್ಠ ರಿಫ್ರೆಶ್ ದರ</string>
+    <string name="min_refresh_rate_title">ಕನಿಷ್ಠ ರಿಫ್ರೆಶ್ ದರ</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="tablet">ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ನ ಮುಂಭಾಗದಲ್ಲಿರುವ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಪತ್ತೆ ಮಾಡಿ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="device">ನಿಮ್ಮ ಸಾಧನದ ಮುಂಭಾಗದಲ್ಲಿರುವ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಪತ್ತೆ ಮಾಡಿ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_front" product="default">ನಿಮ್ಮ ಫೋನ್‌ನ ಮುಂಭಾಗದಲ್ಲಿರುವ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಪತ್ತೆ ಮಾಡಿ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="tablet">ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ನ ಹಿಂಭಾಗದಲ್ಲಿರುವ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಪತ್ತೆ ಮಾಡಿ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="device">ನಿಮ್ಮ ಸಾಧನದ ಹಿಂಭಾಗದಲ್ಲಿರುವ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಪತ್ತೆ ಮಾಡಿ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_rear" product="default">ನಿಮ್ಮ ಫೋನ್‌ನ ಹಿಂಭಾಗದಲ್ಲಿರುವ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಪತ್ತೆ ಮಾಡಿ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="tablet">ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ನ ಬದಿಯಲ್ಲಿರುವ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಪತ್ತೆ ಮಾಡಿ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="device">ನಿಮ್ಮ ಸಾಧನದ ಬದಿಯಲ್ಲಿರುವ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಪತ್ತೆ ಮಾಡಿ.</string>
+    <string name="fingerprint_enroll_find_sensor_message_side" product="default">ನಿಮ್ಮ ಫೋನ್‌ನ ಬದಿಯಲ್ಲಿರುವ ಫಿಂಗರ್‌ಪ್ರಿಂಟ್ ಸೆನ್ಸರ್ ಅನ್ನು ಪತ್ತೆ ಮಾಡಿ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="tablet">ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ನ ಮುಂಭಾಗದಲ್ಲಿರುವ ಸೆನ್ಸರ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="device">ನಿಮ್ಮ ಸಾಧನದ ಮುಂಭಾಗದಲ್ಲಿರುವ ಸೆನ್ಸರ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_front" product="default">ನಿಮ್ಮ ಫೋನ್‌ನ ಮುಂಭಾಗದಲ್ಲಿರುವ ಸೆನ್ಸರ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="tablet">ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ನ ಹಿಂಭಾಗದಲ್ಲಿರುವ ಸೆನ್ಸರ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="device">ನಿಮ್ಮ ಸಾಧನದ ಹಿಂಭಾಗದಲ್ಲಿರುವ ಸೆನ್ಸರ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_rear" product="default">ನಿಮ್ಮ ಫೋನ್‌ನ ಹಿಂಭಾಗದಲ್ಲಿರುವ ಸೆನ್ಸರ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="tablet">ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ನ ಬದಿಯಲ್ಲಿರುವ ಸೆನ್ಸರ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="device">ನಿಮ್ಮ ಸಾಧನದ ಬದಿಯಲ್ಲಿರುವ ಸೆನ್ಸರ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="fingerprint_enroll_touch_dialog_message_side" product="default">ನಿಮ್ಮ ಫೋನ್‌ನ ಬದಿಯಲ್ಲಿರುವ ಸೆನ್ಸರ್ ಅನ್ನು ಸ್ಪರ್ಶಿಸಿ.</string>
+    <string name="show_navbar_hint_title">ನ್ಯಾವಿಗೇಷನ್ ಸುಳಿವು</string>
+    <string name="show_navbar_hint_summary">ಪರದೆಯ ಕೆಳಭಾಗದಲ್ಲಿ ನ್ಯಾವಿಗೇಷನ್ ಸುಳಿವು ಬಾರ್ ತೋರಿಸಿ</string>
+    <string name="auto_brightness_one_shot_title">ಒಂದು ಬಾರಿ ಸ್ವಯಂ-ಹೊಳಪು</string>
+    <string name="auto_brightness_one_shot_summary">ಪರದೆಯನ್ನು ಆನ್ ಮಾಡಿದ ಕ್ಷಣದಲ್ಲಿ ಮಾತ್ರ ಹೊಳಪು ಹೊಂದಾಣಿಕೆ ನಡೆಯುತ್ತದೆ</string>
+    <string name="data_usage_app_restrict_all">ನೆಟ್‌ವರ್ಕ್ ಪ್ರವೇಶಕ್ಕೆ ಅನುಮತಿಸಿ</string>
+    <string name="data_usage_app_restrict_all_summary">ನೆಟ್‌ವರ್ಕ್ ಬಳಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="data_usage_app_restrict_mobile">"ಮೊಬೈಲ್ ಡೇಟಾ"</string>
+    <string name="data_usage_app_restrict_mobile_summary">ಮೊಬೈಲ್ ಡೇಟಾ ಬಳಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="data_usage_app_restrict_vpn">VPN ಡೇಟಾ</string>
+    <string name="data_usage_app_restrict_vpn_summary">VPN ಡೇಟಾ ಬಳಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+    <string name="storage_warning_internal">ಎಚ್ಚರಿಕೆ: ಈ ಆಯ್ಕೆ ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡದಿರಬಹುದು ಅಥವಾ ಡೇಟಾ ನಷ್ಟಕ್ಕೆ ಕಾರಣವಾಗಬಹುದು, ಆದ್ದರಿಂದ ಇದನ್ನು ಶಿಫಾರಸು ಮಾಡುವುದಿಲ್ಲ!</string>
+    <string name="assisted_gps">ಸಹಾಯಕ GPS ಬಳಸಿ</string>
+    <string name="assisted_gps_summary">GPS ಪ್ರಾರಂಭದ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಗಣನೀಯವಾಗಿ ಸುಧಾರಿಸಬಲ್ಲ ಉಪಗ್ರಹ ಸಹಾಯ ಡೇಟಾವನ್ನು ಇಂಟರ್ನೆಟ್‌ನಿಂದ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ. ತುರ್ತು ಕರೆಗಳಿಗೆ, ಸಹಾಯಕ GPS ಯಾವಾಗಲೂ ಅನುಮತಿಸಲಾಗಿದೆ.</string>
+    <string name="battery_technology">ತಂತ್ರಜ್ಞಾನ</string>
+    <string name="battery_health">"ಆರೋಗ್ಯ"</string>
+    <string name="battery_health_good">"ಉತ್ತಮ"</string>
+    <string name="battery_health_overheat">"ತುಂಬಾ ಬಿಸಿಯಾಗಿದೆ"</string>
+    <string name="battery_health_dead">"ಡೆಡ್ ಆಗಿದೆ"</string>
+    <string name="battery_health_over_voltage">"ವೋಲ್ಟೇಜ್ ಮಿತಿಮೀರಿದೆ"</string>
+    <string name="battery_health_unspecified_failure">ನಿರ್ದಿಷ್ಟವಲ್ಲದ ವೈಫಲ್ಯ</string>
+    <string name="battery_health_cold">"ತಣ್ಣಗಿದೆ"</string>
+    <string name="battery_health_unknown">"ಅಪರಿಚಿತ"</string>
+    <string name="battery_temperature">"ತಾಪಮಾನ"</string>
+    <string name="battery_voltage">ವೋಲ್ಟೇಜ್</string>
+    <string name="battery_charge_counter_summary">%1$d mAh</string>
+    <string name="battery_design_capacity">ವಿನ್ಯಾಸ ಸಾಮರ್ಥ್ಯ</string>
+    <string name="battery_design_capacity_summary">%1$d mAh</string>
+    <string name="battery_maximum_capacity">ಗರಿಷ್ಠ ಸಾಮರ್ಥ್ಯ</string>
+    <string name="battery_maximum_capacity_summary">%1$d mAh (%2$d%%)</string>
+    <string name="face_enrolling_close_to_continue">ಸೆಟಪ್ ಸಮಯದಲ್ಲಿ ಫೋನ್ ಮಡಚಿ</string>
+    <string name="face_enrolling_close_to_continue_description">Face Unlock ಅನ್ನು ಸೆಟ್ ಅಪ್ ಮಾಡಲು ಅಥವಾ ಬಳಸಲು ಫೋನ್ ಮಡಚಿರಬೇಕು</string>
+    <string name="face_enrolling_do_it_later">"ನಂತರ ಮಾಡಿ"</string>
+    <string name="status_iccid">ICCID</string>
+    <string name="testing_sim_toolkit">SIM ಟೂಲ್‌ಕಿಟ್</string>
+    <string name="platform_compat_target_sdk_title">targetSdkVersion &gt;= <xliff:g id="number" example="29">%d</xliff:g> ಗಾಗಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="personal_context_title">ವೈಯಕ್ತಿಕ ಸಂದರ್ಭ ನಿರ್ವಾಹಕ</string>
+</resources>

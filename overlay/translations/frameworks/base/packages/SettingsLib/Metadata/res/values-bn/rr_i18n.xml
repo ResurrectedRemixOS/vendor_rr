@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="any_boolean_type_description">একটি বুলিয়ান মান।</string>
+    <string name="any_int_type_description">একটি পূর্ণসংখ্যা মান।</string>
+    <string name="any_string_type_description">একটি স্ট্রিং মান।</string>
+    <string name="display_id_type_description">একটি সিস্টেম ডিসপ্লে শনাক্তকারী (কনফিগারেশন অনুযায়ী অভ্যন্তরীণ বা বাহ্যিক হতে পারে)।</string>
+    <string name="installed_package_name_type_description">ডিভাইসে ইনস্টল করা যেকোনো প্যাকেজ।</string>
+    <string name="int_in_range_type_description_from">%1$d বা তার বেশি একটি পূর্ণসংখ্যা, ধাপ %2$d।</string>
+    <string name="int_in_range_type_description_to">%1$d বা তার কম একটি পূর্ণসংখ্যা, ধাপ %2$d।</string>
+    <string name="int_in_range_type_description_between">[%1$d, %2$d] পরিসরের একটি পূর্ণসংখ্যা, ধাপ %3$d।</string>
+    <string name="time_of_day_type_description">২৪-ঘণ্টা ফরম্যাট HH:mm-এ একটি দিনের সময়।</string>
+    <string name="time_duration_type_description">সেকেন্ড নির্ভুলতায় পূর্ণসংখ্যায় প্রকাশিত একটি সময়কাল।</string>
+    <string name="sim_slot_id_type_description">একটি বৈধ SIM স্লট আইডি।</string>
+    <string name="subscription_id_type_description">একটি বৈধ সাবস্ক্রিপশন আইডি।</string>
+    <string name="wifi_ssid_type_description">একটি Wi-Fi নেটওয়ার্কের SSID।</string>
+</resources>

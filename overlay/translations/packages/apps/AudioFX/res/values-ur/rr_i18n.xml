@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="snack_bar_not_default">AudioFX آپ کا ڈیفالٹ ساؤنڈ ایفیکٹس کنٹرول پینل نہیں ہے۔</string>
+    <string name="snack_bar_not_default_set">"ڈیفالٹ سیٹ کریں"</string>
+    <string name="snack_bar_not_default_not_now">"ابھی نہیں"</string>
+    <string name="normal">عام</string>
+    <string name="classical">"کلاسیکل"</string>
+    <string name="dance">"رقص"</string>
+    <string name="flat">ہموار</string>
+    <string name="folk">"لوک موسیقی"</string>
+    <string name="heavy_metal">"ہیوی میٹل"</string>
+    <string name="hip_hop">"ہپ ہاپ"</string>
+    <string name="electronic">الیکٹرانک</string>
+    <string name="small_speakers">چھوٹے اسپیکرز</string>
+    <string name="multimedia">ملٹی میڈیا</string>
+    <string name="custom">حسب ضرورت</string>
+    <string name="custom_n">حسبِ ضرورت <xliff:g id="preset_num">%1$d</xliff:g></string>
+    <string name="effect_unavalable_for_speaker">اسپیکر موڈ کے لیے ایفیکٹ دستیاب نہیں۔</string>
+    <string name="device_headset">"ہیڈ سیٹ"</string>
+    <string name="device_speaker">"اسپیکر"</string>
+    <string name="device_line_out">لائن آؤٹ</string>
+    <string name="reverb">ریورب</string>
+    <string name="devices">"آلات"</string>
+    <string name="virtualizer">ورچوئلائزر</string>
+    <string name="bass">باس</string>
+    <string name="rename">"نام تبدیل کریں"</string>
+    <string name="remove_custom_preset_warning_message">کیا آپ واقعی %1$s کو ہٹانا چاہتے ہیں؟</string>
+    <string name="picker_title">میوزک ایفیکٹس کنٹرول پینل</string>
+</resources>

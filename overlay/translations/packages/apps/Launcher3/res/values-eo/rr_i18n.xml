@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="widget_picker_widget_options_button_description">Pli opcioj</string>
+    <string name="notifications_header">Sciigoj</string>
+    <string name="install_drop_target_label">Instali</string>
+    <string name="widget_settings">Agordoj</string>
+    <string name="home_screen_files_context_menu_copy_label">Kopii</string>
+    <string name="package_state_unknown">Nekonata</string>
+    <string name="ps_container_title">Privata</string>
+    <string name="ps_add_button_label">Instali</string>
+    <string name="home_screen_files_rename_dialog_neutral_button">Nuligi</string>
+</resources>

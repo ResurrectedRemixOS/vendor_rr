@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="incall_category_title">In-call</string>
+    <string name="incall_enable_dnd_title">ਕਾਲਾਂ ਦੌਰਾਨ ਪਰੇਸ਼ਾਨ ਨਾ ਕਰੋ ਚਾਲੂ ਕਰੋ</string>
+    <string name="incall_vibrate_outgoing_title">Vibrate on answer</string>
+    <string name="incall_vibrate_call_waiting_title">Vibrate on call waiting</string>
+    <string name="incall_vibrate_hangup_title">Vibrate on hang up</string>
+    <string name="incall_vibrate_45_title">Vibrate every minute</string>
+    <string name="incall_vibrate_45_summary">ਹਰ ਮਿੰਟ ਦੇ 45ਵੇਂ ਸਕਿੰਟ ’ਤੇ ਬਾਹਰ ਜਾਣ ਵਾਲੀਆਂ ਕਾਲਾਂ ਦੌਰਾਨ ਵਾਈਬ੍ਰੇਟ ਕਰਦਾ ਹੈ</string>
+    <string name="incall_dnd_dialog_message">ਪਰੇਸ਼ਾਨ ਨਾ ਕਰੋ ਚਾਲੂ ਕਰਨ ਲਈ, ਫੋਨ ਐਪ ਨੂੰ ਇਸਦੀ ਸਥਿਤੀ ਕੰਟਰੋਲ ਕਰਨ ਦੀ ਇਜਾਜ਼ਤ ਦੇਣੀ ਪਵੇਗੀ।\nਕਿਰਪਾ ਕਰਕੇ ਇਸਦੀ ਇਜਾਜ਼ਤ ਦਿਓ।</string>
+    <string name="allow">"ਆਗਿਆ ਦਿਓ"</string>
+    <string name="deny">"ਅਸਵੀਕਾਰ ਕਰੋ"</string>
+    <string name="call_recording_category_title">Call recording</string>
+    <string name="call_recording_format">Audio format</string>
+    <string name="call_via">Call via</string>
+    <string name="call_via_dialog_title">Call via…</string>
+    <string name="call_log_stats_title">Statistics</string>
+    <string name="action_menu_helplines">Helplines</string>
+    <string name="default_dialer_text">ਇਸਨੂੰ ਵਰਤਣ ਲਈ ਡਾਇਲਰ ਨੂੰ ਮੂਲ ਫੋਨ ਐਪ ਵਜੋਂ ਸੈੱਟ ਕਰਨਾ ਜ਼ਰੂਰੀ ਹੈ।</string>
+    <string name="default_dialer_action">"ਪੂਰਵ-ਨਿਰਧਾਰਿਤ ਵਜੋਂ ਸੈੱਟ ਕਰੋ"</string>
+</resources>
