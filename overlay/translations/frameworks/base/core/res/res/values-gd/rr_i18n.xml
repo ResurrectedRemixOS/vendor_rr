@@ -8,7 +8,6 @@
     <string name="face_acquired_poor_gaze">Coimhead air an uidheam agad gu dìreach.</string>
     <string name="lockscreen_missing_sim_message_short">Gun SIM</string>
     <string name="input_method_ime_switch_button_desc">Geàrr leum gu modh ion-chuir eile</string>
-    <string name="ext_media_unsupported_notification_title" product="automotive">Chan eil <xliff:g id="name" example="SD card">%s</xliff:g> ag obair</string>
     <string name="default_audio_route_name_analog">Analogach</string>
     <string name="default_audio_route_name_digital">Digiteach</string>
     <string name="accessibility_shortcut_menu_item_status_on">Air</string>

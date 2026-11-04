@@ -41,11 +41,6 @@
     <string name="storage_wizard_init_v2_internal_action" product="desktop">Fformatio</string>
     <string name="main_clear_button_text" product="tablet">Dileu\u2019r holl ddata</string>
     <string name="main_clear_button_text" product="default">Dileu\u2019r holl ddata</string>
-    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Larymau</string>
-    <string name="really_remove_account_message" product="device">Bydd tynnu\u2019r cyfrif hwn yn dileu ei holl negeseuon, cysylltiadau, a data arall oddi ar y ddyfais!</string>
-    <string name="really_remove_account_message" product="desktop">Bydd tynnu\u2019r cyfrif hwn yn dileu ei holl negeseuon, cysylltiadau, a data arall oddi ar y ddyfais!</string>
-    <string name="audio_sharing_dialog_share_content" product="device">Bydd cerddoriaeth a fideos y ddyfais hon yn chwarae ar y ddau bâr o glustffonau</string>
-    <string name="audio_sharing_dialog_share_content" product="desktop">Bydd cerddoriaeth a fideos y ddyfais hon yn chwarae ar y ddau bâr o glustffonau</string>
     <string name="top_intro_region_title" product="default">Mae\u2019r rhanbarth a ddewisir yn effeithio ar sut mae\u2019r ffôn yn dangos amser, dyddiadau, tymheredd, a mwy.</string>
     <string name="style_suggestion_title" product="default">Cyfaddasu dy ffôn</string>
     <string name="activity_not_found" product="default">Dyw\'r ap heb ei osod ar dy ffôn.</string>

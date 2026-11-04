@@ -29,10 +29,6 @@
     <string name="storage_wizard_init_v2_internal_action" product="desktop">Formáid</string>
     <string name="main_clear_button_text" product="tablet">Scrios na sonraí go léir</string>
     <string name="main_clear_button_text" product="default">Scrios na sonraí go léir</string>
-    <string name="testing_phone_info" product="desktop">Faisnéis faoin ngléas</string>
-    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Aláraim</string>
-    <string name="audio_sharing_dialog_share_content" product="device">Seinnfidh ceol agus físeáin an ghléis seo ar an dá phéire cluasán</string>
-    <string name="audio_sharing_dialog_share_content" product="desktop">Seinnfidh ceol agus físeáin an ghléis seo ar an dá phéire cluasán</string>
     <string name="top_intro_region_title" product="default">Bíonn tionchar ag an réigiún a roghnaíonn tú ar an gcaoi a dtaispeánann do ghuthán am, dátaí, teocht agus tuilleadh</string>
     <string name="private_space_fingerprint_enroll_introduction_footer_message" product="default">Is féidir do spás príobháideach a dhíghlasáil nuair nach bhfuil sé ar intinn agat, cosúil má choinníonn duine do ghuthán le do mhéar.</string>
     <string name="private_space_face_enroll_introduction_info_looking" product="default">Féadfaidh féachaint ar an bhfón is féidir spás príobháideach a dhíghlasáil fiú nuair nach bhfuil sé i gceist agat. Is féidir le duine a bhfuil cuma an-chosúil leat do spás príobháideach a dhíghlasáil freisin, cosúil le deartháir comhionann, nó má choinníonn duine an gléas suas le d\'aghaidh.</string>
@@ -50,7 +46,6 @@
     <string name="bluetooth_connect_access_dialog_content" product="default">Tá <xliff:g id="device_name" example="Mo ghléas">%1$s</xliff:g> ag iarraidh ceangal leis an bhfón seo.\n\nNíor cheangail tú le <xliff:g id="device_name" example="Mo ghléas">%2$s</xliff:g> roimhe seo.</string>
     <string name="audio_sharing_comfirm_dialog_content" product="default">Chun tosú ag roinnt fuaime, ceangail cluasáin LE Audio le do ghuthán ar dtús</string>
     <string name="supervision_web_content_filters_top_intro" product="default">Cabhraigh le hábhar follasach a scagadh ar roinnt aipeanna agus brabhsálaithe ar an bhfón seo. D’fhéadfadh ábhar follasach a bheith le feiceáil fós ar aipeanna, gléasanna nó brabhsálaithe eile.</string>
-    <string name="sound_settings" product="desktop">Fuaim</string>
     <string name="security_settings_face_preference_title" product="default">Díghlasáil Aghaidhe</string>
     <string name="security_settings_face_profile_preference_title" product="default">Díghlasáil Aghaidhe don obair</string>
     <string name="security_settings_face_enroll_education_title" product="default">Conas Díghlasáil Aghaidhe a shocrú</string>

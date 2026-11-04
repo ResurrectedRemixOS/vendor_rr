@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="status_number" product="default">Uṭṭun n tiliγri</string>
-    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Tisɣaltin</string>
-    <string name="sound_settings" product="desktop">Imesli</string>
-    <string name="usb_use_file_transfers" product="desktop">Asiweḍ n ifuyla</string>
 </resources>

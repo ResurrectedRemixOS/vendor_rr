@@ -9,5 +9,4 @@
     <string name="permission_calendar">Kalendaro</string>
     <string name="permission_microphone">Mikrofono</string>
     <string name="permission_notifications">Sciigoj</string>
-    <string name="device_type" product="device">aparato</string>
 </resources>

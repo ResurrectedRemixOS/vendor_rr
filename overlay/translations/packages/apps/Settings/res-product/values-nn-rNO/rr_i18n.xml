@@ -48,11 +48,6 @@
     <string name="storage_wizard_init_v2_internal_action" product="desktop">Formater</string>
     <string name="main_clear_button_text" product="tablet">Sletta alt innhald</string>
     <string name="main_clear_button_text" product="default">Sletta alt innhald</string>
-    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Alarmar</string>
-    <string name="really_remove_account_message" product="device">Fjernar du denne kontoen, vert alle meldingar, kontaktar og andre data for kontoen sletta frå eininga!</string>
-    <string name="really_remove_account_message" product="desktop">Fjernar du denne kontoen, vert alle meldingar, kontaktar og andre data for kontoen sletta frå eininga!</string>
-    <string name="audio_sharing_dialog_share_content" product="device">Musikk og video frå denne eininga vert spela av i begge hovudtelefonane</string>
-    <string name="audio_sharing_dialog_share_content" product="desktop">Musikk og video frå denne eininga vert spela av i begge hovudtelefonane</string>
     <string name="top_intro_region_title" product="default">Regionen du vel, påverkar korleis telefonen viser tid, dato, temperatur med meir</string>
     <string name="private_space_fingerprint_enroll_introduction_footer_message" product="default">Den private sona di kan verta låst opp utan at det er meininga, til dømes om nokon held telefonen din inntil fingeren din.</string>
     <string name="private_space_face_enroll_introduction_info_looking" product="default">Om du ser på telefonen, kan den private sona verta låst opp sjølv om det ikkje er meininga. Sona kan òg verta låst opp av nokon som liknar mykje på deg, til dømes ein identisk tvilling, eller om nokon held eininga opp framfor andletet ditt.</string>

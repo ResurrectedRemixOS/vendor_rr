@@ -19,7 +19,6 @@
     <string name="storage_wizard_init_v2_internal_action" product="desktop">Formatiar</string>
     <string name="main_clear_button_text" product="tablet">Desaniciu de tolos datos</string>
     <string name="main_clear_button_text" product="default">Desaniciu de tolos datos</string>
-    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Alarmes</string>
     <string name="activity_not_found" product="default">L\'aplicación nun ta instalada nel teléfonu.</string>
     <string name="disabled_feature_reason_slow_down_phone" product="default">Desactivóse esta función porque fai que\'l teléfonu vaiga lentu</string>
     <string name="sound_settings" product="default">Soníu y vibración</string>

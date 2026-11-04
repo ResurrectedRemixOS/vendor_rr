@@ -12,9 +12,6 @@
     <string name="storage_wizard_init_v2_internal_action" product="desktop">Fòrmataich</string>
     <string name="main_clear_button_text" product="tablet">Suath bàn an dàta air fad</string>
     <string name="main_clear_button_text" product="default">Suath bàn an dàta air fad</string>
-    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Caismeachdan</string>
-    <string name="really_remove_account_message" product="device">Ma bheir thu air falbh an cunntas seo, thèid a h-uile teachdaireachd, luchd-aithne is dàta eile a sguabadh às on uidheam!</string>
-    <string name="really_remove_account_message" product="desktop">Ma bheir thu air falbh an cunntas seo, thèid a h-uile teachdaireachd, luchd-aithne is dàta eile a sguabadh às on uidheam!</string>
     <string name="style_suggestion_title" product="default">Gnàthaich am fòn agad</string>
     <string name="activity_not_found" product="default">Cha deach an aplacaid a stàladh air an fhòn agad.</string>
     <string name="usb_default_info" product="default">Nuair a thèid uidheam eile a cheangal ris agus am fòn air a neo-ghlasadh, thèid na roghainnean seo a chur an sàs. Na dèan ceangal ach ri uidheaman sa bheil earbsa agad.</string>
@@ -23,7 +20,6 @@
     <string name="mobile_data_settings_summary_auto_switch" product="default">        Atharraichidh am fòn dhan ghiùlanair seo gu fèin-obrachail nuair a bhios e faisg ort
     </string>
     <string name="bluetooth_connect_access_dialog_content" product="default">Tha <xliff:g id="device_name" example="My device">%1$s</xliff:g> airson ceangal a dhèanamh ris an fhòn seo.\n\nCha do rinn thu ceangal ri <xliff:g id="device_name" example="My device">%2$s</xliff:g> roimhe riamh.</string>
-    <string name="sound_settings" product="desktop">Fuaim</string>
     <string name="security_settings_face_enroll_introduction_title" product="default">Thoir a’ ghlas dheth le d’ aodann</string>
     <string name="security_settings_face_enroll_introduction_title" product="desktop">Thoir a’ ghlas dheth le d’ aodann</string>
     <string name="usb_use_file_transfers" product="desktop">Tar-chur fhaidhlichean</string>

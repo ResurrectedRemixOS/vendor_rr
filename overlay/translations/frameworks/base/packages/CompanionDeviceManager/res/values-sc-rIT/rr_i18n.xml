@@ -12,5 +12,4 @@
     <string name="permission_nearby_devices">Dispositivos acanta</string>
     <string name="permission_notifications">Notìficas</string>
     <string name="permission_microphone_summary">Registra àudio</string>
-    <string name="device_type" product="device">dispositivu</string>
 </resources>

@@ -47,11 +47,6 @@
     <string name="storage_wizard_init_v2_internal_action" product="desktop">Formate</string>
     <string name="main_clear_button_text" product="tablet">Scancele ducj i dâts</string>
     <string name="main_clear_button_text" product="default">Scancele ducj i dâts</string>
-    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Sveis</string>
-    <string name="really_remove_account_message" product="device">Gjavant chest account tu eliminarâs dal dispositîf ducj i relatîfs messaçs, contats e altris dâts!</string>
-    <string name="really_remove_account_message" product="desktop">Gjavant chest account tu eliminarâs dal dispositîf ducj i relatîfs messaçs, contats e altris dâts!</string>
-    <string name="audio_sharing_dialog_share_content" product="device">La musiche e i videos di chest dispositîf a vignaran riprodots su ducj i doi i pârs di scufis</string>
-    <string name="audio_sharing_dialog_share_content" product="desktop">La musiche e i videos di chest dispositîf a vignaran riprodots su ducj i doi i pârs di scufis</string>
     <string name="private_space_fingerprint_enroll_introduction_footer_message" product="default">Al è pussibil sblocâ il to spazi privât cuant che no tu intindis fâlu, par esempli se cualchidun ti met il telefon dongje dal dêt.</string>
     <string name="private_space_face_enroll_introduction_info_looking" product="default">Cjalant il telefon tu puedis sblocâ il spazi privât ancje cuant che no tu intindis fâlu. Al è pussibil ancje che cualchidun che ti somee al sblochi il to spazi privât, come par esempli un fradi o une sûr identics, opûr che cualchidun lu sblochi metint il dispositîf denant de tô muse.</string>
     <string name="private_space_face_settings_footer" product="default">Dopre la tô muse par sblocâ il to spazi privât.\n\nTen iniments:\nTu puedis stabilî nome une muse ae volte. Par zontâ une altre muse, elimine chê atuâl.\n\nCjalant il telefon tu puedis sblocâlu ancje se no tu âs intenzion di fâlu.\n\nCualchidun altri al pues sblocâ il to spazi privât se al ten il to dispositîf denant de tô muse.\n\nCualchidun che ti somee une vore al pues sblocâ il to spazi privât, come un fradi o une sûr identics.</string>

@@ -7,9 +7,6 @@
     <string name="status_number" product="default">Nùmeru de telèfonu</string>
     <string name="main_clear_button_text" product="tablet">Cantzella totu is datos</string>
     <string name="main_clear_button_text" product="default">Cantzella totu is datos</string>
-    <string name="accessibility_hearing_device_ringtone_alarm_routing_title" product="desktop">Isvèllias</string>
-    <string name="audio_sharing_dialog_share_content" product="device">Sa mùsica e is vìdeos de su dispositivu ant a èssere reprodùidos in ambas crobas de auricolares</string>
-    <string name="audio_sharing_dialog_share_content" product="desktop">Sa mùsica e is vìdeos de su dispositivu ant a èssere reprodùidos in ambas crobas de auricolares</string>
     <string name="top_intro_region_title" product="default">Su sèberu de una regione càmbiat comente su telèfonu tuo mustrat s\'ora, is datas, sa temperadura e àteru</string>
     <string name="private_space_fingerprint_enroll_introduction_footer_message" product="default">S\'ispàtziu riservadu tuo podet èssere isblocadu cando non boles, pro esèmpiu si una persone acùrtziat su telèfonu a su pòddighe tuo.</string>
     <string name="private_space_face_enroll_introduction_info_looking" product="default">Castiare su telèfonu podet isblocare s\'ispàtziu privadu puru si non boles. S\'ispàtziu privadu tuo podet èssere isblocadu puru dae una persone chi t\'assimìgiat meda, unu parente uguale, o una persone chi tenet su dispositivu a in antis de sa cara tua.</string>
@@ -18,7 +15,6 @@
     <string name="storage_os_detail_dialog_system" product="default">Custu includet su sistema operativu tuo e is archìvios chi serbint pro fàghere funtzionare bene su telèfonu tuo. Pro amparare s\'interesa issoro, non si podet atzèdere a custos archìvios. </string>
     <string name="thread_network_settings_footer_title" product="default">Thread t\'agiudat a connètere is dispositivos de domos inteligentes, e megiorat s\'efitzèntzia e su rendimentu.\n\nSi est ativu, custu dispositivu at a pòdere intrare a is retes Thread, su chi at a permìtere a custu telèfonu de controllare dispositivos cumpatìbiles cun Matter.</string>
     <string name="audio_sharing_comfirm_dialog_content" product="default">Pro cumintzare a cumpartzire àudio, in antis connete is auricolares LE Audio a su telèfonu tuo</string>
-    <string name="sound_settings" product="desktop">Sonu</string>
     <string name="security_settings_face_preference_title" product="default">Isblocu cun sa cara</string>
     <string name="security_settings_face_enroll_should_re_enroll_subtitle" product="default">Torra a cunfigurare s\'isblocu de cara</string>
     <string name="security_settings_face_enroll_must_re_enroll_title" product="default">Torra a cunfigurare s\'isblocu de cara</string>
@@ -28,5 +24,4 @@
     <string name="private_space_face_settings_require_confirmation_details" product="default">Cando impreas s\'isblocu cun sa cara in is aplicatziones, pedi semper unu passu de cunfirma</string>
     <string name="unlock_disable_frp_warning_content_face_authbound_keys" product="default">"Su blocu de ischermu e s'Isblocu cun cara ant a èssere bogados.<xliff:g id="empty_line">\n\n</xliff:g>Su pagamentu cun tocu no at a èssere a disponimentu.<xliff:g id="empty_line">\n\n</xliff:g>Su portafòlliu, is pagamentos e àteras aplicatziones chi rechedent s'autenticatzione podet èssere chi no ant a funtzionare bene."</string>
     <string name="unlock_disable_frp_warning_content_face_fingerprint_authbound_keys" product="default">"Su blocu de ischermu e s'Isblocu cun cara o cun imprenta ant a èssere bogados.<xliff:g id="empty_line">\n\n</xliff:g>Su pagamentu cun tocu no at a èssere a disponimentu.<xliff:g id="empty_line">\n\n</xliff:g>Su portafòlliu, is pagamentos e àteras aplicatziones chi rechedent s'autenticatzione podet èssere chi no ant a funtzionare bene."</string>
-    <string name="usb_use_file_transfers" product="desktop">Tràmuda de archìvios</string>
 </resources>
