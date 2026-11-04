@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bc_welcome_message">Selamat datang di Resurrected Remix</string>
+    <string name="deferred_setup_wizard_title">Selesaikan penyiapan Resurrected Remix</string>
+    <string name="setup_wizard_title">Penyiapan Resurrected Remix</string>
+</resources>
