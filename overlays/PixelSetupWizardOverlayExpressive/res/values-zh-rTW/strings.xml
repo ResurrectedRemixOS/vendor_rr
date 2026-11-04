@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bc_welcome_message">歡迎使用 Resurrected Remix</string>
+    <string name="deferred_setup_wizard_title">完成 Resurrected Remix 設定</string>
+    <string name="setup_wizard_title">Resurrected Remix 設定</string>
+</resources>
