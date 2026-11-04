@@ -74,7 +74,6 @@
         <item>device_personalization_services/NowPlaying__ambient_music_matcher_match_threshold_17_09_02=1.0E-6</item>
         <item>device_personalization_services/NowPlaying__ambient_music_on_demand_enabled=true</item>
         <item>device_personalization_services/NowPlaying__ambient_music_on_demand_music_confidence=0.48</item>
-        <item>device_personalization_services/NowPlaying__ambient_music_use_dsp_audio_source=false</item>
         <item>device_personalization_services/NowPlaying__enable_now_playing_for_main_user=true</item>
         <item>device_personalization_services/NowPlaying__enable_now_playing_sysui_updates=true</item>
         <item>device_personalization_services/NowPlaying__enable_now_playing_updates=true</item>
