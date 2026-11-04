@@ -45,6 +45,9 @@ endif
 
 # Disable extra StrictMode features on all non-engineering builds
 PRODUCT_PRODUCT_PROPERTIES += persist.sys.strictmode.disable=true
+
+# Eight times logd's 256K default, so a bug report still holds the hour before it.
+PRODUCT_PRODUCT_PROPERTIES += ro.logd.size=2M
 endif
 
 # Backup Tool
