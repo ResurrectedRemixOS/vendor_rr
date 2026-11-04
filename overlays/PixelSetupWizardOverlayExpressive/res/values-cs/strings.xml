@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bc_welcome_message">Vítejte v Resurrected Remix</string>
+    <string name="deferred_setup_wizard_title">Dokončete nastavení Resurrected Remix</string>
+    <string name="setup_wizard_title">Nastavení Resurrected Remix</string>
+</resources>

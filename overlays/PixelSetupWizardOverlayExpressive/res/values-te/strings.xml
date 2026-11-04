@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bc_welcome_message">Resurrected Remix కు స్వాగతం</string>
+    <string name="deferred_setup_wizard_title">Resurrected Remix సెటప్‌ను పూర్తి చేయండి</string>
+    <string name="setup_wizard_title">Resurrected Remix సెటప్</string>
+</resources>

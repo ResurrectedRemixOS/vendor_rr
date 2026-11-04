@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bc_welcome_message">សូមស្វាគមន៍មកកាន់ Resurrected Remix</string>
+    <string name="deferred_setup_wizard_title">បញ្ចប់ការកំណត់ Resurrected Remix</string>
+    <string name="setup_wizard_title">ការដំឡើង Resurrected Remix</string>
+</resources>

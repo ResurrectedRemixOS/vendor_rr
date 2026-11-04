@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="bc_welcome_message">Resurrected Remix မှ ကြိုဆိုပါသည်</string>
+    <string name="deferred_setup_wizard_title">Resurrected Remix ၏ တပ်ဆင်မှုကို ပြီးအောင်ဆက်လုပ်ပါ</string>
+    <string name="setup_wizard_title">Resurrected Remix တပ်ဆင်ခြင်း</string>
+</resources>
