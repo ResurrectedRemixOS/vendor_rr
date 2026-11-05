@@ -58,14 +58,14 @@ def main():
     p.add_argument('--maintainer', default='')
     p.add_argument('--url', default='', help='download url, {device}, {build} and {filename} expand')
     p.add_argument('--ota-dir', default='vendor/OTA',
-                   help='OTA repo checkout; its <device>.json supplies the device fields')
+                   help='OTA repo checkout; its device/<device>.json supplies the device fields')
     args = p.parse_args()
 
     system = props(os.path.join(args.product_out, 'system', 'build.prop'))
     filename = os.path.basename(args.zip)
 
     out = os.path.join(args.product_out, f'{args.device}.json')
-    official = os.path.join(args.ota_dir, f'{args.device}.json')
+    official = os.path.join(args.ota_dir, 'device', f'{args.device}.json')
 
     # The device fields (oem, links, trees) come from the published json in the OTA repo.
     device_fields = {}
