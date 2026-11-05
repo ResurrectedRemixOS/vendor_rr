@@ -52,7 +52,6 @@ def main():
     p.add_argument('--zip', required=True)
     p.add_argument('--device', required=True)
     p.add_argument('--product-out', required=True)
-    p.add_argument('--version', default='')
     p.add_argument('--buildtype', default='')
     p.add_argument('--variant', default='')
     p.add_argument('--maintainer', default='')
@@ -88,7 +87,7 @@ def main():
         'md5': md5,
         'sha256': sha256,
         'size': os.path.getsize(args.zip),
-        'version': args.version,
+        'version': '',
         'buildtype': args.buildtype,
         'buildvariant': args.variant,
         'os_sdk_level': int(system.get('ro.build.version.sdk', '0') or 0),

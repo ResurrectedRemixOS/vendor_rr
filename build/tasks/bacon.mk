@@ -35,7 +35,6 @@ $(LINEAGE_TARGET_PACKAGE): $(INTERNAL_OTA_PACKAGE_TARGET)
 		--zip "$(LINEAGE_TARGET_PACKAGE)" \
 		--device "$(TARGET_DEVICE)" \
 		--product-out "$(PRODUCT_OUT)" \
-		--version "$(RR_VERSION)" \
 		--buildtype "$(LINEAGE_BUILDTYPE)" \
 		--variant "$(if $(filter true,$(WITH_GMS)),gapps,vanilla)" \
 		--maintainer "$(RR_MAINTAINER)" \
