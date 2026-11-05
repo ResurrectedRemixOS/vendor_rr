@@ -1,4 +1,4 @@
 runtime_resource_overlay {
-    name: "Launcher3Overlay",
+    name: "Launcher3IconsOverlay",
     product_specific: true,
 }

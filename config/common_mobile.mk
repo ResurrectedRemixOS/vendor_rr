@@ -36,6 +36,7 @@ PRODUCT_DEXPREOPT_SPEED_APPS += \
 endif
 
 PRODUCT_PACKAGES += \
+    Launcher3IconsOverlay \
     Launcher3Overlay
 
 # Charger
