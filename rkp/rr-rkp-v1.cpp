@@ -14,15 +14,21 @@
  * limitations under the License.
  */
 
-// Vendor side of Duck RKP's legacy CSR.
+// Vendor side of Duck RKP's hardware CSRs.
 //
-// system_server sends three big-endian length-prefixed blobs: the server
+// A legacy request is three big-endian length-prefixed blobs: the server
 // challenge, the raw P-256 COSE_Key, and the EEK certificate array. This
 // process builds Qualcomm command 0x311e (production mode, a fresh 32-byte
 // MAC key, the HMAC of the one-key array, and the EEK chain), calls
 // KeymasterUtils::send_cmd, and returns the MAC tag plus the TA's DeviceInfo
 // and ProtectedData bytes. Those two CBOR values are copied out of the
 // response map unchanged. The caller splices them into the CSR.
+//
+// A V2 request starts with opcode 0x31220002, then the challenge and the
+// COSE_Key. The body {4: challenge, 57: bstr([COSE_Key])} is written into
+// KeymasterUtils' shared buffer and sent with sendCmd, first as command
+// 0x3122 and, when that returns no payload, as 0x3125. The returned map's
+// field 61 is the AuthenticatedRequest the caller posts.
 
 #include <openssl/hmac.h>
 #include <openssl/rand.h>
@@ -57,6 +63,12 @@
 namespace {
 
 constexpr uint32_t kCommand = 0x311e;
+constexpr uint32_t kCommandV2 = 0x3122;
+// libqtikeymaster4 keymint_generate_csr_v2_FIXED. Same body as 0x3122.
+// OneKeyMint's keymaster64 answers 0x3122 with status 0 and a zero length.
+constexpr uint32_t kCommandV2Fixed = 0x3125;
+// Larger than any challenge blob length, so it cannot be read as a V1 request.
+constexpr uint32_t kOpcodeV2 = 0x31220002;
 constexpr size_t kBufferSize = 0xa000;
 constexpr size_t kMaxRequest = 0x9000;
 constexpr size_t kMaxChallenge = 64;
@@ -306,17 +318,87 @@ bool build_request(const uint8_t* challenge, size_t challenge_length, const uint
     return request->size() <= kMaxRequest;
 }
 
+// Qualcomm's CSR V2 body: a two-entry map, challenge at 4 and one COSE_Key at 57.
+// The command word is written separately by KeymasterUtils::init.
+bool encode_csr_v2(uint8_t* out, size_t capacity, const uint8_t* challenge, size_t challenge_length,
+                   const uint8_t* cose_key, size_t cose_length, size_t* written) {
+    if (out == nullptr || written == nullptr || challenge_length == 0 ||
+        challenge_length > kMaxChallenge || cose_length == 0 || cose_length > kMaxCoseKey ||
+        (cose_key[0] & 0xe0) != 0xa0) {
+        return false;
+    }
+    std::vector<uint8_t> keys;
+    keys.reserve(cose_length + 1);
+    keys.push_back(0x81);
+    keys.insert(keys.end(), cose_key, cose_key + cose_length);
+
+    std::vector<uint8_t> body;
+    body.push_back(0xa2);
+    body.push_back(0x04);
+    append_bstr(&body, challenge, challenge_length);
+    body.push_back(0x18);
+    body.push_back(57);
+    append_bstr(&body, keys.data(), keys.size());
+    if (body.size() > capacity) return false;
+    memcpy(out, body.data(), body.size());
+    *written = body.size();
+    return true;
+}
+
+// sendCmd returns the CBOR after its status word. Field 61 is the CSR. A bare
+// array is already that CSR.
+bool parse_v2_response(const uint8_t* data, size_t length, std::vector<uint8_t>* csr) {
+    if (data == nullptr || csr == nullptr || length == 0 || length > kBufferSize) return false;
+    if ((data[0] >> 5) == 4) {
+        csr->assign(data, data + length);
+        return true;
+    }
+    Reader reader{data, data + length};
+    const uint8_t header = reader.byte();
+    if (!reader.ok || (header >> 5) != 5 || (header & 31) == 31) return false;
+    const uint64_t count = reader.argument(header & 31);
+    if (!reader.ok || count == 0 || count > 16) return false;
+    bool found = false;
+    for (uint64_t i = 0; i < count; i++) {
+        int64_t key = 0;
+        if (!read_int_key(&reader, &key)) return false;
+        if (key == 61) {
+            if (found || !read_bstr(&reader, csr) || csr->empty()) return false;
+            found = true;
+        } else {
+            reader.skip_item();
+            if (!reader.ok) return false;
+        }
+    }
+    return reader.ok && reader.p == reader.end && found;
+}
+
 #ifndef RR_RKP_SELFTEST
+
+std::string hex_command(uint32_t command) {
+    char text[9];
+    snprintf(text, sizeof(text), "%x", command);
+    return text;
+}
 
 using ConstructorFn = void (*)(void*, int32_t);
 using DestructorFn = void (*)(void*);
 using SendFn = int32_t (*)(void*, void*, uint32_t, void*, uint32_t);
+using InitFn = void (*)(void*, uint32_t, void*);
+using SendCmdFn = int32_t (*)(void*, const void*, void*);
+
+struct KeymasterBlob {
+    uint8_t* data;
+    size_t data_length;
+};
 
 struct Session {
     alignas(16) uint8_t object[0x40] = {};
     ConstructorFn constructor = nullptr;
     DestructorFn destructor = nullptr;
     SendFn send = nullptr;
+    InitFn init = nullptr;
+    SendCmdFn send_cmd = nullptr;
     void* library = nullptr;
     bool live = false;
     std::string error;
@@ -334,6 +416,8 @@ struct Session {
         library = nullptr;
         destructor = nullptr;
         send = nullptr;
+        init = nullptr;
+        send_cmd = nullptr;
     }
 
     bool open() {
@@ -348,6 +432,10 @@ struct Session {
                 dlsym(library, "_ZN14keymasterutils14KeymasterUtilsD1Ev"));
         send = reinterpret_cast<SendFn>(
                 dlsym(library, "_ZN14keymasterutils14KeymasterUtils8send_cmdEPvjS1_j"));
+        init = reinterpret_cast<InitFn>(
+                dlsym(library, "_ZN14keymasterutils14KeymasterUtils4initEjP16keymaster_blob_t"));
+        send_cmd = reinterpret_cast<SendCmdFn>(dlsym(
+                library, "_ZN14keymasterutils14KeymasterUtils7sendCmdERK16keymaster_blob_tPS1_"));
         if (constructor == nullptr || destructor == nullptr || send == nullptr) {
             error = std::string("dlsym: ") + (dlerror() != nullptr ? dlerror() : "missing symbol");
             reset();
@@ -391,6 +479,74 @@ struct Session {
         }
         payload->assign(response.begin() + 8, response.begin() + 8 + length);
         return true;
+    }
+
+    // One command in the library's shared buffer. An empty body is not a TA
+    // status: init zeros the buffer, and sendCmd treats a zero word as success.
+    bool csr_v2_command(uint32_t command, const uint8_t* challenge, size_t challenge_length,
+                        const uint8_t* cose_key, size_t cose_length, std::vector<uint8_t>* csr,
+                        int32_t* ta_status, std::string* failure) {
+        KeymasterBlob request{};
+        init(object, command, &request);
+        if (request.data == nullptr || request.data_length < 64) {
+            *failure = "KeymasterUtils init did not return a shared buffer";
+            return false;
+        }
+        size_t written = 0;
+        if (!encode_csr_v2(request.data, request.data_length, challenge, challenge_length, cose_key,
+                           cose_length, &written)) {
+            *failure = "challenge or COSE key is not usable";
+            return false;
+        }
+        request.data_length = written;
+        KeymasterBlob response{};
+        const int32_t call = send_cmd(object, &request, &response);
+        if (call != 0) {
+            *ta_status = call;
+            *failure = "sendCmd 0x" + hex_command(command) + " returned " + std::to_string(call);
+            return false;
+        }
+        if (response.data == nullptr || response.data_length == 0 ||
+            response.data_length > kBufferSize) {
+            *failure = "empty CSR V2 response";
+            return false;
+        }
+        if (!parse_v2_response(response.data, response.data_length, csr)) {
+            *failure = "TA response is not a V2 CSR";
+            return false;
+        }
+        LOGI("v2 command 0x%s csr %zu bytes", hex_command(command).c_str(), csr->size());
+        return true;
+    }
+
+    // Command 0x3122 has to live in the library's shared buffer. send_cmd's
+    // caller-owned buffer is not the mapping the TA reads on OneKeyMint.
+    // A zero-length 0x3122 success is retried as 0x3125. A real TA status,
+    // including -18, is returned as-is.
+    bool csr_v2(const uint8_t* challenge, size_t challenge_length, const uint8_t* cose_key,
+                size_t cose_length, std::vector<uint8_t>* csr, int32_t* ta_status,
+                std::string* failure) {
+        if (!live || init == nullptr || send_cmd == nullptr) {
+            *failure = init == nullptr || send_cmd == nullptr
+                               ? "KeymasterUtils init/sendCmd is missing"
+                               : (error.empty() ? "KeymasterUtils is not open" : error);
+            return false;
+        }
+        static const uint32_t kCommands[] = {kCommandV2, kCommandV2Fixed};
+        for (size_t i = 0; i < sizeof(kCommands) / sizeof(kCommands[0]); i++) {
+            const uint32_t command = kCommands[i];
+            if (csr_v2_command(command, challenge, challenge_length, cose_key, cose_length, csr,
+                               ta_status, failure)) {
+                return true;
+            }
+            if (*failure != "empty CSR V2 response") return false;
+            if (i + 1 < sizeof(kCommands) / sizeof(kCommands[0])) {
+                LOGI("command 0x%s returned an empty body; trying 0x%s",
+                     hex_command(command).c_str(), hex_command(kCommands[i + 1]).c_str());
+            }
+        }
+        *failure = "empty CSR V2 response";
+        return false;
     }
 };
 
@@ -470,13 +626,50 @@ void set_timeouts(int fd) {
     setsockopt(fd, SOL_SOCKET, SO_SNDTIMEO, &limit, sizeof(limit));
 }
 
+void handle_v2(int fd, Session* session) {
+    std::vector<uint8_t> challenge;
+    std::vector<uint8_t> cose_key;
+    if (!read_blob(fd, &challenge, kMaxChallenge) || !read_blob(fd, &cose_key, kMaxCoseKey)) {
+        reply_error(fd, kStatusBadRequest, 0, "truncated or oversized request");
+        return;
+    }
+    if (!session->live) {
+        reply_error(fd, kStatusLibrary, 0, session->error);
+        return;
+    }
+    std::vector<uint8_t> csr;
+    int32_t ta_status = 0;
+    std::string failure;
+    if (!session->csr_v2(challenge.data(), challenge.size(), cose_key.data(), cose_key.size(), &csr,
+                         &ta_status, &failure)) {
+        LOGE("%s", failure.c_str());
+        reply_error(fd, kStatusTransport, ta_status, failure);
+        return;
+    }
+    LOGI("v2 csr %zu bytes", csr.size());
+    if (!write_u32(fd, 0) || !write_blob(fd, csr.data(), csr.size())) {
+        LOGI("client disconnected after a V2 TA response");
+    }
+}
+
 void handle_client(int fd, Session* session) {
     set_timeouts(fd);
+    uint32_t head = 0;
+    if (!read_u32(fd, &head)) return;
+    if (head == kOpcodeV2) {
+        handle_v2(fd, session);
+        return;
+    }
     std::vector<uint8_t> challenge;
     std::vector<uint8_t> cose_key;
     std::vector<uint8_t> eek;
-    if (!read_blob(fd, &challenge, kMaxChallenge) || !read_blob(fd, &cose_key, kMaxCoseKey) ||
-        !read_blob(fd, &eek, kMaxEek)) {
+    if (head > kMaxChallenge) {
+        reply_error(fd, kStatusBadRequest, 0, "truncated or oversized request");
+        return;
+    }
+    challenge.assign(head, 0);
+    if ((head != 0 && !read_all(fd, challenge.data(), head)) ||
+        !read_blob(fd, &cose_key, kMaxCoseKey) || !read_blob(fd, &eek, kMaxEek)) {
         reply_error(fd, kStatusBadRequest, 0, "truncated or oversized request");
         return;
     }
@@ -661,6 +854,26 @@ int main() {
     if (parse_v1_response(trailing, sizeof(trailing), &got_device, &got_protected)) {
         return fail("trailing byte accepted");
     }
+
+    uint8_t encoded[256];
+    size_t encoded_length = 0;
+    if (!encode_csr_v2(encoded, sizeof(encoded), challenge, sizeof(challenge), cose.data(),
+                       cose.size(), &encoded_length) ||
+        encoded[0] != 0xa2 || encoded[1] != 0x04 || encoded[2] != 0x58 || encoded[3] != 0x20) {
+        return fail("v2 request encoding");
+    }
+    const uint8_t wrapped[] = {0xa1, 0x18, 0x3d, 0x43, 0x84, 0x40, 0x40};
+    std::vector<uint8_t> got_csr;
+    if (!parse_v2_response(wrapped, sizeof(wrapped), &got_csr) || got_csr.size() != 3 ||
+        got_csr[0] != 0x84) {
+        return fail("v2 field 61");
+    }
+    const uint8_t bare[] = {0x84, 0x40, 0x40, 0x40};
+    if (!parse_v2_response(bare, sizeof(bare), &got_csr) || got_csr.size() != sizeof(bare)) {
+        return fail("v2 bare array");
+    }
+    const uint8_t missing[] = {0xa1, 0x04, 0x40};
+    if (parse_v2_response(missing, sizeof(missing), &got_csr)) return fail("v2 map without 61");
     fprintf(stderr, "selftest ok\n");
     return 0;
 }
