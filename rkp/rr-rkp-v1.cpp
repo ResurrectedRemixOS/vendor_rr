@@ -19,16 +19,19 @@
 // A legacy request is three big-endian length-prefixed blobs: the server
 // challenge, the raw P-256 COSE_Key, and the EEK certificate array. This
 // process builds Qualcomm command 0x311e (production mode, a fresh 32-byte
-// MAC key, the HMAC of the one-key array, and the EEK chain), calls
-// KeymasterUtils::send_cmd, and returns the MAC tag plus the TA's DeviceInfo
-// and ProtectedData bytes. Those two CBOR values are copied out of the
-// response map unchanged. The caller splices them into the CSR.
+// MAC key, the HMAC of the one-key array, and the EEK chain). The body is
+// written into KeymasterUtils' shared buffer and sent with sendCmd. Command
+// 0x3124 is the same body when 0x311e returns an empty slot or mink status 1.
+// The MAC tag plus the TA's DeviceInfo and ProtectedData bytes are returned
+// unchanged. The caller splices them into the CSR.
 //
 // A V2 request starts with opcode 0x31220002, then the challenge and the
-// COSE_Key. The body {4: challenge, 57: bstr([COSE_Key])} is written into
-// KeymasterUtils' shared buffer and sent with sendCmd, first as command
-// 0x3122 and, when that returns no payload, as 0x3125. The returned map's
-// field 61 is the AuthenticatedRequest the caller posts.
+// COSE_Key. The body {4: challenge, 57: bstr([COSE_Key])} uses the same
+// shared buffer. Command 0x3125 is tried on its own session before 0x3122.
+// An empty status word is not treated as the whole mapping: the bytes outside
+// the request are scanned for a CSR. The returned map's field 61 is the
+// AuthenticatedRequest the caller posts. send_cmd's private buffer is not
+// used. On this TA it comes back with a zero length.
 
 #include <openssl/hmac.h>
 #include <openssl/rand.h>
@@ -63,9 +66,10 @@
 namespace {
 
 constexpr uint32_t kCommand = 0x311e;
+// libqtikeymaster4 keymint_generate_csr_FIXED. Same body as 0x311e.
+constexpr uint32_t kCommandV1Fixed = 0x3124;
 constexpr uint32_t kCommandV2 = 0x3122;
 // libqtikeymaster4 keymint_generate_csr_v2_FIXED. Same body as 0x3122.
-// OneKeyMint's keymaster64 answers 0x3122 with status 0 and a zero length.
 constexpr uint32_t kCommandV2Fixed = 0x3125;
 // Larger than any challenge blob length, so it cannot be read as a V1 request.
 constexpr uint32_t kOpcodeV2 = 0x31220002;
@@ -309,12 +313,8 @@ bool build_request(const uint8_t* challenge, size_t challenge_length, const uint
     body.push_back(58);
     append_bstr(&body, eek, eek_length);
 
-    request->clear();
-    request->push_back(static_cast<uint8_t>(kCommand));
-    request->push_back(static_cast<uint8_t>(kCommand >> 8));
-    request->push_back(static_cast<uint8_t>(kCommand >> 16));
-    request->push_back(static_cast<uint8_t>(kCommand >> 24));
-    request->insert(request->end(), body.begin(), body.end());
+    // init() writes the command word. The body that follows it is only the map.
+    *request = std::move(body);
     return request->size() <= kMaxRequest;
 }
 
@@ -373,6 +373,72 @@ bool parse_v2_response(const uint8_t* data, size_t length, std::vector<uint8_t>*
     return reader.ok && reader.p == reader.end && found;
 }
 
+bool cbor_item_size(const uint8_t* data, size_t length, size_t* size) {
+    Reader reader{data, data + length};
+    reader.skip_item();
+    if (!reader.ok || reader.p <= data) return false;
+    *size = static_cast<size_t>(reader.p - data);
+    return true;
+}
+
+void append_hex(std::string* out, const uint8_t* data, size_t length) {
+    static const char kHex[] = "0123456789abcdef";
+    for (size_t i = 0; i < length; i++) {
+        out->push_back(kHex[data[i] >> 4]);
+        out->push_back(kHex[data[i] & 0xf]);
+    }
+}
+
+// init() stores the command at byte 0 and the body at byte 4, then zeros the
+// rest of the mapping. Bytes that still match that image are the request.
+// A map or array anywhere else that parses is the TA's CSR. noise records
+// the first unexpected bytes so a miss is visible in the socket error.
+bool find_shared_response(const uint8_t* buffer, size_t buffer_size, uint32_t command,
+                          const uint8_t* body, size_t body_length, bool want_v1,
+                          std::vector<uint8_t>* payload, std::string* noise) {
+    if (buffer == nullptr || payload == nullptr || body == nullptr ||
+        body_length > buffer_size || buffer_size < 4 + body_length) {
+        return false;
+    }
+    const uint8_t prefix[4] = {
+            static_cast<uint8_t>(command),
+            static_cast<uint8_t>(command >> 8),
+            static_cast<uint8_t>(command >> 16),
+            static_cast<uint8_t>(command >> 24),
+    };
+    const size_t request_end = 4 + body_length;
+    size_t first_noise = buffer_size;
+    for (size_t i = 0; i < buffer_size; i++) {
+        const bool in_request = i < request_end;
+        const uint8_t original = i < 4 ? prefix[i] : (in_request ? body[i - 4] : 0);
+        if ((in_request && buffer[i] == original) || buffer[i] == 0) continue;
+        if (first_noise == buffer_size) first_noise = i;
+        const uint8_t major = buffer[i] >> 5;
+        if (major != 4 && major != 5) continue;
+        size_t item = 0;
+        if (!cbor_item_size(buffer + i, buffer_size - i, &item) || item == 0 ||
+            item > buffer_size - i) {
+            continue;
+        }
+        if (want_v1) {
+            std::vector<uint8_t> device_info;
+            std::vector<uint8_t> protected_data;
+            if (!parse_v1_response(buffer + i, item, &device_info, &protected_data)) continue;
+        } else if (!parse_v2_response(buffer + i, item, payload)) {
+            continue;
+        }
+        payload->assign(buffer + i, buffer + i + item);
+        return true;
+    }
+    if (noise != nullptr && first_noise < buffer_size) {
+        size_t n = buffer_size - first_noise;
+        if (n > 8) n = 8;
+        *noise = "buf+" + std::to_string(first_noise) + "=";
+        append_hex(noise, buffer + first_noise, n);
+    }
+    return false;
+}
+
 #ifndef RR_RKP_SELFTEST
 
 std::string hex_command(uint32_t command) {
@@ -383,7 +449,6 @@ std::string hex_command(uint32_t command) {
 
 using ConstructorFn = void (*)(void*, int32_t);
 using DestructorFn = void (*)(void*);
-using SendFn = int32_t (*)(void*, void*, uint32_t, void*, uint32_t);
 using InitFn = void (*)(void*, uint32_t, void*);
 using SendCmdFn = int32_t (*)(void*, const void*, void*);
 
@@ -396,7 +461,6 @@ struct Session {
     alignas(16) uint8_t object[0x40] = {};
     ConstructorFn constructor = nullptr;
     DestructorFn destructor = nullptr;
-    SendFn send = nullptr;
     InitFn init = nullptr;
     SendCmdFn send_cmd = nullptr;
     void* library = nullptr;
@@ -415,7 +479,6 @@ struct Session {
         if (library != nullptr) dlclose(library);
         library = nullptr;
         destructor = nullptr;
-        send = nullptr;
         init = nullptr;
         send_cmd = nullptr;
     }
@@ -430,13 +493,15 @@ struct Session {
                 library, "_ZN14keymasterutils14KeymasterUtilsC1E26keymaster_security_level_t"));
         destructor = reinterpret_cast<DestructorFn>(
                 dlsym(library, "_ZN14keymasterutils14KeymasterUtilsD1Ev"));
-        send = reinterpret_cast<SendFn>(
-                dlsym(library, "_ZN14keymasterutils14KeymasterUtils8send_cmdEPvjS1_j"));
+        // send_cmd is the private-buffer entry. This TA does not return a CSR
+        // through it. Requiring the symbol keeps the library identity check.
+        void* send = dlsym(library, "_ZN14keymasterutils14KeymasterUtils8send_cmdEPvjS1_j");
         init = reinterpret_cast<InitFn>(
                 dlsym(library, "_ZN14keymasterutils14KeymasterUtils4initEjP16keymaster_blob_t"));
         send_cmd = reinterpret_cast<SendCmdFn>(dlsym(
                 library, "_ZN14keymasterutils14KeymasterUtils7sendCmdERK16keymaster_blob_tPS1_"));
-        if (constructor == nullptr || destructor == nullptr || send == nullptr) {
+        if (constructor == nullptr || destructor == nullptr || send == nullptr ||
+            init == nullptr || send_cmd == nullptr) {
             error = std::string("dlsym: ") + (dlerror() != nullptr ? dlerror() : "missing symbol");
             reset();
             return false;
@@ -448,105 +513,134 @@ struct Session {
         return true;
     }
 
-    // Response layout from KeymasterUtils: int32 status, uint32 length, payload.
-    bool transact(std::vector<uint8_t>* request, std::vector<uint8_t>* payload, int32_t* ta_status,
-                  std::string* failure) {
-        if (!live || send == nullptr) {
+    bool reopen() {
+        reset();
+        return open();
+    }
+
+    // V2's payload is the AuthenticatedRequest array. V1's payload is the map.
+    static bool accept_payload(const uint8_t* data, size_t length, bool want_v1,
+                               std::vector<uint8_t>* payload) {
+        if (want_v1) {
+            std::vector<uint8_t> device_info;
+            std::vector<uint8_t> protected_data;
+            if (!parse_v1_response(data, length, &device_info, &protected_data)) return false;
+            payload->assign(data, data + length);
+            return true;
+        }
+        return parse_v2_response(data, length, payload);
+    }
+
+    // Fresh session, shared buffer, one command. retryable is an empty slot
+    // or mink status 1. A negative TA status is returned as-is.
+    bool invoke(uint32_t command, const uint8_t* body, size_t body_length, bool want_v1,
+                std::vector<uint8_t>* payload, int32_t* call, bool* retryable,
+                std::string* failure) {
+        *retryable = false;
+        *call = 0;
+        if (!reopen()) {
             *failure = error.empty() ? "KeymasterUtils is not open" : error;
             return false;
         }
-        std::vector<uint8_t> response(kBufferSize, 0);
-        response[3] = 0x80;
-        const int32_t call = send(object, request->data(), static_cast<uint32_t>(request->size()),
-                                  response.data(), static_cast<uint32_t>(response.size()));
-        if (call != 0) {
-            *ta_status = call;
-            *failure = "send_cmd returned " + std::to_string(call);
-            return false;
-        }
-        int32_t status = 0;
-        uint32_t length = 0;
-        memcpy(&status, response.data(), sizeof(status));
-        memcpy(&length, response.data() + 4, sizeof(length));
-        if (status != 0) {
-            *ta_status = status;
-            *failure = "ta status " + std::to_string(status);
-            return false;
-        }
-        if (length == 0 || length > kBufferSize - 8) {
-            *failure = "invalid ta payload length";
-            return false;
-        }
-        payload->assign(response.begin() + 8, response.begin() + 8 + length);
-        return true;
-    }
-
-    // One command in the library's shared buffer. An empty body is not a TA
-    // status: init zeros the buffer, and sendCmd treats a zero word as success.
-    bool csr_v2_command(uint32_t command, const uint8_t* challenge, size_t challenge_length,
-                        const uint8_t* cose_key, size_t cose_length, std::vector<uint8_t>* csr,
-                        int32_t* ta_status, std::string* failure) {
         KeymasterBlob request{};
         init(object, command, &request);
-        if (request.data == nullptr || request.data_length < 64) {
+        if (request.data == nullptr || body_length > request.data_length) {
             *failure = "KeymasterUtils init did not return a shared buffer";
             return false;
         }
+        const uint8_t prefix[4] = {
+                static_cast<uint8_t>(command),
+                static_cast<uint8_t>(command >> 8),
+                static_cast<uint8_t>(command >> 16),
+                static_cast<uint8_t>(command >> 24),
+        };
+        if (memcmp(request.data - 4, prefix, sizeof(prefix)) != 0) {
+            *failure = "shared buffer command was not written";
+            return false;
+        }
+        memcpy(request.data, body, body_length);
+        request.data_length = body_length;
+        uint8_t* buffer = request.data - 4;
+        KeymasterBlob response{};
+        *call = send_cmd(object, &request, &response);
+        const bool header_payload = *call == 0 && response.data != nullptr &&
+                                    response.data_length > 0 && response.data_length <= kBufferSize;
+        if (header_payload &&
+            accept_payload(response.data, response.data_length, want_v1, payload)) {
+            return true;
+        }
+        std::string noise;
+        if (find_shared_response(buffer, kBufferSize, command, body, body_length, want_v1, payload,
+                                 &noise)) {
+            return true;
+        }
+        if (header_payload || (*call == 0 && response.data != nullptr &&
+                               response.data_length > kBufferSize)) {
+            *failure = "0x" + hex_command(command) + " TA response is not a CSR";
+            if (!noise.empty()) *failure += " " + noise;
+            return false;
+        }
+        *retryable = (*call == 0 || *call == 1);
+        if (*call != 0) {
+            *failure = "sendCmd 0x" + hex_command(command) + " returned " + std::to_string(*call);
+        } else {
+            *failure = "0x" + hex_command(command) + " empty";
+        }
+        if (!noise.empty()) *failure += " " + noise;
+        return false;
+    }
+
+    bool try_commands(const uint32_t* commands, size_t count, const uint8_t* body,
+                      size_t body_length, bool want_v1, std::vector<uint8_t>* payload,
+                      int32_t* ta_status, std::string* failure) {
+        std::string attempts;
+        for (size_t i = 0; i < count; i++) {
+            bool retryable = false;
+            std::string one;
+            if (invoke(commands[i], body, body_length, want_v1, payload, ta_status, &retryable,
+                       &one)) {
+                LOGI("command 0x%s csr %zu bytes", hex_command(commands[i]).c_str(),
+                     payload->size());
+                return true;
+            }
+            if (!attempts.empty()) attempts += "; ";
+            attempts += one;
+            if (!retryable) {
+                *failure = attempts;
+                return false;
+            }
+            if (i + 1 < count) {
+                LOGI("%s; trying 0x%s", one.c_str(), hex_command(commands[i + 1]).c_str());
+            }
+        }
+        *failure = attempts;
+        return false;
+    }
+
+    // 0x3125 is attempted on its own session. A following 0x3122 used to leave
+    // the next invoke at mink status 1. A real TA status, including -18, stops.
+    bool csr_v2(const uint8_t* challenge, size_t challenge_length, const uint8_t* cose_key,
+                size_t cose_length, std::vector<uint8_t>* csr, int32_t* ta_status,
+                std::string* failure) {
+        std::vector<uint8_t> body(kMaxRequest);
         size_t written = 0;
-        if (!encode_csr_v2(request.data, request.data_length, challenge, challenge_length, cose_key,
+        if (!encode_csr_v2(body.data(), body.size(), challenge, challenge_length, cose_key,
                            cose_length, &written)) {
             *failure = "challenge or COSE key is not usable";
             return false;
         }
-        request.data_length = written;
-        KeymasterBlob response{};
-        const int32_t call = send_cmd(object, &request, &response);
-        if (call != 0) {
-            *ta_status = call;
-            *failure = "sendCmd 0x" + hex_command(command) + " returned " + std::to_string(call);
-            return false;
-        }
-        if (response.data == nullptr || response.data_length == 0 ||
-            response.data_length > kBufferSize) {
-            *failure = "empty CSR V2 response";
-            return false;
-        }
-        if (!parse_v2_response(response.data, response.data_length, csr)) {
-            *failure = "TA response is not a V2 CSR";
-            return false;
-        }
-        LOGI("v2 command 0x%s csr %zu bytes", hex_command(command).c_str(), csr->size());
-        return true;
+        body.resize(written);
+        static const uint32_t kCommands[] = {kCommandV2Fixed, kCommandV2};
+        return try_commands(kCommands, sizeof(kCommands) / sizeof(kCommands[0]), body.data(),
+                            body.size(), false, csr, ta_status, failure);
     }
 
-    // Command 0x3122 has to live in the library's shared buffer. send_cmd's
-    // caller-owned buffer is not the mapping the TA reads on OneKeyMint.
-    // A zero-length 0x3122 success is retried as 0x3125. A real TA status,
-    // including -18, is returned as-is.
-    bool csr_v2(const uint8_t* challenge, size_t challenge_length, const uint8_t* cose_key,
-                size_t cose_length, std::vector<uint8_t>* csr, int32_t* ta_status,
-                std::string* failure) {
-        if (!live || init == nullptr || send_cmd == nullptr) {
-            *failure = init == nullptr || send_cmd == nullptr
-                               ? "KeymasterUtils init/sendCmd is missing"
-                               : (error.empty() ? "KeymasterUtils is not open" : error);
-            return false;
-        }
-        static const uint32_t kCommands[] = {kCommandV2, kCommandV2Fixed};
-        for (size_t i = 0; i < sizeof(kCommands) / sizeof(kCommands[0]); i++) {
-            const uint32_t command = kCommands[i];
-            if (csr_v2_command(command, challenge, challenge_length, cose_key, cose_length, csr,
-                               ta_status, failure)) {
-                return true;
-            }
-            if (*failure != "empty CSR V2 response") return false;
-            if (i + 1 < sizeof(kCommands) / sizeof(kCommands[0])) {
-                LOGI("command 0x%s returned an empty body; trying 0x%s",
-                     hex_command(command).c_str(), hex_command(kCommands[i + 1]).c_str());
-            }
-        }
-        *failure = "empty CSR V2 response";
-        return false;
+    // 0x311e, then 0x3124 when that slot is empty or the invoke returns 1.
+    bool csr_v1(const uint8_t* body, size_t body_length, std::vector<uint8_t>* payload,
+                int32_t* ta_status, std::string* failure) {
+        static const uint32_t kCommands[] = {kCommand, kCommandV1Fixed};
+        return try_commands(kCommands, sizeof(kCommands) / sizeof(kCommands[0]), body,
+                            body_length, true, payload, ta_status, failure);
     }
 };
 
@@ -626,15 +720,16 @@ void set_timeouts(int fd) {
     setsockopt(fd, SOL_SOCKET, SO_SNDTIMEO, &limit, sizeof(limit));
 }
 
+bool loader_failure(const std::string& message) {
+    return message.rfind("dlopen", 0) == 0 || message.rfind("dlsym", 0) == 0 ||
+           message.rfind("KeymasterUtils", 0) == 0;
+}
+
 void handle_v2(int fd, Session* session) {
     std::vector<uint8_t> challenge;
     std::vector<uint8_t> cose_key;
     if (!read_blob(fd, &challenge, kMaxChallenge) || !read_blob(fd, &cose_key, kMaxCoseKey)) {
         reply_error(fd, kStatusBadRequest, 0, "truncated or oversized request");
-        return;
-    }
-    if (!session->live) {
-        reply_error(fd, kStatusLibrary, 0, session->error);
         return;
     }
     std::vector<uint8_t> csr;
@@ -643,7 +738,8 @@ void handle_v2(int fd, Session* session) {
     if (!session->csr_v2(challenge.data(), challenge.size(), cose_key.data(), cose_key.size(), &csr,
                          &ta_status, &failure)) {
         LOGE("%s", failure.c_str());
-        reply_error(fd, kStatusTransport, ta_status, failure);
+        reply_error(fd, loader_failure(failure) ? kStatusLibrary : kStatusTransport, ta_status,
+                    failure);
         return;
     }
     LOGI("v2 csr %zu bytes", csr.size());
@@ -685,16 +781,13 @@ void handle_client(int fd, Session* session) {
         reply_error(fd, kStatusBadRequest, 0, "challenge, COSE key, or EEK chain is not usable");
         return;
     }
-    if (!session->live) {
-        reply_error(fd, kStatusLibrary, 0, session->error);
-        return;
-    }
     std::vector<uint8_t> payload;
     int32_t ta_status = 0;
     std::string failure;
-    if (!session->transact(&request, &payload, &ta_status, &failure)) {
+    if (!session->csr_v1(request.data(), request.size(), &payload, &ta_status, &failure)) {
         LOGE("%s", failure.c_str());
-        reply_error(fd, kStatusTransport, ta_status, failure);
+        reply_error(fd, loader_failure(failure) ? kStatusLibrary : kStatusTransport, ta_status,
+                    failure);
         return;
     }
     std::vector<uint8_t> device_info;
@@ -817,11 +910,8 @@ int main() {
                                 0xba, 0x99, 0x31, 0x42, 0x7f, 0x6a, 0x22, 0xb9, 0x7e, 0xeb, 0xf0,
                                 0x53, 0xbc, 0x7c, 0x5d, 0xce, 0x49, 0x52, 0x59, 0x22, 0x05};
     if (memcmp(tag, want_tag, sizeof(want_tag)) != 0) return fail("mac tag mismatch");
-    if (request.size() < 4 || request[0] != 0x1e || request[1] != 0x31 || request[2] != 0 ||
-        request[3] != 0) {
-        return fail("command prefix");
-    }
-    if (request[4] != 0xa5 || request[5] != 0x04 || request[6] != 0x58 || request[7] != 0x20) {
+    if (request.size() < 4 || request[0] != 0xa5 || request[1] != 0x04 || request[2] != 0x58 ||
+        request[3] != 0x20) {
         return fail("challenge field");
     }
     if (!valid_eek(eek, sizeof(eek)) || valid_eek(nullptr, 0)) return fail("eek validator");
@@ -874,6 +964,39 @@ int main() {
     }
     const uint8_t missing[] = {0xa1, 0x04, 0x40};
     if (parse_v2_response(missing, sizeof(missing), &got_csr)) return fail("v2 map without 61");
+
+    const size_t request_end = 4 + request.size();
+    std::vector<uint8_t> image(request_end + 64, 0);
+    image[0] = 0x1e;
+    image[1] = 0x31;
+    memcpy(image.data() + 4, request.data(), request.size());
+    const size_t planted = request_end + 16;
+    memcpy(image.data() + planted, payload, sizeof(payload));
+    std::vector<uint8_t> found;
+    std::string noise;
+    if (!find_shared_response(image.data(), image.size(), kCommand, request.data(), request.size(),
+                              true, &found, &noise) ||
+        !expect_bytes(found, payload, sizeof(payload))) {
+        return fail("shared buffer scan");
+    }
+    std::vector<uint8_t> only(request_end + 64, 0);
+    only[0] = 0x1e;
+    only[1] = 0x31;
+    memcpy(only.data() + 4, request.data(), request.size());
+    noise.clear();
+    if (find_shared_response(only.data(), only.size(), kCommand, request.data(), request.size(),
+                             true, &found, &noise) ||
+        !noise.empty()) {
+        return fail("request scanned as a CSR");
+    }
+    const size_t noise_at = request_end + 8;
+    only[noise_at] = 0x01;
+    noise.clear();
+    if (find_shared_response(only.data(), only.size(), kCommand, request.data(), request.size(),
+                             true, &found, &noise) ||
+        noise != "buf+" + std::to_string(noise_at) + "=0100000000000000") {
+        return fail("unexpected buffer bytes");
+    }
     fprintf(stderr, "selftest ok\n");
     return 0;
 }
