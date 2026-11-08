@@ -29,6 +29,7 @@ $(LINEAGE_TARGET_PACKAGE): $(INTERNAL_OTA_PACKAGE_TARGET)
 	$(hide) ln -f $(INTERNAL_OTA_PACKAGE_TARGET) $(LINEAGE_TARGET_PACKAGE)
 	$(hide) $(SHA256) $(LINEAGE_TARGET_PACKAGE) | sed "s|$(PRODUCT_OUT)/||" > $(LINEAGE_TARGET_PACKAGE).sha256sum
 	$(hide) python3 vendor/rr/build/tools/changelog.py \
+		--device "$(TARGET_DEVICE)" \
 		--out "$(PRODUCT_OUT)/$(TARGET_DEVICE)_changelog.txt" \
 		|| echo "changelog: failed, no changelog this build" >&2
 	$(hide) python3 vendor/rr/build/tools/createjson.py \
