@@ -1,9 +1,7 @@
 package com.resurrection.nowplaying.flags;
 
 import android.Manifest;
-import android.content.ContentResolver;
 import android.content.Context;
-import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.UserHandle;
 import android.os.UserManager;
@@ -21,12 +19,6 @@ public final class CloudSearchEnabler {
     private static final String TAG = "NowPlayingFlags";
     private static final String NAMESPACE = "device_personalization_services";
     private static final String ASI = "com.google.android.as";
-    private static final String ASI_RECEIVER =
-            "com.google.intelligence.sense.ambientmusic.InternalBroadcastReceiver";
-    private static final String ACTION_TOGGLE =
-            "com.google.intelligence.sense.ambientmusic.TOGGLE_SETTINGS";
-    private static final String EXTRA_TOGGLE_STATE = "android.app.slice.extra.TOGGLE_STATE";
-    private static final String KEY_TURNED_ON = "rr_now_playing_turned_on";
 
     private static final String[][] FLAGS = {
         {"NowPlaying__now_playing_allowed", "true"},
@@ -68,7 +60,6 @@ public final class CloudSearchEnabler {
         Log.i(TAG, "Applied Now Playing DeviceConfig flags");
         if (context.getSystemService(UserManager.class).isUserUnlocked()) {
             allowCallState(context);
-            turnOnOnce(context);
         }
     }
 
@@ -83,21 +74,6 @@ public final class CloudSearchEnabler {
             }
         } catch (Throwable t) {
             Log.w(TAG, "Unable to grant ASI the call state", t);
-        }
-    }
-
-    private static void turnOnOnce(Context context) {
-        ContentResolver resolver = context.getContentResolver();
-        try {
-            if (Settings.Secure.getInt(resolver, KEY_TURNED_ON, 0) != 0) {
-                return;
-            }
-            context.sendBroadcast(new Intent(ACTION_TOGGLE)
-                    .setClassName(ASI, ASI_RECEIVER)
-                    .putExtra(EXTRA_TOGGLE_STATE, true));
-            Settings.Secure.putInt(resolver, KEY_TURNED_ON, 1);
-        } catch (Throwable t) {
-            Log.w(TAG, "Unable to turn Now Playing on", t);
         }
     }
 }
