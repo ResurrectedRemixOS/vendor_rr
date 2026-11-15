@@ -173,19 +173,7 @@ PRODUCT_PACKAGES += \
 endif
 
 PRODUCT_PACKAGES += \
-    LineageSettingsProvider \
-    Updater
-
-# Bug reports
-PRODUCT_PACKAGES += \
-    RRBugReport
-
-PRODUCT_PRODUCT_PROPERTIES += \
-    ro.error.receiver.default=com.resurrection.bugreport \
-    ro.error.receiver.system.apps=com.resurrection.bugreport
-
-PRODUCT_COPY_FILES += \
-    vendor/rr/prebuilt/common/etc/init/init.lineage-updater.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/init.lineage-updater.rc
+    LineageSettingsProvider
 
 # Config
 PRODUCT_PACKAGES += \
@@ -350,6 +338,21 @@ ifeq ($(LINEAGE_BUILDTYPE),OFFICIAL)
 include vendor/lineage-priv/keys/keys.mk
 else
 -include vendor/lineage-priv/keys/keys.mk
+endif
+
+# Official builds only: the Updater, Report a bug and Stitch
+ifeq ($(LINEAGE_BUILDTYPE),OFFICIAL)
+PRODUCT_PACKAGES += \
+    RRBugReport \
+    Stitch \
+    Updater
+
+PRODUCT_PRODUCT_PROPERTIES += \
+    ro.error.receiver.default=com.resurrection.bugreport \
+    ro.error.receiver.system.apps=com.resurrection.bugreport
+
+PRODUCT_COPY_FILES += \
+    vendor/rr/prebuilt/common/etc/init/init.lineage-updater.rc:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/init/init.lineage-updater.rc
 endif
 
 -include $(WORKSPACE)/build_env/image-auto-bits.mk

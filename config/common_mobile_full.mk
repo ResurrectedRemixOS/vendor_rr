@@ -55,12 +55,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     FontGoogleSansFlexOverlay
 
-# Resurrected Remix themes, weather and screenshots
+# Resurrected Remix themes and weather
 $(call inherit-product, vendor/extras/themes/themes.mk)
 
 PRODUCT_PACKAGES += \
-    OmniJaws \
-    Stitch
+    OmniJaws
 
 # Floating windows and sidebar, started from the launcher and recents
 PRODUCT_PACKAGES += \

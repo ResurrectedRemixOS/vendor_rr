@@ -14,9 +14,11 @@ ifndef LINEAGE_BUILDTYPE
         # Starting with "LINEAGE_" is optional
         RELEASE_TYPE := $(shell echo $(RELEASE_TYPE) | sed -e 's|^LINEAGE_||g')
         LINEAGE_BUILDTYPE := $(RELEASE_TYPE)
-    else
-        # Resurrected Remix builds are official unless RELEASE_TYPE says otherwise.
+    else ifneq ($(wildcard vendor/lineage-priv/keys/keys.mk),)
+        # Builds with RR's private keys are official, every other build is unofficial.
         LINEAGE_BUILDTYPE := OFFICIAL
+    else
+        LINEAGE_BUILDTYPE := UNOFFICIAL
     endif
 endif
 
