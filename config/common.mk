@@ -82,6 +82,10 @@ endif
 PRODUCT_COPY_FILES += \
     vendor/rr/config/permissions/lineage-sysconfig.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/lineage-sysconfig.xml
 
+# Now Bar
+PRODUCT_COPY_FILES += \
+    vendor/rr/config/permissions/com.samsung.feature.nowbar.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/com.samsung.feature.nowbar.xml
+
 # Clone profile
 PRODUCT_COPY_FILES += \
     vendor/rr/prebuilt/common/etc/sysconfig/preinstalled-packages-platform-rr-product.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/preinstalled-packages-platform-rr-product.xml
