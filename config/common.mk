@@ -333,11 +333,14 @@ PRODUCT_EXTRA_RECOVERY_KEYS += \
 
 include vendor/rr/config/version.mk
 
-# Private keys. Official builds fail closed if the key directory is missing.
+# Private keys: RR's for official builds, else a builder's own if there are any.
 ifeq ($(LINEAGE_BUILDTYPE),OFFICIAL)
-include vendor/lineage-priv/keys/keys.mk
+include $(RR_KEYS)/keys.mk
 else
--include vendor/lineage-priv/keys/keys.mk
+RR_OWN_KEYS := $(firstword $(wildcard vendor/rr-priv/keys/keys.mk vendor/lineage-priv/keys/keys.mk))
+ifneq ($(RR_OWN_KEYS),)
+include $(RR_OWN_KEYS)
+endif
 endif
 
 # Official builds only: the Updater, Report a bug and Stitch

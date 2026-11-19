@@ -7,6 +7,12 @@ else
     LINEAGE_BUILD_DATE := $(shell date -u +%Y%m%d)
 endif
 
+# RR's signing keys: vendor/rr-priv/keys, or where an older checkout keeps them, as long as
+# they hold RR's own platform certificate (sha256 of platform.x509.pem).
+RR_PLATFORM_CERT_SHA256 := 455a00b5fbcde0f8b42b707a2c6a23d3ab89aa5d89b26c621e47c93a1d12f832
+RR_KEYS := $(firstword $(foreach d,vendor/rr-priv/keys vendor/lineage-priv/keys,$(if \
+    $(filter $(RR_PLATFORM_CERT_SHA256),$(firstword $(shell sha256sum $(d)/platform.x509.pem 2>/dev/null))),$(d))))
+
 # Set LINEAGE_BUILDTYPE from the env RELEASE_TYPE, for jenkins compat
 
 ifndef LINEAGE_BUILDTYPE
@@ -14,8 +20,8 @@ ifndef LINEAGE_BUILDTYPE
         # Starting with "LINEAGE_" is optional
         RELEASE_TYPE := $(shell echo $(RELEASE_TYPE) | sed -e 's|^LINEAGE_||g')
         LINEAGE_BUILDTYPE := $(RELEASE_TYPE)
-    else ifneq ($(wildcard vendor/lineage-priv/keys/keys.mk),)
-        # Builds with RR's private keys are official, every other build is unofficial.
+    else ifneq ($(RR_KEYS),)
+        # Builds signed with RR's keys are official, every other build is unofficial.
         LINEAGE_BUILDTYPE := OFFICIAL
     else
         LINEAGE_BUILDTYPE := UNOFFICIAL
@@ -26,6 +32,12 @@ endif
 ifeq ($(filter OFFICIAL RELEASE NIGHTLY SNAPSHOT EXPERIMENTAL,$(LINEAGE_BUILDTYPE)),)
     LINEAGE_BUILDTYPE := UNOFFICIAL
     LINEAGE_EXTRAVERSION :=
+endif
+
+ifeq ($(LINEAGE_BUILDTYPE),OFFICIAL)
+    ifeq ($(RR_KEYS),)
+        $(error Official builds need RR's signing keys in vendor/rr-priv/keys)
+    endif
 endif
 
 ifeq ($(LINEAGE_BUILDTYPE), UNOFFICIAL)
